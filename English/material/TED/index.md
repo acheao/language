@@ -31,3 +31,5 @@
 	1. [We Can Make COVID-19 the Last Pandemic Bill Gates](TED/We%20Can%20Make%20COVID-19%20the%20Last%20Pandemic%20Bill%20Gates)
 21. [Hyeonseo Lee: My Escape from North Korea](https://www.youtube.com/watch?v=PdxPCeWw75k)
 	1. [Hyeonseo Lee My Escape from North Korea](TED/Hyeonseo%20Lee%20My%20Escape%20from%20North%20Korea)
+22. [How to Achieve Your Most Ambitious Goals](https://www.youtube.com/watch?v=TQMbvJNRpLE)
+	1. [How to Achieve Your Most Ambitious Goals](TED/How%20to%20Achieve%20Your%20Most%20Ambitious%20Goals)
