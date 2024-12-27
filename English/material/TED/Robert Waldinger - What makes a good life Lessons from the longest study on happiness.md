@@ -1,537 +1,189 @@
-What keeps us healthy and happy
+What keeps us healthy and happy as we go through life?
 
-as we go through life?
+If you were going to invest now in your future best self, where would you put your time and your energy?
 
-If you were going to invest now
+There was a recent survey of millennials asking them what their most important life goals were, and over 80 percent said that a major life goal for them was to get rich.
 
-in your future best self,
-
-where would you put your time
-and your energy?
-
-There was a recent survey of millennials
-
-asking them what their
-most important life goals were,
-
-and over 80 percent said
-
-that a major life goal for them
-was to get rich.
-
-And another 50 percent
-of those same young adults
-
-said that another major life goal
-
-was to become famous.
+And another 50 percent of those same young adults said that another major life goal was to become famous.
 
 (Laughter)
 
-And we're constantly told
-to lean in to work, to push harder
+And we're constantly told to lean in to work, to push harder and achieve more.
 
-and achieve more.
+We're given the impression that these are the things that we need to go after in order to have a good life.
 
-We're given the impression that these
-are the things that we need to go after
+Pictures of entire lives, of the choices that people make and how those choices work out for them, those pictures are almost impossible to get.
 
-in order to have a good life.
+Most of what we know about human life we know from asking people to remember the past, and as we know, hindsight is anything but 20/20.
 
-Pictures of entire lives,
+We forget vast amounts of what happens to us in life, and sometimes memory is downright creative.
 
-of the choices that people make
-and how those choices work out for them,
+But what if we could watch entire lives as they unfold through time?
 
-those pictures
-are almost impossible to get.
-
-Most of what we know about human life
-
-we know from asking people
-to remember the past,
-
-and as we know, hindsight
-is anything but 20/20.
-
-We forget vast amounts
-of what happens to us in life,
-
-and sometimes memory
-is downright creative.
-
-But what if we could watch entire lives
-
-as they unfold through time?
-
-What if we could study people
-from the time that they were teenagers
-
-all the way into old age
-
-to see what really keeps people
-happy and healthy?
+What if we could study people from the time that they were teenagers all the way into old age to see what really keeps people happy and healthy?
 
 We did that.
 
-The Harvard Study of Adult Development
+The Harvard Study of Adult Development may be the longest study of adult life that's ever been done.
 
-may be the longest study
-of adult life that's ever been done.
-
-For 75 years, we've tracked
-the lives of 724 men,
-
-year after year, asking about their work,
-their home lives, their health,
-
-and of course asking all along the way
-without knowing how their life stories
-
-were going to turn out.
+For 75 years, we've tracked the lives of 724 men, year after year, asking about their work, their home lives, their health, and of course asking all along the way without knowing how their life stories were going to turn out.
 
 Studies like this are exceedingly rare.
 
-Almost all projects of this kind
-fall apart within a decade
+Almost all projects of this kind fall apart within a decade because too many people drop out of the study, or funding for the research dries up, or the researchers get distracted, or they die, and nobody moves the ball further down the field.
 
-because too many people
-drop out of the study,
+But through a combination of luck and the persistence of several generations of researchers, this study has survived.
 
-or funding for the research dries up,
+About 60 of our original 724 men are still alive, still participating in the study, most of them in their 90s.
 
-or the researchers get distracted,
-
-or they die, and nobody moves the ball
-further down the field.
-
-But through a combination of luck
-
-and the persistence
-of several generations of researchers,
-
-this study has survived.
-
-About 60 of our original 724 men
-
-are still alive,
-
-still participating in the study,
-
-most of them in their 90s.
-
-And we are now beginning to study
-
-the more than 2,000 children of these men.
+And we are now beginning to study the more than 2,000 children of these men. 
 
 And I'm the fourth director of the study.
 
-Since 1938, we've tracked the lives
-of two groups of men.
+Since 1938, we've tracked the lives of two groups of men.
 
-The first group started in the study
+The first group started in the study when they were sophomores at Harvard College.
 
-when they were sophomores
-at Harvard College.
+They all finished college during World War II, and then most went off to serve in the war.
 
-They all finished college
-during World War II,
+And the second group that we've followed was a group of boys from Boston's poorest neighborhoods, boys who were chosen for the study specifically because they were
+from some of the most troubled and disadvantaged families in the Boston of the 1930s. 
 
-and then most went off
-to serve in the war.
+Most lived in tenements, many without hot and cold running water.
 
-And the second group that we've followed
+When they entered the study, all of these teenagers were interviewed.
 
-was a group of boys
-from Boston's poorest neighborhoods,
+They were given medical exams. 
 
-boys who were chosen for the study
+We went to their homes and we interviewed their parents.
 
-specifically because they were
-from some of the most troubled
+And then these teenagers grew up into adults who entered all walks of life.
 
-and disadvantaged families
-
-in the Boston of the 1930s.
-
-Most lived in tenements,
-many without hot and cold running water.
-
-When they entered the study,
-
-all of these teenagers were interviewed.
-
-They were given medical exams.
-
-We went to their homes
-and we interviewed their parents.
-
-And then these teenagers
-grew up into adults
-
-who entered all walks of life.
-
-They became factory workers and lawyers
-and bricklayers and doctors,
-
-one President of the United States.
+They became factory workers and lawyers and bricklayers and doctors, one President of the United States.
 
 Some developed alcoholism.
+
 A few developed schizophrenia.
 
-Some climbed the social ladder
+Some climbed the social ladder from the bottom all the way to the very top, and some made that journey in the opposite direction.
 
-from the bottom
-all the way to the very top,
+The founders of this study would never in their wildest dreams have imagined that I would be standing here today, 75 years later, telling you that the study still continues. 
 
-and some made that journey
-in the opposite direction.
+Every two years, our patient and dedicated research staff calls up our men and asks them if we can send them yet one more set of questions about their lives.
 
-The founders of this study
-
-would never in their wildest dreams
-
-have imagined that I would be
-standing here today, 75 years later,
-
-telling you that
-the study still continues.
-
-Every two years, our patient
-and dedicated research staff
-
-calls up our men
-and asks them if we can send them
-
-yet one more set of questions
-about their lives.
-
-Many of the inner city Boston men ask us,
-
-"Why do you keep wanting to study me?
-My life just isn't that interesting."
+Many of the inner city Boston men ask us, "Why do you keep wanting to study me? My life just isn't that interesting."
 
 The Harvard men never ask that question.
 
 (Laughter)
 
-To get the clearest picture
-of these lives,
-
-we don't just send them questionnaires.
+To get the clearest picture of these lives, we don't just send them questionnaires.
 
 We interview them in their living rooms.
 
-We get their medical records
-from their doctors.
+We get their medical records from their doctors.
 
-We draw their blood, we scan their brains,
+We draw their blood, we scan their brains, we talk to their children.
 
-we talk to their children.
+We videotape them talking with their wives about their deepest concerns.
 
-We videotape them talking with their wives
-about their deepest concerns.
-
-And when, about a decade ago,
-we finally asked the wives
-
-if they would join us
-as members of the study,
-
-many of the women said,
-"You know, it's about time."
+And when, about a decade ago, we finally asked the wives if they would join us as members of the study, many of the women said, "You know, it's about time."
 
 (Laughter)
 
 So what have we learned?
 
-What are the lessons that come
-from the tens of thousands of pages
+What are the lessons that come from the tens of thousands of pages of information that we've generated on these lives?
 
-of information that we've generated
+Well, the lessons aren't about wealth or fame or working harder and harder.
 
-on these lives?
-
-Well, the lessons aren't about wealth
-or fame or working harder and harder.
-
-The clearest message that we get
-from this 75-year study is this:
-
-Good relationships keep us
+The clearest message that we get from this 75-year study is this: Good relationships keep us
 happier and healthier. Period.
 
-We've learned three big lessons
-about relationships.
+We've learned three big lessons about relationships.
 
-The first is that social connections
-are really good for us,
+The first is that social connections are really good for us, and that loneliness kills.
 
-and that loneliness kills.
+It turns out that people who are more socially connected to family, to friends, to community, are happier, they're physically healthier, and they live longer than people who are less well connected.
 
-It turns out that people
-who are more socially connected
+And the experience of loneliness turns out to be toxic. 
 
-to family, to friends, to community,
+People who are more isolated than they want to be from others find that they are less happy, their health declines earlier in midlife, their brain functioning declines sooner and they live shorter lives
+than people who are not lonely. 
 
-are happier, they're physically healthier,
-and they live longer
+And the sad fact is that at any given time, more than one in five Americans will report that they're lonely.
 
-than people who are less well connected.
+And we know that you can be lonely in a crowd and you can be lonely in a marriage, so the second big lesson that we learned is that it's not just the number of friends you have, and it's not whether or not you're in a committed relationship, but it's the quality of your close relationships that matters.
 
-And the experience of loneliness
-turns out to be toxic.
+It turns out that living in the midst of conflict is really bad for our health.
 
-People who are more isolated
-than they want to be from others
+High-conflict marriages, for example, without much affection, turn out to be very bad for our health, perhaps worse than getting divorced. 
 
-find that they are less happy,
+And living in the midst of good, warm relationships is protective.
 
-their health declines earlier in midlife,
+Once we had followed our men all the way into their 80s, we wanted to look back at them at midlife and to see if we could predict who was going to grow into a happy, healthy octogenarian and who wasn't. 
 
-their brain functioning declines sooner
+And when we gathered together everything we knew about them at age 50, it wasn't their middle age cholesterol levels that predicted how they were going to grow old.
 
-and they live shorter lives
-than people who are not lonely.
+It was how satisfied they were in their relationships.
 
-And the sad fact
-is that at any given time,
+The people who were the most satisfied in their relationships at age 50 were the healthiest at age 80.
 
-more than one in five Americans
-will report that they're lonely.
+And good, close relationships seem to buffer us from some of the slings and arrows of getting old.
 
-And we know that you
-can be lonely in a crowd
+Our most happily partnered men and women reported, in their 80s, that on the days when they had more physical pain, their mood stayed just as happy.
 
-and you can be lonely in a marriage,
+But the people who were in unhappy relationships, on the days when they reported more physical pain, it was magnified by more emotional pain.
 
-so the second big lesson that we learned
+And the third big lesson that we learned about relationships and our health is that good relationships don't just protect our bodies, they protect our brains.
 
-is that it's not just
-the number of friends you have,
+It turns out that being in a securely attached relationship to another person in your 80s is protective, that the people who are in relationships where they really feel they can count
+on the other person in times of need, those people's memories stay sharper longer.
 
-and it's not whether or not
-you're in a committed relationship,
+And the people in relationships where they feel they really can't count on the other one, those are the people who experience earlier memory decline.
 
-but it's the quality
-of your close relationships that matters.
+And those good relationships, they don't have to be smooth all the time.
 
-It turns out that living in the midst
-of conflict is really bad for our health.
+Some of our octogenarian couples could bicker with each other day in and day out, but as long as they felt that they could really count on the other when the going got tough, those arguments didn't take a toll on their memories.
 
-High-conflict marriages, for example,
-without much affection,
+So this message, that good, close relationships are good for our health and well-being, this is wisdom that's as old as the hills. 
 
-turn out to be very bad for our health,
-perhaps worse than getting divorced.
-
-And living in the midst of good,
-warm relationships is protective.
-
-Once we had followed our men
-all the way into their 80s,
-
-we wanted to look back at them at midlife
-
-and to see if we could predict
-
-who was going to grow
-into a happy, healthy octogenarian
-
-and who wasn't.
-
-And when we gathered together
-everything we knew about them
-
-at age 50,
-
-it wasn't their middle age
-cholesterol levels
-
-that predicted how they
-were going to grow old.
-
-It was how satisfied they were
-in their relationships.
-
-The people who were the most satisfied
-in their relationships at age 50
-
-were the healthiest at age 80.
-
-And good, close relationships
-seem to buffer us
-
-from some of the slings and arrows
-of getting old.
-
-Our most happily partnered men and women
-
-reported, in their 80s,
-
-that on the days
-when they had more physical pain,
-
-their mood stayed just as happy.
-
-But the people who were
-in unhappy relationships,
-
-on the days when they
-reported more physical pain,
-
-it was magnified by more emotional pain.
-
-And the third big lesson that we learned
-about relationships and our health
-
-is that good relationships
-don't just protect our bodies,
-
-they protect our brains.
-
-It turns out that being
-in a securely attached relationship
-
-to another person in your 80s
-is protective,
-
-that the people who are in relationships
-
-where they really feel they can count
-on the other person in times of need,
-
-those people's memories
-stay sharper longer.
-
-And the people in relationships
-
-where they feel they really
-can't count on the other one,
-
-those are the people who experience
-earlier memory decline.
-
-And those good relationships,
-they don't have to be smooth all the time.
-
-Some of our octogenarian couples
-could bicker with each other
-
-day in and day out,
-
-but as long as they felt that they
-could really count on the other
-
-when the going got tough,
-
-those arguments didn't take a toll
-on their memories.
-
-So this message,
-
-that good, close relationships
-are good for our health and well-being,
-
-this is wisdom that's as old as the hills.
-
-Why is this so hard to get
-and so easy to ignore?
+Why is this so hard to get and so easy to ignore?
 
 Well, we're human.
 
-What we'd really like is a quick fix,
-
-something we can get
-
-that'll make our lives good
+What we'd really like is a quick fix, something we can get that'll make our lives good
 and keep them that way.
 
-Relationships are messy
-and they're complicated
-
-and the hard work of tending
-to family and friends,
-
-it's not sexy or glamorous.
+Relationships are messy and they're complicated and the hard work of tending
+to family and friends, it's not sexy or glamorous.
 
 It's also lifelong. It never ends.
 
-The people in our 75-year study
-who were the happiest in retirement
+The people in our 75-year study who were the happiest in retirement were the people who had actively worked to replace workmates with new playmates.
 
-were the people who had actively worked
-to replace workmates with new playmates.
+Just like the millennials in that recent survey, many of our men when they were starting out as young adults really believed that fame and wealth and high achievement were what they needed to go after to have a good life.
 
-Just like the millennials
-in that recent survey,
-
-many of our men when they
-were starting out as young adults
-
-really believed that fame and wealth
-and high achievement
-
-were what they needed to go after
-to have a good life.
-
-But over and over, over these 75 years,
-our study has shown
-
-that the people who fared the best were
-the people who leaned in to relationships,
-
-with family, with friends, with community.
+But over and over, over these 75 years, our study has shown that the people who fared the best were the people who leaned in to relationships, with family, with friends, with community.
 
 So what about you?
 
-Let's say you're 25,
-or you're 40, or you're 60.
+Let's say you're 25, or you're 40, or you're 60.
 
-What might leaning in
-to relationships even look like?
+What might leaning in to relationships even look like?
 
-Well, the possibilities
-are practically endless.
+Well, the possibilities are practically endless.
 
-It might be something as simple
-as replacing screen time with people time
+It might be something as simple as replacing screen time with people time or livening up a stale relationship by doing something new together, long walks or date nights, or reaching out to that family member who you haven't spoken to in years, because those all-too-common family feuds 
+take a terrible toll on the people who hold the grudges. 
 
-or livening up a stale relationship
-by doing something new together,
+I'd like to close with a quote from Mark Twain.
 
-long walks or date nights,
+More than a century ago, he was looking back on his life, and he wrote this: "There isn't time, so brief is life, for bickerings, apologies, heartburnings, callings to account. 
 
-or reaching out to that family member
-who you haven't spoken to in years,
+There is only time for loving, and but an instant, so to speak, for that."
 
-because those all-too-common family feuds
-
-take a terrible toll
-
-on the people who hold the grudges.
-
-I'd like to close with a quote
-from Mark Twain.
-
-More than a century ago,
-
-he was looking back on his life,
-
-and he wrote this:
-
-"There isn't time, so brief is life,
-
-for bickerings, apologies,
-heartburnings, callings to account.
-
-There is only time for loving,
-
-and but an instant,
-so to speak, for that."
-
-The good life is built
-with good relationships.
+The good life is built with good relationships.
 
 Thank you.
 
