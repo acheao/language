@@ -1,14 +1,10 @@
-I bet all of you are familiar with this view of the ocean,
-
-but the thing is, most of the ocean looks nothing like this.
+I bet all of you are familiar with this view of the ocean, but the thing is, most of the ocean looks nothing like this.
 
 Below the sunlit surface waters, there's an otherworldly realm known as the twilight zone.
 
 At 200 to 1,000 meters below the surface, sunlight is barely a glimmer.
 
-Tiny particles swirl down through the darkness
-
-while flashes of bioluminescence give us a clue that these waters teem with life: microbes, plankton, fish.
+Tiny particles swirl down through the darkness while flashes of bioluminescence give us a clue that these waters teem with life: microbes, plankton, fish.
 
 Everything that lives here has amazing adaptations for the challenges of such an extreme environment.
 
@@ -32,9 +28,7 @@ As a college student, I went on an expedition across the Atlantic
 
 with a team of scientists using a high-powered laser to measure microscopic algae.
 
-The wild thing that happened on that trip is that we discovered what everyone who looked before had completely missed:
-
-photosynthetic cells smaller than anyone thought possible.
+The wild thing that happened on that trip is that we discovered what everyone who looked before had completely missed: photosynthetic cells smaller than anyone thought possible.
 
 We now know those tiny cells are the most abundant photosynthetic organisms on earth.
 
@@ -72,23 +66,15 @@ it rises up at night and the pattern repeats day after day.
 
 This is actually the largest animal migration on earth.
 
-It happens around the globe every day, sweeping through the world's oceans in a massive living wave
-
-as twilight zone inhabitants travel hundreds of meters to surface waters to feed at night
-
-and return to the relative safety of deeper, darker waters during the day.
+It happens around the globe every day, sweeping through the world's oceans in a massive living wave as twilight zone inhabitants travel hundreds of meters to surface waters to feed at night and return to the relative safety of deeper, darker waters during the day.
 
 These animals and their movements help connect the surface and deep ocean in important ways.
 
-The animals feed near the surface, they bring carbon in their food into the deep waters,
-
-where some of that carbon can stay behind and remain isolated from the atmosphere for hundreds or even thousands of years.
+The animals feed near the surface, they bring carbon in their food into the deep waters, where some of that carbon can stay behind and remain isolated from the atmosphere for hundreds or even thousands of years.
 
 In this way, the migration may help keep carbon dioxide out of our atmosphere and limit the effects of global warming on our climate.
 
-But we still have many questions. We don't know which species are migrating,
-
-what they're finding to eat, who is trying to eat them or how much carbon they are able to transport.
+But we still have many questions. We don't know which species are migrating, what they're finding to eat, who is trying to eat them or how much carbon they are able to transport.
 
 So I'm a scientist who studies life in the ocean.
 
@@ -100,9 +86,7 @@ Factory ships in the open ocean have been vacuuming up hundreds of thousands of 
 
 The animals are ground into fish meal to support increasing demands for aquaculture and for nutraceuticals such as krill oil.
 
-Industry is on the brink of deepening fisheries such as these into the mid-water
-
-in what could start a kind of twilight zone gold rush operating outside the reach of national fishing regulations.
+Industry is on the brink of deepening fisheries such as these into the mid-water in what could start a kind of twilight zone gold rush operating outside the reach of national fishing regulations.
 
 This could have irreversible global-scale impacts on marine life and food webs.
 
@@ -112,37 +96,25 @@ At Woods Hole Oceanographic Institution, I'm really fortunate to be surrounded b
 
 Together, we are ready to launch a large-scale exploration of the twilight zone.
 
-We have a plan to begin right away with expeditions in the North Atlantic,
-
-where we'll tackle the big challenges of observing and studying the twilight zone's remarkable diversity.
+We have a plan to begin right away with expeditions in the North Atlantic, where we'll tackle the big challenges of observing and studying the twilight zone's remarkable diversity.
 
 This kind of multiscale, multidimensional exploration means we need to integrate new technologies.
 
 Let me show you a recent example that has changed our thinking.
 
-Satellite tracking devices on animals such as sharks are now showing us
+Satellite tracking devices on animals such as sharks are now showing us that many top predators regularly dive deep into the twilight zone to feed.
 
-that many top predators regularly dive deep into the twilight zone to feed.
-
-And when we map their swimming patterns and compare them to satellite data,
-
-we find that their feeding hot spots are linked to ocean currents and other features.
+And when we map their swimming patterns and compare them to satellite data, we find that their feeding hot spots are linked to ocean currents and other features.
 
 We used to think these animals found all of their food in surface waters.
 
 We now believe they depend on the twilight zone.
 
-But we still need to figure out how they find the best areas to feed,
+But we still need to figure out how they find the best areas to feed, what they're eating there and how much their diets depend on twilight zone species.
 
-what they're eating there and how much their diets depend on twilight zone species.
+We will also need new technologies to explore the links with climate. Remember these particles Some of them are produced by gelatinous animals called salps.
 
-We will also need new technologies to explore the links with climate. Remember these particles
-
-Some of them are produced by gelatinous animals called salps.
-
-Salps are like superefficient vacuum cleaners, slurping up plankton and producing fast-sinking pellets of poop
-
-try saying that 10 times fast -- pellets of poop that carry carbon deep into the ocean.
+Salps are like superefficient vacuum cleaners, slurping up plankton and producing fast-sinking pellets of poop try saying that 10 times fast -- pellets of poop that carry carbon deep into the ocean.
 
 We sometimes find salps in enormous swarms.
 
@@ -168,12 +140,8 @@ There is also a deep sense of urgency.
 
 We can't turn back the clock on decades of overfishing in countless regions of the ocean that once seemed inexhaustible.
 
-How amazing would it be to take a different path this time
-
-The twilight zone is truly a global commons.
+How amazing would it be to take a different path this time The twilight zone is truly a global commons.
 
 We need to first know and understand it before we can be responsible stewards and hope to fish it sustainably.
 
-This is not just a journey for scientists, it is for all of us,
-
-because the decisions we collectively make over the next decade will affect what the ocean looks like for centuries to come. Thank you.
+This is not just a journey for scientists, it is for all of us, because the decisions we collectively make over the next decade will affect what the ocean looks like for centuries to come. Thank you.
