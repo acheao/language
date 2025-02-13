@@ -661,5 +661,3 @@ so much for being here.
 BG: Thank you.
 
 (Applause)
-
-[return](--New%20discoveries%20await%20us%20in%20the%20ocean%20twilight%20zone.md)
