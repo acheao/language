@@ -661,5 +661,3 @@ so much for being here.
 BG: Thank you.
 
 (Applause)
-
-[return](TED.md)
