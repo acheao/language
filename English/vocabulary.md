@@ -300,8 +300,7 @@ panders
 opiods
 Brutally
 waiver
-patent
-proposed 
+patent 
 consensus
 testify
 autonomy
@@ -449,7 +448,6 @@ permanent
 arrangement
 locusts
 regulatory
-cautionary
 eagle
 premises
 awful
@@ -459,7 +457,6 @@ trailer
 assembly
 daffodils
 chlorine
-regaled
 peacock
 magnificent
 epic
@@ -833,7 +830,6 @@ litigation
 auditor
 thalassemia
 legislation
-disproportionate
 devise
 comprises
 suspicion
@@ -897,3 +893,9 @@ temple
 lush
 assassinated
 stifle
+disproportionate
+proposed
+hierarchical
+cautionary
+clause
+regale
