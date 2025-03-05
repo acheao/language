@@ -334,9 +334,6 @@ millennial
 epiphany
 orphan
 artillery
-Gnats
-swarms
-torment
 uncharted
 temper
 igniter
@@ -416,7 +413,6 @@ furious
 reaping
 Tempers
 clung
-unanimously
 eligible
 concentration
 Idioms
@@ -442,9 +438,7 @@ arrangement
 locusts
 regulatory
 eagle
-premises
 awful
-Carpentry
 plot
 trailer
 assembly
@@ -461,7 +455,6 @@ Violent
 recruit
 pessimistic
 distinctly
-identical
 disorder
 gloom
 navy
@@ -551,7 +544,6 @@ petition
 contempt
 Belgian
 psychiatrist
-stoicism
 procrastination
 spectator
 sweat
@@ -662,7 +654,6 @@ urgency
 inexhaustible
 stewards
 sustainably
-inextricably
 swarmed
 delicate
 grip
@@ -673,7 +664,6 @@ proceeding
 triad
 extinction
 minority
-miraculously
 rewards
 edge
 loyalty
@@ -751,7 +741,6 @@ destroyers
 indispensable
 revealing
 blew
-illustrating
 alliance
 solo
 gallery
@@ -783,7 +772,6 @@ dormant
 ethic
 insane
 downright
-outlook
 malicious
 gossip
 determine
@@ -869,6 +857,7 @@ temple
 lush
 assassinated
 stifle
+
 disproportionate
 proposed
 cautionary
@@ -894,7 +883,6 @@ glamorous
 downturn
 hefty
 tribal
-kidnapping
 perception
 prescription
 mosque
@@ -912,3 +900,28 @@ bound
 scrutiny
 forecast
 exceedingly
+disappointment
+reminder
+illustrating
+photographer
+maladaptive
+obesity
+diabete
+torment
+gnat
+swarms
+psychological
+stoicism
+reinvent
+carpentry
+unanimously
+outlook
+guerrilla
+premises
+robbery
+kidnapping
+identical
+inextricably
+miraculously
+sophomore
+procedure
