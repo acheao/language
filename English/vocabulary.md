@@ -1,3 +1,4 @@
+**百度背单词**
 endorse
 founder
 cholesterol
@@ -59,15 +60,13 @@ cookery
 authority
 talent
 talented
------------------------
 catalogue
 allocated
 imperative
 crime
 damp
------
 
-hierarchical
+-----
 undertake
 environmentalist
 geothermal
@@ -76,7 +75,6 @@ deterrence
 accommodation
 mutually
 crowded
-clientele
 stroked
 soundtrack
 somewhat
@@ -316,7 +314,6 @@ tussle
 stabbed
 obstacle
 retribution
-sickle
 woven
 anecdotes
 conserve
@@ -340,7 +337,6 @@ artillery
 Gnats
 swarms
 torment
-fading
 uncharted
 temper
 igniter
@@ -399,7 +395,6 @@ refugee
 compassion
 instant
 tissue
-bound to
 likelihood
 subtle
 urban
@@ -423,8 +418,6 @@ Tempers
 clung
 unanimously
 eligible
-entitlement
-pension
 concentration
 Idioms
 obsession
@@ -505,7 +498,6 @@ quick fix
 octogenarian
 complicated
 tending
-messy
 retirement
 scratch
 retreated
@@ -519,13 +511,9 @@ masterpiece
 oblivion
 lectures
 humiliating
-priest
 nostalgia
-prescription
-perception
 resistance
 resisted
-proposal
 fledged
 morality
 pursue
@@ -615,7 +603,6 @@ organisms
 convinced
 breathtaking
 Arctic
-exceedingly
 pressures
 monsters
 lurking
@@ -676,7 +663,6 @@ inexhaustible
 stewards
 sustainably
 inextricably
-mosque
 swarmed
 delicate
 grip
@@ -687,7 +673,6 @@ proceeding
 triad
 extinction
 minority
-scrutiny
 miraculously
 rewards
 edge
@@ -701,7 +686,6 @@ mills
 efficiency
 constitution
 compel
-endure
 parliamentary
 Parliament
 protective
@@ -767,12 +751,8 @@ destroyers
 indispensable
 revealing
 blew
-symbol
-torn
-penalized
 illustrating
 alliance
-exploiting
 solo
 gallery
 whales
@@ -804,7 +784,6 @@ ethic
 insane
 downright
 outlook
-hefty
 malicious
 gossip
 determine
@@ -828,10 +807,8 @@ producer
 pneumonia
 litigation
 auditor
-thalassemia
 legislation
 devise
-comprises
 suspicion
 forged
 cheque
@@ -872,7 +849,6 @@ successor
 rife
 essay
 dove
-tribal
 propagating
 merit
 pirate
@@ -895,7 +871,44 @@ assassinated
 stifle
 disproportionate
 proposed
-hierarchical
 cautionary
 clause
 regale
+sponsored
+disproportionate
+influence
+infect
+proposed
+hierarchical
+sickle
+thalassemia
+legislature
+endure
+priest
+clientele
+constitute
+comprise
+exploit
+messy
+glamorous
+downturn
+hefty
+tribal
+kidnapping
+perception
+prescription
+mosque
+Muslim
+Moslem
+fade
+torn
+symbol
+pension
+entitlement
+penalize
+proposal
+tract
+bound
+scrutiny
+forecast
+exceedingly
