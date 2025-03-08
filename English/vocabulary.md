@@ -1,4 +1,4 @@
-**百度背单词**
+```
 endorse
 founder
 cholesterol
@@ -64,8 +64,8 @@ allocated
 imperative
 crime
 damp
+```
 
------
 undertake
 environmentalist
 geothermal
@@ -98,7 +98,6 @@ resistant
 fiery
 opponents
 Appendix
-existential
 marched
 allocate
 abroad
@@ -112,7 +111,6 @@ relevant
 ambiguity
 considerate
 capable
-circumstances
 irrigated
 plains
 contour
@@ -279,7 +277,6 @@ myth
 exemplifies
 glamorous
 fulfillment
-amongst
 junk
 hoarded
 Precious
@@ -311,7 +308,6 @@ woven
 anecdotes
 conserve
 scant
-cosiness
 heartfelt
 temper
 epidemic
@@ -454,7 +450,6 @@ burst
 curious
 corporate
 hare
-reinvent
 pilot
 transition
 fighter
@@ -672,8 +667,6 @@ devoted
 taunts
 paramount
 journalism
-stew
-revolting
 fitness
 emperor
 recruits
@@ -711,7 +704,6 @@ popularity
 onboard
 weary
 treatment
-steelworks
 Impressionist
 tortoise
 medications
@@ -750,12 +742,10 @@ fixture
 dorm
 ethic
 insane
-downright
 malicious
 gossip
 determine
 marshes
-wildlife
 urgently
 gear
 perjury
@@ -803,7 +793,6 @@ dairy
 ruling
 contrary
 dreary
-visualize
 mechanism
 collapse
 featured
@@ -834,7 +823,6 @@ temple
 lush
 assassinated
 stifle
-
 disproportionate
 proposed
 cautionary
@@ -889,7 +877,6 @@ gnat
 swarms
 psychological
 stoicism
-reinvent
 carpentry
 unanimously
 outlook
@@ -945,3 +932,30 @@ scary
 foster
 referendum
 participation
+Mafia
+acute 
+stew
+revolting
+encounter
+tennis
+soccer
+rumour
+spy
+fear
+existential
+steelworks
+wildlife
+nominee
+stockbroker
+defeat
+circumstance
+prevalent
+decay
+amongst
+cosiness
+ceasefire
+reclaim
+visualize
+reinvent
+behalf
+downright
