@@ -520,10 +520,8 @@ relegated
 figurative
 souvenir
 tacky
-poisonous
 poison
 accurate
-faltered
 improper
 dramatic
 reporter
@@ -717,7 +715,6 @@ venom
 spiritual
 healing
 wound
-falters
 aching
 shale
 knot
@@ -811,7 +808,6 @@ neighborhoods
 banter
 testimony
 emergence
-specifically
 glucose
 lactose
 brand
@@ -925,3 +921,8 @@ inextricably
 miraculously
 sophomore
 procedure
+specifically
+poisonous
+falter
+commitment
+decipher
