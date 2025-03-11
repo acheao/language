@@ -84,7 +84,6 @@ individual
 destroyer
 whaling
 van
-sophisticated
 unrealistic
 regular
 dismiss
@@ -186,7 +185,6 @@ saint
 plates
 nurseries
 spreadsheet
-elegant
 poverty
 penalty
 regime
@@ -374,7 +372,6 @@ clung
 eligible
 concentration
 Idioms
-obsession
 headquarters
 seized
 prosecuting
@@ -426,7 +423,6 @@ positive
 addiction
 coincidentally
 cheerful
-hindsight
 sight
 tariffs
 bicker
@@ -718,11 +714,9 @@ ruling
 contrary
 mechanism
 featured
-amid
 essay
 dove
 propagating
-merit
 questionable
 Renaissance
 pleasant
@@ -756,7 +750,6 @@ endure
 priest
 clientele
 constitute
-comprise
 exploit
 messy
 glamorous
@@ -913,7 +906,6 @@ stimulate
 hedge
 pure
 charismatic
-resign
 pretend
 hypocritical
 sculpture
@@ -1042,4 +1034,26 @@ broadcast
 pirate
 rumour
 suspicion
+```
+
+```
+obsession
+abhorrent
+initial
+merit
+freak
+detour
+antics
+resign
+resignation
+hindsight
+intolerance
+comprise
+consensus
+hardliner
+clutter
+sophisticated
+vigil
+elegant
+amid
 ```
