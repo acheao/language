@@ -16,16 +16,12 @@ entitled
 affection
 retribution
 deterrence
-stale
-feud
-grudge
 fitness
 joints
 consumption
 tragedy
 entertainment
 subordinate
-squib
 bickering
 instant
 thickening
@@ -63,7 +59,6 @@ catalogue
 allocated
 imperative
 crime
-damp
 ```
 
 undertake
@@ -108,8 +103,6 @@ considerate
 capable
 irrigated
 plains
-contour
-coastline
 dentist
 evacuate
 inclusion
@@ -219,9 +212,6 @@ midwife
 deceived
 tanker
 brief
-stale
-feuds
-grudges
 sticking
 brooch
 dumb
@@ -292,7 +282,6 @@ anecdotes
 conserve
 scant
 heartfelt
-temper
 epidemic
 exhibition
 essential
@@ -306,7 +295,6 @@ epiphany
 orphan
 artillery
 uncharted
-temper
 igniter
 occurs
 leukaemia
@@ -314,7 +302,6 @@ slides
 woe
 hypocritical
 boost
-cramped
 cheerful
 bricklayers
 ladder
@@ -355,7 +342,6 @@ likelihood
 urban
 rural
 gratification
-cubicle
 curtain
 spare
 championed
@@ -367,7 +353,6 @@ speculation
 entitled
 famine
 furious
-Tempers
 clung
 eligible
 concentration
@@ -384,7 +369,6 @@ ivory
 beads
 permanent
 arrangement
-locusts
 regulatory
 eagle
 awful
@@ -393,8 +377,6 @@ trailer
 assembly
 daffodils
 chlorine
-peacock
-magnificent
 epic
 heroism
 acclaim
@@ -666,7 +648,6 @@ peasant
 radical
 itinerant
 hellfire
-cubicle
 curtain
 bricklayers
 fixture
@@ -709,13 +690,11 @@ ramping
 nominee
 inquiry
 calcium
-dairy
 ruling
 contrary
 mechanism
 featured
 essay
-dove
 propagating
 questionable
 Renaissance
@@ -726,7 +705,6 @@ internment
 oven
 warrior
 scorn
-mud
 jungle
 temple
 lush
@@ -996,7 +974,6 @@ defect
 dealt
 amateur
 adequate
-temper
 credible
 rampant
 cameo
@@ -1020,7 +997,6 @@ fatal
 motorway
 swallow
 cyanide
-grief
 equip
 brutality
 reverse
@@ -1056,4 +1032,30 @@ sophisticated
 vigil
 elegant
 amid
+```
+
+```
+contour
+coastline
+sandwich
+stigma
+grief
+stale
+feud
+grudge
+mud
+cubicle
+temper
+peacock
+magnificent
+corner
+dairy
+capsule
+cramped
+sprint
+dove
+maternity
+locust
+squib
+damp
 ```
