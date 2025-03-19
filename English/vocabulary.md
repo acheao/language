@@ -366,7 +366,6 @@ sickle
 soccer
 spaniel
 fist
-considerable
 spill
 conscience
 prosperity
@@ -861,7 +860,6 @@ thalassemia
 legislature
 clientele
 constitute
-downturn
 hefty
 prescription
 mosque
@@ -1503,4 +1501,16 @@ vinaigrette
 violation
 transaction
 threshold
+spacecraft
+stake
+ownership
+considerable
+exhausted
+```
+
+```
+orphan
+excess
+downturn
+
 ```
