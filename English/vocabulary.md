@@ -1448,7 +1448,6 @@ violation
 transaction
 threshold
 spacecraft
-stake
 ownership
 considerable
 exhausted
@@ -1558,4 +1557,13 @@ drench
 summon
 divided
 navigate
+
+```
+
+```
+stake
+acquire
+outcome
+
+
 ```
