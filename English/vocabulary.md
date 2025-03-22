@@ -498,7 +498,6 @@ sticking
 illustrating
 tackle
 formal
-director
 cinema-goers
 organic
 asteroids
@@ -1557,13 +1556,15 @@ drench
 summon
 divided
 navigate
-
 ```
 
 ```
 stake
 acquire
 outcome
-
-
+tying
+hammering
+direct
+director
+stout
 ```
