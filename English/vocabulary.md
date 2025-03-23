@@ -36,7 +36,6 @@ cookery
 authority
 talent
 talented
-catalogue
 imperative
 crime
 ```
@@ -178,7 +177,6 @@ raid
 raiders
 indifference
 rifle
-allegations
 frustration
 explosion
 litres
@@ -274,7 +272,6 @@ championed
 necklace
 cinema-goers
 church
-speculation
 entitled
 famine
 furious
@@ -282,7 +279,6 @@ eligible
 concentration
 headquarters
 prosecuting
-universal
 suburb
 intolerance
 lawn
@@ -291,7 +287,6 @@ beads
 arrangement
 regulatory
 eagle
-awful
 assembly
 daffodils
 epic
@@ -427,9 +422,6 @@ stalks
 enormous
 doomed
 commission
-allegations
-malicious
-gossip
 emphasize
 verdict
 adversaries
@@ -453,7 +445,6 @@ horror
 reckoning
 deceased
 audience
-Speculation
 bonuses
 visible
 flexible
@@ -464,7 +455,6 @@ manufacturing
 instrumentations
 deaf
 servants
-tumour
 chord
 sufficient
 cockpit
@@ -503,7 +493,6 @@ foam
 cruise
 uninspired
 Hepatitis
-behave
 jungle
 rivals
 dialogue
@@ -513,7 +502,6 @@ hit pay dirt
 inscription
 grip
 Uranium
-prestige
 alphabet
 individuals
 occasional
@@ -523,8 +511,6 @@ oar
 sparks
 emergence
 granted
-bureaucracy
-represses
 sailed
 initiative
 restricting
@@ -564,12 +550,9 @@ schemes
 deceived
 outstanding
 hedge
-lotion
-merit
 phrase
 cyanide
 swallowed
-leaking
 maladaptive
 negatively
 productivity
@@ -760,7 +743,6 @@ televise
 juice
 stability
 regional
-promote
 peasant
 radical
 hellfire
@@ -769,7 +751,6 @@ fixture
 ethic
 insane
 determine
-urgently
 gear
 oath
 portion
@@ -828,8 +809,6 @@ Muslim
 Moslem
 fade
 symbol
-pension
-entitlement
 tract
 bound
 exceedingly
@@ -841,7 +820,6 @@ diabete
 gnat
 swarms
 psychological
-carpentry
 outlook
 kidnapping
 miraculously
@@ -890,8 +868,6 @@ behalf
 certificate
 confident
 marsh
-leak
-flame
 quarterback
 cement
 devastation
@@ -904,8 +880,6 @@ bizarre
 levity
 tenant
 roasting
-amused
-conjuring
 hedge
 pure
 pretend
@@ -938,7 +912,6 @@ favour
 tidy
 defender
 corruption
-concrete
 explanation
 bully
 concessions
@@ -975,7 +948,6 @@ substantial
 prohibit
 discrimination
 diet
-reap
 hurl
 enshrine
 reproductive
@@ -997,24 +969,19 @@ pirate
 ```
 
 ```
-obsession
 abhorrent
 initial
-merit
 freak
 detour
 resign
 resignation
 hindsight
 intolerance
-comprise
 consensus
 hardliner
 clutter
 sophisticated
-vigil
 elegant
-amid
 ```
 
 ```
@@ -1047,8 +1014,6 @@ procrastination
 procrastinator
 instant
 gratification
-malicious
-gossip
 affection
 mill
 cotton
@@ -1062,7 +1027,6 @@ pilot
 rookie
 detention
 internment
-brief
 spiral
 magnet
 manufacturing
@@ -1090,8 +1054,6 @@ deterrence
 renaissance
 whale
 octogenarian
-bicker
-bickering
 wipe
 stand-alone
 opinionated
@@ -1129,7 +1091,6 @@ recruit
 retain
 Metropolitan
 clung
-loan
 intentionally
 vague
 midst
@@ -1278,7 +1239,6 @@ evolve
 Royal
 navy
 naval
-scrutiny
 psychiatrist
 trial
 maladaptive
@@ -1463,7 +1423,6 @@ assassinate
 ```
 extinction
 cosiness
-decipher
 disorder
 sponsor
 disparity
@@ -1495,8 +1454,6 @@ tariff
 mutually
 exclusive
 coarse
-conjure
-conjuring
 ```
 
 ```
@@ -1588,4 +1545,62 @@ endorse
 ```
 popularity
 enthusiastic
+promote
+collaborative
+lotion
+swearing
+tuition
+loan
+regeneration
+testimony
+scrutiny
+participant
+```
+
+```
+vigil
+theft
+staircase
+concrete
+decipher
+merit
+urgently
+catalogue
+malicious
+gossip
+allegation
+spur
+```
+
+```
+amused
+conjuring
+conjure
+obsession
+speculation
+amid
+brief
+bickering
+bicker
+universal
+```
+
+```
+awful
+flame
+leak
+behave
+comprise
+prestige
+bureaucracy
+repress
+pension
+```
+
+```
+entitlement
+volunteer
+tumour
+carpentry
+reap
 ```
