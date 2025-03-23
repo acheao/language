@@ -1,6 +1,5 @@
 ```
 founder
-cholesterol
 supervisor
 scrapheap
 cubicle
@@ -241,7 +240,6 @@ orphan
 artillery
 uncharted
 igniter
-occurs
 slides
 woe
 cheerful
@@ -275,7 +273,6 @@ spare
 championed
 necklace
 cinema-goers
-parish
 church
 speculation
 entitled
@@ -351,7 +348,6 @@ cope
 marquee
 scant
 constitution
-indistinguishable
 enterprises
 scratch
 beta
@@ -505,8 +501,6 @@ stardust
 Timing
 foam
 cruise
-trembling
-shaking
 uninspired
 Hepatitis
 behave
@@ -752,7 +746,6 @@ knot
 cater
 cautionary
 scrapheap
-popularity
 onboard
 treatment
 tortoise
@@ -779,7 +772,6 @@ determine
 urgently
 gear
 oath
-distinguished
 portion
 leadership
 alongside
@@ -898,7 +890,6 @@ behalf
 certificate
 confident
 marsh
-enthusiastic
 leak
 flame
 quarterback
@@ -981,7 +972,6 @@ cameo
 fortnight
 significant
 substantial
-innocence
 prohibit
 discrimination
 diet
@@ -1034,7 +1024,6 @@ sandwich
 stigma
 grief
 stale
-feud
 grudge
 mud
 cubicle
@@ -1058,7 +1047,6 @@ procrastination
 procrastinator
 instant
 gratification
-warfare
 malicious
 gossip
 affection
@@ -1077,7 +1065,6 @@ internment
 brief
 spiral
 magnet
-endorse
 manufacturing
 dorm
 lawsuit
@@ -1121,7 +1108,6 @@ astronaut
 leukaemia
 claw
 accommodation
-rural
 urban
 endure
 taunt
@@ -1285,7 +1271,6 @@ amongst
 sizeable
 prevail
 prevailing
-prized
 ```
 
 ```
@@ -1567,4 +1552,40 @@ hammering
 direct
 director
 stout
+```
+
+```
+Joan of Arc
+afford
+prize
+personality
+cholesterol
+feud
+grudge
+```
+
+```
+shortage
+distinguished
+distinguish
+indistinguishable
+parish
+vicar
+innocence
+```
+
+```
+nuclear
+occur
+rural
+tremble
+shaking
+warfare
+desert
+endorse
+```
+
+```
+popularity
+enthusiastic
 ```
