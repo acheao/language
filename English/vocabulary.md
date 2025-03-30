@@ -69,7 +69,6 @@ multiculturalism
 embrace
 degree
 summit
-preference
 hardly
 inversely
 available
@@ -131,7 +130,6 @@ penalty
 regime
 horrifying
 diamond
-confronted
 foyer
 torrent
 Mechanical
@@ -180,7 +178,6 @@ elitism
 caricature
 ostentatious
 devotion
-mastered
 contractors
 motivator
 myth
@@ -226,7 +223,6 @@ uncharted
 igniter
 slides
 woe
-cheerful
 ladder
 opposite
 alcoholism
@@ -266,7 +262,6 @@ intolerance
 lawn
 ivory
 beads
-arrangement
 regulatory
 eagle
 assembly
@@ -290,7 +285,6 @@ intervention
 hydraulic
 rope
 coincidentally
-cheerful
 sight
 toll
 well-being
@@ -397,7 +391,6 @@ banter
 stagnant
 adjourned
 mayhem
-Confrontation
 celery
 stalks
 enormous
@@ -446,7 +439,6 @@ crack down
 galloped
 dioxide
 predecessors
-victims
 fluid
 enforcement
 consigned
@@ -516,7 +508,6 @@ controversial
 fortune
 tyranny
 Atlantic
-arrangement
 admissions
 luggage
 schemes
@@ -538,7 +529,6 @@ plenty
 abundance
 maternity
 folks
-masterpiece
 lectures
 resistance
 resisted
@@ -714,7 +704,6 @@ televise
 juice
 stability
 regional
-peasant
 radical
 hellfire
 curtain
@@ -869,7 +858,6 @@ luggage
 armour
 cottage
 humanitarian
-fetched
 impressionist
 favour
 tidy
@@ -884,7 +872,6 @@ prosperity
 
 ```
 subsidize
-fledged
 drain
 estate
 membership
@@ -948,7 +935,6 @@ contour
 coastline
 sandwich
 stigma
-grief
 stale
 grudge
 cubicle
@@ -975,7 +961,6 @@ gratification
 affection
 mill
 cotton
-contempt
 lush
 idiom
 owe
@@ -998,8 +983,6 @@ boost
 fallen
 barrier
 broad
-assemble
-shed
 positive
 acclaim
 appalling
@@ -1058,7 +1041,6 @@ retailer
 allocate
 mature
 reminder
-permanent
 unconscionable
 panic
 mayhem
@@ -1115,7 +1097,6 @@ exploit
 exploiting
 plain
 premises
-paramount
 journalism
 prodigious
 inextricably
@@ -1436,7 +1417,6 @@ jury
 ```
 grand
 affair
-incompetence
 gloom
 genuine
 momentum
@@ -1494,7 +1474,6 @@ enthusiastic
 promote
 collaborative
 lotion
-swearing
 tuition
 loan
 regeneration
@@ -1549,8 +1528,6 @@ tumour
 carpentry
 reap
 hospitality
-mud
-mudflat
 gifted
 allegation
 commission
@@ -1635,9 +1612,66 @@ detour
 resilient
 handling
 rough
-designate
 ```
 
 ```
+designate
+preference
+advance
+cheer
+cheerful
+wave
+mast
+mastered
+masterpiece
+referee
+offside
+podium
+flutter
+goal
+bearer
+tattered
+crowd
+breeze
+truce
+allegiance
+swear
+swearing
+mudflat
+mud
+gorgeous
+stretch
+grief
+grieve
+grieving
+legalize
+contempt
+permanent
+shed
+assemble
+persecution
+victim
+arrangement
+confront
+confrontation
+taxation
+paramount
+proactive
+compete
+incompetence
+```
+
+```
+exporter
+violence
+intensify
+sharply
+opposition
+misery
+peasant
+fledged
+fetch
+
+
 
 ```
