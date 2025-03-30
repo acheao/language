@@ -114,7 +114,6 @@ ramps
 truce
 stem
 prolonged
-epiphany
 implicit
 underlying
 methodical
@@ -217,7 +216,6 @@ entertainment
 disgusting
 league
 quarterback
-epiphany
 orphan
 uncharted
 igniter
@@ -290,7 +288,6 @@ toll
 well-being
 quick fix
 tending
-retreated
 immediate
 indifference
 tactics
@@ -300,8 +297,6 @@ mechanisms
 astonishing
 advisory
 liberties
-civil
-abhorrent
 curators
 excess
 Generosity
@@ -321,9 +316,6 @@ scant
 constitution
 enterprises
 scratch
-beta
-thalassemia
-sickle
 soccer
 spaniel
 fist
@@ -393,7 +385,6 @@ adjourned
 mayhem
 celery
 stalks
-enormous
 doomed
 emphasize
 verdict
@@ -421,7 +412,6 @@ bonuses
 visible
 flexible
 bipartisan
-habitat
 devise
 manufacturing
 instrumentations
@@ -497,7 +487,6 @@ beads
 Islam
 Christianity
 Judaism
-enormously
 preserve
 defiance
 highlighted
@@ -506,7 +495,6 @@ astronauts
 net-zero
 controversial
 fortune
-tyranny
 Atlantic
 admissions
 luggage
@@ -663,7 +651,6 @@ constitution
 compel
 parliamentary
 Parliament
-protective
 astonishing
 theatre
 emphasis
@@ -757,8 +744,6 @@ disproportionate
 influence
 infect
 proposed
-sickle
-thalassemia
 legislature
 clientele
 constitute
@@ -785,7 +770,6 @@ poisonous
 ```
 trait
 expansion
-habitat
 communal
 gallop
 galloping
@@ -863,10 +847,6 @@ favour
 tidy
 defender
 corruption
-explanation
-bully
-concessions
-bench
 prosperity
 ```
 
@@ -917,14 +897,10 @@ pirate
 ```
 
 ```
-abhorrent
 initial
 freak
-resign
-resignation
 intolerance
 consensus
-hardliner
 clutter
 sophisticated
 elegant
@@ -981,7 +957,6 @@ boost
 
 ```
 fallen
-barrier
 broad
 positive
 acclaim
@@ -1019,7 +994,6 @@ bleach
 voluntary
 tablet
 leisure
-foundered
 mechanism
 delicate
 sufficient
@@ -1038,18 +1012,13 @@ invasive
 intense
 nostalgia
 retailer
-allocate
-mature
 reminder
 unconscionable
 panic
 mayhem
 adventure
 deliver
-nominee
 clumsy
-complicated
-glamorous
 seize
 regain
 stoicism
@@ -1108,7 +1077,6 @@ revealing
 loom
 transistor
 milky
-colleague
 vulnerable
 contrast
 penalize
@@ -1286,15 +1254,12 @@ disintegrated
 
 ```
 hazardous
-mess
-messy
 manner
 promotion
 bargain
 weary
 gel
 aide
-regret
 regardless
 prosecute
 attorney
@@ -1400,7 +1365,6 @@ antics
 ```
 ``
 ```
-luminous
 spiritual
 bleak
 landscape
@@ -1593,7 +1557,6 @@ swarms
 swarmed
 unfold
 fold
-signature
 nerve
 visualize
 suicide
@@ -1671,7 +1634,46 @@ misery
 peasant
 fledged
 fetch
-
-
+nominee
+colleague
+concession
+bench
+bully
+epiphany
+retreat
+hardliner
+barrier
+abhorrent
+civil
+sputter
+hum
+signature
+tyranny
+lethal
+tenement
+foundered
+enormous
+enormously
+terrorist
+territory
+regret
+thalassemia
+sickle
+beta
+explanation
+transport
+allocate
+mature
+messy
+mess
+complicated
+glamorous
+overheard
+luminous
+resign
+resignation
+protective
+sharper
+habitat
 
 ```
