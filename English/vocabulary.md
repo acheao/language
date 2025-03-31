@@ -19,7 +19,6 @@ defiance
 maternity
 delight
 delighted
-individual
 inherit
 procrastinator
 sneakiest
@@ -32,6 +31,7 @@ imperative
 crime
 ```
 
+```
 undertake
 stroked
 soundtrack
@@ -39,7 +39,6 @@ somewhat
 ghostlike
 celebrated
 haunting
-delighted
 individual
 destroyer
 whaling
@@ -48,6 +47,9 @@ regular
 dismiss
 legitimate
 antibiotic
+```
+
+```
 resistant
 Appendix
 marched
@@ -73,6 +75,9 @@ hardly
 inversely
 available
 availability
+```
+
+```
 insurance
 proficiency
 inclusive
@@ -92,6 +97,9 @@ phrase
 bilinguals
 saturated
 uniqueness
+```
+
+```
 characteristic
 authentic
 chopsticks
@@ -108,6 +116,9 @@ interactions
 unconsciously
 profoundly
 evaluations
+```
+
+```
 slander
 defamation
 ramps
@@ -132,6 +143,9 @@ diamond
 foyer
 torrent
 Mechanical
+```
+
+```
 helicopter
 demonstrators
 desperate
@@ -154,6 +168,9 @@ deceived
 tanker
 sticking
 brooch
+```
+
+```
 dumb
 deaf
 graphics
@@ -169,6 +186,9 @@ coup
 furniture
 cleverly
 unethical
+```
+
+```
 kinetic
 collar
 grotesque
@@ -189,6 +209,9 @@ revenge
 aspect
 rumpists
 panders
+```
+
+```
 opiods
 Brutally
 waiver
@@ -209,6 +232,9 @@ woven
 anecdotes
 conserve
 scant
+```
+
+```
 heartfelt
 exhibition
 essential
@@ -226,6 +252,9 @@ opposite
 alcoholism
 alcohol
 dedicated
+```
+
+```
 questionnaires
 videotape
 wealth
@@ -248,6 +277,9 @@ curtain
 spare
 championed
 necklace
+```
+
+```
 cinema-goers
 church
 famine
@@ -268,6 +300,9 @@ epic
 heroism
 intellectual
 Violent
+```
+
+```
 pessimistic
 distinctly
 royal
@@ -287,6 +322,9 @@ sight
 toll
 well-being
 quick fix
+```
+
+```
 tending
 immediate
 indifference
@@ -302,6 +340,9 @@ excess
 Generosity
 enthusiasm
 retain
+```
+
+```
 guardian
 Panic
 Monster
@@ -320,6 +361,9 @@ soccer
 spaniel
 fist
 spill
+```
+
+```
 conscience
 prosperity
 bullet
@@ -339,6 +383,9 @@ pneumonia
 contender
 basin
 Deforestation
+```
+
+```
 compassion
 assassination
 prime
@@ -359,6 +406,9 @@ staircase
 gear
 sheer
 forged
+```
+
+```
 cheque
 relevant
 curiosity
@@ -378,6 +428,9 @@ courage
 resilience
 coffin
 guard
+```
+
+```
 historic
 banter
 stagnant
@@ -398,6 +451,9 @@ hypnosis
 Judging
 misleading
 pull up
+```
+
+```
 tidy
 neat
 scratc
@@ -415,6 +471,9 @@ bipartisan
 devise
 manufacturing
 instrumentations
+```
+
+```
 deaf
 servants
 chord
@@ -432,6 +491,9 @@ predecessors
 fluid
 enforcement
 consigned
+```
+
+```
 leather
 precipitation
 downtick
@@ -450,11 +512,13 @@ organic
 asteroids
 stardust
 Timing
-foam
 cruise
 uninspired
 Hepatitis
 jungle
+```
+
+```
 rivals
 dialogue
 clutter
@@ -464,7 +528,6 @@ inscription
 grip
 Uranium
 alphabet
-individuals
 overcome
 lease
 oar
@@ -476,6 +539,9 @@ initiative
 restricting
 trolley
 inspection
+```
+
+```
 fossil
 grave
 tension
@@ -499,6 +565,9 @@ Atlantic
 admissions
 luggage
 schemes
+```
+
+```
 deceived
 outstanding
 hedge
@@ -513,7 +582,9 @@ reliance
 obesity
 halt
 plenty
+```
 
+```
 abundance
 maternity
 folks
@@ -531,11 +602,13 @@ accurate
 improper
 dramatic
 reporter
-insulation
 elective
 petition
 Belgian
 procrastination 
+```
+
+```
 sweat
 meal
 tale
@@ -558,6 +631,9 @@ teem
 microbes
 plankton
 adaptations
+```
+
+```
 tuna
 swordfish
 sharks
@@ -578,6 +654,9 @@ photosynthetic
 abundant
 organisms
 convinced
+```
+
+```
 breathtaking
 Arctic
 pressures
@@ -595,6 +674,9 @@ presidential
 bounces
 estate
 sweeping
+```
+
+```
 inhabitants
 vacuuming
 shrimp-like
@@ -612,6 +694,9 @@ expeditions
 tackle
 diversity
 multiscale
+```
+
+```
 multidimensional
 satellite
 predator
@@ -632,6 +717,9 @@ depths
 samplers
 sequence
 forensic
+```
+
+```
 creatures
 communicators
 urgency
@@ -654,6 +742,9 @@ Parliament
 astonishing
 theatre
 emphasis
+```
+
+```
 devoted
 fitness
 emperor
@@ -677,12 +768,14 @@ knot
 cater
 cautionary
 scrapheap
+```
+
+```
 onboard
 treatment
 tortoise
 medications
 crucial
-destroyers
 blew
 alliance
 solo
@@ -697,6 +790,9 @@ curtain
 fixture
 ethic
 insane
+```
+
+```
 determine
 gear
 oath
@@ -714,6 +810,9 @@ legislation
 devise
 forged
 cheque
+```
+
+```
 resemblance
 adversary
 smuggler
@@ -732,6 +831,9 @@ contrary
 featured
 essay
 propagating
+```
+
+```
 questionable
 pleasant
 oven
@@ -751,6 +853,9 @@ hefty
 mosque
 Muslim
 Moslem
+```
+
+```
 symbol
 bound
 exceedingly
@@ -766,6 +871,7 @@ kidnapping
 miraculously
 procedure
 poisonous
+```
 
 ```
 trait
@@ -907,8 +1013,6 @@ elegant
 ```
 
 ```
-contour
-coastline
 sandwich
 stigma
 stale
@@ -1088,7 +1192,6 @@ unprecedented
 ```
 
 ```
-posterity
 radioactive
 assault/offensive
 crouched
@@ -1675,5 +1778,16 @@ resignation
 protective
 sharper
 habitat
+arose
+defuse
+employee
+posterity
+accent
+contour
+coastline
+trace
+mortality
+foam
+insulation
 
 ```
