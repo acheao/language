@@ -2,8 +2,6 @@
 founder
 supervisor
 scrapheap
-cubicle
-curtain
 cater
 fitness
 joints
@@ -617,7 +615,6 @@ innovations
 ballot
 tactic
 fascinating
-arguably
 conservation
 sunlit
 otherworldly
@@ -891,9 +888,6 @@ morality
 remission
 disposed
 scary
-foster
-referendum
-participation
 Mafia
 acute
 encounter
@@ -1017,7 +1011,6 @@ sandwich
 stigma
 stale
 grudge
-cubicle
 temper
 peacock
 magnificent
@@ -1064,7 +1057,6 @@ fallen
 broad
 positive
 acclaim
-appalling
 refugee
 retribution
 deterrence
@@ -1272,10 +1264,6 @@ distracted
 
 ```
 affluent
-illustration
-architect
-surgeon
-vein
 entrust
 nephew
 brilliant
@@ -1283,10 +1271,6 @@ cross
 ```
 
 ```
-vein
-overheat
-friction
-engine
 soaked
 retirement
 workmate
@@ -1357,7 +1341,6 @@ disintegrated
 
 ```
 hazardous
-manner
 promotion
 bargain
 weary
@@ -1371,7 +1354,6 @@ attorney
 ```
 persecute
 oppressed
-schizophrenia
 geology
 ultimately
 cathedral
@@ -1789,5 +1771,30 @@ trace
 mortality
 foam
 insulation
+```
+
+```
+shattering
+vehicle
+collide
+manner
+appalling
+illustration
+schizophrenia
+friction
+overheat
+engine
+cubicle
+curtain
+referendum
+foster
+participation
+architect
+surgeon
+vein
+arguably
+pitch
+
+
 
 ```
