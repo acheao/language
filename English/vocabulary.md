@@ -1,3 +1,19 @@
+
+```python
+credible
+coarse
+rival
+moist
+shrink
+cramped
+schizophrenia
+bacteria
+bacterium
+spacecraft
+```
+
+---------------
+
 ```
 founder
 scrapheap
@@ -1735,6 +1751,7 @@ surgeon
 vein
 arguably
 pitch
+schizophrenia
 counsellor
 tenure
 material
@@ -1823,15 +1840,5 @@ reliance
 excessive
 imperative
 rampant
-credible
-coarse
-rival
-moist
-shrink
-cramped
-schizophrenia
-bacteria
-bacterium
-spacecraft
-
+```
 
