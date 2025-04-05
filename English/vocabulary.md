@@ -1,12 +1,10 @@
 ```
 founder
-supervisor
 scrapheap
 cater
 fitness
 joints
 consumption
-entertainment
 subordinate
 thickening
 retrospect
@@ -235,7 +233,6 @@ scant
 heartfelt
 exhibition
 essential
-entertainment
 disgusting
 league
 quarterback
@@ -325,7 +322,6 @@ tending
 immediate
 indifference
 tactics
-autograph
 litigation
 mechanisms
 astonishing
@@ -344,7 +340,6 @@ Monster
 perplexed
 continent
 adequate
-definitely
 philosopher
 cope
 marquee
@@ -476,7 +471,6 @@ cockpit
 posion
 inherited
 tenants
-supervisor
 Industry
 crack down
 galloped
@@ -551,7 +545,6 @@ highlighted
 brutality
 astronauts
 net-zero
-controversial
 fortune
 Atlantic
 admissions
@@ -562,7 +555,6 @@ schemes
 ```
 deceived
 outstanding
-hedge
 phrase
 cyanide
 swallowed
@@ -838,7 +830,6 @@ proposed
 legislature
 clientele
 constitute
-hefty
 mosque
 Muslim
 Moslem
@@ -871,7 +862,6 @@ galloping
 servant
 crowded
 bribe
-occupation
 colonial
 colony
 childproof
@@ -892,7 +882,6 @@ stockbroker
 defeat
 circumstance
 ceasefire
-reclaim
 reinvent
 behalf
 certificate
@@ -910,7 +899,6 @@ bizarre
 levity
 tenant
 roasting
-hedge
 pure
 pretend
 sculpture
@@ -921,7 +909,6 @@ hideously
 blackened
 candle
 Mass
-Buddhist
 salesperson
 sauce
 nominate
@@ -951,7 +938,6 @@ secretary
 occasion
 imam
 prey
-autograph
 plague
 indispensable
 nationalization
@@ -1053,8 +1039,6 @@ retribution
 deterrence
 renaissance
 whale
-octogenarian
-wipe
 stand-alone
 opinionated
 fuss
@@ -1079,7 +1063,6 @@ district
 chlorine
 bleach
 voluntary
-tablet
 leisure
 mechanism
 delicate
@@ -1113,7 +1096,6 @@ December
 fateful
 barely
 epidemic
-counsellor
 ```
 
 ```
@@ -1125,7 +1107,6 @@ despicable
 populate
 sophomore
 loyalty
-confidential
 hierarchical
 viral
 likelihood
@@ -1154,7 +1135,6 @@ exploiting
 plain
 premises
 journalism
-prodigious
 inextricably
 identical
 torn
@@ -1255,21 +1235,14 @@ distracted
 
 ```
 affluent
-entrust
-nephew
-brilliant
 cross
 ```
 
 ```
-soaked
 retirement
 workmate
 trait
-examine
-examiner
 niece
-nephew
 ```
 
 ```
@@ -1277,9 +1250,6 @@ bibliography
 hideously
 charred
 blackened
-kidney
-Hindu
-Buddhist
 falter
 portrait
 unanimously
@@ -1296,7 +1266,6 @@ heron
 democrat
 shuttle
 steelworks
-subtle
 assessor
 perjury
 rife
@@ -1318,8 +1287,6 @@ sermon
 ```
 
 ```
-cheeky
-tenure
 dormant
 embarrassment
 commitment
@@ -1331,10 +1298,8 @@ disintegrated
 ```
 
 ```
-hazardous
 promotion
 bargain
-weary
 gel
 aide
 regardless
@@ -1363,8 +1328,6 @@ violation
 transaction
 threshold
 ownership
-considerable
-exhausted
 ```
 
 ```
@@ -1373,9 +1336,7 @@ excess
 downturn
 imminent
 demise
-ordain
 athlete
-blessed
 prescription
 ```
 
@@ -1406,7 +1367,11 @@ dreary
 dread
 torment
 gnat
+<<<<<<< HEAD
 institute
+=======
+revolving
+>>>>>>> 3f5aff3de26259b4e93dd1f407d63a533d211ba1
 tragedy
 mayor
 ```
@@ -1418,6 +1383,10 @@ expanse
 injury
 tariff
 mutually
+<<<<<<< HEAD
+=======
+exclusive
+>>>>>>> 3f5aff3de26259b4e93dd1f407d63a533d211ba1
 ```
 
 ```
@@ -1428,13 +1397,10 @@ surprising
 surprisingly
 comic
 wacky
-antics
 ```
 ``
 ```
 spiritual
-bleak
-landscape
 alternative
 complementary
 magnify
@@ -1458,7 +1424,6 @@ navigate
 ```
 
 ```
-stake
 acquire
 outcome
 tying
@@ -1490,7 +1455,6 @@ innocence
 ```
 nuclear
 occur
-rural
 tremble
 shaking
 warfare
@@ -1587,7 +1551,6 @@ conservative
 
 ```
 testify
-testimonial
 tract
 Tibetan
 plateau
@@ -1772,6 +1735,65 @@ surgeon
 vein
 arguably
 pitch
+counsellor
+tenure
+material
+reclaim
+entrust
+nephew
+defendant
+brilliant
+Buddhist
+Hindu
+subtle
+testimonial
+prodigious
+protest
+controversial
+examine
+examiner
+kidney
+hazardous
+entertainment
+definitely
+cheeky
+antics
+sour
+soaked
+rub
+rubbing
+autograph
+hefty
+fashionable
+tablet
+bleak
+desolate
+landscape
+blessed
+democracy
+paralyse
+spine
+miracle
+credible
+rampant
+institute
+ordain
+stake
+utterly
+rural
+urban
+giant
+octogenarian
+encouraging
+constant
+exhausted
+occupation
+coarse
+considerable
+supervisor
+confidential
+weary
+hedge
 mystery
 audience
 heighten
@@ -1811,4 +1833,5 @@ schizophrenia
 bacteria
 bacterium
 spacecraft
-```
+
+
