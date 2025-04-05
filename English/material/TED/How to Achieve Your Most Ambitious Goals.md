@@ -3,10 +3,7 @@ Reviewer: Queenie Lee
 
 By a show of hands.
 
-How many of you believe you
-could replicate this image of Brad Pitt
-
-with just a pencil and piece of paper?
+How many of you believe you could replicate this image of Brad Pitt with just a pencil and piece of   paper?
 
 Well, I'm going to show you
 how to do this.
