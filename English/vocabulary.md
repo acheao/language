@@ -1527,8 +1527,6 @@ excoriate
 downtick
 venom
 directive
-specific
-specifically
 proposal
 accordance
 pentagon
@@ -1850,6 +1848,28 @@ emphasize
 sneaky
 sneakiest
 precipitation
+ledger
+manipulate
+intermediary
+iteration
+specific
+specifically
+hyperlinking
+handful
+diffuse
+gatekeepers
+compromised
+metaverse
+revolution
+mainstream
+inexpensive
+hogging
+mining
+household
+refrigerator
+ballooned
+fraction
+frictionless
 
 
 ```
