@@ -95,7 +95,7 @@ And so, if I wanted to achieve the type of outcome that I desire - doing well in
 
 And so I made a marginal adjustment.
 
-If I would get an assignment, let's say, read five chapters in a book, I wouldn't think of it as five hapters, I wouldn't even think of it as one chapter.
+If I would get an assignment, let's say, read five chapters in a book, I wouldn't think of it as five chapters, I wouldn't even think of it as one chapter.
 
 I would break it down into these tasks that I could achieve, that would require me to focus for just five or ten minutes at a time. 
 
