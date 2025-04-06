@@ -118,7 +118,6 @@ swift
 company
 neighbors
 confined
-emphasize
 reunion
 harmony
 pastries
@@ -186,8 +185,6 @@ dumb
 deaf
 graphics
 courage
-raid
-raiders
 indifference
 rifle
 frustration
@@ -294,7 +291,6 @@ church
 famine
 furious
 eligible
-headquarters
 prosecuting
 suburb
 intolerance
@@ -338,13 +334,11 @@ tending
 immediate
 indifference
 tactics
-litigation
 mechanisms
 astonishing
 advisory
 liberties
 curators
-excess
 Generosity
 enthusiasm
 retain
@@ -439,13 +433,11 @@ guard
 ```
 historic
 banter
-stagnant
 adjourned
 mayhem
 celery
 stalks
 doomed
-emphasize
 verdict
 adversaries
 corruption
@@ -499,7 +491,6 @@ consigned
 
 ```
 leather
-precipitation
 downtick
 atlas
 marched
@@ -768,7 +759,6 @@ problematic
 oversaw
 freshwater
 producer
-litigation
 auditor
 legislation
 devise
@@ -827,7 +817,6 @@ maladaptive
 obesity
 diabete
 gnat
-psychological
 outlook
 kidnapping
 miraculously
@@ -836,7 +825,6 @@ poisonous
 ```
 
 ```
-trait
 expansion
 communal
 gallop
@@ -923,7 +911,6 @@ prey
 plague
 indispensable
 nationalization
-propaganda
 masculinity
 femininity
 defect
@@ -980,7 +967,6 @@ capsule
 sprint
 dove
 maternity
-locust
 squib
 damp
 liven
@@ -991,7 +977,6 @@ procrastinator
 instant
 gratification
 affection
-mill
 cotton
 lush
 idiom
@@ -1007,7 +992,6 @@ dorm
 lawsuit
 dentist
 curb
-spew
 boost
 ```
 
@@ -1019,7 +1003,6 @@ acclaim
 refugee
 retribution
 deterrence
-renaissance
 whale
 stand-alone
 opinionated
@@ -1071,7 +1054,6 @@ mayhem
 adventure
 deliver
 clumsy
-seize
 regain
 stoicism
 December
@@ -1108,7 +1090,6 @@ pump
 disappointment
 sword
 scorn
-withering
 noun
 outlook
 glowing
@@ -1223,7 +1204,6 @@ cross
 ```
 retirement
 workmate
-trait
 niece
 ```
 
@@ -1314,8 +1294,6 @@ ownership
 
 ```
 orphan
-excess
-downturn
 imminent
 demise
 athlete
@@ -1462,7 +1440,6 @@ participant
 vigil
 theft
 staircase
-concrete
 decipher
 merit
 urgently
@@ -1714,8 +1691,6 @@ surgeon
 vein
 arguably
 pitch
-schizophrenia
-counsellor
 tenure
 material
 reclaim
@@ -1745,7 +1720,6 @@ rubbing
 autograph
 hefty
 fashionable
-tablet
 bleak
 desolate
 landscape
@@ -1754,7 +1728,6 @@ democracy
 paralyse
 spine
 miracle
-credible
 rampant
 institute
 ordain
@@ -1763,13 +1736,10 @@ utterly
 rural
 urban
 giant
-octogenarian
 encouraging
 constant
 exhausted
 occupation
-coarse
-considerable
 supervisor
 confidential
 weary
@@ -1800,7 +1770,6 @@ guardian
 bakery
 necklace
 reliance
-excessive
 imperative
 rampant
 laser
@@ -1841,6 +1810,46 @@ inexhaustible
 sustainably
 steward
 communicator
+ease
+underscore
+considerable
+gross
+negligence
+misconduct
+stagnant
+raider
+raid
+extensive
+alongside
+trait
+preliminary
+predict
+octogenarian
+concrete
+exclusive
+withering
+spew
+propaganda
+woe
+litigation
+tune
+locust
+downturn
+excess
+excessive
+psychological
+tablet
+renaissance
+tweak
+mill
+restlessly
+counsellor
+seize
+headquarters
+emphasize
+sneaky
+sneakiest
+precipitation
 
 
 ```
