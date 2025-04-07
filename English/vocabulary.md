@@ -36,7 +36,6 @@ procrastinator
 sneakiest
 wrestle
 constituency
-authority
 talent
 talented
 crime
@@ -190,7 +189,6 @@ rifle
 frustration
 explosion
 litres
-coup
 furniture
 cleverly
 unethical
@@ -347,7 +345,6 @@ retain
 ```
 Panic
 Monster
-perplexed
 continent
 adequate
 philosopher
@@ -364,15 +361,12 @@ spill
 ```
 
 ```
-conscience
 prosperity
 bullet
 psychologist
 fortune
-coup
 delegation
 niece
-bankruptcy
 stockbroker
 sacred
 preferred
@@ -438,14 +432,12 @@ mayhem
 celery
 stalks
 doomed
-verdict
 adversaries
 corruption
 overshoots
 torrent
 foul-mouthed
 racist
-hypnosis
 Judging
 misleading
 pull up
@@ -491,7 +483,6 @@ consigned
 
 ```
 leather
-downtick
 atlas
 marched
 coupon
@@ -854,7 +845,6 @@ circumstance
 ceasefire
 reinvent
 behalf
-certificate
 confident
 marsh
 quarterback
@@ -865,7 +855,6 @@ pneumonia
 prime
 trolley
 collapse
-bizarre
 levity
 tenant
 roasting
@@ -992,7 +981,6 @@ dorm
 lawsuit
 dentist
 curb
-boost
 ```
 
 ```
@@ -1173,9 +1161,6 @@ intervention
 ```
 
 ```
-coroner
-burial
-certificate
 charismatic
 villa
 oblivion
@@ -1214,7 +1199,6 @@ charred
 blackened
 falter
 portrait
-unanimously
 pale
 addiction
 detain
@@ -1280,7 +1264,6 @@ spy
 revolting
 stew
 itinerant
-guerrilla
 ```
 
 ```
@@ -1491,7 +1474,6 @@ condemnation
 signal
 adolescent
 concentration
-occasional
 recovery
 external
 ```
@@ -1524,7 +1506,6 @@ opponent
 
 ```
 excoriate
-downtick
 venom
 directive
 proposal
@@ -1685,8 +1666,6 @@ referendum
 foster
 participation
 architect
-surgeon
-vein
 arguably
 pitch
 tenure
@@ -1730,7 +1709,6 @@ rampant
 institute
 ordain
 stake
-utterly
 rural
 urban
 giant
@@ -1756,8 +1734,6 @@ hooked
 palpable
 metal
 cable
-desolate
-utterly
 exclusive
 genuine
 revolving
@@ -1870,7 +1846,30 @@ refrigerator
 ballooned
 fraction
 frictionless
-
+domestic
+consist
+bizarre
+unanimously
+surgeon
+vein
+blonde
+conscience
+authority
+treasurer
+bankruptcy
+boost
+verdict
+coup
+coroner
+burial
+certificate
+guerrilla
+perplexed
+utterly
+desolate
+hypnosis
+occasional
+downtick
 
 ```
 
