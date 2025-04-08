@@ -103,7 +103,6 @@ aerobics
 instructor
 routine
 lender
-mileage
 phrase
 bilinguals
 saturated
@@ -146,7 +145,6 @@ plates
 nurseries
 spreadsheet
 poverty
-penalty
 regime
 horrifying
 diamond
@@ -388,7 +386,6 @@ Deforestation
 ```
 compassion
 assassination
-prime
 literally
 implicit
 underlying
@@ -438,14 +435,12 @@ mayhem
 celery
 stalks
 doomed
-verdict
 adversaries
 corruption
 overshoots
 torrent
 foul-mouthed
 racist
-hypnosis
 Judging
 misleading
 pull up
@@ -466,8 +461,6 @@ bonuses
 visible
 flexible
 bipartisan
-devise
-manufacturing
 ```
 
 ```
@@ -478,7 +471,6 @@ sufficient
 cockpit
 posion
 inherited
-tenants
 Industry
 crack down
 galloped
@@ -532,7 +524,6 @@ sailed
 initiative
 restricting
 trolley
-inspection
 ```
 
 ```
@@ -603,7 +594,6 @@ meal
 tale
 welfare
 innovations
-ballot
 tactic
 fascinating
 conservation
@@ -708,7 +698,6 @@ flexible
 recession
 expressionism
 dominates
-melody
 mouthful
 relief
 April
@@ -759,9 +748,7 @@ problematic
 oversaw
 freshwater
 producer
-auditor
 legislation
-devise
 forged
 cheque
 ```
@@ -793,17 +780,14 @@ pleasant
 oven
 warrior
 disproportionate
-proposed
 cautionary
 clause
 disproportionate
 influence
 infect
-proposed
 legislature
 clientele
 constitute
-mosque
 Muslim
 Moslem
 ```
@@ -862,12 +846,10 @@ cement
 devastation
 conventional
 pneumonia
-prime
 trolley
 collapse
 bizarre
 levity
-tenant
 roasting
 pure
 pretend
@@ -980,14 +962,12 @@ affection
 cotton
 lush
 idiom
-owe
 reform
 pilot
 rookie
 detention
 internment
 magnet
-manufacturing
 dorm
 lawsuit
 dentist
@@ -1063,7 +1043,6 @@ epidemic
 ```
 
 ```
-<<<<<<< Updated upstream
 orchestra
 brass
 previous
@@ -1084,8 +1063,6 @@ narrative
 instruction
 disproportionate
 abdominal
-cram
-cramming
 pump
 disappointment
 sword
@@ -1275,7 +1252,6 @@ oppressed
 geology
 ultimately
 cathedral
-reputation
 spy
 revolting
 stew
@@ -1327,11 +1303,6 @@ dreary
 dread
 torment
 gnat
-<<<<<<< HEAD
-institute
-=======
-revolving
->>>>>>> 3f5aff3de26259b4e93dd1f407d63a533d211ba1
 tragedy
 mayor
 ```
@@ -1343,10 +1314,6 @@ expanse
 injury
 tariff
 mutually
-<<<<<<< HEAD
-=======
-exclusive
->>>>>>> 3f5aff3de26259b4e93dd1f407d63a533d211ba1
 ```
 
 ```
@@ -1364,8 +1331,6 @@ spiritual
 alternative
 complementary
 magnify
-rumour
-suspicion
 subjunctive
 estimate
 jury
@@ -1418,7 +1383,6 @@ occur
 tremble
 shaking
 warfare
-desert
 endorse
 ```
 
@@ -1430,14 +1394,12 @@ collaborative
 lotion
 tuition
 loan
-regeneration
 testimony
 scrutiny
 participant
 ```
 
 ```
-vigil
 theft
 staircase
 decipher
@@ -1618,8 +1580,6 @@ fledged
 fetch
 nominee
 colleague
-concession
-bench
 bully
 epiphany
 retreat
@@ -1685,15 +1645,11 @@ referendum
 foster
 participation
 architect
-surgeon
-vein
 arguably
 pitch
 tenure
 material
 reclaim
-entrust
-nephew
 defendant
 brilliant
 Buddhist
@@ -1747,18 +1703,15 @@ audience
 heighten
 tension
 muscular
-racket
 string
 knitting
 throughout
 relieve
-hooked
 palpable
 metal
 cable
 desolate
 utterly
-exclusive
 genuine
 revolving
 signature
@@ -1820,11 +1773,9 @@ raid
 extensive
 alongside
 trait
-preliminary
 predict
 octogenarian
 concrete
-exclusive
 withering
 spew
 propaganda
@@ -1870,6 +1821,53 @@ refrigerator
 ballooned
 fraction
 frictionless
+robustness
+prime
+minister
+midfielder
+appliance
+chore
+entrust
+nephew
+hypnosis
+auditor
+hostility
+investigation
+reputation
+ballot
+manufacturing
+bedtime
+desert
+propose
+inspection
+vein
+surgeon
+gush
+melody
+mosque
+copyright
+publisher
+inevitable
+regeneration
+preliminary
+penalty
+owe
+cram
+cramming
+mileage
+vigil
+racket
+verdict
+tenant
+exclusive
+suspicion
+rumour
+concession
+bench
+hook
+devise
+relieve
+
 
 
 ```
