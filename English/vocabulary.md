@@ -36,7 +36,6 @@ procrastinator
 sneakiest
 wrestle
 constituency
-authority
 talent
 talented
 crime
@@ -188,7 +187,6 @@ rifle
 frustration
 explosion
 litres
-coup
 furniture
 cleverly
 unethical
@@ -345,7 +343,6 @@ retain
 ```
 Panic
 Monster
-perplexed
 continent
 adequate
 philosopher
@@ -362,15 +359,12 @@ spill
 ```
 
 ```
-conscience
 prosperity
 bullet
 psychologist
 fortune
-coup
 delegation
 niece
-bankruptcy
 stockbroker
 sacred
 preferred
@@ -483,7 +477,6 @@ consigned
 
 ```
 leather
-downtick
 atlas
 marched
 coupon
@@ -592,7 +585,6 @@ procrastination
 sweat
 meal
 tale
-welfare
 innovations
 tactic
 fascinating
@@ -838,7 +830,6 @@ circumstance
 ceasefire
 reinvent
 behalf
-certificate
 confident
 marsh
 quarterback
@@ -848,7 +839,6 @@ conventional
 pneumonia
 trolley
 collapse
-bizarre
 levity
 roasting
 pure
@@ -972,7 +962,6 @@ dorm
 lawsuit
 dentist
 curb
-boost
 ```
 
 ```
@@ -1150,9 +1139,6 @@ intervention
 ```
 
 ```
-coroner
-burial
-certificate
 charismatic
 villa
 oblivion
@@ -1191,7 +1177,6 @@ charred
 blackened
 falter
 portrait
-unanimously
 pale
 addiction
 detain
@@ -1256,7 +1241,6 @@ spy
 revolting
 stew
 itinerant
-guerrilla
 ```
 
 ```
@@ -1453,7 +1437,6 @@ condemnation
 signal
 adolescent
 concentration
-occasional
 recovery
 external
 ```
@@ -1486,7 +1469,6 @@ opponent
 
 ```
 excoriate
-downtick
 venom
 directive
 proposal
@@ -1686,7 +1668,6 @@ rampant
 institute
 ordain
 stake
-utterly
 rural
 urban
 giant
@@ -1867,6 +1848,8 @@ bench
 hook
 devise
 relieve
+welfare
+
 
 
 
