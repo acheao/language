@@ -426,8 +426,6 @@ historic
 banter
 adjourned
 mayhem
-celery
-stalks
 doomed
 adversaries
 corruption
@@ -1317,7 +1315,6 @@ complementary
 magnify
 subjunctive
 estimate
-jury
 ```
 
 ```
@@ -1327,7 +1324,6 @@ gloom
 momentum
 entrepreneurial
 drench
-summon
 divided
 navigate
 ```
@@ -1849,8 +1845,10 @@ hook
 devise
 relieve
 welfare
-
-
+jury
+summon
+celery
+stalk
 
 
 ```
