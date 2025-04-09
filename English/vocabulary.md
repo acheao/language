@@ -129,7 +129,6 @@ evaluations
 ```
 slander
 defamation
-ramps
 truce
 stem
 prolonged
@@ -233,7 +232,6 @@ tussle
 stabbed
 obstacle
 woven
-anecdotes
 conserve
 scant
 ```
@@ -245,15 +243,12 @@ essential
 disgusting
 league
 quarterback
-orphan
 uncharted
 igniter
 slides
 woe
 ladder
 opposite
-alcoholism
-alcohol
 dedicated
 ```
 
@@ -268,7 +263,6 @@ slings
 magnified
 spanning
 cherished
-orphan
 constituency
 tyre
 pressure
@@ -336,7 +330,6 @@ liberties
 curators
 Generosity
 enthusiasm
-retain
 ```
 
 ```
@@ -476,7 +469,6 @@ leather
 atlas
 marched
 coupon
-parliamentary
 symptoms
 drove off
 sticking
@@ -583,7 +575,6 @@ meal
 tale
 innovations
 tactic
-fascinating
 conservation
 sunlit
 otherworldly
@@ -670,7 +661,6 @@ depression
 efficiency
 constitution
 compel
-parliamentary
 Parliament
 astonishing
 theatre
@@ -683,7 +673,6 @@ fitness
 emperor
 clashed
 flexible
-recession
 expressionism
 dominates
 mouthful
@@ -752,7 +741,6 @@ banter
 testimony
 emergence
 brand
-ramping
 inquiry
 calcium
 ruling
@@ -903,9 +891,6 @@ brutality
 reverse
 glucose
 lactose
-oppose
-dictatorship
-totalitarianism
 extinguisher
 broadcast
 pirate
@@ -927,8 +912,6 @@ stigma
 stale
 grudge
 temper
-peacock
-magnificent
 corner
 dairy
 capsule
@@ -998,12 +981,10 @@ delicate
 multiple
 employ
 recruit
-retain
 Metropolitan
 clung
 intentionally
 vague
-midst
 fuel
 shore
 invasive
@@ -1026,8 +1007,6 @@ epidemic
 ```
 
 ```
-orchestra
-brass
 previous
 despicable
 populate
@@ -1042,7 +1021,6 @@ forecast
 scrub
 coherent
 compelling
-narrative
 instruction
 disproportionate
 abdominal
@@ -1124,7 +1102,6 @@ prevailing
 ```
 evolve
 Royal
-navy
 naval
 psychiatrist
 trial
@@ -1217,7 +1194,6 @@ disintegrated
 
 ```
 promotion
-bargain
 gel
 aide
 regardless
@@ -1247,7 +1223,6 @@ ownership
 ```
 
 ```
-orphan
 imminent
 demise
 athlete
@@ -1592,7 +1567,6 @@ sharper
 habitat
 arose
 defuse
-employee
 posterity
 accent
 contour
@@ -1654,8 +1628,6 @@ landscape
 blessed
 democracy
 paralyse
-spine
-miracle
 rampant
 institute
 ordain
@@ -1664,8 +1636,6 @@ rural
 urban
 giant
 encouraging
-constant
-exhausted
 occupation
 supervisor
 confidential
@@ -1677,12 +1647,9 @@ heighten
 tension
 muscular
 string
-knitting
 throughout
 relieve
-palpable
 metal
-cable
 desolate
 utterly
 genuine
@@ -1695,13 +1662,11 @@ bakery
 necklace
 reliance
 imperative
-rampant
 laser
 photosynthetic
 abundant
 organism
 convinced
-exceedingly
 Arctic
 lantern
 lurk
@@ -1736,7 +1701,6 @@ steward
 communicator
 ease
 underscore
-considerable
 gross
 negligence
 misconduct
@@ -1848,8 +1812,46 @@ stalk
 fascism
 damp
 sufficient
+recession
+navy
+slowdown
+publication
+bargain
+parliamentary
+scale
+comply
+exceedingly
+peacock
+magnificent
+dictatorship
+totalitarianism
+oppose
+knitting
+employee
+ramp
+fascinating
+exhausted
+constant
+homage
+retain
+midst
 spare
-
+spine
+miracle
+chronic
+narrative
+anecdote
+alcohol
+alcoholism
+corpse
+decomposition
+considerable
+palpable
+orphan
+orchestra
+brass
+intimately
+cable
 
 
 ```
