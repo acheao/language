@@ -28,7 +28,6 @@ possibility
 practically
 exceed
 defiance
-maternity
 delight
 delighted
 inherit
@@ -101,7 +100,6 @@ aerobics
 instructor
 routine
 lender
-phrase
 bilinguals
 saturated
 uniqueness
@@ -147,21 +145,18 @@ horrifying
 diamond
 foyer
 torrent
-Mechanical
 ```
 
 ```
 helicopter
 demonstrators
 desperate
-migraines
 resul
 resolution
 soap
 drastic
 heritage
 kneecaps
-grains
 pesticides
 crops
 adjourned
@@ -184,7 +179,6 @@ indifference
 rifle
 frustration
 explosion
-litres
 furniture
 cleverly
 unethical
@@ -241,9 +235,7 @@ essential
 disgusting
 league
 quarterback
-uncharted
 igniter
-slides
 woe
 opposite
 dedicated
@@ -254,17 +246,14 @@ questionnaires
 videotape
 wealth
 fame
-toxic
 midlife
 slings
 magnified
 spanning
 cherished
 constituency
-tyre
 pressure
 dial
-unqualified
 predecessor
 compassion
 curtain
@@ -278,13 +267,11 @@ famine
 furious
 eligible
 prosecuting
-suburb
 intolerance
 lawn
 ivory
 beads
 regulatory
-eagle
 assembly
 daffodils
 epic
@@ -306,7 +293,6 @@ clutch
 rags
 retrospect
 intervention
-hydraulic
 rope
 coincidentally
 sight
@@ -320,7 +306,6 @@ tending
 immediate
 indifference
 tactics
-mechanisms
 astonishing
 advisory
 liberties
@@ -332,14 +317,12 @@ enthusiasm
 ```
 Panic
 Monster
-continent
 adequate
 philosopher
 cope
 marquee
 scant
 enterprises
-scratch
 soccer
 spaniel
 fist
@@ -362,7 +345,6 @@ stigma
 pneumonia
 contender
 basin
-Deforestation
 ```
 
 ```
@@ -378,7 +360,6 @@ unconscionable
 phenomenon
 upheld
 engages
-intact
 sympathy
 bump
 staircase
@@ -393,9 +374,7 @@ relevant
 curiosity
 knelt
 rational
-scandal
 apprehensions
-coalition
 consultant
 remarkably
 trademark
@@ -405,7 +384,6 @@ lactose
 intolerance
 courage
 resilience
-coffin
 guard
 ```
 
@@ -457,11 +435,9 @@ dioxide
 predecessors
 fluid
 enforcement
-consigned
 ```
 
 ```
-leather
 atlas
 marched
 coupon
@@ -483,7 +459,6 @@ jungle
 ```
 
 ```
-dialogue
 clutter
 album
 hit pay dirt
@@ -530,20 +505,17 @@ schemes
 ```
 deceived
 outstanding
-phrase
 cyanide
 swallowed
 maladaptive
 negatively
 productivity
 obesity
-halt
 plenty
 ```
 
 ```
 abundance
-maternity
 folks
 lectures
 resistance
@@ -566,7 +538,6 @@ procrastination
 ```
 
 ```
-sweat
 meal
 tale
 innovations
@@ -711,7 +682,6 @@ insane
 ```
 determine
 gear
-oath
 portion
 leadership
 alongside
@@ -728,7 +698,6 @@ cheque
 ```
 resemblance
 adversary
-smuggler
 admissions
 oppress
 neighborhoods
@@ -787,8 +756,6 @@ galloping
 servant
 crowded
 bribe
-colonial
-colony
 childproof
 moral
 morality
@@ -835,7 +802,6 @@ sauce
 nominate
 anniversary
 biography
-scratch
 sole
 tissue
 luggage
@@ -911,7 +877,6 @@ dairy
 capsule
 sprint
 dove
-maternity
 squib
 liven
 tribal
@@ -961,7 +926,6 @@ leukaemia
 claw
 accommodation
 urban
-endure
 taunt
 warrior
 tutor
@@ -970,14 +934,11 @@ chlorine
 bleach
 voluntary
 leisure
-mechanism
-delicate
 multiple
 employ
 recruit
 Metropolitan
 clung
-intentionally
 vague
 fuel
 shore
@@ -991,7 +952,6 @@ panic
 mayhem
 adventure
 deliver
-clumsy
 regain
 stoicism
 December
@@ -1002,7 +962,6 @@ epidemic
 
 ```
 previous
-despicable
 populate
 sophomore
 loyalty
@@ -1021,27 +980,22 @@ abdominal
 pump
 disappointment
 sword
-scorn
 noun
 outlook
 glowing
 exploit
 exploiting
-premises
 journalism
 inextricably
 identical
 torn
-endured
 environmentalists
 revealing
 loom
 transistor
 milky
 vulnerable
-contrast
 penalize
-wisdom
 asylum
 deportation
 geothermal
@@ -1062,7 +1016,6 @@ religious
 ```
 millennial
 defiance
-mechanism
 froze
 jamming
 scant
@@ -1077,12 +1030,10 @@ deaf
 blind
 blindly
 completion
-stifle
 spontaneous
 tacky
 souvenir
 dental
-decay
 prevalent
 amongst
 sizeable
@@ -1133,11 +1084,8 @@ niece
 ```
 
 ```
-bibliography
 hideously
-charred
 blackened
-falter
 portrait
 pale
 addiction
@@ -1150,10 +1098,8 @@ prone
 predation
 heron
 democrat
-shuttle
 steelworks
 assessor
-perjury
 rife
 successor
 hypocritical
@@ -1161,7 +1107,6 @@ hypocritical
 
 ```
 alphabetically
-humiliating
 eliminate
 downright
 preacher
@@ -1176,7 +1121,6 @@ sermon
 dormant
 embarrassment
 commitment
-gallery
 perception
 fragment
 dust
@@ -1185,7 +1129,6 @@ disintegrated
 
 ```
 promotion
-gel
 aide
 regardless
 prosecute
@@ -1207,14 +1150,12 @@ itinerant
 ```
 bricklayer
 vinaigrette
-violation
 transaction
 threshold
 ownership
 ```
 
 ```
-imminent
 demise
 athlete
 prescription
@@ -1231,7 +1172,6 @@ assassinate
 ```
 
 ```
-extinction
 cosiness
 disorder
 sponsor
@@ -1242,7 +1182,6 @@ reconstructive
 ```
 
 ```
-grain
 dreary
 dread
 torment
@@ -1252,8 +1191,6 @@ mayor
 ```
 
 ```
-dual
-nationality
 expanse
 injury
 tariff
@@ -1291,10 +1228,8 @@ navigate
 ```
 
 ```
-acquire
 outcome
 tying
-hammering
 direct
 director
 stout
@@ -1316,7 +1251,6 @@ distinguish
 indistinguishable
 parish
 vicar
-innocence
 ```
 
 ```
@@ -1391,7 +1325,6 @@ commission
 ```
 
 ```
-condemnation
 signal
 adolescent
 concentration
@@ -1405,7 +1338,6 @@ spiral
 hindsight
 skid
 fade
-polite
 temple
 accessible
 conservative
@@ -1414,8 +1346,6 @@ conservative
 ```
 testify
 tract
-Tibetan
-plateau
 coriander
 lime
 flavour
@@ -1429,7 +1359,6 @@ opponent
 excoriate
 venom
 directive
-proposal
 accordance
 pentagon
 shortage
@@ -1455,7 +1384,6 @@ maintenance
 entitle
 entitled
 chemist
-detour
 resilient
 handling
 rough
@@ -1463,7 +1391,6 @@ rough
 
 ```
 designate
-preference
 advance
 cheer
 cheerful
@@ -1565,7 +1492,6 @@ coastline
 trace
 mortality
 foam
-insulation
 ```
 
 ```
@@ -1604,7 +1530,6 @@ kidney
 hazardous
 entertainment
 definitely
-cheeky
 antics
 sour
 soaked
@@ -1613,15 +1538,12 @@ rubbing
 autograph
 hefty
 fashionable
-bleak
-desolate
 landscape
 blessed
 democracy
 paralyse
 rampant
 institute
-ordain
 stake
 rural
 urban
@@ -1641,7 +1563,6 @@ string
 throughout
 relieve
 metal
-desolate
 utterly
 genuine
 revolving
@@ -1700,18 +1621,13 @@ raider
 raid
 extensive
 alongside
-trait
 predict
-octogenarian
 concrete
-withering
 spew
 propaganda
 woe
-litigation
 tune
 locust
-downturn
 excess
 excessive
 psychological
@@ -1726,7 +1642,6 @@ headquarters
 emphasize
 sneaky
 sneakiest
-precipitation
 ledger
 manipulate
 intermediary
@@ -1748,11 +1663,9 @@ refrigerator
 ballooned
 fraction
 frictionless
-robustness
 prime
 minister
 midfielder
-appliance
 chore
 entrust
 nephew
@@ -1765,7 +1678,6 @@ ballot
 manufacturing
 bedtime
 desert
-propose
 inspection
 vein
 surgeon
@@ -1781,9 +1693,7 @@ penalty
 owe
 cram
 cramming
-mileage
 vigil
-racket
 verdict
 tenant
 exclusive
@@ -1809,7 +1719,6 @@ publication
 bargain
 parliamentary
 scale
-comply
 exceedingly
 peacock
 magnificent
@@ -1833,28 +1742,156 @@ narrative
 anecdote
 alcohol
 alcoholism
-corpse
-decomposition
 considerable
 palpable
 orphan
-orchestra
-brass
-intimately
 cable
 pioneering
 bioengineering
-irrigate
-plain
 compromise
 ladder
-kinetic
 workload
 enshrine
 constitution
-
-
-
+luxury
+destruction
+phrase
+spectacular
+insulation
+cheeky
+prospect
+unqualified
+acquire
+intentionally
+consist
+tyre
+coffin
+decay
+halt
+innocence
+octogenarian
+trait
+clumsy
+awkward
+eagle
+intact
+litigation
+independent
+bleak
+desolate
+hydraulic
+waist
+gallery
+hammering
+consign
+kinetic
+paramount
+deforestation
+downturn
+falter
+uncharted
+quartet
+scorn
+withering
+cholera
+litre
+burial
+certificate
+modest
+embark
+aggressive
+spectacular
+intimately
+endure
+corpse
+decomposition
+dispute
+mileage
+imminent
+condemn
+condemnation
+dialogue
+irrigate
+plain
+ordain
+coincidentally
+leather
+trek
+lid
+despicable
+wisdom
+terminate
+contrast
+suburb
+shuttle
+colonial
+colony
+fading
+scratch
+smuggler
+maternity
+temper
+chest
+rib
+cage
+lung
+documentary
+poll
+preference
+methane
+ritual
+racket
+grain
+muscle
+respondent
+gel
+illustrate
+robustness
+sticky
+comply
+nationality
+dual
+migraine
+spilt
+appliance
+charred
+estuary
+cocktail
+perjury
+oath
+mechanism
+mechanical
+specimen
+mediation
+continent
+plateau
+Tibetan
+philosophy
+slide
+sweat
+orchestra
+brass
+premises
+proposal
+propose
+coalition
+bibliography
+boost
+stifle
+cast
+manner
+violation
+violence
+toxic
+scandal
+detour
+precipitation
+polite
+humiliating
+delicate
+extinction
+prestige
+mourn
 
 ```
 
