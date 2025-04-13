@@ -129,8 +129,6 @@ defamation
 truce
 stem
 prolonged
-implicit
-underlying
 methodical
 consumption
 defiance
@@ -266,7 +264,6 @@ church
 famine
 furious
 eligible
-prosecuting
 intolerance
 lawn
 ivory
@@ -303,7 +300,6 @@ quick fix
 
 ```
 tending
-immediate
 indifference
 tactics
 astonishing
@@ -342,7 +338,6 @@ preferred
 rugged
 purple
 stigma
-pneumonia
 contender
 basin
 ```
@@ -351,8 +346,6 @@ basin
 compassion
 assassination
 literally
-implicit
-underlying
 Approximately
 raid
 astronauts
@@ -392,7 +385,6 @@ historic
 banter
 adjourned
 mayhem
-doomed
 adversaries
 corruption
 overshoots
@@ -448,7 +440,6 @@ illustrating
 tackle
 formal
 cinema-goers
-organic
 asteroids
 stardust
 Timing
@@ -651,7 +642,6 @@ healing
 wound
 aching
 shale
-knot
 cater
 cautionary
 scrapheap
@@ -763,7 +753,6 @@ remission
 disposed
 scary
 Mafia
-acute
 encounter
 tennis
 soccer
@@ -782,12 +771,10 @@ quarterback
 cement
 devastation
 conventional
-pneumonia
 trolley
 collapse
 levity
 roasting
-pure
 pretend
 sculpture
 ```
@@ -842,8 +829,6 @@ discrimination
 diet
 hurl
 reproductive
-fatal
-motorway
 swallow
 cyanide
 equip
@@ -985,8 +970,6 @@ outlook
 glowing
 exploit
 exploiting
-journalism
-inextricably
 identical
 torn
 environmentalists
@@ -997,7 +980,6 @@ milky
 vulnerable
 penalize
 asylum
-deportation
 geothermal
 unprecedented
 ```
@@ -1097,7 +1079,6 @@ stimulate
 prone
 predation
 heron
-democrat
 steelworks
 assessor
 rife
@@ -1106,7 +1087,6 @@ hypocritical
 ```
 
 ```
-alphabetically
 eliminate
 downright
 preacher
@@ -1131,7 +1111,6 @@ disintegrated
 promotion
 aide
 regardless
-prosecute
 attorney
 ```
 
@@ -1186,7 +1165,6 @@ dreary
 dread
 torment
 gnat
-tragedy
 mayor
 ```
 
@@ -1316,7 +1294,6 @@ pension
 entitlement
 volunteer
 tumour
-carpentry
 reap
 hospitality
 gifted
@@ -1363,7 +1340,6 @@ accordance
 pentagon
 shortage
 resort
-regale
 custom
 customs
 possession
@@ -1480,14 +1456,11 @@ overheard
 luminous
 resign
 resignation
-protective
 sharper
 habitat
 arose
-defuse
 posterity
 accent
-contour
 coastline
 trace
 mortality
@@ -1522,7 +1495,6 @@ Hindu
 subtle
 testimonial
 prodigious
-protest
 controversial
 examine
 examiner
@@ -1563,7 +1535,6 @@ string
 throughout
 relieve
 metal
-utterly
 genuine
 revolving
 signature
@@ -1616,7 +1587,6 @@ underscore
 gross
 negligence
 misconduct
-stagnant
 raider
 raid
 extensive
@@ -1636,7 +1606,6 @@ renaissance
 tweak
 mill
 restlessly
-counsellor
 seize
 headquarters
 emphasize
@@ -1661,8 +1630,6 @@ mining
 household
 refrigerator
 ballooned
-fraction
-frictionless
 prime
 minister
 midfielder
@@ -1693,7 +1660,6 @@ penalty
 owe
 cram
 cramming
-vigil
 verdict
 tenant
 exclusive
@@ -1713,8 +1679,6 @@ fascism
 damp
 sufficient
 recession
-navy
-slowdown
 publication
 bargain
 parliamentary
@@ -1733,7 +1697,6 @@ exhausted
 constant
 homage
 retain
-midst
 spare
 spine
 miracle
@@ -1743,7 +1706,6 @@ anecdote
 alcohol
 alcoholism
 considerable
-palpable
 orphan
 cable
 pioneering
@@ -1756,7 +1718,6 @@ constitution
 luxury
 destruction
 phrase
-spectacular
 insulation
 cheeky
 prospect
@@ -1778,11 +1739,9 @@ intact
 litigation
 independent
 bleak
-desolate
 hydraulic
 waist
 gallery
-hammering
 consign
 kinetic
 paramount
@@ -1800,14 +1759,12 @@ certificate
 modest
 embark
 aggressive
-spectacular
 intimately
 endure
 corpse
 decomposition
 dispute
 mileage
-imminent
 condemn
 condemnation
 dialogue
@@ -1815,10 +1772,8 @@ irrigate
 plain
 ordain
 coincidentally
-leather
 trek
 lid
-despicable
 wisdom
 terminate
 contrast
@@ -1892,6 +1847,60 @@ delicate
 extinction
 prestige
 mourn
+democrat
+sink
+leather
+wax
+navy
+alphabetically
+underlying
+implicit
+imminent
+delightful
+scholarly
+journal
+journalism
+defuse
+immediate
+knot
+fraction
+frictionless
+motorway
+fatal
+slowdown
+hammering
+pure
+deportation
+scramble
+counsellor
+palpable
+acute
+episode
+pneumonia
+doomed
+inextricably
+desolate
+utterly
+Pacific
+despicable
+perplexed
+stagnant
+wool
+carpentry
+vigil
+midst
+regale
+contour
+slam
+prosecute
+attorney
+spectacular
+repeatedly
+organic
+tragedy
+protest
+protective
+
 
 ```
 
