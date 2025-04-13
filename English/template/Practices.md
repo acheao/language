@@ -18,53 +18,20 @@ I can't sugarcoat it.
 
 It's a bit of a headfuck.
 
-25
-00:01:27,852 --> 00:01:29,420
-(Laughter)
+I have a lot of emotions about coming here.
 
-26
-00:01:30,287 --> 00:01:33,491
-I have a lot of emotions
-about coming here.
+And TED, also, I suspect, is feeling them too.
 
-27
-00:01:33,524 --> 00:01:38,028
-And TED, also, I suspect,
-is feeling them too.
+But what actually I finally realized yesterday is that the denial and the confusion that I've been feeling is maybe what you're feeling, too.
 
-28
-00:01:38,329 --> 00:01:41,665
-But what actually
-I finally realized yesterday
+I felt powerless for a really long time. 
 
-29
-00:01:41,665 --> 00:01:44,668
-is that the denial and the confusion
-that I've been feeling
+So if that's what you're feeling, I get it.
 
-30
-00:01:44,702 --> 00:01:46,971
-is maybe what you're feeling, too.
-
-31
-00:01:48,239 --> 00:01:51,709
-I felt powerless for a really long time.
-
-32
-00:01:51,742 --> 00:01:54,612
-So if that's what
-you're feeling, I get it.
-
-33
-00:01:55,412 --> 00:01:59,250
 But we have to act now.
 
-34
-00:01:59,583 --> 00:02:03,387
 My alarm system is ringing again.
 
-35
-00:02:05,256 --> 00:02:07,658
 There are things that we can do.
 
 36
