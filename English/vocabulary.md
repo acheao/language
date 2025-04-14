@@ -171,7 +171,6 @@ brooch
 ```
 dumb
 deaf
-graphics
 courage
 indifference
 rifle
@@ -334,8 +333,6 @@ delegation
 niece
 stockbroker
 sacred
-preferred
-rugged
 purple
 stigma
 contender
@@ -349,7 +346,6 @@ literally
 Approximately
 raid
 astronauts
-unconscionable
 phenomenon
 upheld
 engages
@@ -459,7 +455,6 @@ Uranium
 alphabet
 overcome
 lease
-oar
 sparks
 emergence
 granted
@@ -708,11 +703,8 @@ propagating
 questionable
 pleasant
 oven
-warrior
-disproportionate
 cautionary
 clause
-disproportionate
 influence
 infect
 legislature
@@ -730,7 +722,6 @@ photographer
 maladaptive
 obesity
 diabete
-gnat
 outlook
 kidnapping
 miraculously
@@ -770,7 +761,6 @@ marsh
 quarterback
 cement
 devastation
-conventional
 trolley
 collapse
 levity
@@ -854,8 +844,6 @@ elegant
 ```
 sandwich
 stigma
-stale
-grudge
 temper
 corner
 dairy
@@ -912,7 +900,6 @@ claw
 accommodation
 urban
 taunt
-warrior
 tutor
 district
 chlorine
@@ -932,7 +919,6 @@ intense
 nostalgia
 retailer
 reminder
-unconscionable
 panic
 mayhem
 adventure
@@ -940,7 +926,6 @@ deliver
 regain
 stoicism
 December
-fateful
 barely
 epidemic
 ```
@@ -960,7 +945,6 @@ scrub
 coherent
 compelling
 instruction
-disproportionate
 abdominal
 pump
 disappointment
@@ -1081,7 +1065,6 @@ predation
 heron
 steelworks
 assessor
-rife
 successor
 hypocritical
 ```
@@ -1128,7 +1111,6 @@ itinerant
 
 ```
 bricklayer
-vinaigrette
 transaction
 threshold
 ownership
@@ -1153,7 +1135,6 @@ assassinate
 ```
 cosiness
 disorder
-sponsor
 disparity
 Tory
 cosmetic
@@ -1163,8 +1144,6 @@ reconstructive
 ```
 dreary
 dread
-torment
-gnat
 mayor
 ```
 
@@ -1219,8 +1198,6 @@ afford
 prize
 personality
 cholesterol
-feud
-grudge
 ```
 
 ```
@@ -1233,7 +1210,6 @@ vicar
 
 ```
 nuclear
-occur
 tremble
 shaking
 warfare
@@ -1262,7 +1238,6 @@ urgently
 catalogue
 malicious
 gossip
-spur
 ```
 
 ```
@@ -1287,11 +1262,9 @@ comprise
 prestige
 bureaucracy
 repress
-pension
 ```
 
 ```
-entitlement
 volunteer
 tumour
 reap
@@ -1335,7 +1308,6 @@ opponent
 ```
 excoriate
 venom
-directive
 accordance
 pentagon
 shortage
@@ -1351,14 +1323,10 @@ visualize
 suicide
 sushi
 artillery
-betray
-betrayal
 heap
 teaspoon
 indigenous
 maintenance
-entitle
-entitled
 chemist
 resilient
 handling
@@ -1367,7 +1335,6 @@ rough
 
 ```
 designate
-advance
 cheer
 cheerful
 wave
@@ -1387,7 +1354,6 @@ truce
 allegiance
 swear
 swearing
-mudflat
 mud
 gorgeous
 stretch
@@ -1397,8 +1363,6 @@ grieving
 legalize
 contempt
 permanent
-shed
-assemble
 persecution
 victim
 arrangement
@@ -1484,7 +1448,6 @@ foster
 participation
 architect
 arguably
-pitch
 tenure
 material
 reclaim
@@ -1572,8 +1535,6 @@ gelatinous
 superefficient
 pellet
 salps
-swarm
-swarmed
 forensic
 excitement
 urgency
@@ -1633,7 +1594,6 @@ ballooned
 prime
 minister
 midfielder
-chore
 entrust
 nephew
 hypnosis
@@ -1668,7 +1628,6 @@ rumour
 concession
 bench
 hook
-devise
 relieve
 welfare
 jury
@@ -1740,10 +1699,8 @@ litigation
 independent
 bleak
 hydraulic
-waist
 gallery
 consign
-kinetic
 paramount
 deforestation
 downturn
@@ -1761,8 +1718,6 @@ embark
 aggressive
 intimately
 endure
-corpse
-decomposition
 dispute
 mileage
 condemn
@@ -1783,7 +1738,6 @@ colonial
 colony
 fading
 scratch
-smuggler
 maternity
 temper
 chest
@@ -1792,7 +1746,6 @@ cage
 lung
 documentary
 poll
-preference
 methane
 ritual
 racket
@@ -1816,21 +1769,17 @@ perjury
 oath
 mechanism
 mechanical
-specimen
 mediation
 continent
 plateau
 Tibetan
 philosophy
-slide
 sweat
-orchestra
 brass
 premises
 proposal
 propose
 coalition
-bibliography
 boost
 stifle
 cast
@@ -1843,7 +1792,6 @@ detour
 precipitation
 polite
 humiliating
-delicate
 extinction
 prestige
 mourn
@@ -1882,7 +1830,6 @@ inextricably
 desolate
 utterly
 Pacific
-despicable
 perplexed
 stagnant
 wool
@@ -1900,6 +1847,69 @@ organic
 tragedy
 protest
 protective
+widen
+delicate
+fateful
+rugged
+prefer
+preference
+smuggler
+imprisonment
+despicable
+swarm
+swarmed
+gnat
+torment
+mortality
+directive
+kinetic
+disproportionate
+warrior
+pension
+entitlement
+entitle
+entitled
+corpse
+decomposition
+inconsistent
+academic
+medicine
+conventional
+advance
+vinaigrette
+devise
+bibliography
+unconscionable
+waist
+daffodil
+luxury
+designate
+occur
+specimen
+slide
+betrayal
+betray
+unconscionable
+pitch
+shed
+assemble
+graphics
+replacement
+stale
+grudge
+feud
+burden
+spur
+rife
+oar
+orchestra
+mudflat
+chore
+sponsor
+divorce
+bankruptcy
+
+
 
 
 ```
