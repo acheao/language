@@ -174,7 +174,6 @@ deaf
 courage
 indifference
 rifle
-frustration
 explosion
 furniture
 cleverly
@@ -458,7 +457,6 @@ lease
 sparks
 emergence
 granted
-sailed
 initiative
 restricting
 trolley
@@ -495,7 +493,6 @@ cyanide
 swallowed
 maladaptive
 negatively
-productivity
 obesity
 plenty
 ```
@@ -818,7 +815,6 @@ prohibit
 discrimination
 diet
 hurl
-reproductive
 swallow
 cyanide
 equip
@@ -1335,8 +1331,6 @@ rough
 
 ```
 designate
-cheer
-cheerful
 wave
 mast
 mastered
@@ -1379,7 +1373,6 @@ incompetence
 exporter
 violence
 intensify
-sharply
 opposition
 misery
 peasant
@@ -1410,7 +1403,6 @@ sickle
 beta
 explanation
 transport
-allocate
 mature
 messy
 mess
@@ -1545,9 +1537,6 @@ steward
 communicator
 ease
 underscore
-gross
-negligence
-misconduct
 raider
 raid
 extensive
@@ -1615,12 +1604,10 @@ copyright
 publisher
 inevitable
 regeneration
-preliminary
 penalty
 owe
 cram
 cramming
-verdict
 tenant
 exclusive
 suspicion
@@ -1681,14 +1668,12 @@ insulation
 cheeky
 prospect
 unqualified
-acquire
 intentionally
 consist
 tyre
 coffin
 decay
 halt
-innocence
 octogenarian
 trait
 clumsy
@@ -1908,7 +1893,25 @@ chore
 sponsor
 divorce
 bankruptcy
-
+negligence
+misconduct
+acquire
+innocence
+product
+productivity
+reproductive
+sail
+sailed
+preliminary
+cheer
+cheerful
+cheered
+verdict
+excessive
+cathedral
+sharply
+allocate
+frustration
 
 
 
