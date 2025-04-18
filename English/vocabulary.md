@@ -126,7 +126,6 @@ evaluations
 ```
 slander
 defamation
-truce
 stem
 prolonged
 methodical
@@ -266,7 +265,6 @@ intolerance
 lawn
 ivory
 beads
-regulatory
 assembly
 daffodils
 epic
@@ -304,7 +302,6 @@ astonishing
 advisory
 liberties
 curators
-Generosity
 enthusiasm
 ```
 
@@ -609,7 +606,6 @@ edge
 inherited
 depression
 efficiency
-compel
 Parliament
 astonishing
 theatre
@@ -719,7 +715,6 @@ photographer
 maladaptive
 obesity
 diabete
-outlook
 kidnapping
 miraculously
 procedure
@@ -817,7 +812,6 @@ diet
 hurl
 swallow
 cyanide
-equip
 brutality
 reverse
 glucose
@@ -929,7 +923,6 @@ epidemic
 ```
 previous
 populate
-sophomore
 loyalty
 hierarchical
 viral
@@ -939,14 +932,12 @@ toe
 forecast
 scrub
 coherent
-compelling
 instruction
 abdominal
 pump
 disappointment
 sword
 noun
-outlook
 glowing
 exploit
 exploiting
@@ -1156,8 +1147,6 @@ robust
 swiftness
 surprising
 surprisingly
-comic
-wacky
 ```
 ``
 ```
@@ -1340,17 +1329,10 @@ offside
 podium
 flutter
 goal
-bearer
 tattered
 crowd
 breeze
-truce
-allegiance
-swear
-swearing
 mud
-gorgeous
-stretch
 grief
 grieve
 grieving
@@ -1374,7 +1356,6 @@ exporter
 violence
 intensify
 opposition
-misery
 peasant
 fledged
 fetch
@@ -1447,9 +1428,7 @@ defendant
 brilliant
 Buddhist
 Hindu
-subtle
 testimonial
-prodigious
 controversial
 examine
 examiner
@@ -1457,7 +1436,6 @@ kidney
 hazardous
 entertainment
 definitely
-antics
 sour
 soaked
 rub
@@ -1676,8 +1654,6 @@ decay
 halt
 octogenarian
 trait
-clumsy
-awkward
 eagle
 intact
 litigation
@@ -1694,13 +1670,11 @@ uncharted
 quartet
 scorn
 withering
-cholera
 litre
 burial
 certificate
 modest
 embark
-aggressive
 intimately
 endure
 dispute
@@ -1708,8 +1682,6 @@ mileage
 condemn
 condemnation
 dialogue
-irrigate
-plain
 ordain
 coincidentally
 trek
@@ -1759,14 +1731,12 @@ continent
 plateau
 Tibetan
 philosophy
-sweat
 brass
 premises
 proposal
 propose
 coalition
 boost
-stifle
 cast
 manner
 violation
@@ -1788,7 +1758,6 @@ navy
 alphabetically
 underlying
 implicit
-imminent
 delightful
 scholarly
 journal
@@ -1863,7 +1832,6 @@ conventional
 advance
 vinaigrette
 devise
-bibliography
 unconscionable
 waist
 daffodil
@@ -1872,7 +1840,6 @@ designate
 occur
 specimen
 slide
-betrayal
 betray
 unconscionable
 pitch
@@ -1880,9 +1847,6 @@ shed
 assemble
 graphics
 replacement
-stale
-grudge
-feud
 burden
 spur
 rife
@@ -1912,8 +1876,50 @@ cathedral
 sharply
 allocate
 frustration
+```
+
+```
+misery
+gorgeous
+stretch
+despicable
+irrigate
+plain
+bearer
+comic
+wacky
+antics
+sweat
+swear
+swearing
+allegiance
+concentration
+imminent
+subtle
+sophomore
+cholera
+betrayal
+equip
+generosity
+regulatory
+stifle
+treasurer
+compel
+compelling
+compelled
+outlook
+clumsy
+awkward
+bibliography
+prodigious
+aggressively
+aggressive
+truce
+feud
+grudge
+stale
+responsibility
 
 
 
 ```
-
