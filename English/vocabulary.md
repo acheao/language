@@ -1919,7 +1919,9 @@ feud
 grudge
 stale
 responsibility
+```
 
-
+```
+tattered
 
 ```
