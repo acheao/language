@@ -138,7 +138,6 @@ nurseries
 spreadsheet
 poverty
 regime
-horrifying
 diamond
 foyer
 torrent
@@ -163,7 +162,6 @@ photographs
 midwife
 deceived
 tanker
-sticking
 brooch
 ```
 
@@ -257,7 +255,6 @@ championed
 ```
 cinema-goers
 church
-famine
 furious
 eligible
 intolerance
@@ -273,7 +270,6 @@ Violent
 ```
 
 ```
-pessimistic
 distinctly
 royal
 burst
@@ -324,7 +320,6 @@ prosperity
 bullet
 psychologist
 fortune
-delegation
 niece
 stockbroker
 sacred
@@ -375,7 +370,6 @@ guard
 historic
 banter
 adjourned
-mayhem
 adversaries
 corruption
 overshoots
@@ -426,7 +420,6 @@ marched
 coupon
 symptoms
 drove off
-sticking
 illustrating
 tackle
 formal
@@ -455,7 +448,6 @@ emergence
 granted
 initiative
 restricting
-trolley
 ```
 
 ```
@@ -619,7 +611,6 @@ flexible
 expressionism
 dominates
 mouthful
-relief
 April
 stage
 charitable
@@ -672,7 +663,6 @@ cheque
 ```
 
 ```
-resemblance
 adversary
 admissions
 oppress
@@ -706,7 +696,6 @@ Moslem
 ```
 
 ```
-symbol
 bound
 illustrating
 photographer
@@ -725,7 +714,6 @@ gallop
 galloping
 servant
 crowded
-bribe
 childproof
 moral
 morality
@@ -742,14 +730,12 @@ wildlife
 stockbroker
 defeat
 circumstance
-ceasefire
 reinvent
 behalf
 confident
 marsh
 cement
 devastation
-trolley
 collapse
 levity
 roasting
@@ -770,9 +756,7 @@ biography
 sole
 tissue
 luggage
-armour
 cottage
-humanitarian
 impressionist
 favour
 tidy
@@ -786,7 +770,6 @@ subsidize
 drain
 estate
 membership
-secretary
 occasion
 imam
 prey
@@ -883,7 +866,6 @@ leukaemia
 claw
 accommodation
 urban
-taunt
 tutor
 district
 chlorine
@@ -895,16 +877,13 @@ employ
 recruit
 Metropolitan
 clung
-vague
 fuel
 shore
 invasive
 intense
-nostalgia
 retailer
 reminder
 panic
-mayhem
 adventure
 deliver
 regain
@@ -927,7 +906,6 @@ forecast
 scrub
 coherent
 instruction
-abdominal
 pump
 disappointment
 sword
@@ -936,7 +914,6 @@ glowing
 exploit
 exploiting
 identical
-torn
 environmentalists
 revealing
 loom
@@ -978,8 +955,6 @@ blind
 blindly
 completion
 spontaneous
-tacky
-souvenir
 dental
 prevalent
 amongst
@@ -999,7 +974,6 @@ intervention
 ```
 
 ```
-charismatic
 villa
 oblivion
 hip
@@ -1039,7 +1013,6 @@ detain
 ```
 
 ```
-stimulate
 prone
 predation
 heron
@@ -1051,7 +1024,6 @@ hypocritical
 
 ```
 eliminate
-downright
 preacher
 priest
 uninspired
@@ -1074,7 +1046,6 @@ disintegrated
 promotion
 aide
 regardless
-attorney
 ```
 
 ```
@@ -1108,7 +1079,6 @@ gravitational
 collision
 deserve
 machinery
-amateur
 assassinate
 ```
 
@@ -1152,13 +1122,11 @@ estimate
 ```
 
 ```
-grand
 affair
 gloom
 momentum
 entrepreneurial
 drench
-divided
 navigate
 ```
 
@@ -1198,9 +1166,6 @@ endorse
 popularity
 enthusiastic
 promote
-collaborative
-lotion
-tuition
 loan
 testimony
 scrutiny
@@ -1274,11 +1239,8 @@ conservative
 ```
 testify
 tract
-coriander
-lime
 flavour
 Thai
-cookery
 fiery
 opponent
 ```
@@ -1314,12 +1276,10 @@ rough
 ```
 designate
 wave
-mast
 mastered
 masterpiece
 referee
 offside
-podium
 flutter
 goal
 crowd
@@ -1357,7 +1317,6 @@ bully
 epiphany
 retreat
 hardliner
-barrier
 abhorrent
 civil
 sputter
@@ -1385,7 +1344,6 @@ overheard
 luminous
 resign
 resignation
-sharper
 habitat
 arose
 posterity
@@ -1418,8 +1376,6 @@ material
 reclaim
 defendant
 brilliant
-Buddhist
-Hindu
 testimonial
 controversial
 examine
@@ -1463,8 +1419,6 @@ metal
 genuine
 revolving
 signature
-instrument
-instrumentations
 guardian
 bakery
 necklace
@@ -1556,7 +1510,6 @@ midfielder
 entrust
 nephew
 hypnosis
-auditor
 hostility
 investigation
 reputation
@@ -1568,7 +1521,6 @@ inspection
 vein
 surgeon
 gush
-melody
 mosque
 copyright
 publisher
@@ -1578,7 +1530,6 @@ penalty
 cram
 cramming
 tenant
-exclusive
 suspicion
 rumour
 concession
@@ -1586,13 +1537,10 @@ bench
 hook
 relieve
 welfare
-jury
-summon
 celery
 stalk
 fascism
 damp
-sufficient
 recession
 publication
 bargain
@@ -1601,17 +1549,11 @@ scale
 exceedingly
 peacock
 magnificent
-dictatorship
-totalitarianism
-oppose
-knitting
 employee
 ramp
 fascinating
-exhausted
 constant
 homage
-retain
 spare
 spine
 miracle
@@ -1637,7 +1579,6 @@ insulation
 cheeky
 prospect
 unqualified
-intentionally
 consist
 tyre
 coffin
@@ -1652,20 +1593,15 @@ independent
 bleak
 hydraulic
 gallery
-consign
 paramount
 deforestation
 downturn
 falter
 uncharted
 quartet
-scorn
-withering
 litre
 burial
 certificate
-modest
-embark
 intimately
 endure
 dispute
@@ -1702,13 +1638,11 @@ respondent
 gel
 illustrate
 robustness
-sticky
 comply
 nationality
 dual
 migraine
 spilt
-appliance
 charred
 estuary
 cocktail
@@ -1759,7 +1693,6 @@ frictionless
 motorway
 fatal
 slowdown
-hammering
 pure
 deportation
 scramble
@@ -1773,7 +1706,6 @@ inextricably
 desolate
 utterly
 Pacific
-perplexed
 stagnant
 wool
 carpentry
@@ -1782,17 +1714,12 @@ midst
 regale
 contour
 slam
-prosecute
-attorney
-spectacular
 repeatedly
-organic
 tragedy
 protest
 protective
 widen
 delicate
-fateful
 rugged
 prefer
 preference
@@ -1822,7 +1749,6 @@ advance
 vinaigrette
 devise
 unconscionable
-waist
 daffodil
 luxury
 designate
@@ -1860,8 +1786,6 @@ cheered
 verdict
 excessive
 cathedral
-sharply
-allocate
 frustration
 ```
 
@@ -1883,7 +1807,6 @@ allegiance
 concentration
 imminent
 subtle
-sophomore
 cholera
 betrayal
 equip
@@ -1898,10 +1821,6 @@ outlook
 clumsy
 awkward
 bibliography
-prodigious
-aggressively
-aggressive
-truce
 feud
 grudge
 stale
@@ -1923,5 +1842,100 @@ quarterback
 thump
 poison
 poisonous
+bribe
+oppose
+dictatorship
+totalitarianism
+organic
+sufficient
+downright
+famine
+relief
+nostalgia
+prodigious
+divided
+scorn
+withering
+narrowly
+hammering
+wept
+auditor
+horrifying
+sharp
+sharper
+sharply
+instrument
+instrumentations
+consign
+treasury
+secretary
+delegation
+ceasefire
+stringent
+criteria
+appliance
+mast
+charismatic
+counter
+peacock
+exhausted
+intentionally
+vague
+cookery
+coriander
+lime
+pessimistic
+Buddhist
+Hindu
+retain
+truce
+wage
+resemblance
+podium
+lotion
+conscience
+indispensable
+waist
+embark
+aggressive
+aggressively
+aggressive
+debate
+stimulate
+barrier
+petty
+abdominal
+tuition
+amateur
+humanitarian
+sophomore
+trolley
+mayhem
+fateful
+modest
+knitting
+knit
+collaborative
+prosecute
+attorney
+tangible
+summon
+jury
+grand
+symbol
+torn
+taunt
+armour
+exclusive
+allocate
+perplexed
+spectacular
+stick
+sticky
+melody
+suburb
+tacky
+souvenir
+
 
 ```
