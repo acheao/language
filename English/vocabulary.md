@@ -160,7 +160,6 @@ defiance
 cockpit
 photographs
 midwife
-deceived
 tanker
 brooch
 ```
@@ -238,7 +237,6 @@ questionnaires
 videotape
 wealth
 fame
-midlife
 slings
 magnified
 spanning
@@ -248,7 +246,6 @@ pressure
 dial
 predecessor
 compassion
-curtain
 championed
 ```
 
@@ -274,7 +271,6 @@ distinctly
 royal
 burst
 curious
-hare
 transition
 fighter
 clutch
@@ -407,7 +403,6 @@ posion
 inherited
 Industry
 crack down
-galloped
 dioxide
 predecessors
 fluid
@@ -475,7 +470,6 @@ schemes
 ```
 
 ```
-deceived
 outstanding
 cyanide
 swallowed
@@ -590,7 +584,6 @@ sequence
 grip
 gripping
 proceeding
-triad
 minority
 edge
 inherited
@@ -627,7 +620,6 @@ scrapheap
 ```
 onboard
 treatment
-tortoise
 medications
 crucial
 blew
@@ -640,7 +632,6 @@ stability
 regional
 radical
 hellfire
-curtain
 fixture
 ethic
 insane
@@ -710,8 +701,6 @@ procedure
 ```
 expansion
 communal
-gallop
-galloping
 servant
 crowded
 childproof
@@ -734,13 +723,11 @@ reinvent
 behalf
 confident
 marsh
-cement
 devastation
 collapse
 levity
 roasting
 pretend
-sculpture
 ```
 
 ```
@@ -760,7 +747,6 @@ cottage
 impressionist
 favour
 tidy
-defender
 corruption
 prosperity
 ```
@@ -845,10 +831,7 @@ curb
 fallen
 broad
 positive
-acclaim
 refugee
-retribution
-deterrence
 whale
 stand-alone
 opinionated
@@ -921,7 +904,6 @@ transistor
 milky
 vulnerable
 penalize
-asylum
 geothermal
 unprecedented
 ```
@@ -954,7 +936,6 @@ deaf
 blind
 blindly
 completion
-spontaneous
 dental
 prevalent
 amongst
@@ -993,7 +974,6 @@ distracted
 ```
 
 ```
-affluent
 cross
 ```
 
@@ -1049,8 +1029,6 @@ regardless
 ```
 
 ```
-persecute
-oppressed
 geology
 ultimately
 cathedral
@@ -1084,9 +1062,7 @@ assassinate
 
 ```
 cosiness
-disorder
 disparity
-Tory
 cosmetic
 reconstructive
 ```
@@ -1117,7 +1093,6 @@ spiritual
 alternative
 complementary
 magnify
-subjunctive
 estimate
 ```
 
@@ -1135,7 +1110,6 @@ outcome
 tying
 direct
 director
-stout
 ```
 
 ```
@@ -1159,7 +1133,6 @@ nuclear
 tremble
 shaking
 warfare
-endorse
 ```
 
 ```
@@ -1179,8 +1152,6 @@ decipher
 merit
 urgently
 catalogue
-malicious
-gossip
 ```
 
 ```
@@ -1188,7 +1159,6 @@ amused
 conjuring
 conjure
 obsession
-speculation
 amid
 brief
 bickering
@@ -1203,7 +1173,6 @@ leak
 behave
 comprise
 prestige
-bureaucracy
 repress
 ```
 
@@ -1219,7 +1188,6 @@ commission
 
 ```
 signal
-adolescent
 concentration
 recovery
 external
@@ -1306,10 +1274,8 @@ incompetence
 ```
 exporter
 violence
-intensify
 opposition
 peasant
-fledged
 fetch
 nominee
 colleague
@@ -1317,7 +1283,6 @@ bully
 epiphany
 retreat
 hardliner
-abhorrent
 civil
 sputter
 hum
@@ -1350,7 +1315,6 @@ posterity
 accent
 coastline
 trace
-mortality
 foam
 ```
 
@@ -1364,8 +1328,6 @@ illustration
 friction
 overheat
 engine
-cubicle
-curtain
 referendum
 foster
 participation
@@ -1374,7 +1336,6 @@ arguably
 tenure
 material
 reclaim
-defendant
 brilliant
 testimonial
 controversial
@@ -1398,8 +1359,6 @@ paralyse
 rampant
 institute
 stake
-rural
-urban
 giant
 encouraging
 occupation
@@ -1415,7 +1374,6 @@ muscular
 string
 throughout
 relieve
-metal
 genuine
 revolving
 signature
@@ -1471,7 +1429,6 @@ spew
 propaganda
 woe
 tune
-locust
 excess
 excessive
 psychological
@@ -1507,8 +1464,6 @@ ballooned
 prime
 minister
 midfielder
-entrust
-nephew
 hypnosis
 hostility
 investigation
@@ -1520,7 +1475,6 @@ desert
 inspection
 vein
 surgeon
-gush
 mosque
 copyright
 publisher
@@ -1539,14 +1493,12 @@ relieve
 welfare
 celery
 stalk
-fascism
 damp
 recession
 publication
 bargain
 parliamentary
 scale
-exceedingly
 peacock
 magnificent
 employee
@@ -1563,7 +1515,6 @@ anecdote
 alcohol
 alcoholism
 considerable
-orphan
 cable
 pioneering
 bioengineering
@@ -1584,7 +1535,6 @@ tyre
 coffin
 decay
 halt
-octogenarian
 trait
 eagle
 intact
@@ -1600,12 +1550,9 @@ falter
 uncharted
 quartet
 litre
-burial
-certificate
 intimately
 endure
 dispute
-mileage
 condemn
 condemnation
 dialogue
@@ -1667,7 +1614,6 @@ violation
 violence
 toxic
 scandal
-detour
 precipitation
 polite
 humiliating
@@ -1678,7 +1624,6 @@ democrat
 leather
 wax
 navy
-alphabetically
 underlying
 implicit
 delightful
@@ -1710,7 +1655,6 @@ stagnant
 wool
 carpentry
 vigil
-midst
 regale
 contour
 slam
@@ -1725,12 +1669,10 @@ prefer
 preference
 smuggler
 imprisonment
-despicable
 swarm
 swarmed
 gnat
 torment
-mortality
 directive
 kinetic
 disproportionate
@@ -1768,7 +1710,6 @@ rife
 oar
 orchestra
 mudflat
-chore
 sponsor
 divorce
 bankruptcy
@@ -1779,7 +1720,6 @@ productivity
 reproductive
 sail
 sailed
-preliminary
 cheer
 cheerful
 cheered
@@ -1791,9 +1731,6 @@ frustration
 
 ```
 misery
-gorgeous
-stretch
-despicable
 irrigate
 plain
 bearer
@@ -1808,7 +1745,6 @@ concentration
 imminent
 subtle
 cholera
-betrayal
 equip
 generosity
 regulatory
@@ -1821,9 +1757,6 @@ outlook
 clumsy
 awkward
 bibliography
-feud
-grudge
-stale
 responsibility
 ```
 
@@ -1843,7 +1776,6 @@ thump
 poison
 poisonous
 bribe
-oppose
 dictatorship
 totalitarianism
 organic
@@ -1871,8 +1803,6 @@ treasury
 secretary
 delegation
 ceasefire
-stringent
-criteria
 appliance
 mast
 charismatic
@@ -1924,18 +1854,109 @@ jury
 grand
 symbol
 torn
-taunt
 armour
 exclusive
 allocate
 perplexed
-spectacular
 stick
 sticky
 melody
 suburb
 tacky
 souvenir
+taunt
+spectacular
+shaking
+```
 
+```
+corruption
+concentrated
+echelon
+occasional
+adolescent
+midlife
+octogenarian
+orphan
+plant
+gallop
+galloping
+speculation
+aristocracy
+rural
+urban
+cement
+asylum
+alphabetically
+exceedingly
+endorse
+affluent
+Tory
+abhorrent
+mileage
+vary
+bureaucracy
+fledged
+locust
+deceive
+shiver
+gush
+defend
+defender
+defendant
+persecute
+oppressed
+oppress
+stretch
+gorgeous
+supreme
+drill
+tortoise
+hare
+criteria
+scorn
+pent
+feud
+grudge
+stale
+cubicle
+curtain
+stringent
+mortality
+```
 
+```
+retribution
+deterrence
+chore
+disorder
+incompetence
+consists
+midst
+malicious
+gossip
+fascism
+stout
+subjunctive
+oppose
+triad
+architecture
+sculpture
+intensify
+betrayal
+unanimously
+spontaneous
+despicable
+deserved
+acclaim
+nephew
+entrust
+applicant
+detour
+burial
+certificate
+metal
+profile
+preliminary
+immerse
 ```
