@@ -69,7 +69,6 @@ construction
 smoother
 smooth
 convenient
-relevant
 ambiguity
 considerate
 capable
@@ -240,7 +239,6 @@ fame
 slings
 magnified
 spanning
-cherished
 constituency
 pressure
 dial
@@ -312,7 +310,6 @@ spill
 ```
 
 ```
-prosperity
 bullet
 psychologist
 fortune
@@ -345,7 +342,6 @@ forged
 
 ```
 cheque
-relevant
 curiosity
 knelt
 rational
@@ -354,8 +350,6 @@ consultant
 remarkably
 trademark
 reflect
-glucose
-lactose
 intolerance
 courage
 resilience
@@ -748,7 +742,6 @@ impressionist
 favour
 tidy
 corruption
-prosperity
 ```
 
 ```
@@ -779,8 +772,6 @@ swallow
 cyanide
 brutality
 reverse
-glucose
-lactose
 extinguisher
 broadcast
 pirate
@@ -812,14 +803,11 @@ procrastination
 procrastinator
 instant
 gratification
-affection
 cotton
 lush
 idiom
 reform
 pilot
-detention
-internment
 magnet
 dorm
 lawsuit
@@ -1032,7 +1020,6 @@ regardless
 geology
 ultimately
 cathedral
-spy
 revolting
 stew
 itinerant
@@ -1148,7 +1135,6 @@ participant
 ```
 theft
 staircase
-decipher
 merit
 urgently
 catalogue
@@ -1216,13 +1202,11 @@ opponent
 ```
 excoriate
 venom
-accordance
 pentagon
 shortage
 resort
 custom
 customs
-possession
 fundamental
 unfold
 fold
@@ -1246,7 +1230,6 @@ designate
 wave
 mastered
 masterpiece
-referee
 offside
 flutter
 goal
@@ -1364,7 +1347,6 @@ encouraging
 occupation
 supervisor
 confidential
-weary
 hedge
 mystery
 audience
@@ -1465,7 +1447,6 @@ prime
 minister
 midfielder
 hypnosis
-hostility
 investigation
 reputation
 ballot
@@ -1591,8 +1572,6 @@ dual
 migraine
 spilt
 charred
-estuary
-cocktail
 perjury
 oath
 mechanism
@@ -1614,7 +1593,6 @@ violation
 violence
 toxic
 scandal
-precipitation
 polite
 humiliating
 extinction
@@ -1642,7 +1620,6 @@ pure
 deportation
 scramble
 counsellor
-palpable
 acute
 episode
 pneumonia
@@ -1707,7 +1684,6 @@ replacement
 burden
 spur
 rife
-oar
 orchestra
 mudflat
 sponsor
@@ -1744,7 +1720,6 @@ allegiance
 concentration
 imminent
 subtle
-cholera
 equip
 generosity
 regulatory
@@ -1766,7 +1741,6 @@ misconduct
 bargain
 sink
 terminate
-negligence
 squib
 relegate
 owe
@@ -1775,12 +1749,10 @@ quarterback
 thump
 poison
 poisonous
-bribe
 dictatorship
 totalitarianism
 organic
 sufficient
-downright
 famine
 relief
 nostalgia
@@ -1790,7 +1762,6 @@ scorn
 withering
 narrowly
 hammering
-wept
 auditor
 horrifying
 sharp
@@ -1803,8 +1774,6 @@ treasury
 secretary
 delegation
 ceasefire
-appliance
-mast
 charismatic
 counter
 peacock
@@ -1836,7 +1805,6 @@ barrier
 petty
 abdominal
 tuition
-amateur
 humanitarian
 sophomore
 trolley
@@ -1872,7 +1840,6 @@ shaking
 ```
 corruption
 concentrated
-echelon
 occasional
 adolescent
 midlife
@@ -1882,10 +1849,8 @@ plant
 gallop
 galloping
 speculation
-aristocracy
 rural
 urban
-cement
 asylum
 alphabetically
 exceedingly
@@ -1944,7 +1909,6 @@ architecture
 sculpture
 intensify
 betrayal
-unanimously
 spontaneous
 despicable
 deserved
@@ -1959,4 +1923,48 @@ metal
 profile
 preliminary
 immerse
+```
+
+```
+concrete
+negligence
+accordance
+prosperity
+referee
+bribe
+thesis
+supposed
+cholera
+unanimously
+hostility
+precipitation
+glucose
+lactose
+relevant
+mast
+aircraft
+detention
+internment 
+oar
+wept
+cynicism
+weary
+auction
+spy
+echelon
+aristocracy
+amateur
+cement
+cocktail
+estuary
+appliance
+cherish
+cherished
+possession
+downright
+decipher
+affection
+palpable
+
+
 ```
