@@ -738,7 +738,6 @@ sole
 tissue
 luggage
 cottage
-impressionist
 favour
 tidy
 corruption
@@ -951,7 +950,6 @@ figurative
 
 ```
 mist
-swirl
 unrealistic
 corporate
 cooperation
@@ -1142,8 +1140,6 @@ catalogue
 
 ```
 amused
-conjuring
-conjure
 obsession
 amid
 brief
@@ -1201,10 +1197,8 @@ opponent
 
 ```
 excoriate
-venom
 pentagon
 shortage
-resort
 custom
 customs
 fundamental
@@ -1464,7 +1458,6 @@ regeneration
 penalty
 cram
 cramming
-tenant
 suspicion
 rumour
 concession
@@ -1497,14 +1490,11 @@ alcohol
 alcoholism
 considerable
 cable
-pioneering
-bioengineering
 compromise
 ladder
 workload
 enshrine
 constitution
-luxury
 destruction
 phrase
 insulation
@@ -1549,7 +1539,6 @@ colonial
 colony
 fading
 scratch
-maternity
 temper
 chest
 rib
@@ -1565,7 +1554,6 @@ muscle
 respondent
 gel
 illustrate
-robustness
 comply
 nationality
 dual
@@ -1669,7 +1657,6 @@ vinaigrette
 devise
 unconscionable
 daffodil
-luxury
 designate
 occur
 specimen
@@ -1724,7 +1711,6 @@ equip
 generosity
 regulatory
 stifle
-treasurer
 compel
 compelling
 compelled
@@ -1758,7 +1744,6 @@ relief
 nostalgia
 prodigious
 divided
-scorn
 withering
 narrowly
 hammering
@@ -1823,7 +1808,6 @@ grand
 symbol
 torn
 armour
-exclusive
 allocate
 perplexed
 stick
@@ -1879,7 +1863,6 @@ drill
 tortoise
 hare
 criteria
-scorn
 pent
 feud
 grudge
@@ -1960,11 +1943,29 @@ estuary
 appliance
 cherish
 cherished
-possession
 downright
 decipher
 affection
 palpable
+seethe
+bioengineering
+pioneering
+robustness
+luxury
+tour
+impressionist
+treasure
+treasurer
+possession
+tenant
+exclusive
+venom
+conjure
+conjuring
+maternity
+scorn
+swirl
+resort
 
 
 ```
