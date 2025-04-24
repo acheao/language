@@ -21,13 +21,10 @@ cater
 fitness
 joints
 consumption
-subordinate
 thickening
 retrospect
 possibility
-practically
 exceed
-defiance
 delight
 delighted
 inherit
@@ -100,7 +97,6 @@ instructor
 routine
 lender
 bilinguals
-saturated
 uniqueness
 ```
 
@@ -129,16 +125,13 @@ stem
 prolonged
 methodical
 consumption
-defiance
 brooch
 saint
 plates
 nurseries
 spreadsheet
 poverty
-regime
 diamond
-foyer
 torrent
 ```
 
@@ -155,7 +148,6 @@ kneecaps
 pesticides
 crops
 adjourned
-defiance
 cockpit
 photographs
 midwife
@@ -328,8 +320,6 @@ assassination
 literally
 Approximately
 raid
-astronauts
-phenomenon
 upheld
 engages
 sympathy
@@ -400,7 +390,6 @@ crack down
 dioxide
 predecessors
 fluid
-enforcement
 ```
 
 ```
@@ -424,7 +413,6 @@ jungle
 
 ```
 clutter
-album
 hit pay dirt
 inscription
 grip
@@ -451,10 +439,8 @@ Islam
 Christianity
 Judaism
 preserve
-defiance
 highlighted
 brutality
-astronauts
 net-zero
 fortune
 Atlantic
@@ -615,7 +601,6 @@ scrapheap
 onboard
 treatment
 medications
-crucial
 blew
 alliance
 solo
@@ -624,7 +609,6 @@ televise
 juice
 stability
 regional
-radical
 hellfire
 fixture
 ethic
@@ -673,7 +657,6 @@ cautionary
 clause
 influence
 infect
-legislature
 clientele
 constitute
 Muslim
@@ -721,7 +704,6 @@ devastation
 collapse
 levity
 roasting
-pretend
 ```
 
 ```
@@ -783,7 +765,6 @@ intolerance
 consensus
 clutter
 sophisticated
-elegant
 ```
 
 ```
@@ -796,7 +777,6 @@ capsule
 sprint
 dove
 liven
-tribal
 rational
 procrastination
 procrastinator
@@ -831,10 +811,8 @@ snippet
 transcription
 trailer
 plot
-astronaut
 leukaemia
 claw
-accommodation
 urban
 tutor
 district
@@ -852,13 +830,11 @@ shore
 invasive
 intense
 retailer
-reminder
 panic
 adventure
 deliver
 regain
 stoicism
-December
 barely
 epidemic
 ```
@@ -892,7 +868,6 @@ milky
 vulnerable
 penalize
 geothermal
-unprecedented
 ```
 
 ```
@@ -908,7 +883,6 @@ religious
 
 ```
 millennial
-defiance
 froze
 jamming
 scant
@@ -935,7 +909,6 @@ prevailing
 evolve
 Royal
 naval
-psychiatrist
 trial
 maladaptive
 intervention
@@ -974,7 +947,6 @@ hideously
 blackened
 portrait
 pale
-addiction
 detain
 ```
 
@@ -985,7 +957,6 @@ heron
 steelworks
 assessor
 successor
-hypocritical
 ```
 
 ```
@@ -1016,7 +987,6 @@ regardless
 
 ```
 geology
-ultimately
 cathedral
 revolting
 stew
@@ -1102,7 +1072,6 @@ Joan of Arc
 afford
 prize
 personality
-cholesterol
 ```
 
 ```
@@ -1133,9 +1102,7 @@ participant
 ```
 theft
 staircase
-merit
 urgently
-catalogue
 ```
 
 ```
@@ -1252,7 +1219,6 @@ incompetence
 exporter
 violence
 opposition
-peasant
 fetch
 nominee
 colleague
@@ -1302,11 +1268,8 @@ collide
 manner
 appalling
 illustration
-friction
 overheat
 engine
-referendum
-foster
 participation
 architect
 arguably
@@ -1440,7 +1403,6 @@ ballooned
 prime
 minister
 midfielder
-hypnosis
 investigation
 reputation
 ballot
@@ -1468,7 +1430,6 @@ welfare
 celery
 stalk
 damp
-recession
 publication
 bargain
 parliamentary
@@ -1489,7 +1450,6 @@ anecdote
 alcohol
 alcoholism
 considerable
-cable
 compromise
 ladder
 workload
@@ -1540,9 +1500,6 @@ colony
 fading
 scratch
 temper
-chest
-rib
-cage
 lung
 documentary
 poll
@@ -1552,9 +1509,6 @@ racket
 grain
 muscle
 respondent
-gel
-illustrate
-comply
 nationality
 dual
 migraine
@@ -1573,7 +1527,6 @@ brass
 premises
 proposal
 propose
-coalition
 boost
 cast
 manner
@@ -1585,7 +1538,6 @@ polite
 humiliating
 extinction
 prestige
-mourn
 democrat
 leather
 wax
@@ -1600,7 +1552,6 @@ defuse
 immediate
 knot
 fraction
-frictionless
 motorway
 fatal
 slowdown
@@ -1610,7 +1561,6 @@ scramble
 counsellor
 acute
 episode
-pneumonia
 doomed
 inextricably
 desolate
@@ -1619,7 +1569,6 @@ Pacific
 stagnant
 wool
 carpentry
-vigil
 regale
 contour
 slam
@@ -1683,10 +1632,6 @@ productivity
 reproductive
 sail
 sailed
-cheer
-cheerful
-cheered
-verdict
 excessive
 cathedral
 frustration
@@ -1772,7 +1717,6 @@ pessimistic
 Buddhist
 Hindu
 retain
-truce
 wage
 resemblance
 podium
@@ -1780,16 +1724,11 @@ lotion
 conscience
 indispensable
 waist
-embark
-aggressive
-aggressively
-aggressive
 debate
 stimulate
 barrier
 petty
 abdominal
-tuition
 humanitarian
 sophomore
 trolley
@@ -1799,8 +1738,6 @@ modest
 knitting
 knit
 collaborative
-prosecute
-attorney
 tangible
 summon
 jury
@@ -1823,9 +1760,6 @@ shaking
 
 ```
 corruption
-concentrated
-occasional
-adolescent
 midlife
 octogenarian
 orphan
@@ -1839,7 +1773,6 @@ asylum
 alphabetically
 exceedingly
 endorse
-affluent
 Tory
 abhorrent
 mileage
@@ -1862,7 +1795,6 @@ supreme
 drill
 tortoise
 hare
-criteria
 pent
 feud
 grudge
@@ -1874,8 +1806,6 @@ mortality
 ```
 
 ```
-retribution
-deterrence
 chore
 disorder
 incompetence
@@ -1893,7 +1823,6 @@ sculpture
 intensify
 betrayal
 spontaneous
-despicable
 deserved
 acclaim
 nephew
@@ -1910,8 +1839,6 @@ immerse
 
 ```
 concrete
-negligence
-accordance
 prosperity
 referee
 bribe
@@ -1924,7 +1851,6 @@ precipitation
 glucose
 lactose
 relevant
-mast
 aircraft
 detention
 internment 
@@ -1934,7 +1860,6 @@ cynicism
 weary
 auction
 spy
-echelon
 aristocracy
 amateur
 cement
@@ -1956,16 +1881,105 @@ tour
 impressionist
 treasure
 treasurer
-possession
 tenant
 exclusive
 venom
 conjure
 conjuring
-maternity
 scorn
 swirl
 resort
+```
 
+```
+adolescent
+studio
+catalogue
+addiction
+crucial
+album
+enforcement
+interwar
+accordance
+possession
+vigil
+comply
+occasional
+reminder
+friction
+frictionless
+crystal
+endless
+practically
+pointless
+saturated
+fairly
+legislature
+defiance
+deterrence
+retribution
+merit
+radical
+peasant
+cable
+phenomenon
+coalition
+tribal
+ultimately
+hypocritical
+pretend
+gel
+cheer
+cheerful
+cheered
+budget
+```
 
+```
+accommodation
+subordinate
+cryptic
+prosecute
+attorney
+illustrate
+astronaut
+falter
+recession
+psychiatrist
+uphold
+elegant
+foyer
+verdict
+affluent
+embark
+aggressive
+aggressively
+aggressive
+tuition
+referendum
+foster
+grime
+maternity
+temporary
+negligence
+regime
+mourn
+December
+despicable
+chase
+firearm
+unprecedented
+pneumonia
+concentrated
+echelon
+criteria
+scooped
+rib
+chest
+cage
+mast
+jargon
+truce
+cholesterol
+hypnosis
 ```
