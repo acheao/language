@@ -21,7 +21,6 @@ cater
 fitness
 joints
 consumption
-thickening
 retrospect
 possibility
 exceed
@@ -148,7 +147,6 @@ kneecaps
 pesticides
 crops
 adjourned
-cockpit
 photographs
 midwife
 tanker
@@ -159,7 +157,6 @@ brooch
 dumb
 deaf
 courage
-indifference
 rifle
 explosion
 furniture
@@ -219,7 +216,6 @@ disgusting
 league
 igniter
 woe
-opposite
 dedicated
 ```
 
@@ -233,7 +229,6 @@ magnified
 spanning
 constituency
 pressure
-dial
 predecessor
 compassion
 championed
@@ -277,7 +272,6 @@ quick fix
 
 ```
 tending
-indifference
 tactics
 astonishing
 advisory
@@ -306,7 +300,6 @@ bullet
 psychologist
 fortune
 niece
-stockbroker
 sacred
 purple
 stigma
@@ -351,7 +344,6 @@ historic
 banter
 adjourned
 adversaries
-corruption
 overshoots
 torrent
 foul-mouthed
@@ -382,7 +374,6 @@ bipartisan
 deaf
 servants
 chord
-cockpit
 posion
 inherited
 Industry
@@ -430,7 +421,6 @@ restricting
 ```
 fossil
 grave
-bleached
 recall
 sophisticated
 ivory
@@ -462,7 +452,6 @@ plenty
 ```
 abundance
 folks
-lectures
 resistance
 resisted
 pursue
@@ -693,7 +682,6 @@ soccer
 fear
 existential
 wildlife
-stockbroker
 defeat
 circumstance
 reinvent
@@ -707,8 +695,6 @@ roasting
 ```
 
 ```
-hideously
-blackened
 candle
 Mass
 salesperson
@@ -719,10 +705,8 @@ biography
 sole
 tissue
 luggage
-cottage
 favour
 tidy
-corruption
 ```
 
 ```
@@ -736,19 +720,15 @@ prey
 plague
 indispensable
 nationalization
-masculinity
-femininity
 defect
 dealt
 adequate
 cameo
 fortnight
 significant
-substantial
 prohibit
 discrimination
 diet
-hurl
 swallow
 cyanide
 brutality
@@ -789,7 +769,6 @@ reform
 pilot
 magnet
 dorm
-lawsuit
 dentist
 curb
 ```
@@ -817,7 +796,6 @@ urban
 tutor
 district
 chlorine
-bleach
 voluntary
 leisure
 multiple
@@ -866,7 +844,6 @@ loom
 transistor
 milky
 vulnerable
-penalize
 geothermal
 ```
 
@@ -901,8 +878,6 @@ dental
 prevalent
 amongst
 sizeable
-prevail
-prevailing
 ```
 
 ```
@@ -928,7 +903,6 @@ corporate
 cooperation
 reward
 spectator
-ordination
 distracted
 ```
 
@@ -943,8 +917,6 @@ niece
 ```
 
 ```
-hideously
-blackened
 portrait
 pale
 detain
@@ -952,7 +924,6 @@ detain
 
 ```
 prone
-predation
 heron
 steelworks
 assessor
@@ -1038,7 +1009,6 @@ mutually
 ```
 jail
 robust
-swiftness
 surprising
 surprisingly
 ```
@@ -1187,7 +1157,6 @@ rough
 ```
 
 ```
-designate
 wave
 mastered
 masterpiece
@@ -1221,7 +1190,6 @@ violence
 opposition
 fetch
 nominee
-colleague
 bully
 epiphany
 retreat
@@ -1249,7 +1217,6 @@ mess
 complicated
 glamorous
 overheard
-luminous
 resign
 resignation
 habitat
@@ -1301,7 +1268,6 @@ institute
 stake
 giant
 encouraging
-occupation
 supervisor
 confidential
 hedge
@@ -1451,7 +1417,6 @@ alcohol
 alcoholism
 considerable
 compromise
-ladder
 workload
 enshrine
 constitution
@@ -1478,7 +1443,6 @@ paramount
 deforestation
 downturn
 falter
-uncharted
 quartet
 litre
 intimately
@@ -1489,7 +1453,6 @@ condemnation
 dialogue
 ordain
 coincidentally
-trek
 lid
 wisdom
 contrast
@@ -1513,7 +1476,6 @@ nationality
 dual
 migraine
 spilt
-charred
 perjury
 oath
 mechanism
@@ -1548,7 +1510,6 @@ delightful
 scholarly
 journal
 journalism
-defuse
 immediate
 knot
 fraction
@@ -1563,8 +1524,6 @@ acute
 episode
 doomed
 inextricably
-desolate
-utterly
 Pacific
 stagnant
 wool
@@ -1577,7 +1536,6 @@ tragedy
 protest
 protective
 widen
-delicate
 rugged
 prefer
 preference
@@ -1606,7 +1564,6 @@ vinaigrette
 devise
 unconscionable
 daffodil
-designate
 occur
 specimen
 slide
@@ -1673,7 +1630,6 @@ bargain
 sink
 terminate
 squib
-relegate
 owe
 rookie
 quarterback
@@ -1698,7 +1654,6 @@ sharp
 sharper
 sharply
 instrument
-instrumentations
 consign
 treasury
 secretary
@@ -1707,7 +1662,6 @@ ceasefire
 charismatic
 counter
 peacock
-exhausted
 intentionally
 vague
 cookery
@@ -1744,7 +1698,6 @@ jury
 grand
 symbol
 torn
-armour
 allocate
 perplexed
 stick
@@ -1759,14 +1712,12 @@ shaking
 ```
 
 ```
-corruption
 midlife
 octogenarian
 orphan
 plant
 gallop
 galloping
-speculation
 rural
 urban
 asylum
@@ -1798,7 +1749,6 @@ hare
 pent
 feud
 grudge
-stale
 cubicle
 curtain
 stringent
@@ -1814,7 +1764,6 @@ midst
 malicious
 gossip
 fascism
-stout
 subjunctive
 oppose
 triad
@@ -1860,7 +1809,6 @@ cynicism
 weary
 auction
 spy
-aristocracy
 amateur
 cement
 cocktail
@@ -1873,8 +1821,6 @@ decipher
 affection
 palpable
 seethe
-bioengineering
-pioneering
 robustness
 luxury
 tour
@@ -1886,7 +1832,6 @@ exclusive
 venom
 conjure
 conjuring
-scorn
 swirl
 resort
 ```
@@ -1978,8 +1923,70 @@ rib
 chest
 cage
 mast
-jargon
 truce
 cholesterol
 hypnosis
+```
+
+```
+sweeping
+reorganization
+federal
+stout
+defuse
+speculation
+charred
+blackened
+weed
+guilty
+ladder
+opposite
+corruption
+delicate
+colleague
+exhausted
+predation
+bleach
+overall
+hideously
+occupation
+utterly
+desolate
+lecture
+jargon
+opaque
+penalize
+luminous
+dial
+masculinity
+femininity
+stockbroker
+scorn
+cottage
+relegate
+ordination
+indifference
+stale
+thicken
+armour
+bond
+generalization
+substantial
+uncharted
+hurl
+swiftness
+sparkle
+prevail
+prevailing
+pioneering
+bioengineering
+lawsuit
+designate
+instrumentation
+trek
+aristocracy
+cockpit
+
+
+
 ```
