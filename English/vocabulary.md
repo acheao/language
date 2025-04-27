@@ -146,7 +146,6 @@ heritage
 kneecaps
 pesticides
 crops
-adjourned
 photographs
 midwife
 tanker
@@ -229,7 +228,6 @@ magnified
 spanning
 constituency
 pressure
-predecessor
 compassion
 championed
 ```
@@ -248,7 +246,6 @@ daffodils
 epic
 heroism
 intellectual
-Violent
 ```
 
 ```
@@ -258,7 +255,6 @@ burst
 curious
 transition
 fighter
-clutch
 rags
 retrospect
 intervention
@@ -292,12 +288,10 @@ enterprises
 soccer
 spaniel
 fist
-spill
 ```
 
 ```
 bullet
-psychologist
 fortune
 niece
 sacred
@@ -342,7 +336,6 @@ guard
 ```
 historic
 banter
-adjourned
 adversaries
 overshoots
 torrent
@@ -355,7 +348,6 @@ pull up
 
 ```
 tidy
-neat
 scratc
 consumption
 astonishing
@@ -379,7 +371,6 @@ inherited
 Industry
 crack down
 dioxide
-predecessors
 fluid
 ```
 
@@ -425,16 +416,12 @@ recall
 sophisticated
 ivory
 beads
-Islam
-Christianity
-Judaism
 preserve
 highlighted
 brutality
 net-zero
 fortune
 Atlantic
-admissions
 luggage
 schemes
 ```
@@ -452,8 +439,6 @@ plenty
 ```
 abundance
 folks
-resistance
-resisted
 pursue
 indicative
 clinical
@@ -537,7 +522,6 @@ satellite
 predator
 particles
 vacuum
-slur
 determination
 admires
 cattle
@@ -561,7 +545,6 @@ efficiency
 Parliament
 astonishing
 theatre
-emphasis
 ```
 
 ```
@@ -622,7 +605,6 @@ cheque
 
 ```
 adversary
-admissions
 oppress
 neighborhoods
 banter
@@ -647,7 +629,6 @@ clause
 influence
 infect
 clientele
-constitute
 Muslim
 Moslem
 ```
@@ -711,7 +692,6 @@ tidy
 
 ```
 subsidize
-drain
 estate
 membership
 occasion
@@ -732,7 +712,6 @@ diet
 swallow
 cyanide
 brutality
-reverse
 extinguisher
 broadcast
 pirate
@@ -795,14 +774,12 @@ claw
 urban
 tutor
 district
-chlorine
 voluntary
 leisure
 multiple
 employ
 recruit
 Metropolitan
-clung
 fuel
 shore
 invasive
@@ -821,7 +798,6 @@ epidemic
 previous
 populate
 loyalty
-hierarchical
 viral
 likelihood
 satisfactory
@@ -830,21 +806,16 @@ forecast
 scrub
 coherent
 instruction
-pump
 disappointment
 sword
 noun
 glowing
-exploit
-exploiting
 identical
-environmentalists
 revealing
 loom
 transistor
 milky
 vulnerable
-geothermal
 ```
 
 ```
@@ -884,14 +855,12 @@ sizeable
 evolve
 Royal
 naval
-trial
 maladaptive
 intervention
 ```
 
 ```
 villa
-oblivion
 hip
 figurative
 ```
@@ -899,7 +868,6 @@ figurative
 ```
 mist
 unrealistic
-corporate
 cooperation
 reward
 spectator
@@ -974,7 +942,6 @@ ownership
 ```
 demise
 athlete
-prescription
 ```
 
 ```
@@ -1015,8 +982,6 @@ surprisingly
 ``
 ```
 spiritual
-alternative
-complementary
 magnify
 estimate
 ```
@@ -1062,7 +1027,6 @@ warfare
 ```
 popularity
 enthusiastic
-promote
 loan
 testimony
 scrutiny
@@ -1142,7 +1106,6 @@ fundamental
 unfold
 fold
 nerve
-visualize
 suicide
 sushi
 artillery
@@ -1152,8 +1115,6 @@ indigenous
 maintenance
 chemist
 resilient
-handling
-rough
 ```
 
 ```
@@ -1165,14 +1126,12 @@ flutter
 goal
 crowd
 breeze
-mud
 grief
 grieve
 grieving
 legalize
 contempt
 permanent
-persecution
 victim
 arrangement
 confront
@@ -1206,10 +1165,7 @@ enormously
 terrorist
 territory
 regret
-thalassemia
-sickle
 beta
-explanation
 transport
 mature
 messy
@@ -1238,7 +1194,6 @@ illustration
 overheat
 engine
 participation
-architect
 arguably
 tenure
 material
@@ -1246,18 +1201,13 @@ reclaim
 brilliant
 testimonial
 controversial
-examine
-examiner
-kidney
 hazardous
 entertainment
-definitely
 sour
 soaked
 rub
 rubbing
 autograph
-hefty
 fashionable
 landscape
 blessed
@@ -1268,14 +1218,12 @@ institute
 stake
 giant
 encouraging
-supervisor
 confidential
 hedge
 mystery
 audience
 heighten
 tension
-muscular
 string
 throughout
 relieve
@@ -1324,8 +1272,6 @@ steward
 communicator
 ease
 underscore
-raider
-raid
 extensive
 alongside
 predict
@@ -1387,7 +1333,6 @@ penalty
 cram
 cramming
 suspicion
-rumour
 concession
 bench
 hook
@@ -1440,14 +1385,12 @@ bleak
 hydraulic
 gallery
 paramount
-deforestation
 downturn
 falter
 quartet
 litre
 intimately
 endure
-dispute
 condemn
 condemnation
 dialogue
@@ -1461,30 +1404,24 @@ shuttle
 colonial
 colony
 fading
-scratch
 temper
 lung
 documentary
 poll
 methane
-ritual
 racket
 grain
 muscle
 respondent
 nationality
 dual
-migraine
 spilt
-perjury
-oath
 mechanism
 mechanical
 mediation
 continent
 plateau
 Tibetan
-philosophy
 brass
 premises
 proposal
@@ -1501,7 +1438,6 @@ humiliating
 extinction
 prestige
 democrat
-leather
 wax
 navy
 underlying
@@ -1539,8 +1475,6 @@ widen
 rugged
 prefer
 preference
-smuggler
-imprisonment
 swarm
 swarmed
 gnat
@@ -1578,7 +1512,6 @@ burden
 spur
 rife
 orchestra
-mudflat
 sponsor
 divorce
 bankruptcy
@@ -1647,7 +1580,6 @@ prodigious
 divided
 withering
 narrowly
-hammering
 auditor
 horrifying
 sharp
@@ -1665,8 +1597,6 @@ peacock
 intentionally
 vague
 cookery
-coriander
-lime
 pessimistic
 Buddhist
 Hindu
@@ -1681,7 +1611,6 @@ waist
 debate
 stimulate
 barrier
-petty
 abdominal
 humanitarian
 sophomore
@@ -1691,7 +1620,6 @@ fateful
 modest
 knitting
 knit
-collaborative
 tangible
 summon
 jury
@@ -1707,7 +1635,6 @@ suburb
 tacky
 souvenir
 taunt
-spectacular
 shaking
 ```
 
@@ -1718,17 +1645,12 @@ orphan
 plant
 gallop
 galloping
-rural
-urban
 asylum
 alphabetically
 exceedingly
-endorse
 Tory
-abhorrent
 mileage
 vary
-bureaucracy
 fledged
 locust
 deceive
@@ -1740,8 +1662,6 @@ defendant
 persecute
 oppressed
 oppress
-stretch
-gorgeous
 supreme
 drill
 tortoise
@@ -1757,7 +1677,6 @@ mortality
 
 ```
 chore
-disorder
 incompetence
 consists
 midst
@@ -1767,19 +1686,15 @@ fascism
 subjunctive
 oppose
 triad
-architecture
 sculpture
 intensify
 betrayal
 spontaneous
 deserved
 acclaim
-nephew
 entrust
 applicant
 detour
-burial
-certificate
 metal
 profile
 preliminary
@@ -1805,28 +1720,20 @@ detention
 internment 
 oar
 wept
-cynicism
-weary
 auction
 spy
-amateur
 cement
-cocktail
 estuary
 appliance
 cherish
 cherished
 downright
-decipher
 affection
-palpable
 seethe
 robustness
 luxury
 tour
 impressionist
-treasure
-treasurer
 tenant
 exclusive
 venom
@@ -1861,17 +1768,12 @@ saturated
 fairly
 legislature
 defiance
-deterrence
-retribution
 merit
-radical
 peasant
-cable
 phenomenon
 coalition
 tribal
 ultimately
-hypocritical
 pretend
 gel
 cheer
@@ -1891,7 +1793,6 @@ astronaut
 falter
 recession
 psychiatrist
-uphold
 elegant
 foyer
 verdict
@@ -1908,12 +1809,10 @@ maternity
 temporary
 negligence
 regime
-mourn
 December
 despicable
 chase
 firearm
-unprecedented
 pneumonia
 concentrated
 echelon
@@ -1948,7 +1847,6 @@ exhausted
 predation
 bleach
 overall
-hideously
 occupation
 utterly
 desolate
@@ -1971,7 +1869,6 @@ thicken
 armour
 bond
 generalization
-substantial
 uncharted
 hurl
 swiftness
@@ -1986,6 +1883,126 @@ instrumentation
 trek
 aristocracy
 cockpit
+```
+
+```
+pneumonia
+integrity
+emphasis
+burial
+certificate
+rough
+handling
+uphold
+dispute
+imprisonment
+supervisor
+deforestation
+violent
+examine
+examiner
+kidney
+radical
+chlorine
+resistance
+resisted
+psychologist
+constitute
+persecution
+amateur
+reverse
+architect
+architecture
+channel
+disorder
+drain
+butter
+raider
+raid
+predecessor
+stretch
+gorgeous
+thalassemia
+sickle
+promote
+collaborative
+cable
+clutch
+retribution
+deterrence
+hypocritical
+awesome
+geothermal
+pump
+cocktail
+rumour
+environmental
+environmentalists
+endorse
+hierarchical
+rural
+urban
+nephew
+diabetes
+hammering
+smuggler
+migraine
+adjourn
+```
+
+```
+petty
+mud
+mudflat
+clung
+Christianity
+Islam
+Judaism
+prescription
+decipher
+corporate
+unprecedented
+leather
+wood
+definitely
+bureaucracy
+mourn
+ritual
+substantial
+hideously
+visualize
+hypothesis
+coriander
+lime
+slur
+explanation
+neat
+scratch
+hefty
+comedy
+treasurer
+treasure
+treasury
+abhorrent
+trial
+weary
+cynicism
+optical
+spill
+muscular
+palpable
+spectacular
+scope
+admission
+complementary
+alternative
+perjury
+conviction
+oath
+exploit
+exploiting
+philosophy
+oblivion
 
 
 
