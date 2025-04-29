@@ -70,7 +70,6 @@ considerate
 capable
 evacuate
 inclusion
-multiculturalism
 embrace
 degree
 summit
@@ -203,7 +202,6 @@ tussle
 stabbed
 obstacle
 woven
-conserve
 scant
 ```
 
@@ -213,7 +211,6 @@ exhibition
 essential
 disgusting
 league
-igniter
 woe
 dedicated
 ```
@@ -235,7 +232,6 @@ championed
 ```
 cinema-goers
 church
-furious
 eligible
 intolerance
 lawn
@@ -272,7 +268,6 @@ tactics
 astonishing
 advisory
 liberties
-curators
 enthusiasm
 ```
 
@@ -314,11 +309,9 @@ bump
 staircase
 gear
 sheer
-forged
 ```
 
 ```
-cheque
 curiosity
 knelt
 rational
@@ -329,7 +322,6 @@ trademark
 reflect
 intolerance
 courage
-resilience
 guard
 ```
 
@@ -560,7 +552,6 @@ April
 stage
 charitable
 statue
-healing
 wound
 aching
 shale
@@ -599,8 +590,6 @@ oversaw
 freshwater
 producer
 legislation
-forged
-cheque
 ```
 
 ```
@@ -612,7 +601,6 @@ testimony
 emergence
 brand
 inquiry
-calcium
 ruling
 contrary
 featured
@@ -647,17 +635,13 @@ procedure
 
 ```
 expansion
-communal
 servant
 crowded
-childproof
 moral
 morality
-remission
 disposed
 scary
 Mafia
-encounter
 tennis
 soccer
 fear
@@ -706,15 +690,11 @@ adequate
 cameo
 fortnight
 significant
-prohibit
-discrimination
 diet
 swallow
 cyanide
 brutality
 extinguisher
-broadcast
-pirate
 ```
 
 ```
@@ -731,7 +711,6 @@ sandwich
 stigma
 temper
 corner
-dairy
 capsule
 sprint
 dove
@@ -797,7 +776,6 @@ epidemic
 ```
 previous
 populate
-loyalty
 viral
 likelihood
 satisfactory
@@ -820,7 +798,6 @@ vulnerable
 
 ```
 radioactive
-assault/offensive
 crouched
 pile
 robber
@@ -919,7 +896,6 @@ disintegrated
 ```
 
 ```
-promotion
 aide
 regardless
 ```
@@ -981,7 +957,6 @@ surprisingly
 ```
 ``
 ```
-spiritual
 magnify
 estimate
 ```
@@ -1079,7 +1054,6 @@ external
 ```
 magnet
 spiral
-hindsight
 skid
 fade
 temple
@@ -1121,7 +1095,6 @@ resilient
 wave
 mastered
 masterpiece
-offside
 flutter
 goal
 crowd
@@ -1147,7 +1120,6 @@ incompetence
 exporter
 violence
 opposition
-fetch
 nominee
 bully
 epiphany
@@ -1221,15 +1193,12 @@ encouraging
 confidential
 hedge
 mystery
-audience
 heighten
 tension
 string
 throughout
 relieve
-genuine
 revolving
-signature
 guardian
 bakery
 necklace
@@ -1255,7 +1224,6 @@ nutraceutical
 brink
 fishery
 irreversible
-diversity
 multidimensional
 multiscale
 gelatinous
@@ -1288,7 +1256,6 @@ renaissance
 tweak
 mill
 restlessly
-seize
 headquarters
 emphasize
 sneaky
@@ -1333,8 +1300,6 @@ penalty
 cram
 cramming
 suspicion
-concession
-bench
 hook
 relieve
 welfare
@@ -1383,7 +1348,6 @@ litigation
 independent
 bleak
 hydraulic
-gallery
 paramount
 downturn
 falter
@@ -1416,8 +1380,6 @@ respondent
 nationality
 dual
 spilt
-mechanism
-mechanical
 mediation
 continent
 plateau
@@ -1434,7 +1396,6 @@ violence
 toxic
 scandal
 polite
-humiliating
 extinction
 prestige
 democrat
@@ -1495,7 +1456,6 @@ medicine
 conventional
 advance
 vinaigrette
-devise
 unconscionable
 daffodil
 occur
@@ -1510,13 +1470,11 @@ graphics
 replacement
 burden
 spur
-rife
 orchestra
 sponsor
 divorce
 bankruptcy
 acquire
-innocence
 product
 productivity
 reproductive
@@ -1542,7 +1500,6 @@ allegiance
 concentration
 imminent
 subtle
-equip
 generosity
 regulatory
 stifle
@@ -1550,7 +1507,6 @@ compel
 compelling
 compelled
 outlook
-clumsy
 awkward
 bibliography
 responsibility
@@ -1558,7 +1514,6 @@ responsibility
 
 ```
 tattered
-misconduct
 bargain
 sink
 terminate
@@ -1628,8 +1583,6 @@ symbol
 torn
 allocate
 perplexed
-stick
-sticky
 melody
 suburb
 tacky
@@ -1646,7 +1599,6 @@ plant
 gallop
 galloping
 asylum
-alphabetically
 exceedingly
 Tory
 mileage
@@ -1671,7 +1623,6 @@ feud
 grudge
 cubicle
 curtain
-stringent
 mortality
 ```
 
@@ -1697,14 +1648,12 @@ applicant
 detour
 metal
 profile
-preliminary
 immerse
 ```
 
 ```
 concrete
 prosperity
-referee
 bribe
 thesis
 supposed
@@ -1760,7 +1709,6 @@ occasional
 reminder
 friction
 frictionless
-crystal
 endless
 practically
 pointless
@@ -1785,7 +1733,6 @@ budget
 ```
 accommodation
 subordinate
-cryptic
 prosecute
 attorney
 illustrate
@@ -1805,9 +1752,6 @@ tuition
 referendum
 foster
 grime
-maternity
-temporary
-negligence
 regime
 December
 despicable
@@ -1816,14 +1760,12 @@ firearm
 pneumonia
 concentrated
 echelon
-criteria
 scooped
 rib
 chest
 cage
 mast
-truce
-cholesterol
+trucepirate
 hypnosis
 ```
 
@@ -1834,14 +1776,11 @@ federal
 stout
 defuse
 speculation
-charred
 blackened
-weed
 guilty
 ladder
 opposite
 corruption
-delicate
 colleague
 exhausted
 predation
@@ -1850,7 +1789,6 @@ overall
 occupation
 utterly
 desolate
-lecture
 jargon
 opaque
 penalize
@@ -1858,7 +1796,6 @@ luminous
 dial
 masculinity
 femininity
-stockbroker
 scorn
 cottage
 relegate
@@ -1881,7 +1818,6 @@ lawsuit
 designate
 instrumentation
 trek
-aristocracy
 cockpit
 ```
 
@@ -1933,7 +1869,6 @@ deterrence
 hypocritical
 awesome
 geothermal
-pump
 cocktail
 rumour
 environmental
@@ -1942,7 +1877,6 @@ endorse
 hierarchical
 rural
 urban
-nephew
 diabetes
 hammering
 smuggler
@@ -1951,7 +1885,6 @@ adjourn
 ```
 
 ```
-petty
 mud
 mudflat
 clung
@@ -2003,7 +1936,86 @@ exploit
 exploiting
 philosophy
 oblivion
+```
 
+```
+discrimination
+prohibit
+encounter
+furious
+genuine
+dairy
+calcium
+charred
+remission
+mechanism
+mechanical
+fetch
+humiliating
+shoulder
+maternity
+temporary
+devise
+delicate
+cholesterol
+pirate
+broadcast
+spiritual
+healing
+referee
+offside
+crystal
+nephew
+criteria
+stringent
+convert
+communal
+childproof
+stick
+sticky
+hindsight
+concession
+bench
+preliminary
+frog
+lens
+igniter
+falcon
+loyalty
+rife
+negligence
+misconduct
+```
 
-
+```
+multiculturalism
+diversity
+promotion
+gallery
+curator
+resilience
+stockbroker
+equip
+interruption
+petty
+signature
+aristocracy
+pump
+audience
+assault
+offensive
+clumsy
+alphabetically
+chapel
+seize
+innocence
+conserve
+chemical
+weed
+multilingual
+cryptic
+apartment
+lecture
+cheque
+forge
 ```
