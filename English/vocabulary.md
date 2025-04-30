@@ -44,7 +44,6 @@ somewhat
 ghostlike
 celebrated
 haunting
-individual
 destroyer
 whaling
 van
@@ -130,7 +129,6 @@ nurseries
 spreadsheet
 poverty
 diamond
-torrent
 ```
 
 ```
@@ -272,8 +270,6 @@ enthusiasm
 ```
 
 ```
-Panic
-Monster
 adequate
 philosopher
 cope
@@ -330,7 +326,6 @@ historic
 banter
 adversaries
 overshoots
-torrent
 foul-mouthed
 racist
 Judging
@@ -423,7 +418,6 @@ outstanding
 cyanide
 swallowed
 maladaptive
-negatively
 obesity
 plenty
 ```
@@ -433,7 +427,6 @@ abundance
 folks
 pursue
 indicative
-clinical
 disintegrating
 lightning
 subway
@@ -488,7 +481,6 @@ algae
 ```
 breathtaking
 pressures
-monsters
 fierce
 bristlemouth
 sonar
@@ -556,7 +548,6 @@ wound
 aching
 shale
 cater
-cautionary
 scrapheap
 ```
 
@@ -612,7 +603,6 @@ propagating
 questionable
 pleasant
 oven
-cautionary
 clause
 influence
 infect
@@ -640,7 +630,6 @@ crowded
 moral
 morality
 disposed
-scary
 Mafia
 tennis
 soccer
@@ -655,7 +644,6 @@ confident
 marsh
 devastation
 collapse
-levity
 roasting
 ```
 
@@ -764,11 +752,9 @@ shore
 invasive
 intense
 retailer
-panic
 adventure
 deliver
 regain
-stoicism
 barely
 epidemic
 ```
@@ -837,13 +823,11 @@ intervention
 ```
 
 ```
-villa
 hip
 figurative
 ```
 
 ```
-mist
 unrealistic
 cooperation
 reward
@@ -862,7 +846,6 @@ niece
 ```
 
 ```
-portrait
 pale
 detain
 ```
@@ -886,9 +869,6 @@ sermon
 ```
 
 ```
-dormant
-embarrassment
-commitment
 perception
 fragment
 dust
@@ -1016,7 +996,6 @@ urgently
 
 ```
 amused
-obsession
 amid
 brief
 bickering
@@ -1121,7 +1100,6 @@ exporter
 violence
 opposition
 nominee
-bully
 epiphany
 retreat
 hardliner
@@ -1202,7 +1180,6 @@ revolving
 guardian
 bakery
 necklace
-reliance
 imperative
 laser
 photosynthetic
@@ -1248,8 +1225,6 @@ spew
 propaganda
 woe
 tune
-excess
-excessive
 psychological
 tablet
 renaissance
@@ -1291,7 +1266,6 @@ desert
 inspection
 vein
 surgeon
-mosque
 copyright
 publisher
 inevitable
@@ -1310,7 +1284,6 @@ publication
 bargain
 parliamentary
 scale
-peacock
 magnificent
 employee
 ramp
@@ -1321,7 +1294,6 @@ spare
 spine
 miracle
 chronic
-narrative
 anecdote
 alcohol
 alcoholism
@@ -1382,8 +1354,6 @@ dual
 spilt
 mediation
 continent
-plateau
-Tibetan
 brass
 premises
 proposal
@@ -1396,7 +1366,6 @@ violence
 toxic
 scandal
 polite
-extinction
 prestige
 democrat
 wax
@@ -1407,14 +1376,10 @@ delightful
 scholarly
 journal
 journalism
-immediate
 knot
 fraction
-motorway
-fatal
 slowdown
 pure
-deportation
 scramble
 counsellor
 acute
@@ -1422,15 +1387,11 @@ episode
 doomed
 inextricably
 Pacific
-stagnant
 wool
 carpentry
 regale
-contour
-slam
 repeatedly
 tragedy
-protest
 protective
 widen
 rugged
@@ -1480,23 +1441,17 @@ productivity
 reproductive
 sail
 sailed
-excessive
 cathedral
 frustration
 ```
 
 ```
 misery
-irrigate
 plain
 bearer
 comic
 wacky
 antics
-sweat
-swear
-swearing
-allegiance
 concentration
 imminent
 subtle
@@ -1508,7 +1463,6 @@ compelling
 compelled
 outlook
 awkward
-bibliography
 responsibility
 ```
 
@@ -1532,11 +1486,9 @@ famine
 relief
 nostalgia
 prodigious
-divided
 withering
 narrowly
 auditor
-horrifying
 sharp
 sharper
 sharply
@@ -1548,7 +1500,6 @@ delegation
 ceasefire
 charismatic
 counter
-peacock
 intentionally
 vague
 cookery
@@ -1631,14 +1582,11 @@ chore
 incompetence
 consists
 midst
-malicious
-gossip
 fascism
 subjunctive
 oppose
 triad
 sculpture
-intensify
 betrayal
 spontaneous
 deserved
@@ -1674,8 +1622,6 @@ spy
 cement
 estuary
 appliance
-cherish
-cherished
 downright
 affection
 seethe
@@ -1685,10 +1631,8 @@ tour
 impressionist
 tenant
 exclusive
-venom
 conjure
 conjuring
-swirl
 resort
 ```
 
@@ -1697,7 +1641,6 @@ adolescent
 studio
 catalogue
 addiction
-crucial
 album
 enforcement
 interwar
@@ -1798,14 +1741,11 @@ masculinity
 femininity
 scorn
 cottage
-relegate
 ordination
 indifference
 stale
 thicken
-armour
 bond
-generalization
 uncharted
 hurl
 swiftness
@@ -1838,7 +1778,6 @@ violent
 examine
 examiner
 kidney
-radical
 chlorine
 resistance
 resisted
@@ -1864,8 +1803,6 @@ promote
 collaborative
 cable
 clutch
-retribution
-deterrence
 hypocritical
 awesome
 geothermal
@@ -1874,7 +1811,6 @@ rumour
 environmental
 environmentalists
 endorse
-hierarchical
 rural
 urban
 diabetes
@@ -1955,7 +1891,6 @@ humiliating
 shoulder
 maternity
 temporary
-devise
 delicate
 cholesterol
 pirate
@@ -1967,7 +1902,6 @@ offside
 crystal
 nephew
 criteria
-stringent
 convert
 communal
 childproof
@@ -2018,4 +1952,74 @@ apartment
 lecture
 cheque
 forge
+```
+
+```
+crucial
+divided
+mist
+swirl
+stagnant
+stringent
+venom
+obsession
+immediate
+swear
+swearing
+sweat
+stoicism
+extinction
+radical
+mortgage
+globalization
+narrative
+fatal
+motorway
+contour
+fund
+funding
+armour
+deportation
+allegiance
+portrait
+irrigate
+clinic
+clinical
+embarrassment
+scary
+plunge
+retribution
+deterrence
+horrifying
+devise
+mosque
+relegate
+reliance
+negatively
+excessive
+excess
+panic
+monster
+dormant
+levity
+bibliography
+torrent
+peacock
+individual
+hierarchical
+cherish
+villa
+pat
+gossip
+malicious
+cautionary
+Tibetan
+plateau
+slam
+commitment
+intensify
+bully
+generalization
+
+
 ```
