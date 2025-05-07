@@ -1118,10 +1118,6 @@ regret
 beta
 transport
 mature
-messy
-mess
-complicated
-glamorous
 overheard
 resign
 resignation
@@ -1486,7 +1482,6 @@ famine
 relief
 nostalgia
 prodigious
-withering
 narrowly
 auditor
 sharp
@@ -1655,12 +1650,10 @@ frictionless
 endless
 practically
 pointless
-saturated
 fairly
 legislature
 defiance
 merit
-peasant
 phenomenon
 coalition
 tribal
@@ -1676,8 +1669,6 @@ budget
 ```
 accommodation
 subordinate
-prosecute
-attorney
 illustrate
 astronaut
 falter
@@ -1769,7 +1760,6 @@ burial
 certificate
 rough
 handling
-uphold
 dispute
 imprisonment
 supervisor
@@ -1797,8 +1787,6 @@ raid
 predecessor
 stretch
 gorgeous
-thalassemia
-sickle
 promote
 collaborative
 cable
@@ -1847,7 +1835,6 @@ slur
 explanation
 neat
 scratch
-hefty
 comedy
 treasurer
 treasure
@@ -2020,6 +2007,23 @@ commitment
 intensify
 bully
 generalization
+```
 
-
+```
+attorney
+prosecute
+maximum
+thalassemia
+sickle
+peasant
+silence
+hefty
+uphold
+withering
+messy
+mess
+complicated
+glamorous
+echelon
+saturated
 ```
