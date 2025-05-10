@@ -75,6 +75,32 @@ radical
 summon
 ```
 
+```python
+bonus
+discount
+boost
+greeting
+greet
+pronunciation
+category
+contraction
+gigantic
+energize
+medium
+latte
+casual
+expensive
+inexpensive
+elaborate
+dessert
+cafe
+formal
+pharmacy
+stranger
+toolbox
+scenario
+shopkeeper
+```
 
 ---------------
 
@@ -2029,32 +2055,3 @@ echelon
 saturated
 ```
 
-```
-bonus
-discount
-boost
-greeting
-greet
-pronunciation
-category
-contraction
-gigantic
-energize
-medium
-latte
-casual
-expensive
-inexpensive
-elaborate
-dessert
-cafe
-formal
-pharmacy
-stranger
-toolbox
-scenario
-shopkeeper
-
-
-
-```
