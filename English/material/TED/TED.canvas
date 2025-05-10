@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"9e3fc463dcfffaa3","type":"text","text":"TED","x":-260,"y":-160,"width":100,"height":60},
+		{"id":"e800745a0ca60d86","type":"file","file":"material/TED/Tim Urban_ Inside the mind of a master procrastinator.md","x":80,"y":-480,"width":400,"height":300},
+		{"id":"94e0105c22b88cfd","type":"file","file":"material/TED/The benefits of a bilingual brain-Mia Nacamulli.md","x":140,"y":-80,"width":400,"height":400},
+		{"id":"1c416ef74e65a717","type":"file","file":"material/TED/3 tips on how to study effectively.md","x":-440,"y":100,"width":400,"height":400},
+		{"id":"90ae66fef74f3627","type":"file","file":"material/TED/Robert Waldinger - What makes a good life Lessons from the longest study on happiness.md","x":-860,"y":-260,"width":400,"height":400},
+		{"id":"165a401fed649b8f","type":"file","file":"material/TED/Is it normal to talk to yourself.md","x":-660,"y":-760,"width":400,"height":400},
+		{"id":"210947f2334106f9","x":-160,"y":-820,"width":400,"height":400,"type":"file","file":"material/TED/How to Achieve Your Most Ambitious Goals.md"}
+	],
+	"edges":[
+		{"id":"1ec242525c28a14f","fromNode":"9e3fc463dcfffaa3","fromSide":"right","toNode":"e800745a0ca60d86","toSide":"left"},
+		{"id":"3caca42fa776d9a5","fromNode":"9e3fc463dcfffaa3","fromSide":"right","toNode":"94e0105c22b88cfd","toSide":"left"},
+		{"id":"73182fd5ecc9f1c3","fromNode":"9e3fc463dcfffaa3","fromSide":"bottom","toNode":"1c416ef74e65a717","toSide":"top"},
+		{"id":"5723ae9f384a6cf0","fromNode":"9e3fc463dcfffaa3","fromSide":"left","toNode":"90ae66fef74f3627","toSide":"right"},
+		{"id":"3c07a45f3e2dcd70","fromNode":"9e3fc463dcfffaa3","fromSide":"top","toNode":"165a401fed649b8f","toSide":"bottom"},
+		{"id":"326ba41ed32868ce","fromNode":"9e3fc463dcfffaa3","fromSide":"top","toNode":"210947f2334106f9","toSide":"bottom"}
+	]
+}
