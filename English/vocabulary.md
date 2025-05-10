@@ -12,6 +12,70 @@ bacterium
 spacecraft
 ```
 
+```python
+institute
+imam
+preacher
+mortality
+gallery
+curator
+posterity
+clutch
+engage
+instrument
+instrumentation
+hindsight
+initial
+faith
+profession
+skid
+jargon
+opaque
+ritual
+defendant
+defend
+defender
+damp
+squib
+celery
+stalk
+hammering
+figurative
+relegate
+hypnosis
+cautionary
+hideously
+sophomore
+dread
+dreary
+favour
+plunge
+concrete
+misery
+peasant
+hurl
+cheque
+forge
+irrigate
+accuracy
+specimen
+slide
+fragment
+promotion
+spare
+reap
+guilty
+unanimously
+stockbroker
+programme
+morality
+moral
+hostility
+radical
+summon
+```
+
+
 ---------------
 
 ```
@@ -299,7 +363,6 @@ literally
 Approximately
 raid
 upheld
-engages
 sympathy
 bump
 staircase
@@ -487,7 +550,6 @@ sonar
 dense
 layers
 presidential
-estate
 sweeping
 ```
 
@@ -627,8 +689,6 @@ procedure
 expansion
 servant
 crowded
-moral
-morality
 disposed
 Mafia
 tennis
@@ -658,7 +718,6 @@ biography
 sole
 tissue
 luggage
-favour
 tidy
 ```
 
@@ -667,7 +726,6 @@ subsidize
 estate
 membership
 occasion
-imam
 prey
 plague
 indispensable
@@ -686,7 +744,6 @@ extinguisher
 ```
 
 ```
-initial
 freak
 intolerance
 consensus
@@ -824,7 +881,6 @@ intervention
 
 ```
 hip
-figurative
 ```
 
 ```
@@ -860,7 +916,6 @@ successor
 
 ```
 eliminate
-preacher
 priest
 uninspired
 inspired
@@ -870,7 +925,6 @@ sermon
 
 ```
 perception
-fragment
 dust
 disintegrated
 ```
@@ -917,8 +971,6 @@ reconstructive
 ```
 
 ```
-dreary
-dread
 mayor
 ```
 
@@ -1016,7 +1068,6 @@ repress
 ```
 volunteer
 tumour
-reap
 hospitality
 gifted
 allegation
@@ -1033,7 +1084,6 @@ external
 ```
 magnet
 spiral
-skid
 fade
 temple
 accessible
@@ -1123,7 +1173,6 @@ resign
 resignation
 habitat
 arose
-posterity
 accent
 coastline
 trace
@@ -1160,7 +1209,6 @@ blessed
 democracy
 paralyse
 rampant
-institute
 stake
 giant
 encouraging
@@ -1216,7 +1264,6 @@ underscore
 extensive
 alongside
 predict
-concrete
 spew
 propaganda
 woe
@@ -1273,9 +1320,6 @@ suspicion
 hook
 relieve
 welfare
-celery
-stalk
-damp
 publication
 bargain
 parliamentary
@@ -1286,7 +1330,6 @@ ramp
 fascinating
 constant
 homage
-spare
 spine
 miracle
 chronic
@@ -1416,8 +1459,6 @@ vinaigrette
 unconscionable
 daffodil
 occur
-specimen
-slide
 betray
 unconscionable
 pitch
@@ -1442,7 +1483,6 @@ frustration
 ```
 
 ```
-misery
 plain
 bearer
 comic
@@ -1467,7 +1507,6 @@ tattered
 bargain
 sink
 terminate
-squib
 owe
 rookie
 quarterback
@@ -1487,7 +1526,6 @@ auditor
 sharp
 sharper
 sharply
-instrument
 consign
 treasury
 secretary
@@ -1514,7 +1552,6 @@ stimulate
 barrier
 abdominal
 humanitarian
-sophomore
 trolley
 mayhem
 fateful
@@ -1522,7 +1559,6 @@ modest
 knitting
 knit
 tangible
-summon
 jury
 grand
 symbol
@@ -1554,9 +1590,6 @@ locust
 deceive
 shiver
 gush
-defend
-defender
-defendant
 persecute
 oppressed
 oppress
@@ -1569,7 +1602,6 @@ feud
 grudge
 cubicle
 curtain
-mortality
 ```
 
 ```
@@ -1595,14 +1627,11 @@ immerse
 ```
 
 ```
-concrete
 prosperity
 bribe
 thesis
 supposed
 cholera
-unanimously
-hostility
 precipitation
 glucose
 lactose
@@ -1700,7 +1729,6 @@ chest
 cage
 mast
 trucepirate
-hypnosis
 ```
 
 ```
@@ -1711,7 +1739,6 @@ stout
 defuse
 speculation
 blackened
-guilty
 ladder
 opposite
 corruption
@@ -1723,8 +1750,6 @@ overall
 occupation
 utterly
 desolate
-jargon
-opaque
 penalize
 luminous
 dial
@@ -1738,7 +1763,6 @@ stale
 thicken
 bond
 uncharted
-hurl
 swiftness
 sparkle
 prevail
@@ -1747,7 +1771,6 @@ pioneering
 bioengineering
 lawsuit
 designate
-instrumentation
 trek
 cockpit
 ```
@@ -1790,7 +1813,6 @@ gorgeous
 promote
 collaborative
 cable
-clutch
 hypocritical
 awesome
 geothermal
@@ -1802,7 +1824,6 @@ endorse
 rural
 urban
 diabetes
-hammering
 smuggler
 migraine
 adjourn
@@ -1824,9 +1845,7 @@ wood
 definitely
 bureaucracy
 mourn
-ritual
 substantial
-hideously
 visualize
 hypothesis
 coriander
@@ -1894,7 +1913,6 @@ communal
 childproof
 stick
 sticky
-hindsight
 concession
 bench
 preliminary
@@ -1911,11 +1929,7 @@ misconduct
 ```
 multiculturalism
 diversity
-promotion
-gallery
-curator
 resilience
-stockbroker
 equip
 interruption
 petty
@@ -1937,8 +1951,6 @@ multilingual
 cryptic
 apartment
 lecture
-cheque
-forge
 ```
 
 ```
@@ -1956,7 +1968,6 @@ swearing
 sweat
 stoicism
 extinction
-radical
 mortgage
 globalization
 narrative
@@ -1969,18 +1980,15 @@ armour
 deportation
 allegiance
 portrait
-irrigate
 clinic
 clinical
 embarrassment
 scary
-plunge
 retribution
 deterrence
 horrifying
 devise
 mosque
-relegate
 reliance
 negatively
 excessive
@@ -1999,7 +2007,6 @@ villa
 pat
 gossip
 malicious
-cautionary
 Tibetan
 plateau
 slam
@@ -2015,7 +2022,6 @@ prosecute
 maximum
 thalassemia
 sickle
-peasant
 silence
 hefty
 uphold
