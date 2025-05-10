@@ -122,7 +122,6 @@ resistant
 Appendix
 marched
 abroad
-strangers
 eager
 construction
 smoother
@@ -406,7 +405,6 @@ depression
 horror
 reckoning
 deceased
-bonuses
 visible
 flexible
 bipartisan
@@ -432,7 +430,6 @@ symptoms
 drove off
 illustrating
 tackle
-formal
 cinema-goers
 asteroids
 stardust
@@ -1291,7 +1288,6 @@ gatekeepers
 metaverse
 revolution
 mainstream
-inexpensive
 hogging
 mining
 household
@@ -1397,7 +1393,6 @@ brass
 premises
 proposal
 propose
-boost
 cast
 manner
 violation
@@ -2032,4 +2027,34 @@ complicated
 glamorous
 echelon
 saturated
+```
+
+```
+bonus
+discount
+boost
+greeting
+greet
+pronunciation
+category
+contraction
+gigantic
+energize
+medium
+latte
+casual
+expensive
+inexpensive
+elaborate
+dessert
+cafe
+formal
+pharmacy
+stranger
+toolbox
+scenario
+shopkeeper
+
+
+
 ```
