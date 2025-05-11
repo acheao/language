@@ -102,6 +102,92 @@ scenario
 shopkeeper
 ```
 
+```python
+ballot
+examine
+examiner
+weary
+cynicism
+hospitality
+cheerful
+cheer
+cheered
+spontaneous
+procedure
+sponsor
+treasurer
+treasure
+treasury
+resilience
+tackle
+penalize
+architect
+architecture
+renaissance
+immediate
+predecessor
+insulation
+regular
+decipher
+pre-eminent
+Saturday
+enterprise
+mourn
+antibiotic
+tyranny
+conventional
+intolerance
+cubicle
+curtain
+bleach
+album
+marquee
+haunt
+haunting
+legislature
+precipitation
+collectively
+messy
+mess
+sneaky
+sneakiest
+astronaut
+necklace
+detour
+migrant
+estuary
+bureaucracy
+repress
+persecute
+oppressed
+oppress
+grief
+grieve
+grieving
+tragedy
+jury
+amateur
+referee
+offside
+cholesterol
+bizarre
+violation
+clientele
+intense
+generalization
+sweeping
+monitor
+capable
+smuggler
+awful
+venom
+lethal
+eligible
+charismatic
+occur
+palpable
+sympathy
+```
 ---------------
 
 ```
@@ -133,14 +219,11 @@ soundtrack
 somewhat
 ghostlike
 celebrated
-haunting
 destroyer
 whaling
 van
-regular
 dismiss
 legitimate
-antibiotic
 ```
 
 ```
@@ -155,7 +238,6 @@ smooth
 convenient
 ambiguity
 considerate
-capable
 evacuate
 inclusion
 embrace
@@ -319,8 +401,6 @@ championed
 ```
 cinema-goers
 church
-eligible
-intolerance
 lawn
 ivory
 beads
@@ -362,9 +442,7 @@ enthusiasm
 adequate
 philosopher
 cope
-marquee
 scant
-enterprises
 soccer
 spaniel
 fist
@@ -388,7 +466,6 @@ literally
 Approximately
 raid
 upheld
-sympathy
 bump
 staircase
 gear
@@ -404,7 +481,6 @@ consultant
 remarkably
 trademark
 reflect
-intolerance
 courage
 guard
 ```
@@ -455,7 +531,6 @@ coupon
 symptoms
 drove off
 illustrating
-tackle
 cinema-goers
 asteroids
 stardust
@@ -573,7 +648,6 @@ sonar
 dense
 layers
 presidential
-sweeping
 ```
 
 ```
@@ -583,7 +657,6 @@ passion
 institution
 fortunate
 surrounded
-tackle
 ```
 
 ```
@@ -691,7 +764,6 @@ oven
 clause
 influence
 infect
-clientele
 Muslim
 Moslem
 ```
@@ -705,7 +777,6 @@ obesity
 diabete
 kidnapping
 miraculously
-procedure
 ```
 
 ```
@@ -768,7 +839,6 @@ extinguisher
 
 ```
 freak
-intolerance
 consensus
 clutter
 sophisticated
@@ -830,7 +900,6 @@ Metropolitan
 fuel
 shore
 invasive
-intense
 retailer
 adventure
 deliver
@@ -1079,19 +1148,16 @@ universal
 ```
 
 ```
-awful
 flame
 leak
 behave
 comprise
 prestige
-repress
 ```
 
 ```
 volunteer
 tumour
-hospitality
 gifted
 allegation
 commission
@@ -1151,9 +1217,6 @@ flutter
 goal
 crowd
 breeze
-grief
-grieve
-grieving
 legalize
 contempt
 permanent
@@ -1179,8 +1242,6 @@ hardliner
 civil
 sputter
 hum
-tyranny
-lethal
 tenement
 foundered
 enormous
@@ -1246,7 +1307,6 @@ relieve
 revolving
 guardian
 bakery
-necklace
 imperative
 laser
 photosynthetic
@@ -1293,14 +1353,11 @@ woe
 tune
 psychological
 tablet
-renaissance
 tweak
 mill
 restlessly
 headquarters
 emphasize
-sneaky
-sneakiest
 ledger
 manipulate
 intermediary
@@ -1324,7 +1381,6 @@ minister
 midfielder
 investigation
 reputation
-ballot
 manufacturing
 bedtime
 desert
@@ -1365,7 +1421,6 @@ enshrine
 constitution
 destruction
 phrase
-insulation
 cheeky
 prospect
 unqualified
@@ -1421,7 +1476,6 @@ proposal
 propose
 cast
 manner
-violation
 violence
 toxic
 scandal
@@ -1451,7 +1505,6 @@ wool
 carpentry
 regale
 repeatedly
-tragedy
 protective
 widen
 rugged
@@ -1474,12 +1527,10 @@ decomposition
 inconsistent
 academic
 medicine
-conventional
 advance
 vinaigrette
 unconscionable
 daffodil
-occur
 betray
 unconscionable
 pitch
@@ -1490,7 +1541,6 @@ replacement
 burden
 spur
 orchestra
-sponsor
 divorce
 bankruptcy
 acquire
@@ -1552,7 +1602,6 @@ treasury
 secretary
 delegation
 ceasefire
-charismatic
 counter
 intentionally
 vague
@@ -1580,7 +1629,6 @@ modest
 knitting
 knit
 tangible
-jury
 grand
 symbol
 torn
@@ -1611,9 +1659,6 @@ locust
 deceive
 shiver
 gush
-persecute
-oppressed
-oppress
 supreme
 drill
 tortoise
@@ -1621,8 +1666,6 @@ hare
 pent
 feud
 grudge
-cubicle
-curtain
 ```
 
 ```
@@ -1636,12 +1679,10 @@ oppose
 triad
 sculpture
 betrayal
-spontaneous
 deserved
 acclaim
 entrust
 applicant
-detour
 metal
 profile
 immerse
@@ -1653,7 +1694,6 @@ bribe
 thesis
 supposed
 cholera
-precipitation
 glucose
 lactose
 relevant
@@ -1665,7 +1705,6 @@ wept
 auction
 spy
 cement
-estuary
 appliance
 downright
 affection
@@ -1686,7 +1725,6 @@ adolescent
 studio
 catalogue
 addiction
-album
 enforcement
 interwar
 accordance
@@ -1701,7 +1739,6 @@ endless
 practically
 pointless
 fairly
-legislature
 defiance
 merit
 phenomenon
@@ -1710,9 +1747,6 @@ tribal
 ultimately
 pretend
 gel
-cheer
-cheerful
-cheered
 budget
 ```
 
@@ -1720,7 +1754,6 @@ budget
 accommodation
 subordinate
 illustrate
-astronaut
 falter
 recession
 psychiatrist
@@ -1753,7 +1786,6 @@ trucepirate
 ```
 
 ```
-sweeping
 reorganization
 federal
 stout
@@ -1766,12 +1798,10 @@ corruption
 colleague
 exhausted
 predation
-bleach
 overall
 occupation
 utterly
 desolate
-penalize
 luminous
 dial
 masculinity
@@ -1809,8 +1839,6 @@ imprisonment
 supervisor
 deforestation
 violent
-examine
-examiner
 kidney
 chlorine
 resistance
@@ -1818,17 +1846,13 @@ resisted
 psychologist
 constitute
 persecution
-amateur
 reverse
-architect
-architecture
 channel
 disorder
 drain
 butter
 raider
 raid
-predecessor
 stretch
 gorgeous
 promote
@@ -1845,7 +1869,6 @@ endorse
 rural
 urban
 diabetes
-smuggler
 migraine
 adjourn
 ```
@@ -1858,14 +1881,11 @@ Christianity
 Islam
 Judaism
 prescription
-decipher
 corporate
 unprecedented
 leather
 wood
 definitely
-bureaucracy
-mourn
 substantial
 visualize
 hypothesis
@@ -1876,17 +1896,11 @@ explanation
 neat
 scratch
 comedy
-treasurer
-treasure
-treasury
 abhorrent
 trial
-weary
-cynicism
 optical
 spill
 muscular
-palpable
 spectacular
 scope
 admission
@@ -1919,13 +1933,10 @@ shoulder
 maternity
 temporary
 delicate
-cholesterol
 pirate
 broadcast
 spiritual
 healing
-referee
-offside
 crystal
 nephew
 criteria
@@ -1950,7 +1961,6 @@ misconduct
 ```
 multiculturalism
 diversity
-resilience
 equip
 interruption
 petty
@@ -1981,9 +1991,7 @@ mist
 swirl
 stagnant
 stringent
-venom
 obsession
-immediate
 swear
 swearing
 sweat
@@ -2034,7 +2042,6 @@ slam
 commitment
 intensify
 bully
-generalization
 ```
 
 ```
@@ -2047,11 +2054,8 @@ silence
 hefty
 uphold
 withering
-messy
-mess
 complicated
 glamorous
 echelon
 saturated
 ```
-
