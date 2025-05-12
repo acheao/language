@@ -610,7 +610,6 @@ conservation
 sunlit
 otherworldly
 realm
-fantasy
 twilight
 sunlight
 glimmer
@@ -1405,7 +1404,6 @@ scale
 magnificent
 employee
 ramp
-fascinating
 constant
 homage
 spine
@@ -2058,4 +2056,15 @@ complicated
 glamorous
 echelon
 saturated
+```
+
+```
+fauna
+flora
+fascinating
+fascinate
+fascination
+fantastic
+fantasy
+synonym
 ```
