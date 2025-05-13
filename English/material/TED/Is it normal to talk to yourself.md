@@ -1,3 +1,4 @@
+[Is it normal to talk to yourself?](https://www.youtube.com/watch?v=iNyUmbmQQZg)
 As your morning alarm blares, you mutter to yourself, “Why did I set it so early?”
 
 While brushing your teeth, you think, “I need a haircut... unless?”

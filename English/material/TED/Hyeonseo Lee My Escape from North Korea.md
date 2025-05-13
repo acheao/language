@@ -1,3 +1,4 @@
+[Hyeonseo Lee: My Escape from North Korea](https://www.youtube.com/watch?v=PdxPCeWw75k
 Translator: Shqiponja Hoxha
 Reviewer: Helena Bedalli
 

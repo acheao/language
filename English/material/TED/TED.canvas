@@ -9,8 +9,13 @@
 		{"id":"0c198686514b7b1d","type":"file","file":"material/keke-ted/The discoveries awaiting us in the ocean's twilight zone.md","x":-1000,"y":-530,"width":400,"height":400},
 		{"id":"1c416ef74e65a717","type":"file","file":"material/TED/3 tips on how to study effectively.md","x":-240,"y":240,"width":400,"height":400},
 		{"id":"1a940523da8dd97a","type":"file","file":"material/TED/The Good News You Might Have Missed.md","x":-700,"y":240,"width":400,"height":400},
-		{"id":"ca1e25bc6414e9ee","type":"text","text":"Finish","x":-1680,"y":40,"width":120,"height":60},
-		{"id":"5dd5e72cc1dff2a9","x":-1960,"y":400,"width":400,"height":400,"type":"file","file":"material/vanessa/15 Essential Daily English Sentences.md"}
+		{"id":"abdc3d584b7e6431","type":"file","file":"material/TED/Hyeonseo Lee My Escape from North Korea.md","x":-3440,"y":-1480,"width":400,"height":400},
+		{"id":"f97b0d9e854d038a","type":"text","text":"Todo","x":-2670,"y":-1340,"width":110,"height":60},
+		{"id":"3c87c2151baedd5a","type":"file","file":"material/TED/We Can Make COVID-19 the Last Pandemic Bill Gates.md","x":-2480,"y":-1940,"width":400,"height":400},
+		{"id":"12ee61c3adc9ce84","type":"file","file":"material/TED/How to Live With Fire.md","x":-3070,"y":-960,"width":400,"height":400},
+		{"id":"5dd5e72cc1dff2a9","type":"file","file":"material/vanessa/15 Essential Daily English Sentences.md","x":-2720,"y":1360,"width":400,"height":400},
+		{"id":"ca1e25bc6414e9ee","type":"text","text":"Finish","x":-2440,"y":1000,"width":120,"height":60},
+		{"id":"a9603fffd75da7aa","type":"file","file":"material/TED/How AI Is Unlocking the Secrets of Nature and the Universe _ Demis Hassabis _ TED.md","x":-2406,"y":-1154,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"1ec242525c28a14f","fromNode":"9e3fc463dcfffaa3","fromSide":"right","toNode":"e800745a0ca60d86","toSide":"left"},
@@ -21,6 +26,10 @@
 		{"id":"326ba41ed32868ce","fromNode":"9e3fc463dcfffaa3","fromSide":"top","toNode":"210947f2334106f9","toSide":"bottom"},
 		{"id":"d499f7bb512702c5","fromNode":"9e3fc463dcfffaa3","fromSide":"left","toNode":"0c198686514b7b1d","toSide":"right"},
 		{"id":"6ca72899f864dd24","fromNode":"9e3fc463dcfffaa3","fromSide":"bottom","toNode":"1a940523da8dd97a","toSide":"top"},
-		{"id":"0688261f84545685","fromNode":"ca1e25bc6414e9ee","fromSide":"bottom","toNode":"5dd5e72cc1dff2a9","toSide":"top"}
+		{"id":"0688261f84545685","fromNode":"ca1e25bc6414e9ee","fromSide":"bottom","toNode":"5dd5e72cc1dff2a9","toSide":"top"},
+		{"id":"7744e091c96b44dd","fromNode":"f97b0d9e854d038a","fromSide":"left","toNode":"abdc3d584b7e6431","toSide":"right"},
+		{"id":"924e767b1b184e75","fromNode":"f97b0d9e854d038a","fromSide":"top","toNode":"3c87c2151baedd5a","toSide":"bottom"},
+		{"id":"c3928cd61253ec74","fromNode":"f97b0d9e854d038a","fromSide":"bottom","toNode":"12ee61c3adc9ce84","toSide":"top"},
+		{"id":"27374f1b35769c3e","fromNode":"f97b0d9e854d038a","fromSide":"right","toNode":"a9603fffd75da7aa","toSide":"top"}
 	]
 }

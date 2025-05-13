@@ -1,3 +1,4 @@
+[3 tips on how to study effectively](https://www.youtube.com/watch?v=TjPFZaMe2yw)
 During their training, medical residents learn countless techniques, surgeries, and procedures which they’ll later use to save lives.
 
 Being able to remember these skills can quite literally be a matter of life and death.
