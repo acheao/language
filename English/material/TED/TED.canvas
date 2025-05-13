@@ -6,8 +6,11 @@
 		{"id":"210947f2334106f9","type":"file","file":"material/TED/How to Achieve Your Most Ambitious Goals.md","x":-160,"y":-820,"width":400,"height":400},
 		{"id":"94e0105c22b88cfd","type":"file","file":"material/TED/The benefits of a bilingual brain-Mia Nacamulli.md","x":160,"y":-100,"width":400,"height":400},
 		{"id":"90ae66fef74f3627","type":"file","file":"material/TED/Robert Waldinger - What makes a good life Lessons from the longest study on happiness.md","x":-860,"y":-240,"width":400,"height":400},
-		{"id":"1c416ef74e65a717","type":"file","file":"material/TED/3 tips on how to study effectively.md","x":-410,"y":40,"width":400,"height":400},
-		{"id":"0c198686514b7b1d","type":"file","file":"material/keke-ted/The discoveries awaiting us in the ocean's twilight zone.md","x":-1000,"y":-530,"width":400,"height":400}
+		{"id":"0c198686514b7b1d","type":"file","file":"material/keke-ted/The discoveries awaiting us in the ocean's twilight zone.md","x":-1000,"y":-530,"width":400,"height":400},
+		{"id":"1c416ef74e65a717","type":"file","file":"material/TED/3 tips on how to study effectively.md","x":-240,"y":240,"width":400,"height":400},
+		{"id":"1a940523da8dd97a","type":"file","file":"material/TED/The Good News You Might Have Missed.md","x":-700,"y":240,"width":400,"height":400},
+		{"id":"ca1e25bc6414e9ee","type":"text","text":"Finish","x":-1680,"y":40,"width":120,"height":60},
+		{"id":"5dd5e72cc1dff2a9","x":-1960,"y":400,"width":400,"height":400,"type":"file","file":"material/vanessa/15 Essential Daily English Sentences.md"}
 	],
 	"edges":[
 		{"id":"1ec242525c28a14f","fromNode":"9e3fc463dcfffaa3","fromSide":"right","toNode":"e800745a0ca60d86","toSide":"left"},
@@ -16,6 +19,8 @@
 		{"id":"5723ae9f384a6cf0","fromNode":"9e3fc463dcfffaa3","fromSide":"left","toNode":"90ae66fef74f3627","toSide":"right"},
 		{"id":"3c07a45f3e2dcd70","fromNode":"9e3fc463dcfffaa3","fromSide":"top","toNode":"165a401fed649b8f","toSide":"bottom"},
 		{"id":"326ba41ed32868ce","fromNode":"9e3fc463dcfffaa3","fromSide":"top","toNode":"210947f2334106f9","toSide":"bottom"},
-		{"id":"d499f7bb512702c5","fromNode":"9e3fc463dcfffaa3","fromSide":"left","toNode":"0c198686514b7b1d","toSide":"right"}
+		{"id":"d499f7bb512702c5","fromNode":"9e3fc463dcfffaa3","fromSide":"left","toNode":"0c198686514b7b1d","toSide":"right"},
+		{"id":"6ca72899f864dd24","fromNode":"9e3fc463dcfffaa3","fromSide":"bottom","toNode":"1a940523da8dd97a","toSide":"top"},
+		{"id":"0688261f84545685","fromNode":"ca1e25bc6414e9ee","fromSide":"bottom","toNode":"5dd5e72cc1dff2a9","toSide":"top"}
 	]
 }

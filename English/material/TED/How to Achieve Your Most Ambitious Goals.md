@@ -1,4 +1,4 @@
-[reference](https://www.youtube.com/watch?v=TQMbvJNRpLE)
+[reference video](https://www.youtube.com/watch?v=TQMbvJNRpLE)
 By a show of hands, how many of you believe you could replicate this image of Brad Pitt with just a pencil and piece of paper? Well, I’m going to show you how to do this.
 
 And in so doing, I’m going to give you the skill necessary to become a world-class artist. And it shouldn’t take more than about 15 seconds. But before I do that, how many of you believe you could replicate this image of a solid gray square? Every one of us. And if you can make one gray square, you can make two, three, nine.

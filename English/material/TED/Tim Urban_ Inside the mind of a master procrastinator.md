@@ -1,3 +1,4 @@
+[reference video](https://www.youtube.com/watch?v=arj7oStGLkU&t=630s)
 So in college, I was a government major, which means I had to write a lot of papers.
 
 Now, when a normal student writes a paper, they might spread the work out a little like this.
