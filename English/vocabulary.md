@@ -348,7 +348,6 @@ junk
 hoarded
 Precious
 revenge
-aspect
 rumpists
 panders
 ```
@@ -369,7 +368,6 @@ substance
 rendezvous
 tussle
 stabbed
-obstacle
 woven
 scant
 ```
@@ -791,7 +789,6 @@ existential
 wildlife
 defeat
 circumstance
-reinvent
 behalf
 confident
 marsh
@@ -865,7 +862,6 @@ pilot
 magnet
 dorm
 dentist
-curb
 ```
 
 ```
@@ -887,7 +883,6 @@ trailer
 plot
 leukaemia
 claw
-urban
 tutor
 district
 voluntary
@@ -968,10 +963,6 @@ Royal
 naval
 maladaptive
 intervention
-```
-
-```
-hip
 ```
 
 ```
@@ -1224,7 +1215,6 @@ confront
 confrontation
 taxation
 paramount
-proactive
 compete
 incompetence
 ```
@@ -1368,7 +1358,6 @@ diffuse
 gatekeepers
 metaverse
 revolution
-mainstream
 hogging
 mining
 household
@@ -1775,7 +1764,6 @@ pneumonia
 concentrated
 echelon
 scooped
-rib
 chest
 cage
 mast
@@ -1863,8 +1851,6 @@ rumour
 environmental
 environmentalists
 endorse
-rural
-urban
 diabetes
 migraine
 adjourn
@@ -2080,3 +2066,55 @@ currency
 tumour
 ```
 
+```
+obstacle
+lot
+mainstream
+incapable
+elbow
+rib
+track
+cheerleading
+judo
+martial
+kick
+off-axis
+flip
+puddle
+curb
+lava
+mindset
+enhance 
+mobility
+mitigating
+swift
+agile
+nimble
+recklessly
+squat
+shorty
+hop
+leap
+skip
+absorb
+impact
+hip
+vault
+scale
+fence
+balcony
+empower
+aspect
+rural
+urban
+funnel
+handrail
+sidewalk
+autopilot
+reinvent
+proactive
+paradigm
+swing
+
+
+```
