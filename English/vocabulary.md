@@ -1,5 +1,25 @@
 ```python
-graduate programs
+streamline
+ubiquitous
+notable
+inspiration
+portable
+specific
+specifically
+transcription
+moderation
+novel
+ingestion
+hallucinate
+evaluation
+idiomatically
+encapsulate
+recur
+subsequent
+delve
+```
+
+```python
 Dean
 assignment
 compliance
@@ -345,7 +365,6 @@ unexpected
 interactions
 unconsciously
 profoundly
-evaluations
 ```
 
 ```
@@ -938,9 +957,7 @@ fuss
 portability
 modular
 principle
-moderation
 snippet
-transcription
 trailer
 plot
 leukaemia
@@ -1412,8 +1429,6 @@ ledger
 manipulate
 intermediary
 iteration
-specific
-specifically
 hyperlinking
 handful
 diffuse
