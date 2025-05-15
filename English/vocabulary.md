@@ -1,4 +1,16 @@
 ```python
+graduate programs
+Dean
+assignment
+compliance
+manageable
+exotic
+derivative
+currency
+tumour
+```
+
+```python
 obstacle
 lot
 mainstream
@@ -2104,14 +2116,3 @@ fantasy
 synonym
 ```
 
-```
-graduate programs
-Dean
-assignment
-compliance
-manageable
-exotic
-derivative
-currency
-tumour
-```
