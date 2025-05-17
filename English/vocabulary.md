@@ -1,4 +1,4 @@
-```python
+```python         
 streamline
 ubiquitous
 notable
@@ -160,7 +160,6 @@ summon
 ```python
 bonus
 discount
-boost
 greeting
 greet
 pronunciation
@@ -459,7 +458,6 @@ exhibition
 essential
 disgusting
 league
-woe
 dedicated
 ```
 
@@ -492,7 +490,6 @@ intellectual
 
 ```
 distinctly
-royal
 burst
 curious
 transition
@@ -534,7 +531,6 @@ niece
 sacred
 purple
 stigma
-contender
 basin
 ```
 
@@ -613,9 +609,7 @@ illustrating
 cinema-goers
 asteroids
 stardust
-Timing
 cruise
-uninspired
 Hepatitis
 jungle
 ```
@@ -683,7 +677,6 @@ procrastination
 ```
 meal
 tale
-innovations
 tactic
 conservation
 sunlit
@@ -764,7 +757,6 @@ depression
 efficiency
 Parliament
 astonishing
-theatre
 ```
 
 ```
@@ -901,13 +893,10 @@ prey
 plague
 indispensable
 nationalization
-defect
-dealt
 adequate
 cameo
 fortnight
 significant
-diet
 swallow
 cyanide
 brutality
@@ -963,7 +952,6 @@ plot
 leukaemia
 claw
 tutor
-district
 voluntary
 leisure
 multiple
@@ -1010,7 +998,6 @@ crouched
 pile
 robber
 robbery
-convict
 religious
 ```
 
@@ -1038,7 +1025,6 @@ sizeable
 
 ```
 evolve
-Royal
 naval
 maladaptive
 intervention
@@ -1068,8 +1054,6 @@ detain
 ```
 
 ```
-prone
-heron
 steelworks
 assessor
 successor
@@ -1078,7 +1062,6 @@ successor
 ```
 eliminate
 priest
-uninspired
 inspired
 inspiring
 sermon
@@ -1097,7 +1080,6 @@ regardless
 
 ```
 geology
-cathedral
 revolting
 stew
 itinerant
@@ -1257,7 +1239,6 @@ opponent
 ```
 
 ```
-excoriate
 pentagon
 shortage
 custom
@@ -1339,7 +1320,6 @@ appalling
 illustration
 overheat
 engine
-participation
 arguably
 tenure
 material
@@ -1348,7 +1328,6 @@ brilliant
 testimonial
 controversial
 hazardous
-entertainment
 sour
 soaked
 rub
@@ -1416,7 +1395,6 @@ alongside
 predict
 spew
 propaganda
-woe
 tune
 psychological
 tablet
@@ -1520,13 +1498,11 @@ colonial
 colony
 fading
 temper
-lung
 documentary
 poll
 methane
 racket
 grain
-muscle
 respondent
 nationality
 dual
@@ -1546,7 +1522,6 @@ polite
 prestige
 democrat
 wax
-navy
 underlying
 implicit
 delightful
@@ -1612,7 +1587,6 @@ productivity
 reproductive
 sail
 sailed
-cathedral
 frustration
 ```
 
@@ -1626,8 +1600,6 @@ concentration
 imminent
 subtle
 generosity
-regulatory
-stifle
 compel
 compelling
 compelled
@@ -1681,7 +1653,6 @@ conscience
 indispensable
 waist
 debate
-stimulate
 barrier
 abdominal
 humanitarian
@@ -1689,18 +1660,14 @@ trolley
 mayhem
 fateful
 modest
-knitting
 knit
 tangible
-grand
 symbol
 torn
 allocate
 perplexed
 melody
 suburb
-tacky
-souvenir
 taunt
 shaking
 ```
@@ -1746,7 +1713,6 @@ deserved
 acclaim
 entrust
 applicant
-metal
 profile
 immerse
 ```
@@ -1792,10 +1758,8 @@ enforcement
 interwar
 accordance
 possession
-vigil
 comply
 occasional
-reminder
 friction
 frictionless
 endless
@@ -1809,7 +1773,6 @@ coalition
 tribal
 ultimately
 pretend
-gel
 budget
 ```
 
@@ -1819,7 +1782,6 @@ subordinate
 illustrate
 falter
 recession
-psychiatrist
 elegant
 foyer
 verdict
@@ -1829,9 +1791,6 @@ aggressive
 aggressively
 aggressive
 tuition
-referendum
-foster
-grime
 regime
 December
 despicable
@@ -1841,8 +1800,6 @@ pneumonia
 concentrated
 echelon
 scooped
-chest
-cage
 mast
 trucepirate
 ```
@@ -1859,7 +1816,6 @@ opposite
 corruption
 colleague
 exhausted
-predation
 overall
 occupation
 utterly
@@ -1871,15 +1827,12 @@ femininity
 scorn
 cottage
 ordination
-indifference
 stale
 thicken
 bond
 uncharted
 swiftness
 sparkle
-prevail
-prevailing
 pioneering
 bioengineering
 lawsuit
@@ -1901,7 +1854,6 @@ imprisonment
 supervisor
 deforestation
 violent
-kidney
 chlorine
 resistance
 resisted
@@ -1929,7 +1881,6 @@ environmental
 environmentalists
 endorse
 diabetes
-migraine
 adjourn
 ```
 
@@ -1954,23 +1905,16 @@ lime
 slur
 explanation
 neat
-scratch
 comedy
 abhorrent
 trial
 optical
 spill
-muscular
-spectacular
 scope
 admission
 complementary
 alternative
-perjury
-conviction
 oath
-exploit
-exploiting
 philosophy
 oblivion
 ```
@@ -1978,7 +1922,6 @@ oblivion
 ```
 discrimination
 prohibit
-encounter
 furious
 genuine
 dairy
@@ -1997,7 +1940,6 @@ pirate
 broadcast
 spiritual
 healing
-crystal
 nephew
 criteria
 convert
@@ -2015,7 +1957,6 @@ falcon
 loyalty
 rife
 negligence
-misconduct
 ```
 
 ```
@@ -2065,7 +2006,6 @@ motorway
 contour
 fund
 funding
-armour
 deportation
 allegiance
 portrait
@@ -2078,7 +2018,6 @@ deterrence
 horrifying
 devise
 mosque
-reliance
 negatively
 excessive
 excess
@@ -2094,8 +2033,6 @@ hierarchical
 cherish
 villa
 pat
-gossip
-malicious
 Tibetan
 plateau
 slam
@@ -2108,12 +2045,9 @@ bully
 attorney
 prosecute
 maximum
-thalassemia
-sickle
 silence
 hefty
 uphold
-withering
 complicated
 glamorous
 echelon
@@ -2131,3 +2065,81 @@ fantasy
 synonym
 ```
 
+```
+reminder
+theatre
+cage
+chest
+lung
+muscle
+muscular
+diet
+migraine
+cogwheel
+boost
+spectacular
+exploit
+exploiting
+clutch
+kidney
+thalassemia
+sickle
+conduct
+misconduct
+malicious
+gossip
+woe
+electricity
+psychiatrist
+vigil
+contender
+reliance
+withering
+grand
+convict
+conviction
+dealt
+royal
+navy
+tile
+referendum
+foster
+participation
+gel
+perjury
+prone
+heron
+predation
+doorbell
+measure
+stimulate
+gesture
+armour
+millimetre
+regulatory
+strict
+district
+stifle
+innovation
+encounter
+situation
+crystal
+entertainment
+grime
+excoriate
+uninspired
+timing
+scratch
+tacky
+souvenir
+knitting
+metal
+shield
+indifference
+germinate
+prevail
+prevailing
+tyranny
+defect
+cathedral
+```
