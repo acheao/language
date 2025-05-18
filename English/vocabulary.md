@@ -1,4 +1,63 @@
 ```python
+scrub
+intentionally
+cockpit
+witness
+speciality
+litter
+wreck
+fetch
+examination
+pitch
+plague
+autograph
+luxury
+exhausted
+constant
+friction
+frictionless
+colleague
+stew
+steward
+revolting
+stringent
+bibliography
+allocate
+mature
+considerable
+intruder
+permanent
+enshrine
+reproductive
+product
+productivity
+constitution
+visible
+flexible
+triad
+constituency
+diversity
+multiculturalism
+scrapheap
+consign
+preserve
+lecture
+canal
+occasional
+extinguisher
+cheeky
+vaguely
+vague
+indispensable
+Pacific
+oblivion
+overheat
+drill
+seed
+murder
+```
+
+```python
 reminder
 theatre
 cage
@@ -352,7 +411,6 @@ sympathy
 
 ```
 founder
-scrapheap
 cater
 fitness
 joints
@@ -366,7 +424,6 @@ inherit
 procrastinator
 sneakiest
 wrestle
-constituency
 talent
 talented
 crime
@@ -548,7 +605,6 @@ fame
 slings
 magnified
 spanning
-constituency
 pressure
 compassion
 championed
@@ -661,8 +717,6 @@ depression
 horror
 reckoning
 deceased
-visible
-flexible
 bipartisan
 ```
 
@@ -716,7 +770,6 @@ recall
 sophisticated
 ivory
 beads
-preserve
 highlighted
 brutality
 net-zero
@@ -843,7 +896,6 @@ devoted
 fitness
 emperor
 clashed
-flexible
 expressionism
 dominates
 mouthful
@@ -855,7 +907,6 @@ wound
 aching
 shale
 cater
-scrapheap
 ```
 
 ```
@@ -969,8 +1020,6 @@ estate
 membership
 occasion
 prey
-plague
-indispensable
 nationalization
 adequate
 cameo
@@ -979,7 +1028,6 @@ significant
 swallow
 cyanide
 brutality
-extinguisher
 ```
 
 ```
@@ -1056,7 +1104,6 @@ likelihood
 satisfactory
 toe
 forecast
-scrub
 coherent
 instruction
 disappointment
@@ -1159,8 +1206,6 @@ regardless
 
 ```
 geology
-revolting
-stew
 itinerant
 ```
 
@@ -1378,7 +1423,6 @@ territory
 regret
 beta
 transport
-mature
 overheard
 resign
 resignation
@@ -1397,7 +1441,6 @@ collide
 manner
 appalling
 illustration
-overheat
 engine
 arguably
 tenure
@@ -1411,7 +1454,6 @@ sour
 soaked
 rub
 rubbing
-autograph
 fashionable
 landscape
 blessed
@@ -1465,7 +1507,6 @@ urgency
 creature
 inexhaustible
 sustainably
-steward
 communicator
 ease
 underscore
@@ -1526,7 +1567,6 @@ scale
 magnificent
 employee
 ramp
-constant
 homage
 spine
 miracle
@@ -1534,11 +1574,8 @@ chronic
 anecdote
 alcohol
 alcoholism
-considerable
 compromise
 workload
-enshrine
-constitution
 destruction
 phrase
 cheeky
@@ -1617,7 +1654,6 @@ acute
 episode
 doomed
 inextricably
-Pacific
 wool
 carpentry
 regale
@@ -1650,7 +1686,6 @@ unconscionable
 daffodil
 betray
 unconscionable
-pitch
 shed
 assemble
 graphics
@@ -1661,9 +1696,6 @@ orchestra
 divorce
 bankruptcy
 acquire
-product
-productivity
-reproductive
 sail
 sailed
 frustration
@@ -1711,14 +1743,11 @@ auditor
 sharp
 sharper
 sharply
-consign
 treasury
 secretary
 delegation
 ceasefire
 counter
-intentionally
-vague
 cookery
 pessimistic
 Buddhist
@@ -1729,7 +1758,6 @@ resemblance
 podium
 lotion
 conscience
-indispensable
 waist
 debate
 barrier
@@ -1743,7 +1771,6 @@ knit
 tangible
 symbol
 torn
-allocate
 perplexed
 melody
 suburb
@@ -1769,7 +1796,6 @@ deceive
 shiver
 gush
 supreme
-drill
 tortoise
 hare
 pent
@@ -1785,7 +1811,6 @@ midst
 fascism
 subjunctive
 oppose
-triad
 sculpture
 betrayal
 deserved
@@ -1818,7 +1843,6 @@ downright
 affection
 seethe
 robustness
-luxury
 tour
 impressionist
 tenant
@@ -1838,9 +1862,6 @@ interwar
 accordance
 possession
 comply
-occasional
-friction
-frictionless
 endless
 practically
 pointless
@@ -1893,8 +1914,6 @@ blackened
 ladder
 opposite
 corruption
-colleague
-exhausted
 overall
 occupation
 utterly
@@ -1917,7 +1936,6 @@ bioengineering
 lawsuit
 designate
 trek
-cockpit
 ```
 
 ```
@@ -1995,7 +2013,6 @@ complementary
 alternative
 oath
 philosophy
-oblivion
 ```
 
 ```
@@ -2009,7 +2026,6 @@ charred
 remission
 mechanism
 mechanical
-fetch
 humiliating
 shoulder
 maternity
@@ -2039,8 +2055,6 @@ negligence
 ```
 
 ```
-multiculturalism
-diversity
 equip
 interruption
 petty
@@ -2061,7 +2075,6 @@ weed
 multilingual
 cryptic
 apartment
-lecture
 ```
 
 ```
@@ -2070,7 +2083,6 @@ divided
 mist
 swirl
 stagnant
-stringent
 obsession
 swear
 swearing
@@ -2104,7 +2116,6 @@ panic
 monster
 dormant
 levity
-bibliography
 torrent
 peacock
 individual
@@ -2143,4 +2154,3 @@ fantastic
 fantasy
 synonym
 ```
-
