@@ -1,4 +1,15 @@
 ```python
+fauna
+flora
+fascinating
+fascinate
+fascination
+fantastic
+fantasy
+synonym
+```
+
+```python
 scrub
 intentionally
 cockpit
@@ -2144,13 +2155,3 @@ echelon
 saturated
 ```
 
-```
-fauna
-flora
-fascinating
-fascinate
-fascination
-fantastic
-fantasy
-synonym
-```
