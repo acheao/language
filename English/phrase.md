@@ -5,3 +5,5 @@ board of governors
 Joan of Arc
 be drawn to something
 sweep through
+figure out
+gelatin paper
