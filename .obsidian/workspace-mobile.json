@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "English/vocabulary.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -155,6 +155,7 @@
   },
   "active": "9cc2c55c8b306e86",
   "lastOpenFiles": [
+    "English/material/keke-ted/The discoveries awaiting us in the ocean's twilight zone.md",
     "English/material/TED/TED.canvas",
     "English/vocabulary.md",
     "English/material/keke-ted/New discoveries await us in the ocean twilight zone.md",
