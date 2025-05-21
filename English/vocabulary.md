@@ -27,7 +27,14 @@ embarrassment
 scary
 retribution
 deterrence
+horrible
+horrid
 horrifying
+horrify
+horrified
+horrific
+horribly
+horrendously
 devise
 mosque
 negatively
