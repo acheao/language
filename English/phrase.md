@@ -7,3 +7,4 @@ be drawn to something
 sweep through
 figure out
 gelatin paper
+stay clear of

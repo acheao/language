@@ -1,4 +1,25 @@
 ```python
+priest
+forecast
+criteria
+dairy
+calcium
+alcohol
+alcoholism
+cable
+adolescent
+removal
+mediation
+firewood
+embrace
+lush
+coincidentally
+testimonial
+unprecedented
+cottage
+```
+
+```python
 crucial
 divided
 mist
@@ -641,7 +662,6 @@ ambiguity
 considerate
 evacuate
 inclusion
-embrace
 degree
 summit
 hardly
@@ -816,7 +836,6 @@ rags
 retrospect
 intervention
 rope
-coincidentally
 sight
 toll
 well-being
@@ -1199,7 +1218,6 @@ procrastinator
 instant
 gratification
 cotton
-lush
 idiom
 reform
 pilot
@@ -1249,7 +1267,6 @@ viral
 likelihood
 satisfactory
 toe
-forecast
 coherent
 instruction
 disappointment
@@ -1333,7 +1350,6 @@ successor
 
 ```
 eliminate
-priest
 inspired
 inspiring
 sermon
@@ -1593,7 +1609,6 @@ tenure
 material
 reclaim
 brilliant
-testimonial
 controversial
 hazardous
 sour
@@ -1686,8 +1701,6 @@ spine
 miracle
 chronic
 anecdote
-alcohol
-alcoholism
 compromise
 workload
 destruction
@@ -1718,7 +1731,6 @@ condemn
 condemnation
 dialogue
 ordain
-coincidentally
 lid
 wisdom
 contrast
@@ -1737,7 +1749,6 @@ respondent
 nationality
 dual
 spilt
-mediation
 continent
 brass
 premises
@@ -1965,7 +1976,6 @@ resort
 ```
 
 ```
-adolescent
 studio
 catalogue
 addiction
@@ -2034,7 +2044,6 @@ dial
 masculinity
 femininity
 scorn
-cottage
 ordination
 stale
 thicken
@@ -2078,7 +2087,6 @@ stretch
 gorgeous
 promote
 collaborative
-cable
 hypocritical
 awesome
 geothermal
@@ -2100,7 +2108,6 @@ Islam
 Judaism
 prescription
 corporate
-unprecedented
 leather
 wood
 definitely
@@ -2130,8 +2137,6 @@ discrimination
 prohibit
 furious
 genuine
-dairy
-calcium
 charred
 remission
 mechanism
@@ -2146,7 +2151,6 @@ broadcast
 spiritual
 healing
 nephew
-criteria
 convert
 communal
 childproof
