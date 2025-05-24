@@ -619,7 +619,6 @@ founder
 cater
 fitness
 joints
-consumption
 retrospect
 possibility
 exceed
@@ -649,7 +648,6 @@ legitimate
 ```
 
 ```
-resistant
 Appendix
 marched
 abroad
@@ -712,7 +710,6 @@ defamation
 stem
 prolonged
 methodical
-consumption
 brooch
 saint
 plates
@@ -743,7 +740,6 @@ brooch
 ```
 dumb
 deaf
-courage
 rifle
 explosion
 furniture
@@ -827,7 +823,6 @@ intellectual
 ```
 
 ```
-distinctly
 burst
 curious
 transition
@@ -892,7 +887,6 @@ consultant
 remarkably
 trademark
 reflect
-courage
 guard
 ```
 
@@ -911,7 +905,6 @@ pull up
 ```
 tidy
 scratc
-consumption
 astonishing
 shallow
 depression
@@ -992,13 +985,11 @@ plenty
 abundance
 folks
 pursue
-indicative
 disintegrating
 lightning
 subway
 accurate
 improper
-dramatic
 reporter
 elective
 petition
@@ -1010,7 +1001,6 @@ procrastination
 meal
 tale
 tactic
-conservation
 sunlight
 ```
 
@@ -1032,7 +1022,6 @@ surrounded
 ```
 
 ```
-satellite
 predator
 determination
 admires
@@ -1141,7 +1130,6 @@ photographer
 maladaptive
 obesity
 diabete
-kidnapping
 miraculously
 ```
 
@@ -1227,9 +1215,7 @@ dentist
 ```
 
 ```
-fallen
 broad
-positive
 refugee
 stand-alone
 opinionated
@@ -1251,7 +1237,6 @@ recruit
 Metropolitan
 fuel
 shore
-invasive
 retailer
 adventure
 deliver
@@ -1285,8 +1270,6 @@ vulnerable
 radioactive
 crouched
 pile
-robber
-robbery
 religious
 ```
 
@@ -1343,7 +1326,6 @@ detain
 ```
 
 ```
-steelworks
 assessor
 successor
 ```
@@ -1357,7 +1339,6 @@ sermon
 
 ```
 perception
-dust
 disintegrated
 ```
 
@@ -1395,8 +1376,6 @@ assassinate
 ```
 cosiness
 disparity
-cosmetic
-reconstructive
 ```
 
 ```
@@ -1512,7 +1491,6 @@ spiral
 fade
 temple
 accessible
-conservative
 ```
 
 ```
@@ -1604,7 +1582,6 @@ manner
 appalling
 illustration
 engine
-arguably
 tenure
 material
 reclaim
@@ -1623,7 +1600,6 @@ paralyse
 rampant
 stake
 giant
-encouraging
 confidential
 hedge
 mystery
@@ -1636,7 +1612,6 @@ revolving
 guardian
 bakery
 imperative
-inhabitant
 ease
 underscore
 extensive
@@ -1671,7 +1646,6 @@ prime
 minister
 midfielder
 investigation
-reputation
 manufacturing
 bedtime
 desert
@@ -1722,11 +1696,9 @@ bleak
 hydraulic
 paramount
 downturn
-falter
 quartet
 litre
 intimately
-endure
 condemn
 condemnation
 dialogue
@@ -1773,7 +1745,6 @@ knot
 fraction
 slowdown
 pure
-scramble
 counsellor
 acute
 episode
@@ -1792,7 +1763,6 @@ swarm
 swarmed
 gnat
 torment
-directive
 kinetic
 disproportionate
 warrior
@@ -1813,7 +1783,6 @@ betray
 unconscionable
 shed
 assemble
-graphics
 replacement
 burden
 spur
@@ -1823,7 +1792,6 @@ bankruptcy
 acquire
 sail
 sailed
-frustration
 ```
 
 ```
@@ -1845,14 +1813,12 @@ responsibility
 ```
 
 ```
-tattered
 bargain
 sink
 terminate
 owe
 rookie
 quarterback
-thump
 poison
 poisonous
 dictatorship
@@ -1873,9 +1839,6 @@ delegation
 ceasefire
 counter
 cookery
-pessimistic
-Buddhist
-Hindu
 retain
 wage
 resemblance
@@ -1887,7 +1850,6 @@ debate
 barrier
 abdominal
 humanitarian
-trolley
 mayhem
 fateful
 modest
@@ -1917,7 +1879,6 @@ fledged
 locust
 deceive
 shiver
-gush
 supreme
 tortoise
 hare
@@ -1950,8 +1911,6 @@ bribe
 thesis
 supposed
 cholera
-glucose
-lactose
 relevant
 aircraft
 detention
@@ -2002,7 +1961,6 @@ budget
 accommodation
 subordinate
 illustrate
-falter
 recession
 elegant
 foyer
@@ -2061,8 +2019,6 @@ trek
 pneumonia
 integrity
 emphasis
-burial
-certificate
 rough
 handling
 dispute
@@ -2088,13 +2044,11 @@ gorgeous
 promote
 collaborative
 hypocritical
-awesome
 geothermal
 cocktail
 rumour
 environmental
 environmentalists
-endorse
 diabetes
 adjourn
 ```
@@ -2126,8 +2080,6 @@ optical
 spill
 scope
 admission
-complementary
-alternative
 oath
 philosophy
 ```
@@ -2135,7 +2087,6 @@ philosophy
 ```
 discrimination
 prohibit
-furious
 genuine
 charred
 remission
@@ -2183,15 +2134,87 @@ alphabetically
 chapel
 seize
 innocence
-conserve
 chemical
 weed
 multilingual
-cryptic
 apartment
 ```
 
-
+```
+coroner
+burial
+certificate
+encourage
+encouraging
+scramble
+squad
+courage
+dismantle
+steel
+alternative
+complementary
+resistant
+blonde
+endorse
+endure
+indicator
+indicative
+evaluate
+frustration
+temperature
+furiously
+furious
+cosmetic
+reconstructive
+tattered
+falter
+thump
+conserve
+backwards
+dramatic
+domestic
+gush
+invasive
+minimally
+minimalist
+flee
+security
+fall
+fallen
+inhabitant
+conservative
+trolley
+rage
+dust
+Hindu
+Buddhist
+consumption
+reputation
+arguably
+arguable
+argue
+conservation
+directive
+assumption
+cryptic
+trajectory
+stumble
+graphics
+positive
+variety
+distinctly
+distinctive
+pessimistic
+awesome
+revise
+robbery
+robber
+kidnapping
+glucose
+lactose
+satellite
+profit
+```
 
 
 
