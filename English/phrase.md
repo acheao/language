@@ -8,7 +8,9 @@ sweep through
 figure out
 gelatin paper
 stay clear of
-
+reaching out
+like a dose of salts
+crack down
 
 
 

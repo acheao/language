@@ -356,7 +356,6 @@ cockpit
 witness
 speciality
 litter
-wreck
 fetch
 examination
 pitch
@@ -394,7 +393,6 @@ consign
 preserve
 lecture
 canal
-occasional
 extinguisher
 cheeky
 vaguely
@@ -413,7 +411,6 @@ reminder
 theatre
 cage
 chest
-lung
 muscle
 muscular
 diet
@@ -764,7 +761,6 @@ fitness
 joints
 retrospect
 possibility
-exceed
 delight
 delighted
 inherit
@@ -854,7 +850,6 @@ stem
 prolonged
 methodical
 brooch
-saint
 plates
 nurseries
 spreadsheet
@@ -932,7 +927,6 @@ scant
 ```
 heartfelt
 exhibition
-essential
 disgusting
 league
 dedicated
@@ -973,14 +967,12 @@ retrospect
 intervention
 rope
 sight
-toll
 well-being
 quick fix
 ```
 
 ```
 tending
-tactics
 astonishing
 advisory
 liberties
@@ -988,7 +980,6 @@ enthusiasm
 ```
 
 ```
-adequate
 philosopher
 cope
 scant
@@ -1015,7 +1006,6 @@ Approximately
 raid
 upheld
 bump
-staircase
 gear
 sheer
 ```
@@ -1035,7 +1025,6 @@ guard
 historic
 banter
 adversaries
-overshoots
 foul-mouthed
 racist
 Judging
@@ -1069,7 +1058,6 @@ fluid
 ```
 atlas
 marched
-coupon
 symptoms
 drove off
 illustrating
@@ -1078,7 +1066,6 @@ asteroids
 stardust
 cruise
 Hepatitis
-jungle
 ```
 
 ```
@@ -1087,7 +1074,6 @@ hit pay dirt
 inscription
 grip
 Uranium
-alphabet
 overcome
 lease
 emergence
@@ -1116,7 +1102,6 @@ schemes
 outstanding
 cyanide
 swallowed
-maladaptive
 obesity
 plenty
 ```
@@ -1140,7 +1125,6 @@ procrastination
 ```
 meal
 tale
-tactic
 sunlight
 ```
 
@@ -1163,7 +1147,6 @@ surrounded
 
 ```
 predator
-determination
 admires
 cattle
 disk
@@ -1178,7 +1161,6 @@ grip
 gripping
 proceeding
 minority
-edge
 inherited
 depression
 efficiency
@@ -1267,7 +1249,6 @@ Moslem
 bound
 illustrating
 photographer
-maladaptive
 obesity
 diabete
 miraculously
@@ -1284,7 +1265,6 @@ soccer
 fear
 existential
 wildlife
-defeat
 circumstance
 behalf
 marsh
@@ -1311,10 +1291,8 @@ tidy
 subsidize
 estate
 membership
-occasion
 prey
 nationalization
-adequate
 cameo
 fortnight
 swallow
@@ -1334,20 +1312,14 @@ sandwich
 stigma
 temper
 corner
-capsule
-sprint
-dove
 liven
 rational
 procrastination
 procrastinator
-instant
-gratification
 cotton
 idiom
 reform
 pilot
-magnet
 dorm
 dentist
 ```
@@ -1383,12 +1355,9 @@ epidemic
 
 ```
 previous
-populate
 viral
 likelihood
 satisfactory
-toe
-coherent
 instruction
 disappointment
 sword
@@ -1430,14 +1399,12 @@ sizeable
 ```
 evolve
 naval
-maladaptive
 intervention
 ```
 
 ```
 unrealistic
 cooperation
-reward
 spectator
 distracted
 ```
@@ -1517,7 +1484,6 @@ mayor
 expanse
 injury
 tariff
-mutually
 ```
 
 ```
@@ -1581,13 +1547,11 @@ participant
 
 ```
 theft
-staircase
 urgently
 ```
 
 ```
 amused
-amid
 brief
 bickering
 bicker
@@ -1617,8 +1581,6 @@ external
 ```
 
 ```
-magnet
-spiral
 fade
 temple
 accessible
@@ -1629,8 +1591,6 @@ testify
 tract
 flavour
 Thai
-fiery
-opponent
 ```
 
 ```
@@ -1662,11 +1622,7 @@ crowd
 breeze
 legalize
 contempt
-permanent
 victim
-arrangement
-confront
-confrontation
 taxation
 paramount
 compete
@@ -1689,13 +1645,10 @@ enormous
 enormously
 terrorist
 territory
-regret
 beta
 transport
-overheard
 resign
 resignation
-habitat
 arose
 accent
 coastline
@@ -1704,9 +1657,6 @@ foam
 ```
 
 ```
-shattering
-vehicle
-collide
 manner
 appalling
 illustration
@@ -1714,7 +1664,6 @@ engine
 tenure
 material
 reclaim
-controversial
 hazardous
 sour
 soaked
@@ -1769,7 +1718,6 @@ refrigerator
 ballooned
 prime
 minister
-midfielder
 investigation
 manufacturing
 bedtime
@@ -1798,18 +1746,15 @@ ramp
 homage
 spine
 miracle
-chronic
 anecdote
 compromise
 workload
-destruction
 phrase
 cheeky
 prospect
 unqualified
 consist
 tyre
-coffin
 decay
 halt
 trait
@@ -1841,8 +1786,6 @@ methane
 racket
 grain
 respondent
-nationality
-dual
 spilt
 continent
 brass
@@ -1868,8 +1811,6 @@ fraction
 slowdown
 pure
 counsellor
-acute
-episode
 doomed
 inextricably
 wool
@@ -1891,8 +1832,6 @@ pension
 entitlement
 entitle
 entitled
-corpse
-decomposition
 inconsistent
 academic
 medicine
@@ -1905,7 +1844,6 @@ shed
 assemble
 replacement
 burden
-spur
 orchestra
 divorce
 bankruptcy
@@ -1946,7 +1884,6 @@ relief
 nostalgia
 prodigious
 narrowly
-auditor
 sharp
 sharper
 sharply
@@ -1961,15 +1898,11 @@ resemblance
 podium
 lotion
 conscience
-waist
-debate
 barrier
 abdominal
 humanitarian
 mayhem
-modest
 knit
-tangible
 symbol
 torn
 perplexed
@@ -1979,8 +1912,6 @@ shaking
 ```
 
 ```
-midlife
-octogenarian
 orphan
 plant
 gallop
@@ -1996,8 +1927,6 @@ supreme
 tortoise
 hare
 pent
-feud
-grudge
 ```
 
 ```
@@ -2005,10 +1934,8 @@ chore
 incompetence
 consists
 midst
-fascism
 subjunctive
 oppose
-sculpture
 betrayal
 deserved
 acclaim
@@ -2030,12 +1957,10 @@ spy
 cement
 downright
 affection
-seethe
 robustness
 tour
 impressionist
 tenant
-exclusive
 conjure
 conjuring
 resort
@@ -2045,8 +1970,6 @@ resort
 studio
 catalogue
 addiction
-enforcement
-possession
 comply
 endless
 practically
@@ -2055,7 +1978,6 @@ fairly
 defiance
 merit
 phenomenon
-coalition
 tribal
 ultimately
 pretend
@@ -2066,10 +1988,8 @@ budget
 accommodation
 subordinate
 illustrate
-elegant
 foyer
 verdict
-affluent
 embark
 aggressive
 aggressively
@@ -2080,7 +2000,6 @@ December
 despicable
 chase
 firearm
-pneumonia
 concentrated
 scooped
 mast
@@ -2097,27 +2016,19 @@ ladder
 opposite
 corruption
 overall
-occupation
 utterly
 desolate
 luminous
-masculinity
-femininity
-scorn
-stale
 thicken
-bond
 uncharted
 swiftness
 pioneering
 bioengineering
 lawsuit
-designate
 trek
 ```
 
 ```
-pneumonia
 integrity
 emphasis
 rough
@@ -2133,18 +2044,14 @@ resisted
 psychologist
 constitute
 persecution
-reverse
 channel
 disorder
 drain
 butter
 raider
 raid
-stretch
-gorgeous
 promote
 collaborative
-geothermal
 cocktail
 rumour
 environmental
@@ -2155,7 +2062,6 @@ adjourn
 ```
 mud
 mudflat
-clung
 Christianity
 Islam
 Judaism
@@ -2173,7 +2079,6 @@ neat
 comedy
 abhorrent
 trial
-optical
 spill
 scope
 admission
@@ -2185,7 +2090,6 @@ discrimination
 prohibit
 genuine
 charred
-remission
 mechanism
 mechanical
 humiliating
@@ -2224,7 +2128,6 @@ audience
 assault
 offensive
 clumsy
-alphabetically
 chapel
 innocence
 chemical
@@ -2233,7 +2136,132 @@ multilingual
 apartment
 ```
 
+```
+stale
+toll
+exceed
+majority
+dual
+saint
+jungle
+dramatically
+observer
+geothermal
+reverse
+staircase
+arrangement
+abortion
+vacancy
+vacant
+feud
+grudge
+enforcement
+tactic
+confront
+confrontation
+monolingual
+affluent
+exclusive
+mutually
+remission
+scorn
+modest
+part-way
+spiral
+magnet
+auditor
+optical
+unemployment
+episode
+amid
+revenue
+alphabet
+alphabetically
+despair
+fascism
+coffin
+overshoot
+indicative
+acute
+pneumonia
+astonishment
+nervous
+vehicle
+collide
+shattering
+possession
+passport
+essential
+reward
+disrepair
+coherent
+pregnant
+operational
+quiet
+seethe
+toe
+clip
+campus
+sprint
+dove
+opposing
+maladaptive
+elegant
+dug
+spur
+motion
+occupation
+aware
+instant
+gratification
+truism
+masculinity
+femininity
+comment
+occasion
+occasional
+corpse
+decomposition
+designate
+nationality
+adequate
+waist
+controversial
+capsule
+edge
+determination
+clung
+lung
+defeat
+wrecked
+wreck
+populate
+gorgeous
+stretch
+arrest
+civilian
+bond
+opponent
+fiery
+debate
+tangible
+coalition
+sculpture
+coup
+coupon
+destruction
+habitat
+midlife
+octogenarian
+chronic
+thought
+midfielder
+overheard
 
+
+
+
+```
 
 
 
