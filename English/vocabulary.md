@@ -1,4 +1,65 @@
 ```python
+chemical
+hazardous
+hazard
+gallop
+galloping
+upcoming
+uninspired
+inspire
+inspiration
+inspiring
+inspirational
+genetic
+subtle
+Mafia
+mass
+podium
+flutter
+cement
+entitlement
+entitle
+entitled
+pension
+loom
+curl
+literature
+prestige
+coast
+coastline
+gravitational
+collision
+stripe
+brutality
+inflatable
+concentrated
+afterwards
+afterword
+gunfire
+villager
+visualize
+counter
+encounter
+disuse
+cameo
+brooch
+anecdote
+decline
+stage
+acclaim
+headquarters
+memorial
+fighting
+Troy
+Tory
+aircraft
+expenditure
+leather
+weed
+approval
+```
+
+```python
 catalogue
 content
 charred
@@ -1019,7 +1080,6 @@ defamation
 stem
 prolonged
 methodical
-brooch
 plates
 nurseries
 spreadsheet
@@ -1041,7 +1101,6 @@ crops
 photographs
 midwife
 tanker
-brooch
 ```
 
 ```
@@ -1257,7 +1316,6 @@ sophisticated
 ivory
 beads
 highlighted
-brutality
 net-zero
 fortune
 Atlantic
@@ -1344,7 +1402,6 @@ expressionism
 dominates
 mouthful
 April
-stage
 charitable
 statue
 wound
@@ -1426,7 +1483,6 @@ expansion
 servant
 crowded
 disposed
-Mafia
 tennis
 soccer
 fear
@@ -1440,7 +1496,6 @@ roasting
 ```
 
 ```
-Mass
 salesperson
 sauce
 nominate
@@ -1458,11 +1513,9 @@ estate
 membership
 prey
 nationalization
-cameo
 fortnight
 swallow
 cyanide
-brutality
 ```
 
 ```
@@ -1526,7 +1579,6 @@ sword
 noun
 glowing
 revealing
-loom
 transistor
 milky
 vulnerable
@@ -1622,8 +1674,6 @@ athlete
 
 ```
 supermassive
-gravitational
-collision
 deserve
 machinery
 assassinate
@@ -1721,7 +1771,6 @@ flame
 leak
 behave
 comprise
-prestige
 ```
 
 ```
@@ -1773,7 +1822,6 @@ chemist
 wave
 mastered
 masterpiece
-flutter
 goal
 crowd
 breeze
@@ -1807,7 +1855,6 @@ resign
 resignation
 arose
 accent
-coastline
 trace
 foam
 ```
@@ -1852,7 +1899,6 @@ tablet
 tweak
 mill
 restlessly
-headquarters
 emphasize
 ledger
 manipulate
@@ -1897,7 +1943,6 @@ magnificent
 ramp
 spine
 miracle
-anecdote
 compromise
 workload
 phrase
@@ -1944,7 +1989,6 @@ manner
 violence
 scandal
 polite
-prestige
 democrat
 wax
 underlying
@@ -1973,10 +2017,6 @@ torment
 kinetic
 disproportionate
 warrior
-pension
-entitlement
-entitle
-entitled
 inconsistent
 academic
 medicine
@@ -2029,12 +2069,10 @@ sharp
 sharper
 sharply
 secretary
-counter
 cookery
 retain
 wage
 resemblance
-podium
 lotion
 conscience
 barrier
@@ -2074,7 +2112,6 @@ subjunctive
 oppose
 betrayal
 deserved
-acclaim
 entrust
 applicant
 profile
@@ -2087,10 +2124,8 @@ thesis
 supposed
 cholera
 relevant
-aircraft
 wept
 spy
-cement
 downright
 affection
 robustness
@@ -2132,7 +2167,6 @@ December
 despicable
 chase
 firearm
-concentrated
 scooped
 mast
 trucepirate
@@ -2197,10 +2231,8 @@ Islam
 Judaism
 prescription
 corporate
-leather
 wood
 definitely
-visualize
 coriander
 lime
 slur
@@ -2257,32 +2289,10 @@ assault
 offensive
 clumsy
 innocence
-weed
 multilingual
 apartment
 ```
 
-
-```
-chemical
-hazardous
-hazard
-gallop
-galloping
-upcoming
-uninspired
-inspire
-inspiration
-inspiring
-inspirational
-genetic
-subtle
-
-
-
-
-
-```
 
 
 
