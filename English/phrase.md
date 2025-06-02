@@ -11,7 +11,12 @@ stay clear of
 reaching out
 like a dose of salts
 crack down
-
+drawn up
+Junior Year
+Sophomore Year
+Freshman
+Senior Year
+fell into the habit
 
 
 

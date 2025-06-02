@@ -1,4 +1,60 @@
 ```python
+catalogue
+content
+charred
+psychologist
+ethnic
+ethnicity
+ethnic/racial
+ankle
+condemnation
+condemn
+implementation
+hedge
+frog
+toxic
+journalism
+journal
+paramount
+stranger
+strange
+homage
+modernization
+politically
+aggressive
+aggressively
+possibility
+advantage
+League
+rookie
+handling
+coma
+resolution
+reform
+owe
+resilient
+blessed
+candle
+accomplish
+available
+perplex
+disuse
+ceasefire
+delegation
+multiple
+coping
+chapel
+daydream
+habit
+habitat
+inhabitant
+sufficient
+employ
+employee
+marsh
+```
+
+```python
 stale
 toll
 exceed
@@ -112,7 +168,6 @@ sculpture
 coup
 coupon
 destruction
-habitat
 midlife
 octogenarian
 chronic
@@ -231,7 +286,6 @@ flee
 security
 fall
 fallen
-inhabitant
 conservative
 trolley
 rage
@@ -588,7 +642,6 @@ crystal
 entertainment
 grime
 excoriate
-uninspired
 timing
 scratch
 tacky
@@ -609,7 +662,6 @@ cathedral
 streamline
 ubiquitous
 notable
-inspiration
 portable
 specific
 specifically
@@ -709,7 +761,6 @@ mortality
 gallery
 curator
 posterity
-clutch
 engage
 instrument
 instrumentation
@@ -784,7 +835,6 @@ dessert
 cafe
 formal
 pharmacy
-stranger
 toolbox
 scenario
 shopkeeper
@@ -883,7 +933,6 @@ cater
 fitness
 joints
 retrospect
-possibility
 delight
 delighted
 inherit
@@ -926,7 +975,6 @@ degree
 summit
 hardly
 inversely
-available
 availability
 ```
 
@@ -935,7 +983,6 @@ insurance
 proficiency
 inclusive
 pulse
-ethnicity
 accordingly
 mph
 inevitably
@@ -985,7 +1032,6 @@ helicopter
 demonstrators
 desperate
 resul
-resolution
 soap
 drastic
 heritage
@@ -1051,7 +1097,6 @@ scant
 heartfelt
 exhibition
 disgusting
-league
 dedicated
 ```
 
@@ -1201,7 +1246,6 @@ overcome
 lease
 emergence
 granted
-initiative
 restricting
 ```
 
@@ -1390,14 +1434,12 @@ existential
 wildlife
 circumstance
 behalf
-marsh
 devastation
 collapse
 roasting
 ```
 
 ```
-candle
 Mass
 salesperson
 sauce
@@ -1441,7 +1483,6 @@ procrastination
 procrastinator
 cotton
 idiom
-reform
 pilot
 dorm
 dentist
@@ -1464,8 +1505,6 @@ claw
 tutor
 voluntary
 leisure
-multiple
-employ
 recruit
 Metropolitan
 fuel
@@ -1506,8 +1545,6 @@ froze
 jamming
 scant
 narrow
-ethnic/racial
-ethnicity
 olive
 ```
 
@@ -1554,8 +1591,6 @@ successor
 
 ```
 eliminate
-inspired
-inspiring
 ```
 
 ```
@@ -1732,7 +1767,6 @@ heap
 teaspoon
 indigenous
 chemist
-resilient
 ```
 
 ```
@@ -1747,7 +1781,6 @@ legalize
 contempt
 victim
 taxation
-paramount
 compete
 incompetence
 ```
@@ -1787,20 +1820,17 @@ engine
 tenure
 material
 reclaim
-hazardous
 sour
 soaked
 rub
 rubbing
 fashionable
 landscape
-blessed
 democracy
 paralyse
 rampant
 stake
 giant
-hedge
 mystery
 heighten
 tension
@@ -1864,9 +1894,7 @@ bargain
 parliamentary
 scale
 magnificent
-employee
 ramp
-homage
 spine
 miracle
 anecdote
@@ -1887,13 +1915,10 @@ litigation
 independent
 bleak
 hydraulic
-paramount
 downturn
 quartet
 litre
 intimately
-condemn
-condemnation
 ordain
 lid
 wisdom
@@ -1917,7 +1942,6 @@ propose
 cast
 manner
 violence
-toxic
 scandal
 polite
 prestige
@@ -1927,8 +1951,6 @@ underlying
 implicit
 delightful
 scholarly
-journal
-journalism
 knot
 fraction
 slowdown
@@ -1983,7 +2005,6 @@ wacky
 antics
 concentration
 imminent
-subtle
 generosity
 outlook
 awkward
@@ -1994,14 +2015,11 @@ responsibility
 bargain
 sink
 terminate
-owe
-rookie
 quarterback
 poison
 poisonous
 dictatorship
 totalitarianism
-sufficient
 famine
 relief
 nostalgia
@@ -2011,8 +2029,6 @@ sharp
 sharper
 sharply
 secretary
-delegation
-ceasefire
 counter
 cookery
 retain
@@ -2028,7 +2044,6 @@ mayhem
 knit
 symbol
 torn
-perplexed
 melody
 suburb
 shaking
@@ -2037,8 +2052,6 @@ shaking
 ```
 orphan
 plant
-gallop
-galloping
 asylum
 mileage
 vary
@@ -2091,7 +2104,6 @@ resort
 
 ```
 studio
-catalogue
 addiction
 comply
 endless
@@ -2114,9 +2126,6 @@ illustrate
 foyer
 verdict
 embark
-aggressive
-aggressively
-aggressive
 tuition
 regime
 December
@@ -2155,7 +2164,6 @@ trek
 integrity
 emphasis
 rough
-handling
 dispute
 imprisonment
 supervisor
@@ -2164,7 +2172,6 @@ violent
 chlorine
 resistance
 resisted
-psychologist
 constitute
 persecution
 channel
@@ -2212,7 +2219,6 @@ oath
 discrimination
 prohibit
 genuine
-charred
 mechanism
 mechanical
 humiliating
@@ -2233,7 +2239,6 @@ sticky
 concession
 bench
 preliminary
-frog
 lens
 igniter
 falcon
@@ -2251,16 +2256,33 @@ audience
 assault
 offensive
 clumsy
-chapel
 innocence
-chemical
 weed
 multilingual
 apartment
 ```
 
 
+```
+chemical
+hazardous
+hazard
+gallop
+galloping
+upcoming
+uninspired
+inspire
+inspiration
+inspiring
+inspirational
+genetic
+subtle
 
+
+
+
+
+```
 
 
 
