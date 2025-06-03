@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/vocabulary.md",
+                "file": "English/temporary.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vocabulary"
+              "title": "temporary"
             }
           }
         ]
@@ -155,9 +155,9 @@
   },
   "active": "9cc2c55c8b306e86",
   "lastOpenFiles": [
+    "English/vocabulary.md",
     "English/material/keke-ted/The discoveries awaiting us in the ocean's twilight zone.md",
     "English/material/TED/TED.canvas",
-    "English/vocabulary.md",
     "English/material/keke-ted/New discoveries await us in the ocean twilight zone.md",
     "English/material/TED/Is it normal to talk to yourself.md",
     "English/Spring AI.md",
