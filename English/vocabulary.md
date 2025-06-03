@@ -1,4 +1,49 @@
 ```python
+momentum
+transition
+comedy
+epidemic
+pandemic
+bend
+channel
+tropic
+ramp
+rampant
+rampage
+dental
+idiom
+literally
+expectant
+expectation
+expectancy
+expect
+unexpected
+hush
+ballet
+drench
+defiance
+brand
+band
+nest
+fledged
+soccer
+tennis
+cotton
+mill
+prevent
+dramatic
+dramatically
+domestic
+disorder
+curious
+disproportionate
+parish
+villa
+villager
+defuse
+```
+
+```python
 chemical
 hazardous
 hazard
@@ -36,7 +81,6 @@ concentrated
 afterwards
 afterword
 gunfire
-villager
 visualize
 counter
 encounter
@@ -123,7 +167,6 @@ majority
 dual
 saint
 jungle
-dramatically
 observer
 geothermal
 reverse
@@ -337,8 +380,6 @@ falter
 thump
 conserve
 backwards
-dramatic
-domestic
 gush
 invasive
 minimally
@@ -452,7 +493,6 @@ peacock
 individual
 hierarchical
 cherish
-villa
 pat
 Tibetan
 plateau
@@ -1068,7 +1108,6 @@ confined
 reunion
 harmony
 pastries
-unexpected
 interactions
 unconsciously
 profoundly
@@ -1186,8 +1225,6 @@ intellectual
 
 ```
 burst
-curious
-transition
 fighter
 rags
 retrospect
@@ -1210,7 +1247,6 @@ enthusiasm
 philosopher
 cope
 scant
-soccer
 spaniel
 fist
 ```
@@ -1228,7 +1264,6 @@ basin
 ```
 compassion
 assassination
-literally
 Approximately
 raid
 upheld
@@ -1317,7 +1352,6 @@ ivory
 beads
 highlighted
 net-zero
-fortune
 Atlantic
 luggage
 schemes
@@ -1351,9 +1385,6 @@ procrastination
 meal
 tale
 sunlight
-```
-
-```
 ```
 
 ```
@@ -1449,7 +1480,6 @@ neighborhoods
 banter
 testimony
 emergence
-brand
 inquiry
 ruling
 contrary
@@ -1483,8 +1513,6 @@ expansion
 servant
 crowded
 disposed
-tennis
-soccer
 fear
 existential
 wildlife
@@ -1534,8 +1562,6 @@ liven
 rational
 procrastination
 procrastinator
-cotton
-idiom
 pilot
 dorm
 dentist
@@ -1565,7 +1591,6 @@ shore
 retailer
 deliver
 barely
-epidemic
 ```
 
 ```
@@ -1602,7 +1627,6 @@ olive
 
 ```
 completion
-dental
 prevalent
 amongst
 sizeable
@@ -1711,7 +1735,6 @@ affair
 gloom
 momentum
 entrepreneurial
-drench
 navigate
 ```
 
@@ -1733,7 +1756,6 @@ personality
 distinguished
 distinguish
 indistinguishable
-parish
 vicar
 ```
 
@@ -1875,7 +1897,6 @@ fashionable
 landscape
 democracy
 paralyse
-rampant
 stake
 giant
 mystery
@@ -1897,7 +1918,6 @@ propaganda
 psychological
 tablet
 tweak
-mill
 restlessly
 emphasize
 ledger
@@ -1940,7 +1960,6 @@ bargain
 parliamentary
 scale
 magnificent
-ramp
 spine
 miracle
 compromise
@@ -2015,7 +2034,6 @@ swarmed
 gnat
 torment
 kinetic
-disproportionate
 warrior
 inconsistent
 academic
@@ -2093,7 +2111,6 @@ plant
 asylum
 mileage
 vary
-fledged
 locust
 deceive
 shiver
@@ -2145,7 +2162,6 @@ endless
 practically
 pointless
 fairly
-defiance
 merit
 phenomenon
 tribal
@@ -2175,7 +2191,6 @@ trucepirate
 ```
 reorganization
 stout
-defuse
 speculation
 blackened
 ladder
@@ -2208,8 +2223,6 @@ resistance
 resisted
 constitute
 persecution
-channel
-disorder
 drain
 butter
 raider
@@ -2238,7 +2251,6 @@ lime
 slur
 explanation
 neat
-comedy
 abhorrent
 trial
 spill
