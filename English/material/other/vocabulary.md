@@ -1,4 +1,27 @@
 ```python
+mud
+mudflat
+Christianity
+Islam
+Judaism
+prescription
+corporate
+wood
+definitely
+coriander
+lime
+slur
+explanation
+neat
+abhorrent
+trial
+spill
+scope
+admission
+oath
+```
+
+```python
 discrimination
 prohibit
 genuine
@@ -2282,28 +2305,7 @@ diabetes
 adjourn
 ```
 
-```
-mud
-mudflat
-Christianity
-Islam
-Judaism
-prescription
-corporate
-wood
-definitely
-coriander
-lime
-slur
-explanation
-neat
-abhorrent
-trial
-spill
-scope
-admission
-oath
-```
+
 
 
 
