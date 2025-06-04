@@ -1,4 +1,20 @@
 ```python
+equip
+interruption
+petty
+signature
+aristocracy
+pump
+audience
+assault
+offensive
+clumsy
+innocence
+multilingual
+apartment
+```
+
+```python
 momentum
 transition
 comedy
@@ -2289,21 +2305,7 @@ falcon
 rife
 ```
 
-```
-equip
-interruption
-petty
-signature
-aristocracy
-pump
-audience
-assault
-offensive
-clumsy
-innocence
-multilingual
-apartment
-```
+
 
 
 
