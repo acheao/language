@@ -1,4 +1,31 @@
 ```python
+integrity
+emphasis
+rough
+dispute
+imprisonment
+supervisor
+deforestation
+violent
+chlorine
+resistance
+resisted
+constitute
+persecution
+drain
+butter
+raider
+raid
+promote
+collaborative
+cocktail
+rumour
+environmental
+diabetes
+adjourn
+```
+
+```python
 mud
 mudflat
 Christianity
@@ -2278,32 +2305,7 @@ lawsuit
 trek
 ```
 
-```
-integrity
-emphasis
-rough
-dispute
-imprisonment
-supervisor
-deforestation
-violent
-chlorine
-resistance
-resisted
-constitute
-persecution
-drain
-butter
-raider
-raid
-promote
-collaborative
-cocktail
-rumour
-environmental
-diabetes
-adjourn
-```
+
 
 
 
