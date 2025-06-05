@@ -17,6 +17,9 @@ Sophomore Year
 Freshman
 Senior Year
 fell into the habit
+falls squarely within
+over a 12-month period
+corner flag
 
 
 
