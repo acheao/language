@@ -2283,7 +2283,13 @@ accent
 trace
 ```
 
-
+```
+gradual
+countryside
+town
+labour
+stale
+```
 
 
 
