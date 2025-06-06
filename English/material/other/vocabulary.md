@@ -1,4 +1,63 @@
 ```python
+exporter
+opposition
+nominee
+epiphany
+retreat
+hardliner
+civil
+hum
+tenement
+foundered
+enormous
+enormously
+terrorist
+territory
+beta
+transport
+resign
+resignation
+accent
+trace
+gradual
+countryside
+town
+labour
+stale
+painkiller
+attorney
+faltering
+featured
+exhibition
+capacity
+biologist
+marine
+pastry
+patrol
+enforcement
+journalist
+pentagon
+theft
+associated
+unwilling
+gloom
+depression
+lawn
+concerned
+downward
+stardust
+asteroid
+arose
+limply
+compete
+resumption
+negotiation
+purple
+afford
+disagreement
+```
+
+```python
 illustration
 engine
 tenure
@@ -1606,7 +1665,6 @@ scant
 
 ```
 heartfelt
-exhibition
 disgusting
 dedicated
 ```
@@ -1626,7 +1684,6 @@ championed
 ```
 cinema-goers
 church
-lawn
 ivory
 beads
 assembly
@@ -1669,7 +1726,6 @@ bullet
 fortune
 niece
 sacred
-purple
 stigma
 basin
 ```
@@ -1711,7 +1767,6 @@ tidy
 scratc
 astonishing
 shallow
-depression
 horror
 reckoning
 deceased
@@ -1736,8 +1791,6 @@ symptoms
 drove off
 illustrating
 cinema-goers
-asteroids
-stardust
 cruise
 Hepatitis
 ```
@@ -1829,7 +1882,6 @@ gripping
 proceeding
 minority
 inherited
-depression
 efficiency
 Parliament
 astonishing
@@ -1886,7 +1938,6 @@ legislation
 
 ```
 adversary
-oppress
 neighborhoods
 banter
 testimony
@@ -1894,7 +1945,6 @@ emergence
 inquiry
 ruling
 contrary
-featured
 essay
 propagating
 ```
@@ -2141,7 +2191,6 @@ estimate
 
 ```
 affair
-gloom
 momentum
 entrepreneurial
 navigate
@@ -2156,7 +2205,6 @@ director
 
 ```
 Joan of Arc
-afford
 prize
 personality
 ```
@@ -2184,7 +2232,6 @@ participant
 ```
 
 ```
-theft
 urgently
 ```
 
@@ -2230,7 +2277,6 @@ Thai
 ```
 
 ```
-pentagon
 shortage
 custom
 customs
@@ -2256,40 +2302,8 @@ legalize
 contempt
 victim
 taxation
-compete
 ```
 
-```
-exporter
-opposition
-nominee
-epiphany
-retreat
-hardliner
-civil
-hum
-tenement
-foundered
-enormous
-enormously
-terrorist
-territory
-beta
-transport
-resign
-resignation
-arose
-accent
-trace
-```
-
-```
-gradual
-countryside
-town
-labour
-stale
-```
 
 
 
