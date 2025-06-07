@@ -354,7 +354,6 @@ December
 despicable
 chase
 firearm
-scooped
 mast
 mastered
 masterpiece
@@ -1527,7 +1526,6 @@ celebrated
 destroyer
 whaling
 van
-dismiss
 legitimate
 ```
 
@@ -1619,7 +1617,6 @@ rifle
 explosion
 furniture
 cleverly
-unethical
 ```
 
 ```
@@ -1877,8 +1874,6 @@ sequence
 ```
 
 ```
-grip
-gripping
 proceeding
 minority
 inherited
@@ -1940,7 +1935,6 @@ legislation
 adversary
 neighborhoods
 banter
-testimony
 emergence
 inquiry
 ruling
@@ -2226,7 +2220,6 @@ warfare
 popularity
 enthusiastic
 loan
-testimony
 scrutiny
 participant
 ```
@@ -2304,7 +2297,19 @@ victim
 taxation
 ```
 
-
+```
+fiery
+testimonial
+testimony
+scoop
+unethical
+disagreeable
+drawer
+minimum
+grip
+gripping
+dismiss
+```
 
 
 
