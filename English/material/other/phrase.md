@@ -25,4 +25,5 @@ count as
 assume importance
 under one’s belt
 handful of( = several)
-
+take great exception
+hook up
