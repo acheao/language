@@ -2117,7 +2117,6 @@ schemes
 ```
 outstanding
 cyanide
-plenty
 ```
 
 ```
@@ -2205,6 +2204,10 @@ ruggedness
 hook
 hooked
 hooker
+plenty
+
+
+
 ```
 
 
