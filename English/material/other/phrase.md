@@ -10,7 +10,6 @@ gelatin paper
 stay clear of
 reaching out
 like a dose of salts
-crack down
 drawn up
 Junior Year
 Sophomore Year
@@ -27,3 +26,12 @@ under one’s belt
 handful of( = several)
 take great exception
 hook up
+center on/centre on
+looms large
+a small handful
+running water
+hit pay dirt
+drove off
+crack down
+pull up
+quick fix
