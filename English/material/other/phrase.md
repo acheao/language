@@ -2,7 +2,6 @@ trip over a curb
 graduate programs
 assume office
 board of governors
-Joan of Arc
 be drawn to something
 sweep through
 figure out
@@ -35,3 +34,5 @@ drove off
 crack down
 pull up
 quick fix
+Joan of Arc
+dive in

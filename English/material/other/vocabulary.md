@@ -185,7 +185,6 @@ shallow
 horror
 reckon
 reckoning
-deceased
 bipartisan
 chord
 posion
@@ -293,7 +292,6 @@ guilty
 grant
 granted
 subjective
-archaeologist
 forum
 tatters
 curator
@@ -388,7 +386,6 @@ problematic
 oversaw
 freshwater
 legislation
-prized
 scrapheap
 confusion
 principle
@@ -594,8 +591,6 @@ outcome
 tying
 direct
 director
-Joan of Arc
-prize
 personality
 distinguished
 distinguish
@@ -677,7 +672,6 @@ grip
 gripping
 dismiss
 darkness
-archaeologist
 hotline
 cater
 ```
@@ -843,7 +837,6 @@ respondent
 spilt
 continent
 brass
-premises
 propose
 cast
 violence
@@ -1099,8 +1092,6 @@ oath
 ```
 
 ```python
-discrimination
-prohibit
 genuine
 mechanism
 mechanical
@@ -1801,7 +1792,6 @@ preserve
 lecture
 canal
 extinguisher
-cheeky
 vaguely
 vague
 indispensable
@@ -2152,7 +2142,29 @@ palpable
 sympathy
 ```
 
-
+```
+accompany
+accompanist
+accompaniment
+premise
+expert
+prohibit
+prohibition
+discriminate
+discrimination
+decease
+deceased
+prize
+prized
+archaeologist
+incessant
+commissioner
+cheek
+cheeky
+willingness
+asset
+comparison
+```
 
 
 
