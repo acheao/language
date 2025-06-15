@@ -1,4 +1,28 @@
 ```python
+accompany
+accompanist
+accompaniment
+premise
+expert
+prohibit
+prohibition
+discriminate
+discrimination
+decease
+deceased
+prize
+prized
+archaeologist
+incessant
+commissioner
+cheek
+cheeky
+willingness
+asset
+comparison
+```
+
+```python
 founder
 foundered
 inherit
@@ -2142,29 +2166,6 @@ palpable
 sympathy
 ```
 
-```
-accompany
-accompanist
-accompaniment
-premise
-expert
-prohibit
-prohibition
-discriminate
-discrimination
-decease
-deceased
-prize
-prized
-archaeologist
-incessant
-commissioner
-cheek
-cheeky
-willingness
-asset
-comparison
-```
 
 
 
