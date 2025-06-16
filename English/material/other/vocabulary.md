@@ -724,7 +724,6 @@ gradual
 countryside
 town
 labour
-stale
 painkiller
 attorney
 featured
@@ -1449,7 +1448,6 @@ guerrilla
 oar
 bribe
 hypocritical
-consequence
 maintenance
 loyalty
 sputter
