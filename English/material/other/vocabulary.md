@@ -1,4 +1,20 @@
 ```python
+devastate
+devastated
+carve
+doorway
+overwhelm
+urgently
+urgent
+grim 
+grime
+fiscal
+automate
+automatically
+betide
+```
+
+```python
 accompany
 accompanist
 accompaniment
@@ -628,7 +644,6 @@ enthusiastic
 loan
 scrutiny
 participant
-urgently
 amused
 brief
 bickering
@@ -1649,7 +1664,6 @@ bully
 ```
 
 ```python
-attorney
 prosecute
 maximum
 silence
@@ -1882,7 +1896,6 @@ encounter
 situation
 crystal
 entertainment
-grime
 excoriate
 timing
 scratch
@@ -2164,10 +2177,6 @@ palpable
 sympathy
 ```
 
-```
-devastate
-devastated
-```
 
 
 
