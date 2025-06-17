@@ -2164,7 +2164,10 @@ palpable
 sympathy
 ```
 
-
+```
+devastate
+devastated
+```
 
 
 
