@@ -88,7 +88,6 @@ instructor
 routine
 lender
 uniqueness
-characteristic
 authentic
 chopstick
 neighbour
@@ -857,7 +856,6 @@ hydraulic
 downturn
 quartet
 litre
-intimately
 ordain
 lid
 wisdom
@@ -1291,7 +1289,6 @@ implementation
 hedge
 frog
 toxic
-paramount
 stranger
 strange
 homage
@@ -1477,7 +1474,6 @@ negligence
 federal
 adventure
 identical
-intent
 taunt
 dumb
 deaf
@@ -1788,7 +1784,6 @@ synonym
 
 ```python
 scrub
-intentionally
 cockpit
 witness
 speciality
@@ -2177,7 +2172,17 @@ palpable
 sympathy
 ```
 
-
+```
+intimate
+intimately
+character
+characteristic
+intent
+intentionally
+inflate
+inflation
+inflationary
+```
 
 
 

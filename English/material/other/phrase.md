@@ -39,3 +39,5 @@ dive in
 jumble sale
 rummage sale
 fell into the habit
+who fared the best
+strike over
