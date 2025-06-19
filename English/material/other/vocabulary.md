@@ -1,4 +1,46 @@
 ```python
+intimate
+intimately
+character
+characteristic
+intent
+intentionally
+inflate
+inflation
+inflationary
+peak
+emission
+remission
+inability
+levy
+sufficient
+archaeology
+archaeologist
+archaeological
+powerful
+trick
+infamous
+charred
+structure
+calm
+export
+exporter
+astonish
+astonishment
+astonishing
+swift
+swiftness
+liberty
+libertine
+loom
+dividend
+delay
+crab
+overseas
+treaty
+```
+
+```python
 devastate
 devastated
 carve
@@ -28,7 +70,6 @@ decease
 deceased
 prize
 prized
-archaeologist
 incessant
 commissioner
 cheek
@@ -283,8 +324,6 @@ minority
 efficiency
 parliament
 parliamentary
-astonishment
-astonishing
 slightly
 convent
 convention
@@ -715,7 +754,6 @@ cater
 ```
 
 ```python
-exporter
 opposition
 nominee
 epiphany
@@ -1071,7 +1109,6 @@ desolate
 luminous
 thicken
 uncharted
-swiftness
 pioneering
 bioengineering
 lawsuit
@@ -1233,7 +1270,6 @@ Mafia
 mass
 podium
 flutter
-cement
 entitlement
 entitle
 entitled
@@ -1255,7 +1291,6 @@ afterword
 gunfire
 visualize
 counter
-disuse
 cameo
 brooch
 anecdote
@@ -1277,7 +1312,6 @@ approval
 ```python
 catalogue
 content
-charred
 psychologist
 ethnic
 ethnicity
@@ -1352,7 +1386,6 @@ monolingual
 affluent
 exclusive
 mutually
-remission
 scorn
 modest
 part-way
@@ -1958,7 +1991,6 @@ mindset
 enhance 
 mobility
 mitigating
-swift
 agile
 nimble
 recklessly
@@ -2172,17 +2204,6 @@ palpable
 sympathy
 ```
 
-```
-intimate
-intimately
-character
-characteristic
-intent
-intentionally
-inflate
-inflation
-inflationary
-```
 
 
 
