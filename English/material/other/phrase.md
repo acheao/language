@@ -41,3 +41,4 @@ rummage sale
 fell into the habit
 who fared the best
 strike over
+poll tax

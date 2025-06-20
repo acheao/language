@@ -1,4 +1,18 @@
 ```python
+entrance
+legally
+Cambridge
+therefore
+exempt
+jockey
+Brazilian
+amuse
+amused
+partially
+conventional
+```
+
+```python
 intimate
 intimately
 character
@@ -682,7 +696,6 @@ enthusiastic
 loan
 scrutiny
 participant
-amused
 brief
 bickering
 bicker
@@ -738,7 +751,6 @@ remarkably
 proceed
 proceeding
 scant
-fiery
 testimonial
 testimony
 scoop
@@ -1355,7 +1367,6 @@ daydream
 habit
 habitat
 inhabitant
-sufficient
 employ
 employee
 marsh
@@ -2203,7 +2214,6 @@ occur
 palpable
 sympathy
 ```
-
 
 
 
