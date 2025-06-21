@@ -1,4 +1,21 @@
 ```python
+distract
+distracted
+fleece
+bolster
+morale
+museum
+illegal
+pillow
+stress
+shareholder
+millennium
+millennial
+square
+squarely
+```
+
+```python
 entrance
 legally
 Cambridge
@@ -268,7 +285,6 @@ trademark
 guard
 guardian
 historic
-foul-mouthed
 racist
 judge
 judging
@@ -617,7 +633,6 @@ radioactive
 crouched
 pile
 religious
-millennial
 froze
 jamming
 narrow
@@ -981,7 +996,6 @@ surgeon
 revolt
 revolting
 revocation
-squarely
 slurping
 slurp
 assassination
@@ -2214,13 +2228,7 @@ palpable
 sympathy
 ```
 
-```
-distract
-distracted
 
-
-
-```
 
 
 
