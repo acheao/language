@@ -1,4 +1,35 @@
 ```python
+sunlit
+sunlight
+sunless
+shaft
+flood
+flooded
+aisle
+mallet
+saw
+carpet
+depot
+dusk
+bat
+commercial
+judicial
+slump
+shortfall
+childhood
+profit
+profitable
+explore
+unexplored
+annual
+temper
+temperature
+enquiry
+inquiry
+fraud
+```
+
+```python
 distract
 distracted
 fleece
@@ -521,7 +552,6 @@ adversary
 neighborhood
 banter
 emergence
-inquiry
 ruling
 contrary
 essay
@@ -927,7 +957,6 @@ shuttle
 colonial
 colony
 fading
-temper
 poll
 methane
 racket
@@ -1585,7 +1614,6 @@ indicator
 indicative
 evaluate
 frustration
-temperature
 furiously
 furious
 cosmetic
@@ -1633,7 +1661,6 @@ kidnapping
 glucose
 lactose
 satellite
-profit
 ```
 
 ```python
@@ -1787,7 +1814,6 @@ biomass
 intertwine
 virtually
 oceanography
-unexplored
 intersection
 spark
 sparkle
@@ -2226,19 +2252,6 @@ palpable
 sympathy
 ```
 
-```
-sunlit
-sunlight
-sunless
-shaft
-flood
-flooded
-aisle
-mallet
-saw
-carpet
-depot
-```
 
 
 
