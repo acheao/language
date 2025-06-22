@@ -2238,12 +2238,6 @@ mallet
 saw
 carpet
 depot
-
-
-
-
-
-
 ```
 
 
