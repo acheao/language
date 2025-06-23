@@ -1,4 +1,26 @@
 ```python
+gut
+gutted
+prayer
+heal
+healing
+lifelong
+divider
+dividend
+defect
+defection
+spill
+spilt
+investor
+coach
+consist
+profess
+profession
+admiration
+tourism
+```
+
+```python
 sunlit
 sunlight
 sunless
@@ -95,7 +117,6 @@ swiftness
 liberty
 libertine
 loom
-dividend
 delay
 crab
 overseas
@@ -763,7 +784,6 @@ flavour
 Thai
 shortage
 custom
-fundamental
 unfold
 fold
 nerve
@@ -962,7 +982,6 @@ methane
 racket
 grain
 respondent
-spilt
 continent
 brass
 propose
@@ -1211,7 +1230,6 @@ explanation
 neat
 abhorrent
 trial
-spill
 scope
 admission
 oath
@@ -1228,7 +1246,6 @@ delicate
 pirate
 broadcast
 spiritual
-healing
 nephew
 convert
 communal
@@ -1703,6 +1720,7 @@ motorway
 contour
 fund
 funding
+fundamental
 deportation
 allegiance
 portrait
@@ -1984,7 +2002,6 @@ germinate
 prevail
 prevailing
 tyranny
-defect
 cathedral
 ```
 
@@ -2095,7 +2112,6 @@ instrumentation
 hindsight
 initial
 faith
-profession
 skid
 jargon
 opaque
@@ -2251,7 +2267,6 @@ occur
 palpable
 sympathy
 ```
-
 
 
 
