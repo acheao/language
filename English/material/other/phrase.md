@@ -42,3 +42,5 @@ fell into the habit
 who fared the best
 strike over
 poll tax
+carry out
+safe to assume/这么认为是比较有把握的
