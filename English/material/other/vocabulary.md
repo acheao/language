@@ -1,4 +1,56 @@
 ```
+swirl
+overt
+tenure
+designate
+conduct
+misconduct
+negligence
+calcium
+applicant
+application
+intense
+affection
+fiery
+opponent
+confident
+confidential
+VAT
+exempt
+charity
+opaque
+compel
+compelling
+compelled
+squad
+square
+squarely
+jurisdiction
+feud
+grudge
+stale
+comedy
+hefty
+parcel
+registration
+foam
+edition
+trait
+portrait
+fascism
+soviet
+miles
+Buddhist
+Hindu
+tropic
+agriculture
+deputy
+hazard
+hazardous
+acquire
+petroleum
+totalitarianism
+dictatorship
 unduly
 overwhelmingly
 suburban
@@ -82,8 +134,6 @@ stress
 shareholder
 millennium
 millennial
-square
-squarely
 ```
 
 ```
@@ -91,7 +141,6 @@ entrance
 legally
 Cambridge
 therefore
-exempt
 jockey
 Brazilian
 amuse
@@ -505,7 +554,6 @@ truce
 narrate
 narration
 narrative
-overt
 dominate
 gorgeous
 soak
@@ -901,7 +949,6 @@ disagreement
 ```
 illustration
 engine
-tenure
 material
 reclaim
 sour
@@ -975,7 +1022,6 @@ consist
 tyre
 decay
 halt
-trait
 eagle
 intact
 litigation
@@ -1044,7 +1090,6 @@ replacement
 burden
 divorce
 bankruptcy
-acquire
 sail
 sailed
 orchestra
@@ -1064,9 +1109,7 @@ slurp
 assassination
 prime
 minister
-jurisdiction
-foam
-Oxford
+oxford
 extensive
 bracket
 recommend
@@ -1093,8 +1136,6 @@ terminate
 quarterback
 poison
 poisonous
-dictatorship
-totalitarianism
 famine
 relief
 nostalgia
@@ -1139,7 +1180,6 @@ subjunctive
 oppose
 betrayal
 entrust
-applicant
 profile
 immerse
 prosperity
@@ -1149,7 +1189,6 @@ relevant
 wept
 spy
 downright
-affection
 tour
 impressionist
 tenant
@@ -1296,12 +1335,10 @@ apartment
 ```
 momentum
 transition
-comedy
 epidemic
 pandemic
 bend
 channel
-tropic
 ramp
 rampant
 rampage
@@ -1340,8 +1377,6 @@ defuse
 
 ```
 chemical
-hazardous
-hazard
 gallop
 galloping
 upcoming
@@ -1447,7 +1482,6 @@ marsh
 ```
 
 ```
-stale
 toll
 exceed
 majority
@@ -1462,8 +1496,6 @@ arrangement
 abortion
 vacancy
 vacant
-feud
-grudge
 tactic
 confront
 confrontation
@@ -1485,7 +1517,6 @@ revenue
 alphabet
 alphabetically
 despair
-fascism
 coffin
 overshoot
 acute
@@ -1527,7 +1558,6 @@ occasion
 occasional
 corpse
 decomposition
-designate
 nationality
 adequate
 waist
@@ -1546,8 +1576,6 @@ stretch
 arrest
 civilian
 bond
-opponent
-fiery
 debate
 tangible
 coalition
@@ -1583,12 +1611,8 @@ loyalty
 sputter
 headlong
 brilliant
-compel
-compelling
-compelled
 sweeper
 auction
-negligence
 federal
 adventure
 identical
@@ -1609,7 +1633,6 @@ lift
 nickname
 documentary
 philosophy
-petroleum
 sermon
 substantial
 tune
@@ -1620,8 +1643,6 @@ detention
 internment
 carpentry
 recession
-confident
-confidential
 Tory
 whisper
 ```
@@ -1633,7 +1654,6 @@ certificate
 encourage
 encouraging
 scramble
-squad
 courage
 dismantle
 steel
@@ -1667,8 +1687,6 @@ conservative
 trolley
 rage
 dust
-Hindu
-Buddhist
 consumption
 reputation
 arguably
@@ -1701,7 +1719,6 @@ priest
 forecast
 criteria
 dairy
-calcium
 alcohol
 alcoholism
 cable
@@ -1721,7 +1738,6 @@ cottage
 crucial
 divided
 mist
-swirl
 stagnant
 obsession
 swear
@@ -1739,7 +1755,6 @@ funding
 fundamental
 deportation
 allegiance
-portrait
 clinic
 clinical
 embarrassment
@@ -1780,7 +1795,6 @@ bully
 prosecute
 maximum
 silence
-hefty
 uphold
 complicated
 glamorous
@@ -1967,8 +1981,6 @@ clutch
 kidney
 thalassemia
 sickle
-conduct
-misconduct
 malicious
 gossip
 woe
@@ -2129,7 +2141,6 @@ initial
 faith
 skid
 jargon
-opaque
 ritual
 defendant
 defend
@@ -2267,7 +2278,6 @@ cholesterol
 bizarre
 violation
 clientele
-intense
 generalization
 sweeping
 monitor
