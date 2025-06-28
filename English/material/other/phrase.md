@@ -15,7 +15,6 @@ Sophomore Year
 Freshman
 Senior Year
 fell into the habit
-falls squarely within
 over a 12-month period
 corner flag
 as far as
@@ -44,3 +43,12 @@ strike over
 poll tax
 carry out
 safe to assume/这么认为是比较有把握的
+a raft of
+a whole raft of
+into the bargain
+on the spur of the moment
+studio apartment
+falls squarely within
+slings and arrows
+at stake
+reached out 
