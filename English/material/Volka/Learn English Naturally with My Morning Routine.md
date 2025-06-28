@@ -1,35 +1,25 @@
 Today we're going to learn bathroom English.
 Let's get started.
-So the first thing we want to do. Make sure we have our
-towel and we'll hang it on the
-towel rack before we have a shower.
-Because if we have a shower and then forget our towel, we
-have to go outside the bathroom
-and then you get cold.
+So the first thing we want to do. Make sure we have our towel and we'll hang it on the towel rack before we have a shower.
+Because if we have a shower and then forget our towel, we have to go outside the bathroom and then you get cold.
 But here we have my shower.
 This is a glass sliding door.
 A glass sliding door.
 It's not a curtain.
-That is very popular in
-showers, but this is a standing shower.
+That is very popular in showers, but this is a standing shower.
 So you just have a glass sliding door.
 Does it have to be glass?
 It doesn't have to be glass.
 It could be plastic or any other material.
-I'm not really a shower door professional, but I assume it
-could be made out of anything
-that's clear or almost clear.
-This one you can see it's clear
-You can look right through it.
+I'm not really a shower door professional, but I assume it could be made out of anything that's clear or almost clear.
+This one you can see it's clear You can look right through it.
 You can see my hand here on the other side.
 Here we also have my urinal.
 This is very small as you can see here.
-This urinal is meant for a baby
-I don't use that because I'm too tall to use it.
+This urinal is meant for a baby I don't use that because I'm too tall to use it.
 But now let's turn the shower on.
 Come here.
-So the first thing you do when you
-have a shower is you turn on the shower.
+So the first thing you do when you have a shower is you turn on the shower.
 You have to turn on the shower.
 So I am going to turn on the shower now.
 Here you can see we have hot water and cold water.
@@ -41,8 +31,7 @@ and now you can feel it.
 The water is nice and hot.
 Nice hot water.
 You see right down there, this is a drain.
-So the water comes down and it
-drains out through this drain.
+So the water comes down and it drains out through this drain.
 This is a standing shower.
 So that's a standing shower?
 Yeah.
@@ -61,18 +50,15 @@ When I feel like relaxing.
 Do you put salt in it?
 No.
 Just a regular bath.
-I know some people like putting like salt
-or like bubbles and stuff in their bath.
-Honestly, I don't even
-remember the last time I took a bath.
+I know some people like putting like salt or like bubbles and stuff in their bath.
+Honestly, I don't even remember the last time I took a bath.
 What about you?
 Maybe last year.
 For real.
 No cap.
 I don't take baths.
 They take too long.
-And I prefer to have hot water
-running on me than sitting somewhere.
+And I prefer to have hot water running on me than sitting somewhere.
 But this has a nice view.
 You can check it out.
 When you're sitting in here, you can just see the nice view.
@@ -81,19 +67,18 @@ Now let's continue with what we were doing. We were
 I was going to have a shower.
 Now let's get in there.
 So the water is hot.
-So, usually the first thing I do is I
-wet my hair and I wet my whole body.
+So, usually the first thing I do is I wet my hair and I wet my whole body.
 So, I'm going to do that now.
 oooo shhhhh
-So i'm just wetting my hair and my
-body, making sure I'm all wet.
+So i'm just wetting my hair and my body, making sure I'm all wet.
 And first things first, I get a bar of soap.
-And then I lather up my hands and I
-lather up my face to clean myself.
+And then I lather up my hands and I lather up my face to clean myself.
 Some people use face wash.
 I just prefer a bar of soap.
 Is your watch okay in the shower?
 Yeah, the watch is waterproof, so it's fine in the shower.
+
+----------------
 You can see there's a lot of like foam and soap on my face.
 It's all white and stuff but
 that's how you know it's getting cleaned.

@@ -1,6 +1,6 @@
 - anki
 - 听
-	- freeCodeCamp前端
+	- freeCodeCamp前端 (ALL)
 	- 老友记
 	- other
 - 说

@@ -1,4 +1,18 @@
 ```
+
+waterproof
+lather
+soap
+bubble
+faucet
+bathtub
+drain
+hop
+rack
+urinal
+```
+
+```
 swirl
 overt
 tenure
@@ -304,7 +318,6 @@ diamond
 helicopter
 demonstrator
 desperate
-soap
 drastic
 heritage
 kneecap
@@ -1256,7 +1269,6 @@ resistance
 resisted
 constitute
 persecution
-drain
 butter
 raider
 raid
@@ -2088,7 +2100,6 @@ nimble
 recklessly
 squat
 shorty
-hop
 leap
 skip
 absorb
