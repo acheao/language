@@ -17,6 +17,39 @@ urinal
 ```
 
 ```
+itinerant
+miracle
+malicious
+spine
+paralyse
+significant
+significantly
+stringent
+complimentary
+satellite
+forehead
+orphan
+stout
+comply
+substantial
+methane
+universal
+subjunctive
+subjective
+```
+
+```
+eligible
+comparison
+enthusiastic
+cinemagoer
+necklace
+lecture
+registration
+burial
+certificate
+trait
+portrait
 Latin
 inscription
 lid
@@ -31,7 +64,6 @@ misleadingly
 orchestra
 brass
 contrary
-registration
 peak
 constituency
 chore
@@ -125,8 +157,6 @@ hefty
 parcel
 foam
 edition
-trait
-portrait
 fascism
 soviet
 miles
@@ -310,7 +340,6 @@ cheek
 cheeky
 willingness
 asset
-comparison
 ```
 
 ```
@@ -494,7 +523,6 @@ fluid
 atlas
 march
 symptom
-cinemagoer
 uranium
 overcome
 lease
@@ -617,8 +645,6 @@ epic
 heroism
 videotape
 Mormon
-significantly
-significant
 microwave
 truce
 narrate
@@ -845,7 +871,6 @@ disintegrating
 aide
 regardless
 geology
-itinerant
 transaction
 ownership
 demise
@@ -885,14 +910,12 @@ nuclear
 tremble
 warfare
 popularity
-enthusiastic
 loan
 scrutiny
 participant
 brief
 bickering
 bicker
-universal
 flame
 leak
 behave
@@ -1018,7 +1041,6 @@ rubbing
 fashionable
 landscape
 democracy
-paralyse
 stake
 giant
 mystery
@@ -1072,8 +1094,6 @@ hook
 welfare
 publication
 magnificent
-spine
-miracle
 compromise
 workload
 phrase
@@ -1098,7 +1118,6 @@ colonial
 colony
 fading
 poll
-methane
 racket
 grain
 respondent
@@ -1214,7 +1233,6 @@ torn
 melody
 suburb
 shaking
-orphan
 plant
 asylum
 mileage
@@ -1228,7 +1246,6 @@ hare
 pent
 incompetence
 midst
-subjunctive
 oppose
 betrayal
 entrust
@@ -1249,7 +1266,6 @@ conjuring
 resort
 studio
 addiction
-comply
 endless
 practically
 pointless
@@ -1275,7 +1291,6 @@ mast
 mastered
 masterpiece
 reorganization
-stout
 blackened
 ladder
 opposite
@@ -1674,7 +1689,6 @@ nickname
 documentary
 philosophy
 sermon
-substantial
 tune
 dial
 dialogue
@@ -1689,8 +1703,6 @@ whisper
 
 ```
 coroner
-burial
-certificate
 encourage
 encouraging
 scramble
@@ -1750,7 +1762,6 @@ robber
 kidnapping
 glucose
 lactose
-satellite
 ```
 
 ```
@@ -1962,7 +1973,6 @@ constant
 colleague
 stew
 steward
-stringent
 allocate
 mature
 considerable
@@ -1979,7 +1989,6 @@ multiculturalism
 scrapheap
 consign
 preserve
-lecture
 extinguisher
 vaguely
 vague
@@ -2007,7 +2016,6 @@ clutch
 kidney
 thalassemia
 sickle
-malicious
 gossip
 electricity
 psychiatrist
@@ -2280,7 +2288,6 @@ mess
 sneaky
 sneakiest
 astronaut
-necklace
 detour
 migrant
 estuary
@@ -2308,7 +2315,6 @@ smuggler
 awful
 venom
 lethal
-eligible
 charismatic
 occur
 palpable
