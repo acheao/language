@@ -54,3 +54,10 @@ at stake
 reached out
 centring on
 lather up
+abrasive pad
+tangle with
+retinol serum
+squeaky clean
+nail clipper
+nail scissors
+contact lens

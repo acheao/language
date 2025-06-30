@@ -77,8 +77,6 @@ Some people use face wash.
 I just prefer a bar of soap.
 Is your watch okay in the shower?
 Yeah, the watch is waterproof, so it's fine in the shower.
-
-----------------
 You can see there's a lot of like foam and soap on my face.
 It's all white and stuff but that's how you know it's getting cleaned.
 Yeah, now he's washing his face.
@@ -93,76 +91,50 @@ It's just shea moisture.
 It's good for like hair, you know, like curly hair or if you need like extra moisture.
 So, shampoo, I'm gonna lather up my hands with some shampoo.
 I always rub it into my hands first and then I rub it into my hair.
-Now he's running his fingers through his hair,
-getting all the shampoo in every strand.
+Now he's running his fingers through his hair, getting all the shampoo in every strand.
 Make sure it's nice and clean.
-He's also rubbing his scalp to
-make sure it's clean as well.
-It's always good to spend a lot of time cleaning your hair,
-especially if it's longer.
+He's also rubbing his scalp to make sure it's clean as well.
+It's always good to spend a lot of time cleaning your hair, especially if it's longer.
 Okay so now all the shampoo is in my hair.
 I usually let it sit in my hair for like 30 seconds.
 So it absorbs better?
-Yeah, I guess so it absorbs, it cleans my hair...
-I usually leave it for 30 seconds, sometimes more,
-but usually minimum 30 seconds.
+Yeah, I guess so it absorbs, it cleans my hair... I usually leave it for 30 seconds, sometimes more, but usually minimum 30 seconds.
 What's the difference between a comb and a hair brush?
 A comb is used to comb your hair like this.
-But I think I'm gonna wait till I put the conditioner in
-because then my hair is easier to comb.
+But I think I'm gonna wait till I put the conditioner in because then my hair is easier to comb.
 What was that?
 What's the difference between a comb and a brush?
 Okay, a comb is like this, right?
 And a brush, do we have a brush?
 no
-A brush has a handle that you hold,
-and then a brush head with a lot of bristles
+A brush has a handle that you hold, and then a brush head with a lot of bristles
 Okay, so now I think it's been 30 seconds so...
 I'll wash all the shampoo out of my hair.
-Now I got my conditioner,
-usually I follow two steps,
-first shampoo, then conditioner.
-So after I put this on,
-I'm gonna let it sit in my hair for two to three minutes,
-and then I'm gonna rinse it off.
+Now I got my conditioner, usually I follow two steps, first shampoo, then conditioner.
+So after I put this on, I'm gonna let it sit in my hair for two to three minutes, and then I'm gonna rinse it off.
 Usually I take quick showers, only like two minutes.
-Usually I take quick showers
-only like five to eight minutes.
+Usually I take quick showers only like five to eight minutes.
 Five to eight minutes, wow.
 Yeah.
 That's a long shower.
 But it's always important to also scrub your body.
-So this is something ... I actually bought this from Korea,
-and it's really popular, they use it a lot.
-The first time I used it was in a jimjilbang,
-jimjilbang, which is a Korean sauna.
-So you put, you lather this up with soap,
-and then you use it like this to scrub your back.
+So this is something ... I actually bought this from Korea, and it's really popular, they use it a lot.
+The first time I used it was in a jimjilbang, jimjilbang, which is a Korean sauna.
+So you put, you lather this up with soap, and then you use it like this to scrub your back.
 So it's very rough and abrasive, so it scratches you.
 But that's how you know you get clean.
 It's called exfoliating.
-Usually if it was this shape, just a round ball,
-it's hard to get your whole back,
-especially if you're not flexible.
-And also you guys, I have launched a free
-online English community on Discord,
-which is completely free to join.
+Usually if it was this shape, just a round ball, it's hard to get your whole back, especially if you're not flexible.
+And also you guys, I have launched a free online English community on Discord, which is completely free to join.
 It's gonna be in the description below.
-It's completely free, there's voice channels
-for beginner, intermediate, and advanced,
-where you can talk to other English learners.
-There's also a lot of different channels
-for book recommendations, movie recommendations,
-and if you're a YouTube channel member,
-there's three exclusive voice channels just for you.
-If you ever wanna join it, all you have to do is connect
-your YouTube account to your Discord account.
+It's completely free, there's voice channels for beginner, intermediate, and advanced, where you can talk to other English learners.
+There's also a lot of different channels for book recommendations, movie recommendations,  and if you're a YouTube channel member, there's three exclusive voice channels just for you.
+If you ever wanna join it, all you have to do is connect your YouTube account to your Discord account.
 Now let's comb my hair.
 He's combing his hair all the way through.
 To get all the knots out.
 Make sure nothing's tangled up.
-I'm just gonna rinse off my hair
-to get the last of the conditioner out.
+I'm just gonna rinse off my hair to get the last of the conditioner out.
 Here you go.
 Thank you.
 So now I'm done in the shower.
@@ -172,8 +144,7 @@ One minute?
 Maybe less.
 More like 30.
 So now I'm drying off my face, my body.
-So you can see these are water droplets
-that are dropping from my fingers.
+So you can see these are water droplets that are dropping from my fingers.
 Water droplets.
 What are you doing now?
 Now I'm just scrunching my hair.
@@ -182,17 +153,13 @@ Okay, so I just changed into my clothes.
 I just took out my retainers.
 Now I'm giving them a little rinse.
 My electric toothbrush.
-Why do you use an electric toothbrush
-instead of a regular one?
+Why do you use an electric toothbrush instead of a regular one?
 I prefer electric toothbrushes.
 I find it cleans my teeth better.
-Now I'm gonna put some toothpaste onto my toothbrush head
-just like that.
+Now I'm gonna put some toothpaste onto my toothbrush head just like that.
 Now I'm gonna brush my teeth.
 Okay, so I just finished brushing my teeth.
-And now ... I'm gonna take my watch off
-because it gets wet when I'm in the shower
-and it's uncomfortable.
+And now ... I'm gonna take my watch off because it gets wet when I'm in the shower and it's uncomfortable.
 But now I have a Q-tip.
 We already learned this word in this video.
 If you haven't seen that video, go watch it.
@@ -206,30 +173,24 @@ to shave.
 And then this one's an electric razor.
 I like this one too, it's really good.
 And then you can shave your face nicely.
-But today I'm not gonna be shaving my face
-since it's only been two days,
-so I'll let it grow out one more day.
+But today I'm not gonna be shaving my face since it's only been two days, so I'll let it grow out one more day.
 I'll shave it tomorrow.
-Safety razor, electric shaver,
-and then this is a normal shaver.
+Safety razor, electric shaver, and then this is a normal shaver.
 This is just a Gillette shaver.
 So you could have three different kinds.
 But this one's the best in my opinion.
 So a lot of people ask me what I do for my skin.
 I'm not really sure why.
 I don't think I have that good of skin.
-But I'll just tell you, retinol,
-just use a retinol at night.
+But I'll just tell you, retinol, just use a retinol at night.
 Right now you can see it's not nighttime.
 So retinol only at night.
 But now I just use moisturizer on my hand.
 Now I'm dabbing it.
 I'm dabbing the moisturizer all over my face.
 Now I'm rubbing it in.
-And sometimes if I can't have a shower in the morning,
-I just use this face wash to wash my face.
-And if I go outside and it's very sunny,
-I use my sunscreen.
+And sometimes if I can't have a shower in the morning, I just use this face wash to wash my face.
+And if I go outside and it's very sunny, I use my sunscreen.
 I bought this in Korea when I was there.
 I don't know, you could...
 You can see it.
@@ -242,16 +203,14 @@ So this is what you usually use.
 This is normal floss for your teeth.
 I put on new clothes, washed my face and everything.
 I didn't shave, but I'm feeling squeaky clean.
-Squeaky clean, that's an idiom
-that just means I feel clean.
+Squeaky clean, that's an idiom that just means I feel clean.
 A lot of water splashed out of the shower.
 What's that on the floor?
 That caught some of the water, didn't it?
 This? Yeah.
 Okay, this is a bath mat.
 The bath mat is outside of the shower.
-And if there's one inside the shower that goes inside,
-that's a shower mat, but that's usually so you don't slip
+And if there's one inside the shower that goes inside, that's a shower mat, but that's usually so you don't slip 
 And what's that right there?
 This right here is a scale.
 It's called a scale.
@@ -263,8 +222,7 @@ A scale just tells you how much you weigh.
 it could be in pounds or kilograms.
 And you weigh yourself on a scale.
 I'm going to weigh myself on this scale.
-All right, we saw the scale,
-but this caught my eye too, what's that?
+All right, we saw the scale, but this caught my eye too, what's that?
 This one is a hand towel.
 So I'm going to hang it back up over here.
 this is a squeegee.
@@ -272,30 +230,25 @@ This is what you use a squeegee for.
 So you can see these water droplets.
 There's a lot of water on the outside.
 I don't know if you can see it on the camera.
-You can use the squeegee to
-squeegee the glass sliding door.
+You can use the squeegee to squeegee the glass sliding door.
 Do you do that after every shower?
-Yeah, I do it after every shower
-to make sure there's no water droplets or anything.
-I squeegee it all
-I already cut my nails yesterday,
-so there's not much, but nail clippers.
+Yeah, I do it after every shower to make sure there's no water droplets or anything.
+I squeegee it all I already cut my nails yesterday, so there's not much, but nail clippers.
 These are just scissors, but for your hair.
 So you cut your hair with these scissors.
-This could be called deodorant,
-as you can see here, or pit stick.
-And you just apply it to your armpits
-so that you don't smell.
+This could be called deodorant, as you can see here, or pit stick.
+And you just apply it to your armpits so that you don't smell.
 This is contact lens solution.
 We already saw that. My toothbrush.
 This is just a rag here.
 This is hand soap.
-So you put some hand soap on your hands,
-wash your hands here.
+So you put some hand soap on your hands, wash your hands here.
 My toothpaste.
 This is just coconut oil for my hair.
 We already saw this.
 This is more sunscreen.
+
+--------------
 And also guys, a lot of you have been saying
 you've had trouble getting the 3,000-word list.
 So I fixed that problem.
