@@ -80,24 +80,19 @@ Yeah, the watch is waterproof, so it's fine in the shower.
 
 ----------------
 You can see there's a lot of like foam and soap on my face.
-It's all white and stuff but
-that's how you know it's getting cleaned.
+It's all white and stuff but that's how you know it's getting cleaned.
 Yeah, now he's washing his face.
 I don't know if he's going to wash his hair or not.
 He probably did yesterday.
 No, I didn't wash my hair.
-Usually I wash my hair every
-two to three days.
+Usually I wash my hair every two to three days.
 And today I have to wash my hair.
-So you guys can see that
-So now I have my shampoo.
+So you guys can see that So now I have my shampoo.
 What's it called?
 It's just shea moisture.
-It's good for like hair, you know, like curly hair
-or if you need like extra moisture.
+It's good for like hair, you know, like curly hair or if you need like extra moisture.
 So, shampoo, I'm gonna lather up my hands with some shampoo.
-I always rub it into my hands first
-and then I rub it into my hair.
+I always rub it into my hands first and then I rub it into my hair.
 Now he's running his fingers through his hair,
 getting all the shampoo in every strand.
 Make sure it's nice and clean.

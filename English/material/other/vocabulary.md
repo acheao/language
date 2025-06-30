@@ -1,4 +1,9 @@
 ```
+rub
+curly
+moisture
+shea
+shampoo
 waterproof
 lather
 soap
@@ -1009,7 +1014,6 @@ engine
 material
 reclaim
 sour
-rub
 rubbing
 fashionable
 landscape
