@@ -104,8 +104,43 @@ bleach
 wept
 expedition
 regional
-prosperity
 disparity
+bioenergy
+bioengineering
+pioneering
+prosperity
+senate
+exploit
+exploiting
+treasurer
+treasure
+treasury
+expectant
+expectation
+expectancy
+expect
+unexpected
+dividend
+eliminate
+thalassemia
+sickle
+fiscal
+dread
+dreary
+paddle
+raft
+shore
+publication
+bolster
+cockpit
+vision
+mechanism
+mechanical
+delicate
+manufacturing
+morale
+morality
+moral
 ```
 
 ```
@@ -283,7 +318,6 @@ heal
 healing
 lifelong
 divider
-dividend
 defect
 defection
 spill
@@ -330,8 +364,6 @@ fraud
 distract
 distracted
 fleece
-bolster
-morale
 museum
 illegal
 pillow
@@ -402,7 +434,6 @@ urgently
 urgent
 grim 
 grime
-fiscal
 automate
 automatically
 betide
@@ -901,7 +932,6 @@ leisure
 recruit
 Metropolitan
 fuel
-shore
 retailer
 deliver
 barely
@@ -945,7 +975,6 @@ pale
 detain
 assessor
 successor
-eliminate
 perception
 disintegrate
 disintegrated
@@ -1153,7 +1182,6 @@ household
 refrigerator
 ballooned
 investigation
-manufacturing
 bedtime
 desert
 inspection
@@ -1168,7 +1196,6 @@ cramming
 suspicion
 hook
 welfare
-publication
 magnificent
 compromise
 workload
@@ -1372,8 +1399,6 @@ utterly
 luminous
 thicken
 uncharted
-pioneering
-bioengineering
 lawsuit
 trek
 ```
@@ -1426,12 +1451,9 @@ oath
 
 ```
 genuine
-mechanism
-mechanical
 shoulder
 maternity
 temporary
-delicate
 pirate
 broadcast
 spiritual
@@ -1476,11 +1498,6 @@ rampant
 rampage
 dental
 literally
-expectant
-expectation
-expectancy
-expect
-unexpected
 hush
 ballet
 drench
@@ -1741,7 +1758,6 @@ rebel
 seize
 regain
 proposal
-raft
 blind
 blindly
 quantity
@@ -2011,7 +2027,6 @@ synonym
 ```
 
 ```
-cockpit
 witness
 speciality
 litter
@@ -2063,12 +2078,8 @@ migraine
 cogwheel
 boost
 spectacular
-exploit
-exploiting
 clutch
 kidney
-thalassemia
-sickle
 gossip
 electricity
 psychiatrist
@@ -2235,8 +2246,6 @@ hypnosis
 cautionary
 hideously
 sophomore
-dread
-dreary
 favour
 plunge
 concrete
@@ -2255,8 +2264,6 @@ spare
 reap
 unanimously
 programme
-morality
-moral
 hostility
 radical
 summon
@@ -2300,9 +2307,6 @@ cheered
 spontaneous
 procedure
 sponsor
-treasurer
-treasure
-treasury
 resilience
 tackle
 penalize
