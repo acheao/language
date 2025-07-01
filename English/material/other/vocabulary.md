@@ -66,13 +66,54 @@ coconut
 ```
 
 ```
+limply
+distinguish
+distinguished
+indistinguishable
+armour
+stock
+stockbroker
+cosmetic
+reconstructive
+incessant
+lethal
+estuary
+regime
+midterm
+congressional
+gifted
+entitlement
+entitle
+entitled
+pension
+pessimistic
+distinctly
+distinctive
+civil
+civilian
+bribe
+commissioner
+dioxide
+atmosphere
+suburban
+banter
+significant
+significantly
+chlorine
+bleach
+wept
+expedition
+regional
+prosperity
+disparity
+```
+
+```
 itinerant
 miracle
 malicious
 spine
 paralyse
-significant
-significantly
 stringent
 complimentary
 satellite
@@ -168,7 +209,6 @@ burst
 seethe
 villa
 villager
-disparity
 ```
 
 ```
@@ -222,7 +262,6 @@ totalitarianism
 dictatorship
 unduly
 overwhelmingly
-suburban
 ```
 
 ```
@@ -383,8 +422,6 @@ decease
 deceased
 prize
 prized
-incessant
-commissioner
 cheek
 cheeky
 willingness
@@ -567,7 +604,6 @@ reckoning
 bipartisan
 chord
 posion
-dioxide
 fluid
 atlas
 march
@@ -740,7 +776,6 @@ access
 televise
 juice
 stability
-regional
 hellfire
 fixture
 ethic
@@ -781,7 +816,6 @@ shadow
 ```
 adversary
 neighborhood
-banter
 emergence
 ruling
 essay
@@ -950,9 +984,6 @@ tying
 direct
 director
 personality
-distinguished
-distinguish
-indistinguishable
 vicar
 nuclear
 tremble
@@ -969,7 +1000,6 @@ leak
 behave
 comprise
 volunteer
-gifted
 commission
 signal
 recovery
@@ -1031,7 +1061,6 @@ nominee
 epiphany
 retreat
 hardliner
-civil
 hum
 tenement
 enormous
@@ -1070,7 +1099,6 @@ downward
 stardust
 asteroid
 arose
-limply
 compete
 resumption
 negotiation
@@ -1298,11 +1326,9 @@ betrayal
 entrust
 profile
 immerse
-prosperity
 supposed
 cholera
 relevant
-wept
 spy
 downright
 tour
@@ -1329,7 +1355,6 @@ foyer
 verdict
 embark
 tuition
-regime
 December
 despicable
 chase
@@ -1362,7 +1387,6 @@ imprisonment
 supervisor
 deforestation
 violent
-chlorine
 resistance
 resisted
 constitute
@@ -1495,10 +1519,6 @@ Mafia
 mass
 podium
 flutter
-entitlement
-entitle
-entitled
-pension
 loom
 curl
 literature
@@ -1673,7 +1693,6 @@ populate
 gorgeous
 stretch
 arrest
-civilian
 bond
 debate
 tangible
@@ -1703,7 +1722,6 @@ environmentalist
 ```
 guerrilla
 oar
-bribe
 hypocritical
 maintenance
 loyalty
@@ -1764,8 +1782,6 @@ evaluate
 frustration
 furiously
 furious
-cosmetic
-reconstructive
 tattered
 thump
 conserve
@@ -1795,9 +1811,6 @@ stumble
 graphics
 positive
 variety
-distinctly
-distinctive
-pessimistic
 awesome
 revise
 robbery
@@ -1954,7 +1967,6 @@ virtually
 oceanography
 intersection
 spark
-expedition
 breakthrough
 laser
 microscopic
@@ -2079,7 +2091,6 @@ doorbell
 measure
 stimulate
 gesture
-armour
 millimetre
 regulatory
 strict
@@ -2243,7 +2254,6 @@ promotion
 spare
 reap
 unanimously
-stockbroker
 programme
 morality
 moral
@@ -2312,7 +2322,6 @@ antibiotic
 intolerance
 cubicle
 curtain
-bleach
 album
 marquee
 haunt
@@ -2327,7 +2336,6 @@ sneakiest
 astronaut
 detour
 migrant
-estuary
 bureaucracy
 repress
 persecute
@@ -2351,7 +2359,6 @@ capable
 smuggler
 awful
 venom
-lethal
 charismatic
 occur
 palpable
