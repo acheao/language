@@ -1,4 +1,3 @@
-```
 Today we're going to learn bathroom English.
 
 Let's get started.
@@ -408,5 +407,4 @@ make sure to check out my channel memberships
 in the description.
 And if you like this video,
 check out this playlist next.
-```
 
