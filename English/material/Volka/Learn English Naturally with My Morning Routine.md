@@ -1,5 +1,4 @@
 Today we're going to learn bathroom English.
-
 Let's get started.
 
 So the first thing we want to do. Make sure we have our towel and we'll hang it on the towel rack before we have a shower.
