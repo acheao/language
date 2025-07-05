@@ -1,5 +1,4 @@
-Today we're going to learn bathroom English.  
-Let's get started.  
+Today we're going to learn bathroom English.  Let's get started.  
 So the first thing we want to do. Make sure we have our towel and we'll hang it on the towel rack before we have a shower.  
 Because if we have a shower and then forget our towel, we have to go outside the bathroom and then you get cold.  
 But here we have my shower.  
