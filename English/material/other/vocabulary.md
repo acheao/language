@@ -31,7 +31,6 @@ knot
 tangle
 droplet
 scrunch
-retainer
 toothbrush
 toothpaste
 razor
@@ -67,7 +66,108 @@ coconut
 ```
 
 ```
+vigil
+decipher
+content
+charred
+scroll
+edition
+disparity
+highlight
+cottage
+maladaptive
+intervention
+oppose
+wept
+marsh
+habit
+habitat
+eligible
+conjure
+conjuring
+calcium
+guideline
+dairy
+stoicism
+accordance
+stumble
+barely
+intact
+immediate
+aftermath
+soil
+production
+crop
+respect
+respectful
+respectfully
+sentiment
+sentimental
+sentimentality
+sentimentalize
+overt
+betrayal
+significant
+significantly
+supervisor
+conviction
+testify
+oath
+perjury
+awkward
+erode
+jurisdiction
+syllable
+expensive
+inexpensive
+verdict
+federal
+delay
+sustain
+sustained
+sustainably
+portion
+disproportionate
+coral
+atmospheric
+bolster
+resign
+resignation
+fraction
+friction
+frictionless
+preference
+advance
+advanced
+decomposition
+corpse
+kangaroo
+popularity
+recruit
+retain
+retainer
+comply
+equip
 limply
+situation
+spare
+morale
+morality
+moral
+Spaniard
+retirement
+grant
+granted
+upcoming
+album
+pedal
+banter
+immoral
+pioneering
+bioengineering
+```
+
+```
 distinguish
 distinguished
 indistinguishable
@@ -97,18 +197,11 @@ commissioner
 dioxide
 atmosphere
 suburban
-banter
-significant
-significantly
 chlorine
 bleach
-wept
 expedition
 regional
-disparity
 bioenergy
-bioengineering
-pioneering
 prosperity
 senate
 exploit
@@ -132,16 +225,12 @@ paddle
 raft
 shore
 publication
-bolster
 cockpit
 vision
 mechanism
 mechanical
 delicate
 manufacturing
-morale
-morality
-moral
 ```
 
 ```
@@ -156,7 +245,6 @@ satellite
 forehead
 orphan
 stout
-comply
 substantial
 methane
 universal
@@ -165,7 +253,6 @@ subjective
 ```
 
 ```
-eligible
 comparison
 enthusiastic
 cinemagoer
@@ -205,8 +292,6 @@ defuse
 woe
 alliance
 exempt
-perjury
-conviction
 steadily
 denial
 rage
@@ -249,13 +334,11 @@ villager
 
 ```
 swirl
-overt
 tenure
 designate
 conduct
 misconduct
 negligence
-calcium
 applicant
 application
 intense
@@ -273,7 +356,6 @@ compelled
 squad
 square
 squarely
-jurisdiction
 feud
 grudge
 stale
@@ -281,7 +363,6 @@ comedy
 hefty
 parcel
 foam
-edition
 fascism
 soviet
 miles
@@ -406,7 +487,6 @@ archaeologist
 archaeological
 powerful
 trick
-charred
 structure
 calm
 export
@@ -419,7 +499,6 @@ swiftness
 liberty
 libertine
 loom
-delay
 crab
 overseas
 treaty
@@ -539,7 +618,6 @@ drastic
 heritage
 kneecap
 pesticide
-crop
 photograph
 photographer
 midwife
@@ -650,7 +728,6 @@ grave
 recall
 ivory
 bead
-highlight
 net-zero
 scheme
 abundance
@@ -730,8 +807,6 @@ hall
 bilingual
 guilt
 guilty
-grant
-granted
 subjective
 forum
 tatters
@@ -757,7 +832,6 @@ failing
 failed
 fail
 catastrophically
-scroll
 epic
 heroism
 videotape
@@ -815,7 +889,6 @@ unethical
 insane
 determine
 gear
-portion
 leadership
 elsewhere
 problematic
@@ -835,13 +908,6 @@ humiliation
 assembly
 adopted
 adopt
-sentiment
-sentimental
-sentimentality
-sentimentalize
-respect
-respectful
-respectfully
 shadow
 ```
 
@@ -930,12 +996,10 @@ claw
 tutor
 voluntary
 leisure
-recruit
 Metropolitan
 fuel
 retailer
 deliver
-barely
 previous
 viral
 likelihood
@@ -964,12 +1028,10 @@ amongst
 sizeable
 evolve
 naval
-intervention
 unrealistic
 cooperation
 spectator
 cross
-retirement
 workmate
 niece
 pale
@@ -1018,7 +1080,6 @@ vicar
 nuclear
 tremble
 warfare
-popularity
 loan
 scrutiny
 participant
@@ -1037,7 +1098,6 @@ external
 fade
 temple
 accessible
-testify
 tract
 flavour
 Thai
@@ -1061,9 +1121,6 @@ legalize
 contempt
 victim
 taxation
-fraction
-friction
-frictionless
 journalism
 journalist
 journal
@@ -1099,8 +1156,6 @@ terrorist
 territory
 beta
 transport
-resign
-resignation
 accent
 trace
 gradual
@@ -1207,7 +1262,6 @@ consist
 tyre
 decay
 halt
-intact
 litigation
 independent
 hydraulic
@@ -1248,7 +1302,6 @@ repeatedly
 protective
 widen
 prefer
-preference
 swarm
 swarmed
 gnat
@@ -1290,7 +1343,6 @@ extensive
 bracket
 recommend
 pasta
-syllable
 machinery
 ```
 
@@ -1303,7 +1355,6 @@ antics
 imminent
 generosity
 outlook
-awkward
 responsibility
 bargain
 sink
@@ -1320,7 +1371,6 @@ sharper
 sharply
 secretary
 cookery
-retain
 wage
 resemblance
 lotion
@@ -1349,8 +1399,6 @@ hare
 pent
 incompetence
 midst
-oppose
-betrayal
 entrust
 profile
 immerse
@@ -1362,8 +1410,6 @@ downright
 tour
 impressionist
 tenant
-conjure
-conjuring
 resort
 studio
 addiction
@@ -1380,7 +1426,6 @@ accommodation
 subordinate
 illustrate
 foyer
-verdict
 embark
 tuition
 December
@@ -1410,7 +1455,6 @@ emphasis
 rough
 dispute
 imprisonment
-supervisor
 deforestation
 violent
 resistance
@@ -1447,7 +1491,6 @@ abhorrent
 trial
 scope
 admission
-oath
 ```
 
 ```
@@ -1472,7 +1515,6 @@ rife
 ```
 
 ```
-equip
 interruption
 petty
 signature
@@ -1517,7 +1559,6 @@ dramatically
 domestic
 disorder
 curious
-disproportionate
 parish
 ```
 
@@ -1525,7 +1566,6 @@ parish
 chemical
 gallop
 galloping
-upcoming
 uninspired
 inspire
 inspiration
@@ -1573,7 +1613,6 @@ approval
 
 ```
 catalogue
-content
 psychologist
 ethnic
 ethnicity
@@ -1612,12 +1651,9 @@ delegation
 coping
 chapel
 daydream
-habit
-habitat
 inhabitant
 employ
 employee
-marsh
 ```
 
 ```
@@ -1679,7 +1715,6 @@ campus
 sprint
 dove
 opposing
-maladaptive
 elegant
 dug
 spur
@@ -1694,8 +1729,6 @@ femininity
 comment
 occasion
 occasional
-corpse
-decomposition
 adequate
 waist
 controversial
@@ -1730,9 +1763,6 @@ overheard
 ```
 manuscript
 appliance
-accordance
-advance
-advanced
 interwar
 environmentalist
 ```
@@ -1748,7 +1778,6 @@ headlong
 brilliant
 sweeper
 auction
-federal
 adventure
 identical
 taunt
@@ -1824,7 +1853,6 @@ directive
 assumption
 cryptic
 trajectory
-stumble
 graphics
 positive
 variety
@@ -1841,7 +1869,6 @@ lactose
 priest
 forecast
 criteria
-dairy
 alcohol
 alcoholism
 cable
@@ -1854,7 +1881,6 @@ lush
 coincidentally
 testimonial
 unprecedented
-cottage
 ```
 
 ```
@@ -1866,7 +1892,6 @@ obsession
 swear
 swearing
 sweat
-stoicism
 mortgage
 globalization
 fatal
@@ -1954,7 +1979,6 @@ urgency
 excitement
 inexhaustible
 creature
-sustainably
 steward
 stewardess
 stewardship
@@ -2084,7 +2108,6 @@ kidney
 gossip
 electricity
 psychiatrist
-vigil
 contender
 reliance
 grand
@@ -2110,7 +2133,6 @@ district
 stifle
 innovation
 encounter
-situation
 crystal
 entertainment
 excoriate
@@ -2261,7 +2283,6 @@ specimen
 slide
 fragment
 promotion
-spare
 reap
 unanimously
 programme
@@ -2283,8 +2304,6 @@ energize
 medium
 latte
 casual
-expensive
-inexpensive
 elaborate
 dessert
 cafe
@@ -2314,11 +2333,9 @@ penalize
 architect
 architecture
 renaissance
-immediate
 predecessor
 insulation
 regular
-decipher
 pre-eminent
 Saturday
 enterprise
@@ -2327,7 +2344,6 @@ antibiotic
 intolerance
 cubicle
 curtain
-album
 marquee
 haunt
 haunting

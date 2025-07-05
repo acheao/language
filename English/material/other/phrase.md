@@ -63,3 +63,4 @@ nail scissors
 contact lens
 chicken stock
 critical importance
+bound to
