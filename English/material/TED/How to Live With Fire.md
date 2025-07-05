@@ -1,4 +1,5 @@
 [How to Live With Fire](https://www.youtube.com/watch?v=gHvXr6NuqYQ)
+
 I'd like to acknowledge and pay my respect to the Anishinaabe Nation and its Council of Three fires, the Ottawa, the Chippewa, and the Potawatomi peoples.
 
 I am grateful to be here
