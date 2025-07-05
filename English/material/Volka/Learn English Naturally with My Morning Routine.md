@@ -502,25 +502,19 @@ And also guys, a lot of you have been saying you've had trouble getting the 3,00
 
 So I fixed that problem.
 
-So if you were having problems earlier and couldn't get it,
-
-you can go now to the website and easily get it.
+So if you were having problems earlier and couldn't get it, you can go now to the website and easily get it.
 
 It'll be sent to your email again.
 
 So make sure you check your junk or your promotions inbox.
 
-So what are some other idioms you can say
-
-after getting out of the shower?
+So what are some other idioms you can say after getting out of the shower?
 
 So you could say "fresh as a daisy."
 
 So that just means you feel clean and energetic.
 
-So after I come out of the shower,
-
-I feel fresh as a daisy.
+So after I come out of the shower, I feel fresh as a daisy.
 
 What's a daisy?
 
@@ -536,9 +530,7 @@ Once a day?
 
 Yeah, once a day.
 
-I don't wash my hair every day,
-
-but I definitely wash my body every day.
+I don't wash my hair every day, but I definitely wash my body every day.
 
 And what time of day do you usually have your shower?
 
@@ -548,23 +540,15 @@ Cause right now it's the morning.
 
 You see the morning?
 
-I usually have my shower in the morning
+I usually have my shower in the morning cause I feel like clean for the whole day.
 
-cause I feel like clean for the whole day.
-
-Yeah, usually I shower in the morning,
-
-but sometimes in the night,
+Yeah, usually I shower in the morning, but sometimes in the night,
 
 if I get dirty throughout the day.
 
 Okay, bet.
 
-Okay, so now that we learned a
-
-bunch of words in the shower,
-
-we're going to have a word game.
+Okay, so now that we learned a bunch of words in the shower, we're going to have a word game.
 
 So get over here boy.
 
@@ -588,9 +572,7 @@ Oh, where's the comb?
 
 Wait, did I say scale?
 
-Yeah, you said comb instead of,
-
-what are you doing with shampoo?
+Yeah, you said comb instead of, what are you doing with shampoo?
 
 I don't know.
 
@@ -662,9 +644,7 @@ This is a sliding shower door.
 
 Sliding shower door.
 
-And last question,
-
-do you prefer a hot shower or a cold shower?
+And last question, do you prefer a hot shower or a cold shower?
 
 Cold shower all the way.
 
@@ -674,21 +654,11 @@ Colder the better.
 
 Stop the cap, bruh
 
-Not lying.
+Not lying. It's better for your skin, for your body, for your metabolism.
 
-It's better for your skin, for your body,
+Before we go over the word summary, make sure to follow my personal Instagram and tell me, what words did you guys learn today?
 
-for your metabolism.
-
-Before we go over the word summary,
-
-make sure to follow my personal Instagram
-
-and tell me, what words did you guys learn today?
-
-Remember, I read all your comments
-
-and this was my favorite comment from last video.
+Remember, I read all your comments and this was my favorite comment from last video. 
 
 And this is where you guys were from last video.
 
@@ -730,9 +700,7 @@ Rubbing his scalp.
 
 Comb is like this
 
-A brush has a handle that you hold
-
-and then a brush head with a lot of bristles.
+A brush has a handle that you hold and then a brush head with a lot of bristles.
 
 Now I got my conditioner
 
@@ -748,11 +716,9 @@ Now I'm just scrunching my hair.
 
 Now I'm giving them a little rinse.
 
-Now I'm going to put some toothpaste onto
+Now I'm going to put some toothpaste onto my toothbrush head.
 
-my toothbrush head.
-
-I'm going to brush my teeth
+I'm going to brush my teeth 
 
 to shave my face
 
@@ -760,7 +726,7 @@ And then this is a normal shaver.
 
 This is just a Gillette shaver.
 
-Now i'm dabbing it.
+Now I'm dabbing it.
 
 Now I'm rubbing it in.
 
@@ -792,19 +758,11 @@ But sometimes in the night if I get dirty throughout the day.
 
 Remember guys, I've launched channel memberships.
 
-If you want to join to get exclusive videos,
+If you want to join to get exclusive videos, early access to videos, 
 
-early access to videos,
+So if you want access to that, make sure to check out my channel memberships in the description.
 
-So if you want access to that,
-
-make sure to check out my channel memberships
-
-in the description.
-
-And if you like this video,
-
-check out this playlist next.
+And if you like this video, check out this playlist next.
 
 
 

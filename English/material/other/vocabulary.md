@@ -42,8 +42,6 @@ dab
 sunscreen
 flosser
 squeaky
-idiom
-idiomatically
 splash
 mat
 slip
@@ -62,7 +60,14 @@ contact
 solution
 resolution
 coconut
-
+junk
+promotion
+idiom
+idiomatically
+daisy
+definitely
+quiz
+metabolism
 ```
 
 ```
@@ -1481,7 +1486,6 @@ Islam
 Judaism
 corporate
 wood
-definitely
 coriander
 lime
 slur
@@ -2282,7 +2286,6 @@ accuracy
 specimen
 slide
 fragment
-promotion
 reap
 unanimously
 programme

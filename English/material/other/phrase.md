@@ -64,3 +64,5 @@ contact lens
 chicken stock
 critical importance
 bound to
+
+fresh as a daisy/精力充沛、神清气爽、容光焕发
