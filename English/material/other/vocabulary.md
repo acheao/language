@@ -71,6 +71,81 @@ metabolism
 ```
 
 ```
+adequate
+extra
+conservative
+devastation
+itinerant
+pedal
+appropriate
+squib
+despicable
+annual
+hindsight
+literature
+defeat
+passport
+pile
+modernization
+modest
+propose
+reinvent
+respectable
+respect
+respectful
+respectfully
+significant
+significantly
+substantial
+sustain
+sustained
+sustainably
+colonial
+colony
+prize
+prized
+album
+bizarre
+comment
+declaration
+sincere
+brooch
+cameo
+mere
+forum
+alongside
+coalition
+burden
+unduly
+restrictive
+inability
+levy
+eligible
+cruise
+echelon
+aristocracy
+froze
+jam
+jamming
+mechanism
+mechanical
+decade
+kangaroo
+subcommittee
+astonishing
+astonish
+astonishment
+guerrilla
+deceive
+evaluation
+violation
+scramble
+clung
+lung
+erode
+```
+
+```
 vigil
 decipher
 content
@@ -87,7 +162,6 @@ wept
 marsh
 habit
 habitat
-eligible
 conjure
 conjuring
 calcium
@@ -103,24 +177,18 @@ aftermath
 soil
 production
 crop
-respect
-respectful
-respectfully
 sentiment
 sentimental
 sentimentality
 sentimentalize
 overt
 betrayal
-significant
-significantly
 supervisor
 conviction
 testify
 oath
 perjury
 awkward
-erode
 jurisdiction
 syllable
 expensive
@@ -128,9 +196,6 @@ inexpensive
 verdict
 federal
 delay
-sustain
-sustained
-sustainably
 portion
 disproportionate
 coral
@@ -146,7 +211,6 @@ advance
 advanced
 decomposition
 corpse
-kangaroo
 popularity
 recruit
 retain
@@ -164,8 +228,6 @@ retirement
 grant
 granted
 upcoming
-album
-pedal
 banter
 immoral
 pioneering
@@ -232,14 +294,11 @@ shore
 publication
 cockpit
 vision
-mechanism
-mechanical
 delicate
 manufacturing
 ```
 
 ```
-itinerant
 miracle
 malicious
 spine
@@ -250,7 +309,6 @@ satellite
 forehead
 orphan
 stout
-substantial
 methane
 universal
 subjunctive
@@ -303,9 +361,7 @@ rage
 national
 nationalization
 nationality
-annual
 budget
-bizarre
 horror
 commercial
 consists
@@ -382,7 +438,6 @@ acquire
 petroleum
 totalitarianism
 dictatorship
-unduly
 overwhelmingly
 ```
 
@@ -485,8 +540,6 @@ inflation
 inflationary
 emission
 remission
-inability
-levy
 archaeology
 archaeologist
 archaeological
@@ -496,9 +549,6 @@ structure
 calm
 export
 exporter
-astonish
-astonishment
-astonishing
 swift
 swiftness
 liberty
@@ -536,8 +586,6 @@ discriminate
 discrimination
 decease
 deceased
-prize
-prized
 cheek
 cheeky
 willingness
@@ -813,7 +861,6 @@ bilingual
 guilt
 guilty
 subjective
-forum
 tatters
 curator
 playfully
@@ -856,9 +903,7 @@ fled
 plenty
 apprehension
 behaviour
-sincere
 airmen
-cruise
 hepatitis
 outstanding
 cyanide
@@ -944,7 +989,6 @@ existential
 wildlife
 circumstance
 behalf
-devastation
 collapse
 roasting
 salesperson
@@ -1020,10 +1064,7 @@ milky
 vulnerable
 radioactive
 crouched
-pile
 religious
-froze
-jamming
 narrow
 narrowly
 olive
@@ -1130,7 +1171,6 @@ journalism
 journalist
 journal
 paramount
-mere
 remarkably
 scant
 testimonial
@@ -1218,7 +1258,6 @@ relieve
 bakery
 ease
 underscore
-alongside
 predict
 spew
 propaganda
@@ -1277,15 +1316,12 @@ ordain
 wisdom
 contrast
 shuttle
-colonial
-colony
 fading
 poll
 racket
 grain
 respondent
 continent
-propose
 cast
 violence
 scandal
@@ -1323,7 +1359,6 @@ unconscionable
 shed
 assemble
 replacement
-burden
 divorce
 bankruptcy
 sail
@@ -1396,7 +1431,6 @@ asylum
 mileage
 vary
 locust
-deceive
 shiver
 supreme
 tortoise
@@ -1434,7 +1468,6 @@ foyer
 embark
 tuition
 December
-despicable
 chase
 firearm
 mast
@@ -1522,7 +1555,6 @@ rife
 interruption
 petty
 signature
-aristocracy
 pump
 audience
 assault
@@ -1583,7 +1615,6 @@ podium
 flutter
 loom
 curl
-literature
 prestige
 coast
 coastline
@@ -1597,8 +1628,6 @@ afterword
 gunfire
 visualize
 counter
-cameo
-brooch
 anecdote
 decline
 stage
@@ -1631,7 +1660,6 @@ toxic
 stranger
 strange
 homage
-modernization
 politically
 aggressive
 aggressively
@@ -1683,7 +1711,6 @@ affluent
 exclusive
 mutually
 scorn
-modest
 part-way
 spiral
 magnet
@@ -1705,7 +1732,6 @@ vehicle
 collide
 shattering
 possession
-passport
 essential
 reward
 disrepair
@@ -1730,18 +1756,13 @@ gratification
 truism
 masculinity
 femininity
-comment
 occasion
 occasional
-adequate
 waist
 controversial
 capsule
 edge
 determination
-clung
-lung
-defeat
 wrecked
 wreck
 populate
@@ -1751,7 +1772,6 @@ arrest
 bond
 debate
 tangible
-coalition
 sculpture
 coup
 coupon
@@ -1772,7 +1792,6 @@ environmentalist
 ```
 
 ```
-guerrilla
 oar
 hypocritical
 maintenance
@@ -1816,7 +1835,6 @@ whisper
 coroner
 encourage
 encouraging
-scramble
 courage
 dismantle
 steel
@@ -1844,7 +1862,6 @@ flee
 security
 fall
 fallen
-conservative
 trolley
 dust
 consumption
@@ -1947,7 +1964,6 @@ silence
 uphold
 complicated
 glamorous
-echelon
 saturated
 ```
 
@@ -2165,7 +2181,6 @@ moderation
 novel
 ingestion
 hallucinate
-evaluation
 encapsulate
 recur
 subsequent
@@ -2223,7 +2238,6 @@ funnel
 handrail
 sidewalk
 autopilot
-reinvent
 proactive
 paradigm
 swing
@@ -2253,7 +2267,6 @@ posterity
 engage
 instrument
 instrumentation
-hindsight
 initial
 faith
 skid
@@ -2263,7 +2276,6 @@ defendant
 defend
 defender
 damp
-squib
 celery
 stalk
 hammering
@@ -2374,7 +2386,6 @@ amateur
 referee
 offside
 cholesterol
-violation
 clientele
 generalization
 sweeping
