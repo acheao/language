@@ -496,8 +496,6 @@ We already saw this.
 
 This is more sunscreen.
 
---------------
-
 And also guys, a lot of you have been saying you've had trouble getting the 3,000-word list.
 
 So I fixed that problem.
