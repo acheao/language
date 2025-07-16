@@ -1,13 +1,5 @@
-- anki
-	- 维持单词量，作为阅读的锚点
-- 听
-	- freeCodeCamp前端 (ALL)
-	- 老友记
-	- other
-	- TED 精听
-- 说
-	- anki中句子（豆包）
-- 写
-	- anki中句子
-- 读
-	- Instapaper
+- 阅读
+	- CNN
+	- 老友记剧本等
+- 听力
+	- Youtube
