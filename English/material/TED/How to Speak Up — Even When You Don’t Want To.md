@@ -1,81 +1,41 @@
 https://www.youtube.com/watch?v=fkOMupkw5D8
 
-Silence.
-It can be a needed moment
-of peace and contemplation.
-But what happens
-when silence becomes a barrier?
-A barrier that muffles the voice of truth,
-of advocacy,
-of change?
-Speak up.
-Advocate for yourself.
-Stand up for what you believe in.
-That's what they say, right?
-Well even though I know they’re right,
-it's easier said than done.
-I'm sure we can all think of a time
-when we faced a crossroads.
-Perhaps the precipice
-of an uncomfortable conversation
-when speaking up felt like the right,
-if not even essential, path.
+Silence. It can be a needed moment of peace and contemplation.
+
+But what happens when silence becomes a barrier?
+ 
+A barrier that muffles the voice of truth, of advocacy, of change? Speak up. Advocate for yourself.
+
+Stand up for what you believe in. That's what they say, right? Well even though I know they’re right, it's easier said than done.
+
+I'm sure we can all think of a time when we faced a crossroads.
+
+Perhaps the precipice of an uncomfortable conversation when speaking up felt like the right, if not even essential, path.
+
 But silence seemed safer.
-I can vividly see and feel
-myself being in those moments.
-Times when I stood red-faced,
-embarrassed or offended,
-frustrated or angry,
-with a sinking feeling in my stomach,
-unable to find my voice
-and unsure if I had the courage,
-confidence or will
-to face the difficult
-conversation before me.
-Sound familiar?
-We're not alone.
-Research from VitalSmarts,
-a global leader in organizational
-performance and leadership,
-tells us people would rather
-quit their jobs
-than address a challenging situation.
-In this post-pandemic time,
-with baby boomers retiring and a wave
-of quiet resignation upon us,
-the world seems
-to be working short-staffed.
-I'm a nurse and have worked
-in healthcare leadership for a long time,
-and I'm here to tell you,
-in this profession,
-we can't risk losing anyone.
-Especially not for the reason
-of avoiding a challenging conversation.
-In a world where we are experiencing
-increasingly rapid cycles of change,
-we can expect difficult conversations,
-particularly in the workplace,
-to happen more often than ever before.
-Moments such as sharing feedback,
-identifying mistakes
-or calling out disrespect --
-they’re not always easy
-but often critical
-to the performance
-of both individuals and a team.
-In health care, where stakes are high,
-our willingness to raise concerns
-can be vital to the quality
-of care we provide,
-but also to the safety
-of patients and the care team.
-In fact, research also tells us
-that when we do speak up,
-we experience more job satisfaction,
-increased team morale,
-and, in my world,
-support better patient outcomes.
+
+I can vividly see and feel myself being in those moments.
+
+Times when I stood red-faced, embarrassed or offended, frustrated or angry, with a sinking feeling in my stomach, unable to find my voice and unsure if I had the courage, confidence or will to face the difficult conversation before me.
+
+Sound familiar? We're not alone. 
+
+Research from VitalSmarts, a global leader in organizational performance and leadership, tells us people would rather quit their jobs than address a challenging situation.
+
+In this post-pandemic time, with baby boomers retiring and a wave of quiet resignation upon us, the world seems to be working short-staffed.
+
+I'm a nurse and have worked in healthcare leadership for a long time, and I'm here to tell you, in this profession, we can't risk losing anyone.
+
+Especially not for the reason of avoiding a challenging conversation.
+
+In a world where we are experiencing increasingly rapid cycles of change, we can expect difficult conversations, particularly in the workplace, to happen more often than ever before.
+
+Moments such as sharing feedback, identifying mistakes or calling out disrespect -- they’re not always easy but often critical to the performance of both individuals and a team.
+
+In health care, where stakes are high, our willingness to raise concerns can be vital to the quality of care we provide, but also to the safety of patients and the care team.
+
+In fact, research also tells us that when we do speak up, we experience more job satisfaction, increased team morale, and, in my world, support better patient outcomes.
+
 I've experienced this for myself.
 Now I don’t have all the answers,
 and I don’t always get it right.
