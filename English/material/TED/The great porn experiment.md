@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=wSF82AwSDiU
+
 Transcriber: Maciek Sterkowicz
 Reviewer: Capa Girl
 Inspired by the last talker
