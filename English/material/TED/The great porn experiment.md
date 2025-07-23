@@ -2,26 +2,18 @@ https://www.youtube.com/watch?v=wSF82AwSDiU
 
 Transcriber: Maciek Sterkowicz
 Reviewer: Capa Girl
-Inspired by the last talker
-I'm going to have a little song
-about Internet porn.
-No, just kidding.
-The widespread use of Internet porn
-is one of the fastest moving
-most global experiments ever
-unconsciously conducted.
-Nearly every young guy
-with an Internet access
-becomes an eager test subject.
-Canadian researcher
-Simon Lajeunesse found
-that most boys
-seek pornography by age 10.
-Driven by a brain that is suddenly
-fascinated by sex.
-Now, users perceive Internet porn
-as far more compelling
-than porn of the past.
+Inspired by the last talker I'm going to have a little song about Internet porn.
+
+No, just kidding. The widespread use of Internet porn is one of the fastest moving most global experiments ever unconsciously conducted.
+
+Nearly every young guy with an Internet access becomes an eager test subject.
+
+Canadian researcher Simon Lajeunesse found that most boys seek pornography by age 10.
+
+Driven by a brain that is suddenly fascinated by sex. 
+
+Now, users perceive Internet porn as far more compelling than porn of the past.
+
 Why is that?
 Unending novelty.
 In this Australian experiment,
