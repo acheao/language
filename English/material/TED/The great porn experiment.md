@@ -2,6 +2,7 @@ https://www.youtube.com/watch?v=wSF82AwSDiU
 
 Transcriber: Maciek Sterkowicz
 Reviewer: Capa Girl
+
 Inspired by the last talker I'm going to have a little song about Internet porn.
 
 No, just kidding. The widespread use of Internet porn is one of the fastest moving most global experiments ever unconsciously conducted.
@@ -14,179 +15,97 @@ Driven by a brain that is suddenly fascinated by sex.
 
 Now, users perceive Internet porn as far more compelling than porn of the past.
 
-Why is that?
-Unending novelty.
-In this Australian experiment,
-it's not mere nudity but novelty
-that gets arousals skyrocketing.
-Subjects watch 22 porn displays.
-See that spike?
-That's where the researchers
-switch to porn
-the guys hadn't seen before.
-What happened?
-Their erections and their brains fired up.
-Why all the excitement?
-Mother nature likes to keep
-a male fertilizing willing females
-as long as any new ones are around.
-In that top line the ram,
-he needs more and more time
-to make with the same old ewe.
-But if you keep switching females -
-the bottom line - well she's not the same.
-He can get the job done in 2 minutes flat
-and keep going
-until he's utterly exhausted.
-This is known as the Coolidge effect.
-Without the Coolidge effect
-there would be no Internet porn.
-This old mammalian program,
-the Coolidge effect, perceives
-each novel female on a guy's screen
-as a genetic opportunity.
-To keep a guy fertilizing
-the screen his brain releases
-the "go get it" neurochemical dopamine
-for each novel mate or image.
-Eventually the ram will tire
-but as long as the guy can keep clicking
-he can keep going
-and so will his dopamine.
-With internet porn a guy can see
-more hot babes in 10 minutes
-than his ancestors could see
-in several lifetimes.
-The problem is he has
-a hunter-gather brain.
-A heavy user brain rewires
-itself to this genetic bonanza
-so it carefully becomes associated
-with this porn harem.
-Such behaviours that are associated
-with this are being alone,
-voyeurism, clicking,
-searching, multiple tabs
-fast-forwarding, constant novelty,
-shock and surprise.
-As one young guy once asked:
-Are we the first generation
-to masturbate left handed?
-Now, real sex, in contrast,
-is courtship, touching,
-being touched, smells, pheromones,
-emotional connection,
-interaction with a real person.
-Now, what happens when our guy
-finally gets with a real mate.
-Well, researchers don't know
-much about the effects
-of Internet porn for several reasons.
-In 2009, when Lajeunesse
-tried to study porn'’s impact
-he couldn't find any college age males
-who weren't using it.
-So the first serious dilemma
-is that studies have no control groups.
-Now, this creates a huge blind spot.
-Imagine if all guys
-started smoking at age 10
-and there were no groups that didn't.
-We would think that lung cancer
-is normal for all guys.
-Undaunted by his lack of non-users
-Lajeunesse asked 20 male students:
-Is Internet porn affecting you
-or your attitude towards women?
-They answered,
-"No, I don't think so."
-But they've been using it
-for about a decade then
-pretty much non-stop.
-This is like asking a fish
-what it thinks about water?
-Which bring us to a second problem.
-Researchers haven't asked porn users
-about the symptoms
-Zimbardo described in
-"The Demise of Guys."
-Arousal addiction symptoms
-are easily mistaken
-for such things as ADHD,
-social anxiety, depression,
-concentration problems,
-performance anxiety,
-OCD and a host of others.
-Now, healthcare providers often assume
-that these conditions are primary
-perhaps the cause of addiction but
-never really the result of an addiction.
-As a consequence they often
-medicate these guys
-without really inquiring about
-if they have an Internet addiction.
-Guys never realise
-that they could overcome these
-symptoms simply
-by changing their behaviour.
-Now, the third problem
-is it's hard to believe that
-sexual activity can cause addiction
-because sex is healthy.
-But Internet porn is not sex.
-Internet porn
-is as different from real sex
-as today’s video games are from checkers.
-Watching the screen
-full of naked body parts
-won't automatically protect one
-from arousal addiction.
-In this Dutch study - here's the title -
-they found that in fact of all activities
-on the Internet
-porn has the most potential
-to become addictive.
-Here's why.
-This ancient programme,
-the reward circuit,
-evolved to drive us towards
-natural rewards
-such as sex, bonding and food.
-As a consequence extreme versions
-of natural rewards
-have a unique ability to capture us.
-For example: high-calorie foods
-or hot novel babes
-give us extra dopamine.
-Too much dopamine though can override
-our natural satiation mechanisms.
-For example: give rats unlimited access
-to junk food and almost all of them
-will binge to obesity.
-This is also why 4 out of 5 Americans
-are overweight
-and about half of those are obese.
-That is addicted to food.
-Now, in contrast to natural rewards,
-drugs such as
-cocaine or alcohol only hook
-about 10% of users
-whether they are rats or humans.
-This binge mechanism for food or sex
-was once an evolutionary advantage.
-In essence, it is getting it while
-the getting is good.
-Now, you can think of wolves packing
-away 20 pound of meat per kill
-or it's mating season
-and you're the alpha male.
-What if mating season never ends?
-All those hits of dopamine can tell
-your brain to do two things.
-First they say, "Man, you've hit
-the evolutionary jackpot."
-Second, they kick in a molecular switch
-called Delta-FosB.
+Why is that? Unending novelty. In this Australian experiment, it's not mere nudity but novelty that gets arousals skyrocketing.
+
+Subjects watch 22 porn displays. See that spike? That's where the researchers switch to porn the guys hadn't seen before.
+
+What happened? Their erections and their brains fired up. Why all the excitement?
+
+Mother nature likes to keep a male fertilizing willing females as long as any new ones are around.
+
+In that top line the ram, he needs more and more time to make with the same old ewe.
+
+But if you keep switching females - the bottom line - well she's not the same.
+
+He can get the job done in 2 minutes flat and keep going until he's utterly exhausted.
+
+This is known as the Coolidge effect. Without the Coolidge effect there would be no Internet porn.
+
+This old mammalian program, the Coolidge effect, perceives each novel female on a guy's screen as a genetic opportunity.
+
+To keep a guy fertilizing the screen his brain releases the "go get it" neurochemical dopamine for each novel mate or image.
+
+Eventually the ram will tire but as long as the guy can keep clicking he can keep going and so will his dopamine.
+
+With internet porn a guy can see more hot babes in 10 minutes than his ancestors could see in several lifetimes.
+
+The problem is he has a hunter-gather brain. A heavy user brain rewires itself to this genetic bonanza so it carefully becomes associated with this porn harem.
+
+Such behaviours that are associated with this are being alone, voyeurism, clicking, searching, multiple tabs fast-forwarding, constant novelty, shock and surprise.
+
+As one young guy once asked: Are we the first generation to masturbate left handed?
+
+Now, real sex, in contrast, is courtship, touching, being touched, smells, pheromones, emotional connection, interaction with a real person.
+
+Now, what happens when our guy finally gets with a real mate. Well, researchers don't know much about the effects of Internet porn for several reasons.
+
+In 2009, when Lajeunesse tried to study porn'’s impact he couldn't find any college age males who weren't using it.
+
+So the first serious dilemma is that studies have no control groups. 
+
+Now, this creates a huge blind spot. Imagine if all guys started smoking at age 10 and there were no groups that didn't.
+
+We would think that lung cancer is normal for all guys.
+Undaunted by his lack of non-users Lajeunesse asked 20 male students: Is Internet porn affecting you or your attitude towards women?
+
+They answered, "No, I don't think so." But they've been using it for about a decade then pretty much non-stop.
+
+This is like asking a fish what it thinks about water? Which bring us to a second problem.
+
+Researchers haven't asked porn users about the symptoms Zimbardo described in "The Demise of Guys." 
+
+Arousal addiction symptoms are easily mistaken for such things as ADHD, social anxiety, depression, concentration problems, performance anxiety, OCD and a host of others.
+
+Now, healthcare providers often assume that these conditions are primary perhaps the cause of addiction but never really the result of an addiction.
+
+As a consequence they often medicate these guys without really inquiring about if they have an Internet addiction.
+
+Guys never realise that they could overcome these symptoms simply by changing their behaviour.
+
+Now, the third problem is it's hard to believe that sexual activity can cause addiction because sex is healthy.
+
+But Internet porn is not sex. Internet porn is as different from real sex as today’s video games are from checkers.
+
+Watching the screen full of naked body parts won't automatically protect one from arousal addiction.
+
+In this Dutch study - here's the title - they found that in fact of all activities on the Internet porn has the most potential to become addictive.
+
+Here's why. This ancient programme, the reward circuit, evolved to drive us towards natural rewards such as sex, bonding and food.
+
+As a consequence extreme versions of natural rewards have a unique ability to capture us.
+
+For example: high-calorie foods or hot novel babes give us extra dopamine.
+
+Too much dopamine though can override our natural satiation mechanisms.
+
+For example: give rats unlimited access to junk food and almost all of them will binge to obesity.
+
+This is also why 4 out of 5 Americans are overweight and about half of those are obese.
+
+That is addicted to food. Now, in contrast to natural rewards, drugs such as cocaine or alcohol only hook about 10% of users whether they are rats or humans.
+
+This binge mechanism for food or sex  was once an evolutionary advantage.
+
+In essence, it is getting it while the getting is good. Now, you can think of wolves packing away 20 pound of meat per kill or it's mating season and you're the alpha male.
+
+What if mating season never ends? 
+
+All those hits of dopamine can tell your brain to do two things.
+
+First they say, "Man, you've hit the evolutionary jackpot."
+
+Second, they kick in a molecular switch called Delta-FosB.
+
 I know it is a fancy word,
 but dopamine kicks in Delta-FosB
 and that starts to accumulate
