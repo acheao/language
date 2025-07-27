@@ -5,13 +5,39 @@
 		{"id":"0c074940bd9c51b2","type":"file","file":"material/TED/I’ll Probably Lose My Job to AI. Here’s Why That’s OK.md","x":760,"y":1680,"width":400,"height":400},
 		{"id":"caca01d2b6c79a81","type":"file","file":"material/TED/What If the Climate Movement Felt like a House Party.md","x":760,"y":846,"width":400,"height":400},
 		{"id":"ab9828ed7a345757","type":"file","file":"material/TED/Stop Telling Single People to Get Married.md","x":760,"y":0,"width":400,"height":400},
-		{"id":"bc505e38d2980f1e","type":"file","file":"material/TED/A New Vision of Healthy Masculinity.md","x":-340,"y":0,"width":400,"height":400}
+		{"id":"bc505e38d2980f1e","type":"file","file":"material/TED/A New Vision of Healthy Masculinity.md","x":-340,"y":0,"width":400,"height":400},
+		{"id":"c06a55b1225cc11b","type":"file","file":"material/TED/The discoveries awaiting us in the ocean's twilight zone.md","x":-1440,"y":0,"width":400,"height":400},
+		{"id":"1101ef4b464cf357","type":"file","file":"material/TED/Parkour! How the Sport Keeps Your Body and Mind Fit.md","x":-1440,"y":846,"width":400,"height":400},
+		{"id":"534c9415a87fc842","type":"file","file":"material/TED/3 tips on how to study effectively.md","x":-1440,"y":1680,"width":400,"height":400},
+		{"id":"2f586eef91855fb2","type":"file","file":"material/TED/How to Achieve Your Most Ambitious Goals.md","x":-1440,"y":2600,"width":400,"height":400},
+		{"id":"b5c9441ca7a35eef","type":"file","file":"material/TED/How to Live With Fire.md","x":-340,"y":2600,"width":400,"height":400},
+		{"id":"cd7d12e894f84742","type":"file","file":"material/TED/Is it normal to talk to yourself.md","x":760,"y":2600,"width":400,"height":400},
+		{"id":"33c30fd17ea247b4","type":"file","file":"material/TED/Julian Tresher - How to speak so people will listen.md","x":1840,"y":2600,"width":400,"height":400},
+		{"id":"4d0ee0989963c9ef","type":"file","file":"material/TED/The benefits of a bilingual brain-Mia Nacamulli.md","x":1840,"y":1680,"width":400,"height":400},
+		{"id":"373f964ef6433cdc","type":"file","file":"material/TED/The Good News You Might Have Missed.md","x":1840,"y":846,"width":400,"height":400},
+		{"id":"5962668eb1ed5ea6","type":"file","file":"material/TED/Hyeonseo Lee My Escape from North Korea.md","x":1840,"y":0,"width":400,"height":400},
+		{"id":"eed2402b9d02a04f","type":"file","file":"material/TED/Robert Waldinger - What makes a good life Lessons from the longest study on happiness.md","x":1840,"y":-880,"width":400,"height":400},
+		{"id":"ed080d5b0137c167","type":"file","file":"material/TED/Tim Urban_ Inside the mind of a master procrastinator.md","x":760,"y":-880,"width":400,"height":400},
+		{"id":"0f6867f70592a154","x":-340,"y":-880,"width":400,"height":400,"type":"file","file":"material/TED/We Can Make COVID-19 the Last Pandemic Bill Gates.md"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
 		{"id":"8a2e4476a2f0b5df","fromNode":"124a96b9362f8f59","fromSide":"right","toNode":"0c074940bd9c51b2","toSide":"left"},
 		{"id":"d62d68517d3e0c9b","fromNode":"0c074940bd9c51b2","fromSide":"top","toNode":"caca01d2b6c79a81","toSide":"bottom"},
 		{"id":"ffa8cb9c0e72a9be","fromNode":"caca01d2b6c79a81","fromSide":"top","toNode":"ab9828ed7a345757","toSide":"bottom"},
-		{"id":"2e0c93add4082b14","fromNode":"ab9828ed7a345757","fromSide":"left","toNode":"bc505e38d2980f1e","toSide":"right"}
+		{"id":"2e0c93add4082b14","fromNode":"ab9828ed7a345757","fromSide":"left","toNode":"bc505e38d2980f1e","toSide":"right"},
+		{"id":"104d7c5eb0c937b4","fromNode":"bc505e38d2980f1e","fromSide":"left","toNode":"c06a55b1225cc11b","toSide":"right"},
+		{"id":"1fad472d0f2c5fbd","fromNode":"c06a55b1225cc11b","fromSide":"bottom","toNode":"1101ef4b464cf357","toSide":"top"},
+		{"id":"5cd5212f0ae7607f","fromNode":"1101ef4b464cf357","fromSide":"bottom","toNode":"534c9415a87fc842","toSide":"top"},
+		{"id":"edc1e5f37f658fa4","fromNode":"534c9415a87fc842","fromSide":"bottom","toNode":"2f586eef91855fb2","toSide":"top"},
+		{"id":"1a1b3a74a56d44e5","fromNode":"2f586eef91855fb2","fromSide":"right","toNode":"b5c9441ca7a35eef","toSide":"left"},
+		{"id":"b8f34db9bc35eff9","fromNode":"b5c9441ca7a35eef","fromSide":"right","toNode":"cd7d12e894f84742","toSide":"left"},
+		{"id":"db8c9294dc307b11","fromNode":"cd7d12e894f84742","fromSide":"right","toNode":"33c30fd17ea247b4","toSide":"left"},
+		{"id":"53be74c9ecc66180","fromNode":"33c30fd17ea247b4","fromSide":"top","toNode":"4d0ee0989963c9ef","toSide":"bottom"},
+		{"id":"5f45648fe3e183ac","fromNode":"4d0ee0989963c9ef","fromSide":"top","toNode":"373f964ef6433cdc","toSide":"bottom"},
+		{"id":"1a2706010bc0a94f","fromNode":"373f964ef6433cdc","fromSide":"top","toNode":"5962668eb1ed5ea6","toSide":"bottom"},
+		{"id":"98b53af4ac646421","fromNode":"5962668eb1ed5ea6","fromSide":"top","toNode":"eed2402b9d02a04f","toSide":"bottom"},
+		{"id":"4fcc497c1989b775","fromNode":"eed2402b9d02a04f","fromSide":"left","toNode":"ed080d5b0137c167","toSide":"right"},
+		{"id":"09a2bfd0c605a00d","fromNode":"ed080d5b0137c167","fromSide":"left","toNode":"0f6867f70592a154","toSide":"right"}
 	]
 }
