@@ -4,12 +4,14 @@
 		{"id":"124a96b9362f8f59","type":"file","file":"material/TED/The great porn experiment.md","x":-340,"y":1680,"width":400,"height":400},
 		{"id":"0c074940bd9c51b2","type":"file","file":"material/TED/I’ll Probably Lose My Job to AI. Here’s Why That’s OK.md","x":760,"y":1680,"width":400,"height":400},
 		{"id":"caca01d2b6c79a81","type":"file","file":"material/TED/What If the Climate Movement Felt like a House Party.md","x":760,"y":846,"width":400,"height":400},
-		{"id":"ab9828ed7a345757","type":"file","file":"material/TED/Stop Telling Single People to Get Married.md","x":760,"y":0,"width":400,"height":400}
+		{"id":"ab9828ed7a345757","type":"file","file":"material/TED/Stop Telling Single People to Get Married.md","x":760,"y":0,"width":400,"height":400},
+		{"id":"bc505e38d2980f1e","type":"file","file":"material/TED/A New Vision of Healthy Masculinity.md","x":-340,"y":0,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
 		{"id":"8a2e4476a2f0b5df","fromNode":"124a96b9362f8f59","fromSide":"right","toNode":"0c074940bd9c51b2","toSide":"left"},
 		{"id":"d62d68517d3e0c9b","fromNode":"0c074940bd9c51b2","fromSide":"top","toNode":"caca01d2b6c79a81","toSide":"bottom"},
-		{"id":"ffa8cb9c0e72a9be","fromNode":"caca01d2b6c79a81","fromSide":"top","toNode":"ab9828ed7a345757","toSide":"bottom"}
+		{"id":"ffa8cb9c0e72a9be","fromNode":"caca01d2b6c79a81","fromSide":"top","toNode":"ab9828ed7a345757","toSide":"bottom"},
+		{"id":"2e0c93add4082b14","fromNode":"ab9828ed7a345757","fromSide":"left","toNode":"bc505e38d2980f1e","toSide":"right"}
 	]
 }
