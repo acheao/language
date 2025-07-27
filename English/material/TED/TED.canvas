@@ -3,13 +3,13 @@
 		{"id":"646b958e4357bddf","type":"file","file":"material/TED/How to Speak Up — Even When You Don’t Want To.md","x":-340,"y":846,"width":400,"height":400},
 		{"id":"124a96b9362f8f59","type":"file","file":"material/TED/The great porn experiment.md","x":-340,"y":1680,"width":400,"height":400},
 		{"id":"0c074940bd9c51b2","type":"file","file":"material/TED/I’ll Probably Lose My Job to AI. Here’s Why That’s OK.md","x":760,"y":1680,"width":400,"height":400},
-		{"id":"caca01d2b6c79a81","type":"file","file":"material/TED/What If the Climate Movement Felt like a House Party.md","x":760,"y":80,"width":400,"height":400},
-		{"id":"ab9828ed7a345757","x":-1240,"y":80,"width":400,"height":400,"type":"file","file":"material/TED/Stop Telling Single People to Get Married.md"}
+		{"id":"caca01d2b6c79a81","type":"file","file":"material/TED/What If the Climate Movement Felt like a House Party.md","x":760,"y":846,"width":400,"height":400},
+		{"id":"ab9828ed7a345757","type":"file","file":"material/TED/Stop Telling Single People to Get Married.md","x":760,"y":0,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
 		{"id":"8a2e4476a2f0b5df","fromNode":"124a96b9362f8f59","fromSide":"right","toNode":"0c074940bd9c51b2","toSide":"left"},
 		{"id":"d62d68517d3e0c9b","fromNode":"0c074940bd9c51b2","fromSide":"top","toNode":"caca01d2b6c79a81","toSide":"bottom"},
-		{"id":"e9242bdd9ae0ca8f","fromNode":"caca01d2b6c79a81","fromSide":"left","toNode":"ab9828ed7a345757","toSide":"right"}
+		{"id":"ffa8cb9c0e72a9be","fromNode":"caca01d2b6c79a81","fromSide":"top","toNode":"ab9828ed7a345757","toSide":"bottom"}
 	]
 }
