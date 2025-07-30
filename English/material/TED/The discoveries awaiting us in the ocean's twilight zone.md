@@ -1,4 +1,4 @@
-[The discoveries awaiting us in the ocean's twilight zone](https://www.youtube.com/watch?v=rJmwZhy9Suk&t=23s)
+[The discoveries awaiting us in the ocean's twilight zone](https://www.youtube.com/watch?v=rJmwZhy9Suk)
 
 I bet all of you are familiar with this view of the ocean, but the thing is, most of the ocean looks nothing like this.
 
@@ -147,3 +147,7 @@ How amazing would it be to take a different path this time The twilight zone is 
 We need to first know and understand it before we can be responsible stewards and hope to fish it sustainably.
 
 This is not just a journey for scientists, it is for all of us, because the decisions we collectively make over the next decade will affect what the ocean looks like for centuries to come. Thank you.
+
+```
+sunlit otherworldly realm twilight glimmer particles bioluminescence teemmicrobes plankton adaptation predators whales tuna swordfish biomass undiscoveredintertwined virtually oceanography intersection spark breakthrough expedition lasermicroscopic algae photosynthetic abundant organisms convinced breathtaking exceedinglyArctic pressures enormous fascinating lurking lantern bristlemouth fierce vertebratestube sheer penetrating sonar dense bounces off migration inhabitants atmospherecarbon dioxide transport curiosity vacuuming shrimp krill aquaculture nutraceuticalfisheries gold rush irreversible fortunate oceanographic Institution passion explorationtackle observing remarkable diversity multiscale multidimensional integrate Satellitefeeding diets gelatinous salps superefficient vacuum vacuuming slurping plankton pelletspoop forensic urgency inexhaustible sustainably stewards
+```

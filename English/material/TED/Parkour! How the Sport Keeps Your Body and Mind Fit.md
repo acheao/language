@@ -117,3 +117,7 @@ A park bench is an obstacle to vault over, a low wall is a challenge to balance 
 While parkour has evolved into an extreme and competitive sport for some, at its roots, parkour is for everyone, and it can enhance our physical fitness, mental resilience, and overall well-being.
 
 So the next time you walk around your city or town, think of how you can move, play and rediscover the joy of overcoming obstacles. 
+
+```
+obstacles rooftops lot mainstream parkour flips martial off-axis judopuddles curbs lava mindsets adventure fitness enhance mobility mitigatingagile recklessly squatting progress hops out truck bed drops offtrip over a curb absorb hip vault scale balcony empower confining funnelhandrails sidewalks autopilot reinvent paradigm positive proactive structured benchswing on
+```
