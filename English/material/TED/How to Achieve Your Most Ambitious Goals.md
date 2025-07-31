@@ -93,3 +93,26 @@ Along the way, I’ve garnered an awful lot of attention for my escapades. I’v
 And so the whole reason I’m giving this talk is I’m hoping to inspire several of you to pull some of those ambitious dreams that you have for yourself off the bookshelf and start pursuing them by making that marginal adjustment to your routine.
 
 Thank you.
+
+```
+replicate square compounding marginal ranked dominating oddsimpressive statistics quantify percentage racquet exoticswinging kindergarten through spectator participant macroassignment semester manageable desire paragraphs Deanderivatives currency option emerging markets top-tier macro hedge fund
+award-winning aware awake ripped undisciplined temptation tapes intensive jaws
+supposed retirement skydiving aerobatically rectify trails couch trailhead
+ultimate occurs backcountry capped marathon Pier Peak flicking charitable
+sperm unicycling parkour slacklining jumping stilts drumming knit passionate 
+eucalyptus yarn yarnbombing 
+trading floor 
+stitch
+wrap
+boulders
+crocheting
+inch
+granny
+curious
+incorporated
+garnered
+Bible
+marvel
+pursuing
+oriented
+```
