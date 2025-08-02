@@ -6,9 +6,7 @@ While brushing your teeth, you think, “I need a haircut... unless?”
 
 Rushing out the front door, you reach for your keys and realize they’re not there.
 
-Frustrated you shout, “I can’t do anything right!”
-
-just in time to notice your neighbor.
+Frustrated you shout, “I can’t do anything right!” just in time to notice your neighbor.
 
 Being caught talking to yourself can feel embarrassing, and some people even stigmatize this
 behavior as a sign of mental instability.
@@ -92,3 +90,9 @@ So the next time you find yourself chatting with yourself, remember to be kind.
 
 That inner voice is a partner you’ll be talking to for many years to come.
 
+```
+blares
+mutter
+
+
+```
