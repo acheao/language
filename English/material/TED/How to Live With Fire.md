@@ -2,415 +2,177 @@
 
 I'd like to acknowledge and pay my respect to the Anishinaabe Nation and its Council of Three fires, the Ottawa, the Chippewa, and the Potawatomi peoples.
 
-I am grateful to be here
-on your sacred ancestral lands.
+I am grateful to be here on your sacred ancestral lands.
 
 Do you see fire as friend or foe?
 
-In Australia, we have a growing issue
-around fire that challenges us
+In Australia, we have a growing issue around fire that challenges us every fire season.
 
-every fire season.
+And because of our changing climate, there are now other places in the world that are confronted with this same challenge.
 
-And because of our changing climate,
+My story is about my personal and cultural relationship with fire.
 
-there are now other places in the world
+It has been a life-long relationship and as a Mangarda Balladong Nyungar, a person from the southwest corner of Australia, I acknowledge fire not only as a friend but as a part of my being and my spirit.
 
-that are confronted
-with this same challenge.
+However, I have also seen firsthand how big a threat fire is.
 
-My story is about my personal
-and cultural relationship with fire.
-
-It has been a life-long relationship
-
-and as a Mangarda Balladong Nyungar,
-
-a person from the southwest
-corner of Australia,
-
-I acknowledge fire not only as a friend
-
-but as a part of my being and my spirit.
-
-However, I have also seen
-firsthand how big a threat fire is.
-
-During the Black Summer of 2019 and 2020,
-
-the east coast of Australia
-burned like never before.
+During the Black Summer of 2019 and 2020, the east coast of Australia burned like never before.
 
 And the whole world saw.
 
-The smoke that was huge
+The smoke that was huge drifted across the southern Pacific Ocean all the way to Chile and Argentina.
 
-drifted across the southern Pacific Ocean
-
-all the way to Chile and Argentina.
-
-And there were glaciers in New Zealand
-
-that turned brown from that same smoke.
+And there were glaciers in New Zealand that turned brown from that same smoke.
 
 Paradoxically, Australia needs fire.
 
-My people applied the right fire
+My people applied the right fire diligently and expertly for millennia.
 
-diligently and expertly for millennia.
+It shaped the evolution and the DNA of the landscape and of nature itself.
 
-It shaped the evolution and the DNA
+The elder in this shot gently reached down and lit the grass and the ground that we were standing on.
 
-of the landscape and of nature itself.
-
-The elder in this shot
-
-gently reached down and lit the grass
-
-and the ground that we were standing on.
-
-As the fire slowly trickled,
-he said to us,
-
-"Go and stand near a tree
-and observe what you see."
+As the fire slowly trickled, he said to us, "Go and stand near a tree and observe what you see."
 
 What we saw was amazing.
 
-There were all these various insects
-and critters clambering up the tree trunk,
+There were all these various insects and critters clambering up the tree trunk, escaping the slow-moving fire.
 
-escaping the slow-moving fire.
+The elder then said to us, "This is the best indication that our burn is the right fire."
 
-The elder then said to us,
+Fire has a sacredness when it is applied through our cultural lore.
 
-"This is the best indication
-that our burn is the right fire."
+What manifests during the cultural burning is a spiritual enlivening of nature, where country is renewed and the spirit of the land is awakened.
 
-Fire has a sacredness when it is applied
-through our cultural lore.
+Kaarl-ngariny is our sacred practice of burning country.
 
-What manifests during the cultural burning
+Country, or ancestral lands, in my language is “Boodja.”
 
-is a spiritual enlivening of nature,
+This is me applying kaarl-ngariny on my sacred lands, Nyungar Boodja.
 
-where country is renewed
-and the spirit of the land is awakened.
+Nyungar Boodja is 200,000 square kilometers in size.
 
-Kaarl-ngariny is our sacred practice
-of burning country.
-
-Country, or ancestral lands,
-in my language is “Boodja.”
-
-This is me applying kaarl-ngariny
-on my sacred lands,
-
-Nyungar Boodja.
-
-Nyungar Boodja is 200,000
-square kilometers in size.
-
-This map shows the 14 language
-groups of my people,
-
-the Nyungar nation.
+This map shows the 14 language groups of my people, the Nyungar nation.
 
 My language group is Ballardong.
 
-Boodja gives my people identity,
-connectedness and spirit.
+Boodja gives my people identity, connectedness and spirit.
 
 This is Aboriginal Australia.
 
-At the time of first contact,
+At the time of first contact, there were over 800 First Nations language groups and 250 distinctly Indigenous nations.
 
-there were over 800
-First Nations language groups
+Pre-colonization and for 65,000 years, our lands were managed by cycles of creation through our First Law ways.
 
-and 250 distinctly Indigenous nations.
+However, since 1788, Boodja has been suffering from the introduced destructive cycles of colonialism, developmentalism, capitalism and industrialization.
 
-Pre-colonization and for 65,000 years,
+These have all contributed significantly to climate change on my Boodja.
 
-our lands were managed
-by cycles of creation
+Part of my relationship with fire included me having an 18-year-long career as a professional firefighter in Perth.
 
-through our First Law ways.
+It is here that I learned a deep respect for the destructive force of fire and its awesome power.
 
-However, since 1788,
-Boodja has been suffering
+Since fire was considered our enemy, as fierys, we were trained to control it.
 
-from the introduced destructive
-cycles of colonialism,
+So we learned about fire behavior and fire management.
 
-developmentalism,
+I would have attended over 2,000 bush fires many of which resulted from controlled burns getting out of control and becoming wildfires.
 
-capitalism and industrialization.
+As a professional firefighter, I learned that our mission is to protect property and save life.
 
-These have all contributed significantly
-to climate change on my Boodja.
+But as First Nations and traditional custodians of our lands, our two key principles for applying the right fire is to put Boodja first and to keep nature balanced.
 
-Part of my relationship with fire
+We cannot keep countries safe by burning everything indiscriminately to the ground.
 
-included me having an 18-year-long career
+The ground is sacred, and we must protect and preserve it.
 
-as a professional firefighter in Perth.
+This is the result of a controlled or prescribed burn.
 
-It is here that I learned a deep respect
-for the destructive force of fire
+It was carried out by DBCA, an agency in Western Australia that manages parks and wildlife.
 
-and its awesome power.
+This type of burning occur when incendiary devices are dropped from aircraft in order to take out as much bushland as possible in the shortest amount of time.
 
-Since fire was considered our enemy,
+This burning is destructive to nature and to Boodja.
 
-as fierys, we were trained to control it.
+The burn marks on this jarrah tree, one of our very sacred species, is 10 foot high.
 
-So we learned about fire behavior
-and fire management.
+This is not consistent with our cultural lore and standards for applying fire.
 
-I would have attended
-over 2,000 bush fires
+The dark charring indicate the intensity of the heat and the height of the flames.
 
-many of which resulted from controlled
-burns getting out of control
+You can see that this landscape is devastated from this controlled burn. 
 
-and becoming wildfires.
+I remember a Nyungar elder in my community once very angrily referred to this type of burning and the people that carry it out as “legal arsonists.”
 
-As a professional firefighter,
+Right across Australia, and in many parts of the world, the very real impact of climate change and wildfires are destroying nature in many ways.
 
-I learned that our mission
-is to protect property and save life.
+We must today provide care for Mother Earth like never before.
 
-But as First Nations and traditional
-custodians of our lands,
+As Nyungar people, our fight to stay connected to our sacred lands is dependent on our ability and freedom to practice kaarl-ngariny.
 
-our two key principles
-for applying the right fire
+Kaarl-ngariny requires us to be able to read country, keeping Boodja healthy keeps us healthy.
 
-is to put Boodja first
+This is kaarl-ngariny, the right fire, as it is applied in Queensland, northern Australia.
 
-and to keep nature balanced.
+This is what a healthy, clean burn looks like.
 
-We cannot keep countries safe
-by burning everything indiscriminately
+When we burn the right way, we know country will regenerate in balance.
 
-to the ground.
+The balanced health is dependent on how and when fire is applied.
 
-The ground is sacred, and we must
-protect and preserve it.
+Remember the right fire at the right time, in the right place.
 
-This is the result of a controlled
-or prescribed burn.
+Cultural burns are different across differing ecological regions.
 
-It was carried out by DBCA,
+This is a cool burn in Victoria, in southeastern Australia.
 
-an agency in Western Australia
-that manages parks and wildlife.
-
-This type of burning occur
-
-when incendiary devices
-are dropped from aircraft
-
-in order to take out
-as much bushland as possible
-
-in the shortest amount of time.
-
-This burning is destructive
-to nature and to Boodja.
-
-The burn marks on this jarrah tree,
-
-one of our very sacred species,
-is 10 foot high.
-
-This is not consistent
-with our cultural lore
-
-and standards for applying fire.
-
-The dark charring indicate
-the intensity of the heat
-
-and the height of the flames.
-
-You can see that this landscape
-is devastated from this controlled burn.
-
-I remember a Nyungar elder in my community
-
-once very angrily referred
-to this type of burning
-
-and the people that carry it out
-as “legal arsonists.”
-
-Right across Australia,
-and in many parts of the world,
-
-the very real impact
-of climate change and wildfires
-
-are destroying nature in many ways.
-
-We must today provide care
-for Mother Earth like never before.
-
-As Nyungar people, our fight
-to stay connected to our sacred lands
-
-is dependent on our ability and freedom
-to practice kaarl-ngariny.
-
-Kaarl-ngariny requires us
-to be able to read country,
-
-keeping Boodja healthy keeps us healthy.
-
-This is kaarl-ngariny, the right fire,
-as it is applied in Queensland,
-
-northern Australia.
-
-This is what a healthy,
-clean burn looks like.
-
-When we burn the right way,
-
-we know country
-will regenerate in balance.
-
-The balanced health is dependent
-on how and when fire is applied.
-
-Remember the right fire at the right time,
-
-in the right place.
-
-Cultural burns are different
-across differing ecological regions.
-
-This is a cool burn in Victoria,
-in southeastern Australia.
-
-The principles of how,
-why and when to burn
-
-remain consistent across all regions
-
-and amongst all First Nations groups.
+The principles of how, why and when to burn remain consistent across all regions and amongst all First Nations groups.
 
 Fire is medicine for country.
 
-It heals the land and it cleanses it,
+It heals the land and it cleanses it, and it renews the spirit of Boodja.
 
-and it renews the spirit of Boodja.
+In 2008, my family took possession of 2,100 acres in our ancestral lands in the wheatbelt region of western Australia.
 
-In 2008, my family
-took possession of 2,100 acres
+This country had been badly overcleared, overgrazed, overfertilized and overcropped.
 
-in our ancestral lands
+Our vision, which we saw as our responsibility, was to heal this land.
 
-in the wheatbelt region
-of western Australia.
+So we set out to plant native endemic species of plants which in turn attracted all sorts of other native birds, animals, flowers and grasses to also return.
 
-This country had been badly overcleared,
+My brothers and I and our children have been practicing kaarl-ngariny on this Boodja now for 15 years.
 
-overgrazed, overfertilized
-and overcropped.
+This is the same photo seven years later. 
 
-Our vision, which we saw
-as our responsibility,
+Today, the trees in the foreground are so large, they restrict the view of this landscape.
 
-was to heal this land.
+The right fire at the right time is very good for our environment.
 
-So we set out to plant native
-endemic species of plants
-
-which in turn attracted all sorts
-of other native birds, animals,
-
-flowers and grasses to also return.
-
-My brothers and I and our children
-have been practicing kaarl-ngariny
-
-on this Boodja now for 15 years.
-
-This is the same photo seven years later.
-
-Today, the trees
-in the foreground are so large,
-
-they restrict the view of this landscape.
-
-The right fire at the right time
-is very good for our environment.
-
-It's very good for Boodja
-and it's very good for us.
+It's very good for Boodja and it's very good for us.
 
 This is it today.
 
-A big part of what helped us
-achieve our goal,
+A big part of what helped us achieve our goal, our patient ambition, was the application of kaarl-ngariny across our landscape.
 
-our patient ambition,
+Kaarl-ngariny is an important element of our First Nations regenerative land management model.
 
-was the application of kaarl-ngariny
-across our landscape.
+This regenerative land management model is a contemporary version of our traditional practice of caring for country.
 
-Kaarl-ngariny is an important element
+Seeing country in a holistic sense and understanding how it is a part of us and we are a part of it is important in the practice of caring for country.
 
-of our First Nations regenerative
-land management model.
+Fire management in Australia is critical to the biodiverse and ecological health of our land.
 
-This regenerative land management model
+When ecological health is poor or nonexistent, biodiversity and spirit is also poor or nonexistent.
 
-is a contemporary version
-of our traditional practice
+Therefore, to heal the spirit of our lands, we must protect, conserve and regenerate the biodiversity and ecology of Boodja everywhere.
 
-of caring for country.
-
-Seeing country in a holistic sense
-
-and understanding how it is a part of us
-
-and we are a part of it
-
-is important in the practice
-of caring for country.
-
-Fire management in Australia
-is critical to the biodiverse
-
-and ecological health of our land.
-
-When ecological health
-is poor or nonexistent,
-
-biodiversity and spirit
-is also poor or nonexistent.
-
-Therefore, to heal
-the spirit of our lands,
-
-we must protect,
-
-conserve and regenerate the biodiversity
-and ecology of Boodja everywhere.
-
-Fire can be either a very important ally
-
-or a massively destructive threat,
-
-if we don't commit to manage
-and apply the right fire
-
-at the right time in the right place.
+Fire can be either a very important ally or a massively destructive threat, if we don't commit to manage and apply the right fire at the right time in the right place.
 
 Thank you.
 
 (Applause)
+
+```
+ancestral grateful foe spirit drift glacierParadoxically diligently expertly millenniashaped lit gently trickled insects crittersindication sacredness lore manifests enliveningconnectedness Aboriginal indigenous destructivecolonialism developmentalism capitalism industrializationfiery wildfires custodians indiscriminatelywildlife incendiary bushland arsonists Queenslandecological acres wheatbelt overcleared overgrazedoverfertilized overcropped heal grasses endemicforeground regenerative contemporary holisticbiodiverse ecological nonexistent conserve ally commit
+```
 
