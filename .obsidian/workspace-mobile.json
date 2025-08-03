@@ -11,14 +11,17 @@
             "id": "9cc2c55c8b306e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "English/material/other/vocabulary.md",
-                "mode": "preview",
-                "source": false
+                "file": "English/material/TED/TED.canvas",
+                "viewState": {
+                  "x": 102.23363415225845,
+                  "y": 2651.340908382792,
+                  "zoom": -1.3715021102669718
+                }
               },
-              "icon": "lucide-file",
-              "title": "vocabulary"
+              "icon": "lucide-layout-dashboard",
+              "title": "TED"
             }
           }
         ]
@@ -155,8 +158,8 @@
   },
   "active": "9cc2c55c8b306e86",
   "lastOpenFiles": [
-    "English/material/TED/TED.canvas",
     "English/material/other/vocabulary.md",
+    "English/material/TED/TED.canvas",
     "English/schedule.md",
     "English/temporary.md",
     "English/vocabulary.md",
