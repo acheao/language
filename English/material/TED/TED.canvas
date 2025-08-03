@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"646b958e4357bddf","type":"file","file":"material/TED/How to Speak Up — Even When You Don’t Want To.md","x":-340,"y":846,"width":400,"height":400},
+		{"id":"646b958e4357bddf","type":"file","file":"material/TED/How to Speak Up — Even When You Don’t Want To.md","x":-340,"y":846,"width":400,"height":400,"color":"1"},
 		{"id":"124a96b9362f8f59","type":"file","file":"material/TED/The great porn experiment.md","x":-340,"y":1680,"width":400,"height":400},
 		{"id":"0c074940bd9c51b2","type":"file","file":"material/TED/I’ll Probably Lose My Job to AI. Here’s Why That’s OK.md","x":760,"y":1680,"width":400,"height":400},
 		{"id":"caca01d2b6c79a81","type":"file","file":"material/TED/What If the Climate Movement Felt like a House Party.md","x":760,"y":846,"width":400,"height":400},
@@ -12,13 +12,13 @@
 		{"id":"2f586eef91855fb2","type":"file","file":"material/TED/How to Achieve Your Most Ambitious Goals.md","x":-1440,"y":2600,"width":400,"height":400},
 		{"id":"b5c9441ca7a35eef","type":"file","file":"material/TED/How to Live With Fire.md","x":-340,"y":2600,"width":400,"height":400},
 		{"id":"cd7d12e894f84742","type":"file","file":"material/TED/Is it normal to talk to yourself.md","x":760,"y":2600,"width":400,"height":400},
-		{"id":"33c30fd17ea247b4","type":"file","file":"material/TED/Julian Tresher - How to speak so people will listen.md","x":1840,"y":2600,"width":400,"height":400},
+		{"id":"33c30fd17ea247b4","type":"file","file":"material/TED/Julian Tresher - How to speak so people will listen.md","x":1840,"y":2600,"width":400,"height":400,"color":"3"},
 		{"id":"4d0ee0989963c9ef","type":"file","file":"material/TED/The benefits of a bilingual brain-Mia Nacamulli.md","x":1840,"y":1680,"width":400,"height":400},
 		{"id":"373f964ef6433cdc","type":"file","file":"material/TED/The Good News You Might Have Missed.md","x":1840,"y":846,"width":400,"height":400},
 		{"id":"5962668eb1ed5ea6","type":"file","file":"material/TED/Hyeonseo Lee My Escape from North Korea.md","x":1840,"y":0,"width":400,"height":400},
 		{"id":"eed2402b9d02a04f","type":"file","file":"material/TED/Robert Waldinger - What makes a good life Lessons from the longest study on happiness.md","x":1840,"y":-880,"width":400,"height":400},
 		{"id":"ed080d5b0137c167","type":"file","file":"material/TED/Tim Urban_ Inside the mind of a master procrastinator.md","x":760,"y":-880,"width":400,"height":400},
-		{"id":"0f6867f70592a154","x":-340,"y":-880,"width":400,"height":400,"type":"file","file":"material/TED/We Can Make COVID-19 the Last Pandemic Bill Gates.md"}
+		{"id":"0f6867f70592a154","type":"file","file":"material/TED/We Can Make COVID-19 the Last Pandemic Bill Gates.md","x":-340,"y":-880,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},

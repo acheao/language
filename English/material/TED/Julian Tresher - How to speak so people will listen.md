@@ -1,4 +1,4 @@
-[Julian Tresher - How to speak so people will listen](https://www.youtube.com/watch?v=eIho2S0ZahI&t=22s)
+[Julian Tresher - How to speak so people will listen](https://www.youtube.com/watch?v=eIho2S0ZahI)
 
 The human voice: It's the instrument we all play.
 
@@ -293,3 +293,64 @@ That would be a world that does sound beautiful, and one where understanding wou
 Thank you.
 
 (Applause)
+
+```
+assembled
+exhaustive
+gossip
+found wanting
+dreadful
+complaining
+viral
+misery
+blamethrower
+Penultimate
+embroidery
+exaggeration
+demeans
+awesome
+dogmatism
+confusion
+conflated
+bombarding
+cornerstones
+foundations
+greet
+enthusiastically
+acclaim
+authenticity
+integrity
+goodness
+ugly
+Tempered
+simultaneously
+toolbox
+rummage
+register
+falsetto
+chest
+timbre
+smooth
+prosody
+monotonic
+pitch
+arousal
+volume
+broadcast
+sodcasting
+Imposing
+carelessly
+inconsiderately
+proposing
+lips
+tongue
+exaggerated
+champagne
+pros
+siren
+Fantastic
+acoustics
+phases
+consciously
+norm
+```
