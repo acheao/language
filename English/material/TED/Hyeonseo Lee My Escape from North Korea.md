@@ -1,455 +1,245 @@
 [Hyeonseo Lee: My Escape from North Korea](https://www.youtube.com/watch?v=PdxPCeWw75k)
 
-Translator: Shqiponja Hoxha
-Reviewer: Helena Bedalli
+When I was little, I thought my country was the best on the planet.
 
-When I was little,
+And I grew up singing a song called "Nothing To Envy."
 
-I thought my country was the best on the planet,
+And I was very proud.
 
-and I grew up singing a song called "nothing to envy"
+In school, we spent a lot of time studying the history of Kim Il-Sung, but we never learned much about the outside world, except that America, South Korea, Japan are the enemies.
 
-I was very proud.
+Although I often wondered about the outside world, I thought I would spend my entire life in North Korea, until everything suddenly changed.
 
-We spent a lot of time in school
+When I was seven years old, I saw my first public execution.
 
-studying the history of Kim II-Sung,
+But I thought my life in North Korea was normal.
 
-but we didn't learn anything about the outside world
+My family was not poor, and myself, I had never experienced hunger.
 
-except that America, South Korea and Japan are enemies.
+But one day, in 1995, my mom brought home a letter from a coworker's sister.
 
-Although I was often curious about the outside world,
+It read, "When you read this, our five family members will not exist in this world, because we haven't eaten for the past three weeks.
 
-I thought I would spend my whole life in North Korea,
+We are lying on the floor together, and our bodies are so weak, we are waiting to die."
 
-until everything suddenly changed.
+I was so shocked.
 
-When I was 7 years old, I saw a public execution for the first time,
+This was the first time I heard that people in my country were suffering.
 
-but I thought my life in North Korea was normal.
+Soon after, when I was walking past a train station, I saw something terrible that to this day I can't erase from my memory.
 
-My family was not poor,
+A lifeless woman was lying on the ground, while an emaciated child in her arms just stared helplessly at his mother's face.
 
-and I was never hungry.
+But nobody helped them, because they were so focused on taking care of themselves and their families.
 
-But one day, in 1995, my mother brought home a letter
+A huge famine hit North Korea in the mid-1990s.
 
-from a colleague's sister.
+Ultimately, more than a million North Koreans died during the famine, and many only survived by eating grass, bugs and tree bark.
 
-It was written, "when you read this letter, all 5 members of the family
+Power outages also became more and more frequent, so everything around me was completely dark at night, except for the sea of lights in China, just across the river from my home.
 
-will no longer be in this world,
+I always wondered why they had lights, but we didn't.
 
-because we have not eaten for the last 2 weeks.
+This is a satellite picture showing North Korea at night, compared to neighbors.
 
-We are lying all over the ground,
+This is the Amnok River, which serves as a part of the border between North Korea and China.
 
-and our bodies are so weak that we are dying."  .  I was
-
-speechless.
-
-It was the first time I heard
-
-that people in my country were suffering.
-
-After a while, passing behind the train station,
-
-I saw something terrible
-
-that I can't get out of my mind.
-
-A lifeless woman lying on the ground,
-
-while a weak child in her arms
-
-looked hopelessly in her face.
-
-But no one helped them, because everyone was focused
-
-on taking care of themselves and their families.
-
-A major crisis befell North Korea in the mid-1990s.
-
-Ultimately, more than 1 million North Koreans
-
-died during the crisis, and many survived only
-
-by eating grass, insects, and tree bark.
-
-Power outages are becoming more and more frequent
-
-and around me at night there was only darkness
-
-except for the lights from China,
-
-across the river behind my house.  I
-
-always wondered why they had lights and we didn't.
-
-This is a satellite image of North Korea at night
-
-compared to its neighbors.
-
-This is the Amrok River,
-
-which serves as the border
-
-between China and North Korea.
-
-See, the river becomes very narrow
-
-at some points, allowing the North Koreans to sneak across it.
+As you can see, the river can be very narrow at certain points, allowing North Koreans to secretly cross.
 
 But many die.
 
-Sometimes I saw dead bodies floating along the river.  I
+Sometimes, I saw dead bodies floating down the river.
 
-can't give too many details about how I left North Korea,
+I can't reveal many details about how I left North Korea, but I only can say that during the ugly years of the famine, I was sent to China to live with distant relatives.
 
-but I can say that during the terrible famine years
+But I only thought that I would be separated from my family for a short time.
 
-I went to China to live with distant cousins.
+I could have never imagined that it would take 14 years to live together.
 
-But I thought I
+In China, it was hard living as a young girl without my family.
 
-would be separated from my family only for a short time.  I
+I had no idea what life was going to be like as a North Korean refugee.
 
-never imagined
+But I soon learned it's not only extremely difficult, it's also very dangerous, since North Korean refugees are considered in China as illegal migrants.
 
-that it would take 14 years to be back together.
+So I was living in constant fear that my identity could be revealed, and I would be repatriated to a horrible fate, back in North Korea.
 
-In China it was difficult to live as a young girl without a family.  I did
+One day, my worst nightmare came true, when I was caught by the Chinese police, and brought to the police station for interrogation.
 
-n't know what life would be like
+Someone had accused me of being North Korean, so they tested my Chinese language abilities, and asked me tons of questions.
 
-as a refugee from North Korea,
+I was so scared. 
 
-but I soon learned that it is not only difficult,
+I thought my heart was going to explode.
 
-but also very dangerous,
+If anything seemed unnatural, I could be imprisoned and repatriated.
 
-because North Koreans in China are considered
+I thought my life was over.
 
-illegal immigrants.
+But I managed to control all the emotions inside me, and answer the questions.
 
-I lived in constant fear
+After they finished questioning me, one official said to another, "This was a false report.
 
-that my identity would be revealed,
+She's not North Korean."
 
-and I would be sent back to a terrible fate
+And they let me go. It was a miracle.
 
-in North Korea.
+Some North Koreans in China seek asylum in foreign embassies.
 
-One day my worst dream came true
+But many can be caught by the Chinese police, and repatriated.
 
-when I was caught by the Chinese police
+These girls were so lucky.
 
-and taken to the police station for questioning.
+Even though they were caught, they were eventually released, after heavy international pressure.
 
-Someone had accused me of being from North Korea,
+These North Koreans were not so lucky.
 
-they tested my Chinese language skills
+Every year, countless North Koreans are caught in China and repatriated to North Korea, where they can be tortured, imprisoned, or publicly executed.
 
-and asked me hundreds of questions.
+Even though I was really fortunate to get out, many other North Koreans have not been so lucky.
 
-I was so scared,
+It's tragic that North Koreans have to hide their identities and struggle so hard just to survive.
 
-I thought my heart would explode.
+Even after learning a new language and getting a job, their whole world can be turned upside down in an instant.
 
-If the slightest thing seemed fake, I would have been imprisoned
+That's why, after 10 years of hiding my identity, I decided to risk going to South Korea.
 
-and repatriated.
+And I started a new life yet again.
 
-I thought my life was over,
+Settling down in South Korea was a lot more challenging than I had expected.
 
-but I managed to control all the emotions inside me
+English was so important in South Korea, so I had to start learning my third language.
 
-and answered the questions.
+Also, I realized there was a wide gap between North and South.
 
-After the questions were finished
+We are all Korean, but inside, we have become very different, due to 67 years of division.
 
-one officer said to another
+I even went through an identity crisis. 
 
-"That was a fake report.
+Am I South Korean or North Korean?
 
-She is not from North Korea."
+Where am I from? Who am I?
 
-And set me free.  It was a miracle.
+Suddenly, there was no country I could proudly call my own.
 
-Some North Koreans seek asylum in China
+Even though adjusting to life in South Korea was not easy, I made a plan -- I started studying for the university entrance exam.
 
-through foreign embassies,
+Just as I was starting to get used to my new life, I received a shocking phone call.
 
-but many are caught by the Chinese police
+The North Korean authorities intercepted some money that I sent to my family, and, as a punishment, my family was going to be forcibly removed to a desolate location in the countryside.
 
-and repatriated.
+They had to get out quickly.
 
-These girls were lucky
+So I started planning how to help them escape.
 
-that they were caught and
+North Koreans have to travel incredible distances on the path to freedom.
 
-released
+It's almost impossible to cross the border between North Korea and South Korea.
 
-after a lot of international pressure.
+So, ironically, I took a flight back to China and headed toward the North Korean border.
 
-These North Koreans did not have the same fate.
+Since my family couldn't speak Chinese, I had to guide them somehow through more than 2,000 miles in China, and then into Southeast Asia.
 
-Every year, countless North Koreans are captured in China
+The journey by bus took one week, and we were almost caught several times.
 
-and repatriated
+One time, our bus was stopped and boarded by a Chinese police officer. 
 
-where they can be tortured, imprisoned
+He took everyone's I.D. cards, and he started asking them questions.
 
-or publicly executed.
+Since my family couldn't understand Chinese, I thought my family was going to be arrested.
 
-Although I was very lucky to get away,
+As the Chinese officer approached my family, I impulsively stood up, and I told him that these are deaf and dumb people that I was chaperoning.
 
-many others were not so lucky.
+He looked at me suspiciously, but luckily, he believed me.
 
-It is tragic that North Korean women have to hide their identity
+We made it all the way to the border of Laos.
 
-and fight so hard to survive.
+But I had to spend almost all my money to bribe the border guards in Laos.
 
-Even after learning a new language and starting a job,
+But even after we got past the border, my family was arrested and jailed for illegal border crossing.
 
-their lives can be turned upside down in an instant.
+After I paid the fine and bribe, my family was released in one month.
 
-And that's why after 10 years of hiding my identity,
-
-I decided to take a risk by going to South Korea,
-
-and started a new life.
-
-Settling in South Korea turned out to be more difficult
-
-than I expected.
-
-English was very important in South Korea,
-
-so I started learning a third language.
-
-I realized that there was a big difference
-
-between North and South.
-
-We are all Korean, but inside,
-
-we have become very different
-
-during 67 years of separation.  I
-
-also went through an identity crisis.  Am I from
-
-North Korea or South Korea?  Where do
-
-I come from?  Who am I?
-
-Suddenly there was no country
-
-to be proud of.
-
-Although it wasn't easy to create a life in South Korea
-
-I had a plan.  I
-
-started studying to enter the university.
-
-Just as I was getting used to my new life,
-
-I received a shocking phone call last night.  The
-
-North Korean authorities
-
-had discovered that I had sent my family some money,
-
-and as punishment my family would be
-
-forcibly transferred
-
-to a lost village.
-
-They had to leave soon,
-
-and I began to think of ways to help them escape.
-
-North Koreans have to travel a long
-
-way for freedom.
-
-It is almost impossible to cross the border
-
-between North and South Korea,
-
-so I bought a ticket to China
-
-and headed to the North Korean border.
-
-Since my family didn't speak Chinese,
-
-I had to somehow guide them
-
-over 2,000 miles to China
-
-and back to Southeast Asia.  The
-
-bus journey lasted 1 week,
-
-and many times we risked getting caught.
-
-Once our bus stopped
-
-and a Chinese officer got on.
-
-He checked every ID card,
-
-and started asking questions.
-
-My family did not speak Chinese
-
-and I thought they would be arrested.
-
-As soon as the officer approached my family, I
-
-immediately stood up and told them
-
-that this is a group of deaf-mute people
-
-that I was accompanying.
-
-He looked at me suspiciously,
-
-but luckily he believed me.
-
-We made it all the way to the border in Laos,
-
-but I spent almost all my money
-
-bribing the guards in Laos.
-
-But even after we crossed the border,
-
-my family was arrested and put in jail
-
-for illegal border crossing.
-
-After paying the fine and bribe money,
-
-my family was released after a month,
-
-but after a while they were arrested and imprisoned again
-
-in the capital of Laos.
+But soon after, my family was arrested and jailed again, in the capital of Laos.
 
 This was one of the lowest points in my life.
 
-I did everything to free my family,
+I did everything to get my family to freedom, and we came so close, but my family was thrown in jail, just a short distance from the South Korean embassy.
 
-and we were so close to that point,
+I went back and forth between the immigration office and the police station, desperately trying to get my family out.
 
-but my family was thrown back into prison
+but I didn't have enough money to pay a bribe or fine anymore.
 
-very close to the South Korean embassy..
+I lost all hope.
 
-I went up and down from the immigration office
+At that moment, I heard one man's voice ask me, "What's wrong?"
 
-to the police station
+I was so surprised that a total stranger cared enough to ask.
 
-trying desperately to get him.  freed my family
+In my broken English, and with a dictionary, I explained the situation, and without hesitating, the man went to the ATM, and he paid the rest of the money for my family, and two other North Koreans to get out of jail.
 
-but I didn't have enough money
-
-to pay fines or bribes.
-
-I lost all hope
-
-At that moment, I heard a man's voice asking me,
-
-"What happened?"
-
-I was surprised
-
-that a stranger cared and asked me.
-
-With little English and a dictionary
-
-I explained the situation to him, and without hesitation the
-
-gentleman went to the ATM
-
-and paid the change for my family
-
-and 2 other North Koreans to be released from prison.
-
-I thanked him with all my heart, and asked,
-
-"Why are you helping me?"
+I thanked him with all my heart, and I asked him, "Why are you helping me?"
 
 "I'm not helping you," he said.
 
-"I'm helping people from North Korea."
+"I'm helping the North Korean people."
 
-This was a symbolic moment for my life.
+I realized that this was a symbolic moment in my life.
 
-The unknown ignited new hopes in me
+The kind stranger symbolized new hope for me and the North Korean people, when we needed it most.
 
-and the people of North Korea when I needed it most,
+And he showed me that the kindness of strangers and the support of the international community are truly the rays of hope we North Korean people need.
 
-it showed me that the kindness of strangers
+Eventually, after our long journey, my family and I were reunited in South Korea.
 
-and the help of the international community
+But getting to freedom is only half the battle.
 
-are really the rays that we North Koreans need.
+Many North Koreans are separated from their families, and when they arrive in a new country, they start with little or no money.
 
-In the end, after the long journey,
+So we can benefit from the international community for education, English language training, job training, and more.
 
-my family and I joined South Korea,
+We can also act as a bridge between the people inside North Korea and the outside world.
 
-but freedom is half the battle.
+Because many of us stay in contact with family members still inside, and we send information and money that is helping to change North Korea from inside.
 
-Many North Koreans are separated from their families,
+I've been so lucky, received so much help and inspiration in my life, so I want to help give aspiring North Koreans a chance to prosper with international support.
 
-and when they arrive in a new country
-
-they start with little or no money.
-
-So we can benefit from the international community
-
-for education, English language courses,
-
-work courses and others.
-
-We can also be a link
-
-for people in North Korea
-
-and the outside world.
-
-because some of us are in contact with
-
-family members still inside the country,
-
-sending money and information
-
-to help change North Korea from the inside.  I
-
-have been lucky to have been given so much help
-
-and inspiration in life,
-
-so I want to help give North Koreans
-
-a chance to grow
-
-with international support.
-
-I'm sure you will see many, many
-
-successful North Koreans around the world,
-
-even on the TED stage.
+I'm confident that you will see more and more North Koreans succeeding all over the world, including the TED stage.
 
 Thank you.
-
 (Applause)
 
+```
+envy
+except
+colleague
+lifeless
+befell
+tree
+barkoutages
+satellite
+neighbors
+sneak
+cousins
+revealedfate
+slightest
+repatriated
+asylum
+embassies
+torturedtragic
+upside
+separation
+punishment
+forcibly
+villagedeaf-mute
+accompanying
+suspiciously
+bribing
+embassy
+hesitation
+symbolic
+ignited
+rays
+battle
+inspiration
+```

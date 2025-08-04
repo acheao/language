@@ -176,3 +176,6 @@ These are the stories of the brave and the brilliant, and they also deserve our 
 
 (Applause)
 
+```
+Habitats flame sputters ugly flee Hepatitis eliminated reproductiveflame authoritarianism rear deadliest fascism enshrine constitutiontrajectory batteries threshold momentum doomed fossil tracts marinecoasts farmland gosh geothermal bacteria plastic drones satellitesstarships stardust asteroids paralyzed miracles spine chip transistorsMilky Way thalassemia sickle atlas antibiotic resistant decipher indistinguishablegravitational collisions supermassive destruction brilliant deserve
+```
