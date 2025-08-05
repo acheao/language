@@ -164,3 +164,9 @@ No matter how shaky or unsure, we can be a powerful instrument of change and adv
 
 Thank you.
 (Applause)
+
+```
+contemplation barrier muffles advocacy advocatecrossroads precipice essential vividly retiringembarrassed offended stomach upon healthcare initialEspecially morale cardio weightlifting flight fortunateSpecifically intensive traumas fierce moral compass desperatelybelt pivotal courageous commitment tricky innovation momentous abyssprinciples nurture metal symbols tricky Empathy reactive proactivebumpy newsletters cheerleader optimist fault handy positive defensivecurious understandably devaluing frankly superiors champion shaky
+
+
+```
