@@ -1,4 +1,4 @@
-[reference video](https://www.youtube.com/watch?v=arj7oStGLkU&t=630s)
+[reference video](https://www.youtube.com/watch?v=arj7oStGLkU)
 
 So in college, I was a government major, which means I had to write a lot of papers.
 
