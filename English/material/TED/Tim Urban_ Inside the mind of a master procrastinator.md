@@ -4,9 +4,7 @@ So in college, I was a government major, which means I had to write a lot of pap
 
 Now, when a normal student writes a paper, they might spread the work out a little like this.
 
-So, you know --
-
-you get started maybe a little slowly, but you get enough done in the first week that, with some heavier days later on, everything gets done, things stay civil.
+So, you know -- you get started maybe a little slowly, but you get enough done in the first week that, with some heavier days later on, everything gets done, things stay civil.
 
 And I would want to do that like that.
 
@@ -40,9 +38,7 @@ They came and went, and I couldn't quite do stuff.
 
 So we had an awesome new revised plan.
 
-And then --
-
-But then those middle months actually went by, and I didn't really write words, and so we were here.
+And then -- But then those middle months actually went by, and I didn't really write words, and so we were here.
 
 And then two months turned into one month, which turned into two weeks.
 
@@ -91,9 +87,7 @@ I know that if you're not a trained brain expert, it's not that obvious, but jus
 
 So here's the brain of a non-procrastinator.
 
-Now ...
-
-here's my brain.
+Now ... here's my brain.
 
 There is a difference.
 
@@ -107,9 +101,7 @@ This is a perfect time to get some work done. Nope!
 
 So the Rational Decision-Maker will make the rational decision to do something productive, but the Monkey doesn't like that plan, so he actually takes the wheel, and he says, "Actually, let's read the entire Wikipedia page of the Nancy Kerrigan/Tonya Harding scandal, because I just remembered that that happened.
 
-Then --
-
-Then we're going to go over to the fridge, to see if there's anything new in there since 10 minutes ago.
+Then -- Then we're going to go over to the fridge, to see if there's anything new in there since 10 minutes ago.
 
 After that, we're going to go on a YouTube spiral that starts with videos of Richard Feynman talking about magnets and ends much, much later with us watching interviews with Justin Bieber's mom.
 
@@ -168,7 +160,7 @@ Now, the Dark Playground is a place that all of you procrastinators out there kn
 It's where leisure activities happen at times when leisure activities are not supposed to be happening.
 
 The fun you have in the Dark Playground isn't actually fun, because it's completely unearned, 
-and the air is filled with guilt,dread, anxiety, self-hatred -- all of those good procrastinator feelings.
+and the air is filled with guilt, dread, anxiety, self-hatred -- all of those good procrastinator feelings.
 
 And the question is, in this situation, with the Monkey behind the wheel, how does the  procrastinator ever get himself over here to this blue zone, a less pleasant place, but where really important things happen?
 
@@ -285,10 +277,61 @@ That's a job for all of us.
 
 And because there's not that many boxes on there, it's a job that should probably start today.
 
-Well, maybe not today, but ...
-
-You know.
+Well, maybe not today, but ... You know.
 
 Sometime soon.
 
 Thank you.
+
+```
+thesis
+bump
+kick
+gear
+revised
+supposed
+procrastination
+perplexed
+hypothesis
+fridge
+spiral
+magnets
+propagating
+tribal
+visualize
+leisure
+overlap
+pleasant
+certain
+dread
+guilt
+guardian
+Panic
+Monster
+dormant
+embarrassment
+scary
+consequence
+terrified
+relevant
+zoom in
+mayhem
+Literally
+PhD
+intense
+entrepreneurial
+exercising
+mechanism
+visible
+regrets
+cramming
+spectator
+chasing
+epiphany
+sneakiest
+mess
+bunch
+trick
+tricky
+aware
+```
