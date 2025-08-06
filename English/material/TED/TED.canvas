@@ -16,9 +16,11 @@
 		{"id":"4d0ee0989963c9ef","type":"file","file":"material/TED/The benefits of a bilingual brain-Mia Nacamulli.md","x":1840,"y":1680,"width":400,"height":400},
 		{"id":"373f964ef6433cdc","type":"file","file":"material/TED/The Good News You Might Have Missed.md","x":1840,"y":846,"width":400,"height":400},
 		{"id":"5962668eb1ed5ea6","type":"file","file":"material/TED/Hyeonseo Lee My Escape from North Korea.md","x":1840,"y":0,"width":400,"height":400},
-		{"id":"eed2402b9d02a04f","type":"file","file":"material/TED/Robert Waldinger - What makes a good life Lessons from the longest study on happiness.md","x":1840,"y":-880,"width":400,"height":400,"color":"3"},
+		{"id":"eed2402b9d02a04f","type":"file","file":"material/TED/Robert Waldinger - What makes a good life Lessons from the longest study on happiness.md","x":1840,"y":-880,"width":400,"height":400},
 		{"id":"ed080d5b0137c167","type":"file","file":"material/TED/Tim Urban_ Inside the mind of a master procrastinator.md","x":760,"y":-880,"width":400,"height":400},
-		{"id":"0f6867f70592a154","type":"file","file":"material/TED/We Can Make COVID-19 the Last Pandemic Bill Gates.md","x":-340,"y":-880,"width":400,"height":400}
+		{"id":"0f6867f70592a154","type":"file","file":"material/TED/We Can Make COVID-19 the Last Pandemic Bill Gates.md","x":-340,"y":-880,"width":400,"height":400,"color":"3"},
+		{"id":"8beb497ef8499869","type":"file","file":"material/TED/How to Make Climate Stories Impossible to Ignore.md","x":-1440,"y":-880,"width":400,"height":400},
+		{"id":"217dcd13c692ba9c","x":-2520,"y":-880,"width":400,"height":400,"type":"file","file":"material/TED/Why You Should Be Able to Vote on Your Phone.md"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -38,6 +40,8 @@
 		{"id":"1a2706010bc0a94f","fromNode":"373f964ef6433cdc","fromSide":"top","toNode":"5962668eb1ed5ea6","toSide":"bottom"},
 		{"id":"98b53af4ac646421","fromNode":"5962668eb1ed5ea6","fromSide":"top","toNode":"eed2402b9d02a04f","toSide":"bottom"},
 		{"id":"4fcc497c1989b775","fromNode":"eed2402b9d02a04f","fromSide":"left","toNode":"ed080d5b0137c167","toSide":"right"},
-		{"id":"09a2bfd0c605a00d","fromNode":"ed080d5b0137c167","fromSide":"left","toNode":"0f6867f70592a154","toSide":"right"}
+		{"id":"09a2bfd0c605a00d","fromNode":"ed080d5b0137c167","fromSide":"left","toNode":"0f6867f70592a154","toSide":"right"},
+		{"id":"3c4ddd65ecbd599d","fromNode":"0f6867f70592a154","fromSide":"left","toNode":"8beb497ef8499869","toSide":"right"},
+		{"id":"432a831c6344a6ef","fromNode":"8beb497ef8499869","fromSide":"left","toNode":"217dcd13c692ba9c","toSide":"right"}
 	]
 }
