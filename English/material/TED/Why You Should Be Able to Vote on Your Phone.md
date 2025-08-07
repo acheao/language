@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=BeUTAFHlKQ0
+
 So let me ask you a question.
 
 How many of you do your banking, your health care on your phones?
@@ -92,9 +94,7 @@ And when mayors and city council members started hearing from thousands of their
 
 They left Uber alone. It's how we won at basically every market in the country.
 
-And while this was happening, I just remember sitting there thinking, "God bless these people.
-
-They're making my job a lot easier."
+And while this was happening, I just remember sitting there thinking, "God bless these people. They're making my job a lot easier."
 
 But my guess is they don't know who their city council member is.
 
@@ -121,6 +121,7 @@ Denver did a poll of those who participated in their election, and 100 percent, 
 Shocking, right? In other big news, water is wet, and ice cream tastes good.
 
 (Laughter)
+
 But that was for specific groups of voters.
 
 And we wanted everyone to be able to vote securely on their phones.
@@ -230,4 +231,79 @@ We can do all of this in the next ten years.
 We can do it with mobile voting.
 
 Thank you.
+
 (Applause and cheers)
+
+```
+stationed in
+blind
+tripled
+participated
+respondent
+ceremony
+accent
+authentication
+established
+pops up
+rush
+encrypted
+anonymized
+FedEx
+air-gap
+offline
+decrypt
+tabulated
+underlying
+audit
+transparent
+nonpartisan
+Estonia
+municipalities
+kicks in
+nicely
+libertarians
+liberals
+snarl
+Bluesky
+status quo
+regular people
+dysfunction
+polarization
+plagues
+constituent
+specifically
+special
+Virtually
+Applause
+democracies
+pervasive
+corrupt
+gerrymandering
+party
+primary 
+divvy up
+last fall
+turnout
+opinionated
+congressional
+mayoral
+presidential
+gubernatorial 
+low-turnout
+dictate 
+chaos
+dysfunction
+hopelessly 
+divided 
+confiscate
+assault 
+rifle 
+cater 
+hostage 
+stuck clutches 
+out-muscle 
+advocate 
+behalf 
+mobilize 
+bless
+```
