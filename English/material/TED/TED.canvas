@@ -18,10 +18,10 @@
 		{"id":"5962668eb1ed5ea6","type":"file","file":"material/TED/Hyeonseo Lee My Escape from North Korea.md","x":1840,"y":0,"width":400,"height":400},
 		{"id":"eed2402b9d02a04f","type":"file","file":"material/TED/Robert Waldinger - What makes a good life Lessons from the longest study on happiness.md","x":1840,"y":-880,"width":400,"height":400},
 		{"id":"ed080d5b0137c167","type":"file","file":"material/TED/Tim Urban_ Inside the mind of a master procrastinator.md","x":760,"y":-880,"width":400,"height":400},
-		{"id":"0f6867f70592a154","type":"file","file":"material/TED/We Can Make COVID-19 the Last Pandemic Bill Gates.md","x":-340,"y":-880,"width":400,"height":400,"color":"3"},
+		{"id":"0f6867f70592a154","type":"file","file":"material/TED/We Can Make COVID-19 the Last Pandemic Bill Gates.md","x":-340,"y":-880,"width":400,"height":400},
 		{"id":"8beb497ef8499869","type":"file","file":"material/TED/How to Make Climate Stories Impossible to Ignore.md","x":-1440,"y":-880,"width":400,"height":400},
-		{"id":"217dcd13c692ba9c","type":"file","file":"material/TED/Why You Should Be Able to Vote on Your Phone.md","x":-2520,"y":-880,"width":400,"height":400},
-		{"id":"74bc979dd001d97f","x":-2520,"y":0,"width":400,"height":400,"type":"file","file":"material/TED/How to Build the 3D World of Your Dreams with a Text Prompt.md"}
+		{"id":"217dcd13c692ba9c","type":"file","file":"material/TED/Why You Should Be Able to Vote on Your Phone.md","x":-2520,"y":-880,"width":400,"height":400,"color":"3"},
+		{"id":"74bc979dd001d97f","type":"file","file":"material/TED/How to Build the 3D World of Your Dreams with a Text Prompt.md","x":-2520,"y":0,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
