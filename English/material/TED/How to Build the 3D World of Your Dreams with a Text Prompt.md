@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=-OAP0ho5AUg
+
 I'm excited to present a new way to design 3D games with AI.
 
 Now, many of you may have used AI to produce text or images or even code, but 3D, with that extra dimension, is incredibly hard.
@@ -129,3 +131,30 @@ We think this is the future of 3D gaming.
 Thank you.
 
 (Applause)
+
+```
+dimension 
+playable
+stylized
+pagoda
+pine trees
+traditional
+prompt
+spatial
+transforming
+avatar
+textures
+happening live
+Snowmobile
+Palm tree
+Cocos nucifera
+Santa
+right off the bat
+overall aesthetic
+globally
+truck
+immersive
+emit
+transformative
+
+```
