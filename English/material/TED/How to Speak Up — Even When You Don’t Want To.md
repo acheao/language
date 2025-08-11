@@ -167,11 +167,76 @@ Thank you.
 (Applause)
 
 ```
+contemplate
+	You're too young to be contemplating retirement.
+	I have never contemplated living abroad.
+	He continued while she contemplated how to answer.
+	The thought of war is too awful to contemplate.
+	How could you even contemplate such an idea?
+	I can't contemplate what it would be like to be alone.
+	She contemplated that things might get even worse.
+	She lay in bed, contemplating.
+	She contemplated him in silence.
+	He sat there, contemplating his fingernails.
 contemplation
+	The monks dedicate themselves to a life of prayer and contemplation.
+	She turned from her contemplation of the photograph.
+contemplative
+	She was in contemplative mood.
+	He gave her a contemplative look.
+	the contemplative life (= life in a religious community)
 barrier
-muffles
+	fence
+	The crowd had to stand behind barriers.
+	Concrete barriers were erected around the site.
+	The crowd managed to break through the barriers and get onto the pitch.
+	Scan your ticket at the barrier and it will automatically lift.
+	There was a slow trickle of people through the barriers.
+	She got her luggage stuck in the automatic barrier.
+	the removal of trade barriers
+	to overcome/break down barriers
+	the language barrier
+	Lack of confidence is a psychological barrier to success.
+	The old laws created barriers to free trade.
+	The country has removed barriers against imports.
+	The Yangtze River is a natural barrier to the north-east.
+	There was no real barrier between reality and fantasy in his mind.
+	The cream acts as a protective barrier against sun damage.
+	the first player whose earnings passed the $10 million barrier
+	
+barrier reef
+
+barrier method
+
+crash barrier
+	Crash barriers were erected along the roads to be used for the race.
+
+pain barrier
+	He broke through the pain barrier at 25 kilometres and went on to win his first marathon.
+	
+crush barrier
+
+the sound barrier
+	to break the sound barrier (= to travel faster than the speed of sound)
+
+the species barrier
+
+muffle(verb)(muffled)
+	He tried to muffle the alarm clock by putting it under his pillow.
+	She muffled the child up in a blanket.
+muffler(noun)
+muffled(adjective)
+	muffled voices from the next room
+
+advocate(verb)
+	The group does not advocate the use of violence.
+	Heart specialists strongly advocate low-cholesterol diets.
+	Many experts advocate rewarding your child for good behaviour.
+	The report advocated that all buildings be fitted with smoke detectors.
+advocate(noun)
+	an advocate for hospital workers
+	
 advocacy
-advocate
 crossroads
 precipice
 essential
@@ -227,4 +292,12 @@ frankly
 superiors
 champion
 shaky
+transitive
+```
+
+```
+crush crash
+muffler silencer
+hotel hospital
+
 ```
