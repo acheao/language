@@ -17,7 +17,9 @@ The typical wolf in Yellowstone National Park only lives three and a half years.
 Close your eyes and just listen.
 
 (Wolf howls)
+
 (Wolf howls)
+
 (Wolf howls)
 
 OK, you can open your eyes.
