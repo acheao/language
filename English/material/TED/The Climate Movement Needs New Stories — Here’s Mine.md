@@ -105,3 +105,84 @@ Beyond just being stewards of our stories, we can also be stewards of our soluti
 Thank you very much.
 
 (Applause)
+
+spear 
+to pass the time 
+fisher folk 
+boat builders 
+siblings 
+nourished 
+realization 
+dedication 
+Pasifika-led 
+Fiji 
+Islands 
+privilege 
+Pacific Warriors 
+diaspora 
+emissions 
+Istanbul 
+Global Power Shift 
+conference 
+victims 
+drowning islands 
+untrue 
+storytelling 
+Collectively, right then and there 
+slogan 
+mantra 
+shared 
+identity 
+paddled 
+handmade 
+canoes 
+blockaded 
+demonstration 
+magnitude 
+dignity 
+canary 
+mine 
+sacrificed 
+deserved 
+do not serve us 
+take away 
+fullest 
+authentic 
+rob us of our agency 
+strip us of our fullest, most authentic selves 
+We are who we are 
+bold 
+halls 
+collaborators 
+voyage 
+Philippines 
+backpack-sized 
+portable 
+category 
+cyclone 
+landfall 
+keyhole 
+mitigate 
+saltwater 
+intrusion 
+redistribute 
+organizer 
+front lines 
+articulate 
+fuller 
+nuanced 
+vulnerable 
+most dignified 
+selves 
+empower 
+stewards
+
+
+
+
+
+
+
+
+
+
