@@ -211,20 +211,24 @@ Thank you.
 - the sound barrier
 	- to break the sound barrier (= to travel faster than the speed of sound)
 - the species barrier
-- muffle(verb)(muffled)
+- muffle (verb) (muffled)
 	- He tried to muffle the alarm clock by putting it under his pillow.
 	- She muffled the child up in a blanket.
-- muffler(noun)
-- muffled(adjective)
+- muffler (noun)
+- muffled (adjective)
 	- muffled voices from the next room
-- advocate(verb)
+- advocate (verb)
 	- The group does not advocate the use of violence.
 	- Heart specialists strongly advocate low-cholesterol diets.
 	- Many experts advocate rewarding your child for good behaviour.
 	- The report advocated that all buildings be fitted with smoke detectors.
-- advocate(noun)
+- advocate (noun)
 	- an advocate for hospital workers
-- advocacy
+- advocacy (noun)
+	- He won the Peace Prize for his advocacy of non-violent protest.
+	- We are a charity that provides information, advocacy and advice to people with mental health issues.
+	- Robin helped found an advocacy programme to help abused women.
+	- All four partners do advocacy work aimed at creating opportunities for farmers.
 - crossroads
 - precipice
 - essential
