@@ -106,7 +106,7 @@ Thank you very much.
 
 (Applause)
 
-spear 
+- spear 
 to pass the time 
 fisher folk 
 boat builders 

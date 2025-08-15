@@ -169,3 +169,34 @@ But until then, let's put space to work for Earth.
 Thank you.
 
 (Applause)
+
+- responsible
+- passionately
+- fiction
+- offworlding
+- heavy industry
+- rarefied
+- microgravity
+- parabolic
+- affectionately
+- Vomit
+- Comet
+- generation
+- architecture
+- harness
+- profound benefit
+- harness
+- fundamentally
+- iconic
+- lovingly
+- he famously remarked
+- aspirational
+- Access to space
+- conception
+- paradigms
+- profoundly
+- horizons
+- heritage
+- priceless
+- confines
+- while still protecting the heritage of our priceless planet.
