@@ -25,9 +25,10 @@
 		{"id":"8090923ff5b79997","type":"file","file":"material/TED/The Jokes AI Won’t Tell.md","x":-2520,"y":846,"width":400,"height":400},
 		{"id":"96e58320961420d6","type":"file","file":"material/TED/Can AI Help Us Speak with Wolves.md","x":-2520,"y":1680,"width":400,"height":400},
 		{"id":"3b81e8e420328cf0","type":"file","file":"material/TED/The Miraculous Device That Saved My Farm — and Changed My Life.md","x":-2520,"y":2600,"width":400,"height":400},
-		{"id":"74e641108754ccf6","type":"file","file":"material/TED/The Climate Movement Needs New Stories — Here’s Mine.md","x":-2520,"y":3640,"width":400,"height":400,"color":"3"},
-		{"id":"d72f30bdef78f079","type":"file","file":"material/TED/How to Build in Space — for Life on Earth.md","x":-1440,"y":3640,"width":400,"height":400},
-		{"id":"59107d25ab37899c","type":"file","file":"material/TED/The next outbreak_ We’re not ready.md","x":-340,"y":3640,"width":400,"height":400}
+		{"id":"74e641108754ccf6","type":"file","file":"material/TED/The Climate Movement Needs New Stories — Here’s Mine.md","x":-2520,"y":3640,"width":400,"height":400},
+		{"id":"d72f30bdef78f079","type":"file","file":"material/TED/How to Build in Space — for Life on Earth.md","x":-1440,"y":3640,"width":400,"height":400,"color":"3"},
+		{"id":"59107d25ab37899c","type":"file","file":"material/TED/The next outbreak_ We’re not ready.md","x":-340,"y":3640,"width":400,"height":400},
+		{"id":"6d1e6db00eecc205","x":760,"y":3640,"width":400,"height":400,"type":"file","file":"material/TED/Why Does Uncertainty Bother Us So Much.md"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -56,6 +57,7 @@
 		{"id":"c6cfd8d1da0e1318","fromNode":"96e58320961420d6","fromSide":"bottom","toNode":"3b81e8e420328cf0","toSide":"top"},
 		{"id":"4919238610be8443","fromNode":"3b81e8e420328cf0","fromSide":"bottom","toNode":"74e641108754ccf6","toSide":"top"},
 		{"id":"986373fd1ef9d52c","fromNode":"74e641108754ccf6","fromSide":"right","toNode":"d72f30bdef78f079","toSide":"left"},
-		{"id":"d24163395ae3dce3","fromNode":"d72f30bdef78f079","fromSide":"right","toNode":"59107d25ab37899c","toSide":"left"}
+		{"id":"d24163395ae3dce3","fromNode":"d72f30bdef78f079","fromSide":"right","toNode":"59107d25ab37899c","toSide":"left"},
+		{"id":"82a67afeaf65ab40","fromNode":"59107d25ab37899c","fromSide":"right","toNode":"6d1e6db00eecc205","toSide":"left"}
 	]
 }

@@ -184,6 +184,7 @@ Thank you.
 	- She was in contemplative mood.
 	- He gave her a contemplative look.
 	- the contemplative life (= life in a religious community)
+----------
 - barrier
 	- The crowd had to stand behind barriers.
 	- Concrete barriers were erected around the site.
@@ -211,12 +212,14 @@ Thank you.
 - the sound barrier
 	- to break the sound barrier (= to travel faster than the speed of sound)
 - the species barrier
+---
 - muffle (verb) (muffled)
 	- He tried to muffle the alarm clock by putting it under his pillow.
 	- She muffled the child up in a blanket.
 - muffler (noun)
 - muffled (adjective)
 	- muffled voices from the next room
+---
 - advocate (verb)
 	- The group does not advocate the use of violence.
 	- Heart specialists strongly advocate low-cholesterol diets.
@@ -229,8 +232,37 @@ Thank you.
 	- We are a charity that provides information, advocacy and advice to people with mental health issues.
 	- Robin helped found an advocacy programme to help abused women.
 	- All four partners do advocacy work aimed at creating opportunities for farmers.
-- crossroads
-- precipice
+---
+- crossroads (noun)
+	- At the next crossroads, turn right.
+	- Turn right at the next crossroads.
+	- He has reached a career crossroads (= he must decide which way to go next in his career).
+	- at a/the crossroads
+		- I knew I was at the crossroads of my career.
+		- We are standing at an important crossroads in the history of Europe.
+---
+- precipice (noun)
+	- The country was now on the edge of a precipice (= very close to disaster)
+- precipitate (verb)
+	- His resignation precipitated a leadership crisis.
+	- The assassination of the president precipitated the country into war.
+- precipitate (adjective)
+	- the precipitate resignation of the director
+	- To force a decision now would be precipitate.
+- precipitate (noun)
+	- A yellow precipitate should form immediately.
+- precipitately (adverb)
+	- to act precipitately
+- precipitation (noun) 
+	- There is heavy precipitation in some parts of the country.
+	- Acid precipitation may cause a reduction in forest productivity.
+	- an increase in annual precipitation
+	- In these areas precipitation was formerly too low to support growth.
+	- calcium phosphate precipitation
+- precipitation <=> precipitate
+	- precipitate 表示沉淀时，指沉淀物
+	- precipitation 表示沉淀的过程
+---
 - essential
 - vividly
 - retiring
@@ -285,10 +317,8 @@ Thank you.
 - champion
 - shaky
 - transitive
-
-```
-crush crash
-muffler silencer
-hotel hospital
-barrier fence
-```
+- plural
+- crush <=> crash 
+- muffler <=> silencer 
+- hotel <=> hospital
+- barrier <=> fence
