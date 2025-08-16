@@ -260,8 +260,10 @@ Thank you.
 	- In these areas precipitation was formerly too low to support growth.
 	- calcium phosphate precipitation
 - precipitation <=> precipitate
-	- precipitate 表示沉淀时，指沉淀物
-	- precipitation 表示沉淀的过程
+	- precipitate
+		- We collected the precipitate.
+	- precipitation
+		- The precipitation of crystals took several hours.
 ---
 - essential
 - vividly
