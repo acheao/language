@@ -26,9 +26,9 @@
 		{"id":"96e58320961420d6","type":"file","file":"material/TED/Can AI Help Us Speak with Wolves.md","x":-2520,"y":1680,"width":400,"height":400},
 		{"id":"3b81e8e420328cf0","type":"file","file":"material/TED/The Miraculous Device That Saved My Farm — and Changed My Life.md","x":-2520,"y":2600,"width":400,"height":400},
 		{"id":"74e641108754ccf6","type":"file","file":"material/TED/The Climate Movement Needs New Stories — Here’s Mine.md","x":-2520,"y":3640,"width":400,"height":400},
-		{"id":"d72f30bdef78f079","type":"file","file":"material/TED/How to Build in Space — for Life on Earth.md","x":-1440,"y":3640,"width":400,"height":400,"color":"3"},
-		{"id":"59107d25ab37899c","type":"file","file":"material/TED/The next outbreak_ We’re not ready.md","x":-340,"y":3640,"width":400,"height":400},
-		{"id":"6d1e6db00eecc205","x":760,"y":3640,"width":400,"height":400,"type":"file","file":"material/TED/Why Does Uncertainty Bother Us So Much.md"}
+		{"id":"d72f30bdef78f079","type":"file","file":"material/TED/How to Build in Space — for Life on Earth.md","x":-1440,"y":3640,"width":400,"height":400},
+		{"id":"59107d25ab37899c","type":"file","file":"material/TED/The next outbreak_ We’re not ready.md","x":-340,"y":3640,"width":400,"height":400,"color":"3"},
+		{"id":"6d1e6db00eecc205","type":"file","file":"material/TED/Why Does Uncertainty Bother Us So Much.md","x":760,"y":3640,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},

@@ -181,3 +181,8 @@ If we start now, we can be ready for the next epidemic.
 Thank you.
 
 (Applause)
+
+- barrel
+- basement
+- cans
+- hunker down
