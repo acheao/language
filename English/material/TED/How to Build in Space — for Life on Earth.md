@@ -170,7 +170,15 @@ Thank you.
 
 (Applause)
 
-- responsible
+- responsible (adjective)
+	-  Mike is responsible for designing the entire project.
+	- Even where parents no longer live together, they each continue to be responsible for their children.
+	- The management team is directly responsible for the day-to-day operations of the company.
+	- I'd like to talk to whoever is responsible here.
+		- I'd like to talk to the person who is responsible here.
+		- I'd like to talk to whoever is in charge.
+- day-to-day
+-----
 - passionately
 - fiction
 - offworlding
@@ -200,3 +208,104 @@ Thank you.
 - priceless
 - confines
 - while still protecting the heritage of our priceless planet.
+- hard <=> tough 
+- pilots 
+- floated 
+- microgravity 
+- astronaut 
+- aerospace 
+- routinely 
+- delivered 
+- deliver 
+- LASIK 
+- biotech 
+- orbit 
+- life-saving 
+- online 
+- kilogram 
+- FedEx 
+- precursor 
+- decommissioned 
+- infrastructure 
+- construction 
+- diagram 
+- courageous 
+- risky 
+- maneuvers 
+- bulky 
+- spacesuits 
+- humankind 
+- This 
+- hand-built 
+- method 
+- doesn't scale 
+- bottleneck 
+- rockets 
+- estate 
+- scale up 
+- plant <=> planet 
+- proteins 
+- grandest 
+- free fall 
+- sensation 
+- sensation of zero gravity 
+- magnetism 
+- invented 
+- robotic 
+- electropermanent 
+- magnets 
+- tiles to 
+- dock to 
+- rendezvous 
+- Essentially 
+- Legos 
+- Tesserae 
+- habitat 
+- structure 
+- destination 
+- meant 
+- maneuvers 
+- ride to orbit 
+- efficiently 
+- glorified 
+- dispenser 
+- candies 
+- buckyball 
+- timing the pacing 
+- iteratively 
+- prototype 
+- simulate 
+- physics 
+- fine-tune 
+- mockup 
+- roadshow 
+- interiors 
+- commuting 
+- low-Earth 
+- orbit 
+- volume 
+- throughput 
+- biotech 
+- crystals 
+- tissues 
+- mature 
+- novel 
+- drug 
+- biological 
+- behave 
+- exceptional 
+- organoids 
+- exceptional 
+- quality 
+- organoids 
+- retinas 
+- cure 
+- macular 
+- degeneration 
+- solar 
+- panels 
+- raw 
+- beam 
+- fundamentally 
+- abundant  
+- fiction

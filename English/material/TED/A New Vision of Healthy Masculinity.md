@@ -264,7 +264,38 @@ A real man takes a pause.
 Thank you.
 (Applause)
 
-```
-assertiveness confident
-manhood masculinity propelled reflection insecurity justify felony escalation bumping celebrated and famous estranged incarceration treacherous potent fuses life-altering pinpoint ecstatic de-escalation acronym sibling impacted influenced shameful sped up popping off susceptible immature boundary perspective convey empathize
-```
+
+assertiveness 
+confident
+manhood 
+masculinity 
+propelled 
+reflection 
+insecurity 
+justify 
+felony 
+escalation 
+bumping 
+celebrated and famous 
+estranged 
+incarceration 
+treacherous 
+potent 
+fuses 
+life-altering 
+pinpoint 
+ecstatic 
+de-escalation 
+acronym 
+sibling 
+impacted 
+influenced 
+shameful 
+sped up 
+popping off 
+susceptible 
+immature 
+boundary 
+perspective 
+convey 
+empathize

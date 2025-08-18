@@ -148,6 +148,98 @@ We need to first know and understand it before we can be responsible stewards an
 
 This is not just a journey for scientists, it is for all of us, because the decisions we collectively make over the next decade will affect what the ocean looks like for centuries to come. Thank you.
 
-```
-sunlit otherworldly realm twilight glimmer particles bioluminescence teemmicrobes plankton adaptation predators whales tuna swordfish biomass undiscoveredintertwined virtually oceanography intersection spark breakthrough expedition lasermicroscopic algae photosynthetic abundant organisms convinced breathtaking exceedinglyArctic pressures enormous fascinating lurking lantern bristlemouth fierce vertebratestube sheer penetrating sonar dense bounces off migration inhabitants atmospherecarbon dioxide transport curiosity vacuuming shrimp krill aquaculture nutraceuticalfisheries gold rush irreversible fortunate oceanographic Institution passion explorationtackle observing remarkable diversity multiscale multidimensional integrate Satellitefeeding diets gelatinous salps superefficient vacuum vacuuming slurping plankton pelletspoop forensic urgency inexhaustible sustainably stewards
-```
+
+sunlit 
+otherworldly 
+realm 
+twilight 
+glimmer 
+particles 
+bioluminescence 
+teemmicrobes 
+plankton 
+adaptation 
+predators 
+whales 
+tuna 
+swordfish 
+biomass 
+undiscovered
+intertwined 
+virtually 
+oceanography 
+intersection 
+spark 
+breakthrough 
+expedition 
+lasermicroscopic 
+algae 
+photosynthetic 
+abundant 
+organisms 
+convinced 
+breathtaking 
+exceedingly
+Arctic 
+pressures 
+enormous 
+fascinating 
+lurking 
+lantern 
+bristlemouth 
+fierce 
+vertebrates tube  
+sheer 
+penetrating 
+sonar 
+dense 
+bounces off 
+migration 
+inhabitants 
+atmosphere 
+carbon dioxide 
+transport 
+curiosity 
+vacuuming 
+shrimp krill 
+aquaculture 
+nutraceutical 
+fisheries 
+gold rush 
+irreversible 
+fortunate 
+oceanographic 
+Institution 
+passion 
+exploration 
+tackle 
+observing 
+remarkable 
+diversity 
+multiscale 
+multidimensional 
+integrate 
+satellite 
+feeding diets 
+gelatinous 
+salps 
+superefficient 
+vacuum 
+vacuuming 
+slurping 
+plankton 
+pellets poop 
+forensic 
+urgency 
+inexhaustible 
+sustainably 
+stewards
+
+
+
+
+
+
+
+
+

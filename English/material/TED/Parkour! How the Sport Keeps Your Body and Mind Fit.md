@@ -118,6 +118,44 @@ While parkour has evolved into an extreme and competitive sport for some, at its
 
 So the next time you walk around your city or town, think of how you can move, play and rediscover the joy of overcoming obstacles. 
 
-```
-obstacles rooftops lot mainstream parkour flips martial off-axis judopuddles curbs lava mindsets adventure fitness enhance mobility mitigatingagile recklessly squatting progress hops out truck bed drops offtrip over a curb absorb hip vault scale balcony empower confining funnelhandrails sidewalks autopilot reinvent paradigm positive proactive structured benchswing on
-```
+
+- obstacles 
+- rooftops 
+- lot mainstream 
+- parkour 
+- flips 
+- martial 
+- off-axis 
+- judopuddles 
+- curbs 
+- lava 
+- mindsets 
+- adventure 
+- fitness 
+- enhance 
+- mobility 
+- mitigating agile 
+- recklessly 
+- squatting 
+- progress 
+- hops out 
+- truck bed 
+- drops off
+- trip over 
+- a curb absorb 
+- hip 
+- vault 
+- scale 
+- balcony 
+- empower 
+- confining 
+- funnel handrails 
+- sidewalks 
+- autopilot 
+- reinvent 
+- paradigm 
+- positive 
+- proactive 
+- structured 
+- bench
+- swing on
