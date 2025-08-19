@@ -231,3 +231,115 @@ That means finding better ways to trust the things we can’t explain and better
 Thank you.
 
 (Applause)
+
+- wing <=> wind
+- curved shape
+- above <=> beneath
+- beneath <=> under
+- upside down
+- downside
+- upside <=> downside
+- opposite
+- angle <=> angel
+- steeper
+- stall
+- aerodynamics
+- intuitive
+- defibrillation
+- untangle <=> unfold
+- fold
+- anesthesia
+- unconscious
+- entirely <=> total
+- totally
+- operation <=> surgery
+- bother
+- mathematician
+- fiction <=> fraction
+- investigation <=> invest
+- epidemics
+- statistical
+- complicated
+- threaten <=> treatment
+- visibly
+- explainability
+- autonomous
+- Las Vegas
+- responding to an emergency
+- through <=> thought
+- vehicle
+- probabilities
+- probability
+- sufficient
+- convert
+- fundamentally
+- relinquish
+- tension
+- proof
+- theorem
+- four color theorem
+- bordering
+- symmetries
+- crunch
+- initially
+- skeptical
+- trolley problem
+- lever
+- divert
+- crop up
+- crop
+- swerved <=> divert
+- pavement
+- valid license
+- theoretical
+- dilemmas
+- altogether
+- pursuit <=> chase
+- abandon <=> relinquish
+- bail
+- parole
+- committed a crime
+- opaque
+- reoffend
+- emerge
+- patchy
+- term <=> team
+- popularized
+- conspiracy
+- shadowy
+- coincidence
+- conspiracy theorists
+- interacting
+- end up
+- a mountain of / a pile of / loads of / lots of / a ton of
+- double down on (something)
+- defend their position
+- chemtrails
+- Contrails
+- vapor
+- deliberate
+- airplane vapor trails
+- straightforward
+- exhaust
+- Jet engines
+- streak
+- persist
+- resistance
+- boundaries of science
+- appreciate
+- push back (on/against sth)
+- neglecting
+- oversimplistic
+- oversimplistic
+- confusion
+- complexity
+- I failed to acknowledge that
+- established
+- navigate
+- intuitive
+- catchy
+- astray
+- reliant on
+- counterintuitive
+- evaluate <=> evolution
+- inconsistencies
