@@ -232,7 +232,32 @@ Thank you.
 
 (Applause)
 
+- curved (verb)
+	- a curving staircase
+	- gently curving streets
+	- The road curved around the bay.
+	- The ball curved through the air.
+	- His lips curved in a smile.
+	- A smile curved his lips.
+- curve (noun)
+	- The pattern was made up of straight lines and curves.
+	- He admired the delicate curve of her ear.
+	- a curve in the road
+	- The driver lost control on a curve and the vehicle hit a tree.
+	- The program automatically plots the curve on a graph.
+	- This figure shows the population curve for the last hundred years.
+		- the figure
+	- a demand/yield/growth/supply curve
+	- the unemployment-income curve (= showing the relationship between the number of unemployed people and national income)
+	- The supermodel showed off her famous curves in a figure-hugging red dress.
+		- figure-hugging
+	- The evening dress hugged her curves beautifully.
+- bell curve (noun)
+- learning curve (noun)
+	- We have all been on a steep learning curve to master the new procedures.
+	- We expect a learning curve as we develop the project.
 - curved shape
+---
 - upside down
 - downside
 - opposite
