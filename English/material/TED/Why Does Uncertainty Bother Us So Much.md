@@ -232,41 +232,29 @@ Thank you.
 
 (Applause)
 
-- wing <=> wind
 - curved shape
-- above <=> beneath
-- beneath <=> under
 - upside down
 - downside
-- upside <=> downside
 - opposite
-- angle <=> angel
 - steeper
 - stall
 - aerodynamics
 - intuitive
 - defibrillation
-- untangle <=> unfold
 - fold
 - anesthesia
 - unconscious
-- entirely <=> total
 - totally
-- operation <=> surgery
 - bother
 - mathematician
-- fiction <=> fraction
-- investigation <=> invest
 - epidemics
 - statistical
 - complicated
-- threaten <=> treatment
 - visibly
 - explainability
 - autonomous
 - Las Vegas
 - responding to an emergency
-- through <=> thought
 - vehicle
 - probabilities
 - probability
@@ -288,14 +276,11 @@ Thank you.
 - divert
 - crop up
 - crop
-- swerved <=> divert
 - pavement
 - valid license
 - theoretical
 - dilemmas
 - altogether
-- pursuit <=> chase
-- abandon <=> relinquish
 - bail
 - parole
 - committed a crime
@@ -303,7 +288,6 @@ Thank you.
 - reoffend
 - emerge
 - patchy
-- term <=> team
 - popularized
 - conspiracy
 - shadowy
@@ -341,5 +325,21 @@ Thank you.
 - astray
 - reliant on
 - counterintuitive
-- evaluate <=> evolution
 - inconsistencies
+- wing <=> wind
+- evaluate <=> evolution
+- above <=> beneath
+- beneath <=> under
+- upside <=> downside
+- angle <=> angel
+- untangle <=> unfold
+- entirely <=> total
+- operation <=> surgery
+- fiction <=> fraction
+- swerved <=> divert
+- investigation <=> invest
+- term <=> team
+- through <=> thought
+- pursuit <=> chase
+- abandon <=> relinquish
+- threaten <=> treatment
