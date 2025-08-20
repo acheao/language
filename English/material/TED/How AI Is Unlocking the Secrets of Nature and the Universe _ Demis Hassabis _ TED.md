@@ -1,107 +1,35 @@
 [How AI Is Unlocking the Secrets of Nature and the Universe](https://www.youtube.com/watch?v=0_M_syPuFos)
 
-Chris Anderson: Demis,
-so good to have you here.
+Chris Anderson: Demis, so good to have you here.
 
-Demis Hassabis: It's fantastic
-to be here, thanks, Chris.
+Demis Hassabis: It's fantastic to be here, thanks, Chris.
 
-Now, you told Time Magazine,
+Now, you told Time Magazine,  "I want to understand the big questions, the really big ones that you normally go into philosophy or physics if you're interested in them. I thought building AI would be the fastest route to answer some of those questions."
 
-"I want to understand the big questions,
-
-the really big ones that you normally
-go into philosophy or physics
-
-if you're interested in them.
-
-I thought building AI
-
-would be the fastest route
-to answer some of those questions."
 
 Why did you think that?
 
 DH: (Laughs)
 
-Well, I guess when I was a kid,
+Well, I guess when I was a kid, my favorite subject was physics, and I was interested in all the big questions, fundamental nature of reality, what is consciousness, you know, all the big ones.
 
-my favorite subject was physics,
+And usually you go into physics, if you're interested in that.
 
-and I was interested
-in all the big questions,
+But I read a lot of the great physicists, some of my all-time scientific heroes like Feynman and so on.
 
-fundamental nature of reality,
+And I realized, in the last, sort of 20, 30 years, we haven't made much progress in understanding some of these fundamental laws.
 
-what is consciousness,
+So I thought, why not build the ultimate tool to help us, which is artificial intelligence.
 
-you know, all the big ones.
+And at the same time, we could also maybe better understand ourselves and the brain better, by doing that too.
 
-And usually you go into physics,
-if you're interested in that.
-
-But I read a lot of the great physicists,
-
-some of my all-time scientific heroes
-like Feynman and so on.
-
-And I realized, in the last,
-sort of 20, 30 years,
-
-we haven't made much progress
-
-in understanding some
-of these fundamental laws.
-
-So I thought, why not build
-the ultimate tool to help us,
-
-which is artificial intelligence.
-
-And at the same time,
-
-we could also maybe
-better understand ourselves
-
-and the brain better, by doing that too.
-
-So not only was it incredible tool,
-
-it was also useful for some
-of the big questions itself.
+So not only was it incredible tool, it was also useful for some of the big questions itself.
 
 CA: Super interesting.
 
-So obviously AI can do so many things,
+So obviously AI can do so many things, but I think for this conversation, I'd love to focus in on this theme of what it might do to unlock the really big questions, the giant scientific breakthroughs, because it's been such a theme driving you and your company.
 
-but I think for this conversation,
-
-I'd love to focus in on this theme
-of what it might do
-
-to unlock the really big questions,
-the giant scientific breakthroughs,
-
-because it's been such a theme
-driving you and your company.
-
-DH: So I mean, one
-of the big things AI can do,
-
-and I've always thought about,
-
-is we're getting, you know,
-even back 20, 30 years ago,
-
-the beginning of the internet era
-and computer era,
-
-the amount of data that was being produced
-
-and also scientific data,
-
-just too much for the human mind
-to comprehend in many cases.
+DH: So I mean, one of the big things AI can do, and I've always thought about, is we're getting, you know, even back 20, 30 years ago, the beginning of the internet era and computer era, the amount of data that was being produced and also scientific data, just too much for the human mind to comprehend in many cases.
 
 And I think one of the uses
 of AI is to find patterns and insights

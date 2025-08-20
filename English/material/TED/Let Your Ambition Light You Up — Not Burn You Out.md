@@ -161,7 +161,34 @@ Thank you.
 
 (Applause)
 
-
+- enamored
+- hustle 
+- VP
+- multi-time
+- burnout
+- one in four
+- employees
+- sucks
+- dimming
+- aspiring
+- fullest
+- nurture <=> nature
+- boundaries
+- reputation
+- excuse
+- minimize
+- empower
+- rhythm
+- sustainable
+- rhythm and pace
+- secret sauce
+- effectively
+- mouths <=> month
+- workouts
+- inconvenient
+- vet
+- predicament
+- 
 
 
 
