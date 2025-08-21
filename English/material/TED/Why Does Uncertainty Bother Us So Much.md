@@ -258,13 +258,115 @@ Thank you.
 	- We expect a learning curve as we develop the project.
 - curved shape
 ---
-- upside down
+- upside down (adverb)
+	- The canoe floated upside down on the lake.
+	- turn something upside down
+		- The police turned the whole house upside down looking for clues.
+		- His sudden death turned her world upside down.
+- upside down (adjective)
+	- The painting looks like it's upside down to me.
+- upside (noun) <=> downside
 - downside
-- opposite
-- steeper
-- stall
-- aerodynamics
-- intuitive
+	- The downside of all this success is that I don't get to spend much time with my family.
+	- On the downside, such improvements in efficiency often mean job losses.
+	- This is good news for farmers, but I do see a downside.
+-----
+- opposite (adjective)
+	- Answers are given on the opposite page.
+	- We live further down on the opposite side of the road.
+	- I could see smoke coming from the windows of the house directly opposite.
+	- He sat down in the chair opposite.
+	- I watched them leave and then drove off in the opposite direction.
+	- She tried calming him down but it seemed to be having the opposite effect.
+	- students at opposite ends of the ability range
+	- a story about a pair of young boys from opposite extremes of society
+	- opposite to somebody/something
+		- She took a view opposite to that of Fraser.
+	- your opposite number
+		- The Foreign Secretary is currently having talks with his opposite number in the White House.
+	- the opposite sex
+		- He found it difficult to talk to members of the opposite sex.
+- opposite (adverb)
+	- There's a newly married couple living opposite (= on the other side of the road).
+	- See opposite (= on the opposite page) for further details.
+- opposite (noun)
+	- Hot and cold are opposites.
+	-   the opposite of something
+		- What is the opposite of heavy?
+	- She says the exact opposite of what she means—it's confusing.
+	- the opposite to something
+		- The effect was exactly the opposite to what he intended.
+	- I thought she would be small and blonde but she's the complete opposite.
+	- Archie and Mike are polar opposites forced to live under the same roof.
+	- ‘Is it better now?’ ‘Quite the opposite, I'm afraid.’
+	- I ask you to do something and you go and do the opposite—why?
+	- I have never been asked to leave. In fact the opposite is the case.
+- opposites attract
+	- He loves planning everything in advance, while she prefers being spontaneous. It seems opposites attract.
+---
+- steep (verb)
+	- Steep the fruit in brandy overnight.
+	- Black teas need to steep for three minutes.
+	- be steeped in something
+		- a city steeped in history
+- steep (adjective)  => steeper => steepest
+	- a steep hill/slope
+	- a steep climb/descent/drop
+	- a steep flight of stairs
+	- The path grew steeper as we climbed higher.
+	- The steep banks of the river are largely tree-covered.
+	- a steep decline in the birth rate
+	- a steep rise in unemployment
+	- Setting up a new business is risky and involves a steep learning curve.
+	- £4 for a cup of coffee seems a little steep to me.
+	- He wants to move in here with us? That’s a bit steep!
+- steeply (adverb)
+	- a steeply sloping roof
+	- The path climbed steeply upwards.
+	- Prices rose steeply.
+- steepen (verb)
+	- After a mile, the slope steepened.
+- steeple (noun)
+	- The church steeple is the tallest structure in town.
+---
+- stall (verb)
+	- The car stalled and refused to start again.
+	- I kept stalling.
+	-  I stalled the car three times during my driving test.
+	- They are still stalling on the deal.
+	- ‘What do you mean?’ she asked, stalling for time.
+	- He asked them all kinds of pointless questions, stalling for time.
+- stall (noun)
+	- He works on a market stall in the Square.
+	- They have a fish stall on the market.
+	- Drinks were being sold from makeshift stalls at the side of the road.
+	- We had to muck out stalls and groom the horses.
+	- a bathroom stall
+	- the front row of the stalls
+	- The plane went into a stall.
+---
+- aerodynamic (adjective)
+	- the car’s aerodynamic shape (= making it able to move faster)
+- aerodynamics (noun)
+	- Research has focused on improving the car's aerodynamics.
+- aerodynamically (adverb)
+	- an aerodynamically efficient design
+---
+- intuit (verb)
+	- She intuited that something was badly wrong.
+- intuitive (adjective)
+	- He had an intuitive sense of what the reader wanted.
+	- She was an intuitive person, quickly understanding what people wanted and needed.
+- intuition (noun)
+	- Intuition told her that he had spoken the truth.
+	- He was guided by intuition and personal judgement.
+	- The answer came to me in a flash of intuition.
+	- I had an intuition that something awful was about to happen.
+- intuitively (adverb)
+	- Intuitively, she knew that he was lying.
+	- He intuitively understood the need for privacy.
+	- intuitively designed
+----
 - defibrillation
 - fold
 - anesthesia
