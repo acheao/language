@@ -185,4 +185,65 @@ Thank you.
 - barrel
 - basement
 - cans
+- catastrophe
 - hunker down
+- infectious virus
+- missiles
+- microbes
+- deterrents
+- epidemic
+- lots of tough challenges
+- eradication
+- polio
+- epidemiologists
+- inaccurate
+- delayed <=> depend
+- orchestrating
+- hundreds of thousands of workers
+- diagnostics
+- processed it
+- plasma
+- found <=> fund
+- pure
+- save the day
+- progression
+- heroic
+- contagious
+- bedridden
+- urban
+- bioterrorism
+- Spanish Flu back
+- satellite maps
+- biology
+- turnaround
+- pathogen
+- vaccines
+- overall
+- preparedness
+- NATO
+- logistics <=> logic
+- radio frequencies
+- corps
+- expertise
+- taking advantage
+- simulations
+- germ
+- so far
+- R&D
+- adeno-associated
+- modest
+- worldwide
+- primary
+- equity
+- priority
+- panic
+- hoard
+- spaghetti
+- positive
+- positive
+- breach
+- selfien
+
+
+
+

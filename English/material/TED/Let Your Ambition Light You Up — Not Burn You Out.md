@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=WknzP23-y_Y
+
 Like many of you, I was enamored by the hustle culture.
 
 As a VP of People and multi-time HR executive, I've led many teams and companies through burnout.
@@ -188,7 +190,39 @@ Thank you.
 - inconvenient
 - vet
 - predicament
-- 
-
+- toxic
+- unsustainability
+- unrealistic
+- crystal
+- non-negotiables
+- habits
+- meditating
+- baseball
+- prioritize
+- trade-off
+- golf
+- adapt
+- frugal
+- frivolous
+- hamster wheel
+- ponder <=> contemplate
+- pros
+- cons
+- purchase
+- commitment
+- feasible
+- align
+- selective
+- time commitments
+- sustaining
+- I'm already at capacity
+- reprioritize
+- cringe
+- leverage
+- entrenched
+- hustle
+- spectrum
+- recharge
+- crush your goals
 
 
