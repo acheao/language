@@ -366,7 +366,10 @@ Thank you.
 	- Intuitively, she knew that he was lying.
 	- He intuitively understood the need for privacy.
 	- intuitively designed
-----
+---
+- counterintuitive
+- beneath
+- untangle <=> unfold
 - defibrillation
 - fold
 - anesthesia
@@ -422,12 +425,14 @@ Thank you.
 - conspiracy theorists
 - interacting
 - end up
+- reality
 - a mountain of / a pile of / loads of / lots of / a ton of
 - double down on (something)
 - defend their position
 - chemtrails
 - Contrails
 - vapor
+- simulation
 - deliberate
 - airplane vapor trails
 - straightforward
@@ -435,15 +440,17 @@ Thank you.
 - Jet engines
 - streak
 - persist
+- brush up
 - resistance
+- crucial
 - boundaries of science
 - appreciate
 - push back (on/against sth)
 - neglecting
 - oversimplistic
-- oversimplistic
 - confusion
 - complexity
+- deep-rooted
 - I failed to acknowledge that
 - established
 - navigate
@@ -451,7 +458,6 @@ Thank you.
 - catchy
 - astray
 - reliant on
-- counterintuitive
 - inconsistencies
 - wing <=> wind
 - evaluate <=> evolution
@@ -459,10 +465,10 @@ Thank you.
 - beneath <=> under
 - upside <=> downside
 - angle <=> angel
-- untangle <=> unfold
 - entirely <=> total
 - operation <=> surgery
 - fiction <=> fraction
+- fiction <=> noval
 - swerved <=> divert
 - investigation <=> invest
 - term <=> team
