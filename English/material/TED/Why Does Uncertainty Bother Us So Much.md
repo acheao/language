@@ -366,12 +366,77 @@ Thank you.
 	- Intuitively, she knew that he was lying.
 	- He intuitively understood the need for privacy.
 	- intuitively designed
+- counterintuitive <=> counter-intuitive (adjective)
+	- These results seem counter-intuitive.
+- counter-intuitively (adverb)
 ---
-- counterintuitive
-- beneath
-- untangle <=> unfold
-- defibrillation
+- beneath (adverb)
+	- I scraped off the paint to reveal the wood beneath.
+- beneath (preposition)
+	- They found the body buried beneath a pile of leaves.
+	- The boat sank beneath the waves.
+	- He considers such jobs beneath him.
+	- They thought she had married beneath her (= married a man of lower social status).
+- above <=> beneath
+- beneath <=> under
+---
+- untangle (verb)
+	- Can you untangle all those cables on the floor?
+	- She tried to untangle her skirt from the wire fence.
+	- It will not be easy to untangle his financial affairs.
+	- It’s difficult to untangle all the local bureaucracy and regulations.
+- unfold (verb)
+	- to unfold a map
+	- She unfolded her arms.
+	- The audience watched as the story unfolded before their eyes.
+	- Dramatic events were about to unfold.
+	- She unfolded her tale to us.
+- fold (verb) => folds => folded => folded => folding
+	- First, fold the paper in half/in two.
+	- The bird folded its wings.
+	- He folded the map up and put it in his pocket.
+	- The blankets had been folded down.
+	- Don't fold back pages to mark your place in a book.
+	- Fold the dough over on top of itself.
+	- The bed can be folded away during the day.
+	- The central back seat can be folded down to provide a useful tray.
+	- She folds up the wheelchair and stows it in the trunk.
+	- The table folds up when not in use.
+	- a TV screen that folds down from the ceiling
+	- The settee folds out into a comfortable bed.
+	- The ironing board folds flat for easy storage.
+	- When she heard the news, her legs just folded under her (= she fell).
+	- She gently folded the baby in a blanket.
+	- She folded a blanket around the baby.
+	- The new musical folded after only twenty performances.
+	- He stood watching her with his arms folded across his chest.
+	- She folded her arms and stared at him.
+	- She kept her hands folded in her lap.
 - fold
+	- the folds of her dress
+	- loose folds of skin
+	- Why is the place I want to find always on the fold of the map?
+	- He called on former Republican voters to return to the fold.
+	- She was determined to draw Matthew back into the family fold.
+	- It was a solitary spot in a fold between two hills.
+	- above/below the fold
+		- Your ad will be placed above the fold for prominent exposure.
+		- The images all appeared below the fold.
+- fold in
+	- Fold in the beaten egg whites.
+- fold-out (adjective)
+	- If you're short of space, having a fold-out bed makes a lot of sense.
+	- The book also includes a fold-out map highlighting the 34 restaurants featured.
+- fold-up (adjective)
+	- a fold-up chair
+	- a fold-up bed
+	- We keep some fold-ups in the garage for extra guests.
+- fold away
+	- a foldaway bed
+- untangle <=> unfold
+- fold <=> unfold
+---
+- defibrillation
 - anesthesia
 - unconscious
 - totally
@@ -454,15 +519,12 @@ Thank you.
 - I failed to acknowledge that
 - established
 - navigate
-- intuitive
 - catchy
 - astray
 - reliant on
 - inconsistencies
 - wing <=> wind
 - evaluate <=> evolution
-- above <=> beneath
-- beneath <=> under
 - upside <=> downside
 - angle <=> angel
 - entirely <=> total
@@ -476,3 +538,4 @@ Thank you.
 - pursuit <=> chase
 - abandon <=> relinquish
 - threaten <=> treatment
+- democracy <=> dramatic

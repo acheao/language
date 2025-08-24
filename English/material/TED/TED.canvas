@@ -29,8 +29,8 @@
 		{"id":"d72f30bdef78f079","type":"file","file":"material/TED/How to Build in Space — for Life on Earth.md","x":-1440,"y":3640,"width":400,"height":400},
 		{"id":"59107d25ab37899c","type":"file","file":"material/TED/The next outbreak_ We’re not ready.md","x":-340,"y":3640,"width":400,"height":400},
 		{"id":"6d1e6db00eecc205","type":"file","file":"material/TED/Why Does Uncertainty Bother Us So Much.md","x":760,"y":3640,"width":400,"height":400,"color":"3"},
-		{"id":"b9d2308ff46800dd","type":"file","file":"material/TED/Let Your Ambition Light You Up — Not Burn You Out.md","x":1840,"y":3640,"width":400,"height":400,"color":"3"},
-		{"id":"67988a630de1d3e1","x":2880,"y":3640,"width":400,"height":400,"type":"file","file":"material/TED/The Multidimensional Magic of Modern Maps.md"}
+		{"id":"b9d2308ff46800dd","type":"file","file":"material/TED/Let Your Ambition Light You Up — Not Burn You Out.md","x":1840,"y":3640,"width":400,"height":400},
+		{"id":"67988a630de1d3e1","type":"file","file":"material/TED/The Multidimensional Magic of Modern Maps.md","x":2880,"y":3640,"width":400,"height":400,"color":"3"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -62,7 +62,7 @@
 		{"id":"d24163395ae3dce3","fromNode":"d72f30bdef78f079","fromSide":"right","toNode":"59107d25ab37899c","toSide":"left"},
 		{"id":"82a67afeaf65ab40","fromNode":"59107d25ab37899c","fromSide":"right","toNode":"6d1e6db00eecc205","toSide":"left"},
 		{"id":"2741fbadfb76ae33","fromNode":"6d1e6db00eecc205","fromSide":"right","toNode":"b9d2308ff46800dd","toSide":"left"},
-		{"id":"0115192573854c7c","fromNode":"6d1e6db00eecc205","fromSide":"bottom","toNode":"59107d25ab37899c","toSide":"bottom"},
-		{"id":"8dfca2e004a0c5f7","fromNode":"b9d2308ff46800dd","fromSide":"right","toNode":"67988a630de1d3e1","toSide":"left"}
+		{"id":"8dfca2e004a0c5f7","fromNode":"b9d2308ff46800dd","fromSide":"right","toNode":"67988a630de1d3e1","toSide":"left"},
+		{"id":"fc33b0f3829ba2b7","fromNode":"6d1e6db00eecc205","fromSide":"bottom","toNode":"b9d2308ff46800dd","toSide":"bottom"}
 	]
 }

@@ -139,7 +139,18 @@ canoes
 blockaded 
 demonstration 
 magnitude 
-dignity 
+- dignity  (noun)
+	- She accepted the criticism with quiet dignity.
+	- He brings a quiet dignity to the role.
+	- His aristocratic voice gives him an air of dignity and power.
+	- the dignity of work
+	- The terminally ill should be allowed to die with dignity
+	- It's difficult to preserve your dignity when you have no job and no home.
+	- beneath your dignity
+		- He clearly regarded manual work as beneath his dignity.
+	- stand on your dignity
+		- Our teacher never stands on her dignity with us, but treats us all as friends and colleagues.
+		- She was never one to stand on her dignity.
 canary 
 mine 
 sacrificed 
