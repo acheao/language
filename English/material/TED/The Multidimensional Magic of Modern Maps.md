@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=5MyCtvSBATI
+
 I'm a digital cartographer by trade, and honestly, the last two, three, four presentations have been incredible.
 
 Maps, historically, they do really two things, and we've really seen an amazing amount of the first: understanding our world. 
@@ -118,3 +120,77 @@ I'm really excited to be here and share this with you, and thank you so much for
 
 (Applause)
 
+- a teacher by trade
+- presentations <=> representation
+- digitized
+- reams of paper
+- cartographer
+- cartography
+- cybernetic
+- orbit
+- the remote sensing capacity
+- dynamic
+- replica
+- Globe
+- sandbox
+- sand
+- representation
+- sensors
+- go back and forth
+- fourth <=> forth <=> forward
+- devastated
+- imagery
+- Satellite imagery
+- responders
+- shining
+- spotlight
+- shine a spotlight (on …)
+- nagging
+- megaprojects
+- Canal
+- transcontinental
+- railroad
+- the Hoover Dam
+- Erie Canal
+- ramifications
+- individualism
+- retreated
+- atoms
+- abundance
+- regaining
+- spirit
+- dozens and dozens
+- fused
+- ontology
+- delegate
+- Vancouver
+- Landsat
+- vegetation
+- the affordable housing district
+- pan over
+- zoom out
+- zoom in
+- tilt up / down
+- move from mapping to monitoring to building <=> move from A to B to C
+- orbiting the Earth
+	- The Moon orbits the Earth
+- instrument panel
+- cohesive
+- multidimensional
+- An integrated system
+- permits
+- detection
+- construction site
+- infrared sensors
+-  blossoming and growing
+- spatial
+- metrics
+- time series
+- narrowly
+- framed the question
+- framed
+- eliminates 
+- trade-offs
+- canvas
+- visualize
+- summon
