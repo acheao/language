@@ -31,8 +31,9 @@
 		{"id":"6d1e6db00eecc205","type":"file","file":"material/TED/Why Does Uncertainty Bother Us So Much.md","x":760,"y":3640,"width":400,"height":400,"color":"3"},
 		{"id":"b9d2308ff46800dd","type":"file","file":"material/TED/Let Your Ambition Light You Up — Not Burn You Out.md","x":1840,"y":3640,"width":400,"height":400},
 		{"id":"67988a630de1d3e1","type":"file","file":"material/TED/The Multidimensional Magic of Modern Maps.md","x":2880,"y":3640,"width":400,"height":400,"color":"3"},
-		{"id":"903d7e2db040cd9e","x":2880,"y":2600,"width":400,"height":400,"type":"file","file":"material/TED/Is AI Ruining Music.md"},
-		{"id":"66e678fe95398d39","x":835,"y":4440,"width":250,"height":60,"type":"text","text":""}
+		{"id":"903d7e2db040cd9e","type":"file","file":"material/TED/Is AI Ruining Music.md","x":2880,"y":2600,"width":400,"height":400},
+		{"id":"66e678fe95398d39","type":"text","text":"","x":835,"y":4440,"width":250,"height":60},
+		{"id":"82a0b13480a69cf9","x":2880,"y":1680,"width":400,"height":400,"type":"file","file":"material/TED/Don't Lie to Me.md"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -66,6 +67,7 @@
 		{"id":"2741fbadfb76ae33","fromNode":"6d1e6db00eecc205","fromSide":"right","toNode":"b9d2308ff46800dd","toSide":"left"},
 		{"id":"8dfca2e004a0c5f7","fromNode":"b9d2308ff46800dd","fromSide":"right","toNode":"67988a630de1d3e1","toSide":"left"},
 		{"id":"3fbdc6e0476333ba","fromNode":"67988a630de1d3e1","fromSide":"top","toNode":"903d7e2db040cd9e","toSide":"bottom"},
-		{"id":"cd17d29ed0b200ec","fromNode":"66e678fe95398d39","fromSide":"top","toNode":"6d1e6db00eecc205","toSide":"bottom"}
+		{"id":"cd17d29ed0b200ec","fromNode":"66e678fe95398d39","fromSide":"top","toNode":"6d1e6db00eecc205","toSide":"bottom"},
+		{"id":"3a9f4a9a131c4f22","fromNode":"903d7e2db040cd9e","fromSide":"top","toNode":"82a0b13480a69cf9","toSide":"bottom"}
 	]
 }

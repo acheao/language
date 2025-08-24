@@ -5,8 +5,7 @@
 	1. [Elon Musk: The future we're building -- and boring](TED/Elon%20Musk%20The%20future%20we're%20building%20and%20boring)
 5. [Amy Cuddy: Body language shapes who you are](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
 6. [Jon Ronson: Alternative answers to psychiatric tests](https://www.youtube.com/watch?v=xYemnKEKx0c)
-7. [Pamela Meier: Don't Lie to Me](https://www.youtube.com/watch?v=P_6vDLq64gE)
-8. [Ken Robinson: Schools stifle creativity](https://www.youtube.com/watch?v=iG9CE55wbtY&t=267s)
+7. [Ken Robinson: Schools stifle creativity](https://www.youtube.com/watch?v=iG9CE55wbtY&t=267s)
 
 
 
