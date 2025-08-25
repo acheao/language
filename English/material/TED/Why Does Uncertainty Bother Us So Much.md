@@ -232,7 +232,7 @@ Thank you.
 
 (Applause)
 
-- curved (verb)
+- curve (verb)  => curves => curved => curved => curving
 	- a curving staircase
 	- gently curving streets
 	- The road curved around the bay.
@@ -266,7 +266,7 @@ Thank you.
 - upside down (adjective)
 	- The painting looks like it's upside down to me.
 - upside (noun) <=> downside
-- downside
+- downside (noun)
 	- The downside of all this success is that I don't get to spend much time with my family.
 	- On the downside, such improvements in efficiency often mean job losses.
 	- This is good news for farmers, but I do see a downside.
@@ -304,7 +304,7 @@ Thank you.
 - opposites attract
 	- He loves planning everything in advance, while she prefers being spontaneous. It seems opposites attract.
 ---
-- steep (verb)
+- steep (verb) => steeps => steeped => steeped => steeping
 	- Steep the fruit in brandy overnight.
 	- Black teas need to steep for three minutes.
 	- be steeped in something
@@ -320,16 +320,23 @@ Thank you.
 	- Setting up a new business is risky and involves a steep learning curve.
 	- £4 for a cup of coffee seems a little steep to me.
 	- He wants to move in here with us? That’s a bit steep!
+- steep yourself in (phrasal verb)
+	- They spent a month steeping themselves in Chinese culture.
 - steeply (adverb)
 	- a steeply sloping roof
 	- The path climbed steeply upwards.
 	- Prices rose steeply.
-- steepen (verb)
+- steepen (verb) => steepens => steepened => steepened => steepening
 	- After a mile, the slope steepened.
 - steeple (noun)
 	- The church steeple is the tallest structure in town.
+- steepness (noun)
+	- the steepness of a slope/gradient
+	- the steepness of the drop in prices
+	- the steepness of the penalty surprised everyone
+	- the steepness of the price increase
 ---
-- stall (verb)
+- stall (verb) => stalls => stalled => stalled => stalling
 	- The car stalled and refused to start again.
 	- I kept stalling.
 	-  I stalled the car three times during my driving test.
@@ -352,7 +359,7 @@ Thank you.
 - aerodynamically (adverb)
 	- an aerodynamically efficient design
 ---
-- intuit (verb)
+- intuit (verb) => intuits => intuited => intuited => intuiting
 	- She intuited that something was badly wrong.
 - intuitive (adjective)
 	- He had an intuitive sense of what the reader wanted.
@@ -362,7 +369,7 @@ Thank you.
 	- He was guided by intuition and personal judgement.
 	- The answer came to me in a flash of intuition.
 	- I had an intuition that something awful was about to happen.
-- intuitively (adverb)
+- intuitively (adverb) => untangles => untangled => untangled => untangling
 	- Intuitively, she knew that he was lying.
 	- He intuitively understood the need for privacy.
 	- intuitively designed
@@ -385,7 +392,7 @@ Thank you.
 	- She tried to untangle her skirt from the wire fence.
 	- It will not be easy to untangle his financial affairs.
 	- It’s difficult to untangle all the local bureaucracy and regulations.
-- unfold (verb)
+- unfold (verb) => unfolds => unfolded => unfolded => unfolding
 	- to unfold a map
 	- She unfolded her arms.
 	- The audience watched as the story unfolded before their eyes.
@@ -412,7 +419,7 @@ Thank you.
 	- He stood watching her with his arms folded across his chest.
 	- She folded her arms and stared at him.
 	- She kept her hands folded in her lap.
-- fold
+- fold (noun)
 	- the folds of her dress
 	- loose folds of skin
 	- Why is the place I want to find always on the fold of the map?
@@ -422,7 +429,7 @@ Thank you.
 	- above/below the fold
 		- Your ad will be placed above the fold for prominent exposure.
 		- The images all appeared below the fold.
-- fold in
+- fold in (phrasal verb)
 	- Fold in the beaten egg whites.
 - fold-out (adjective)
 	- If you're short of space, having a fold-out bed makes a lot of sense.
@@ -431,7 +438,7 @@ Thank you.
 	- a fold-up chair
 	- a fold-up bed
 	- We keep some fold-ups in the garage for extra guests.
-- fold away
+- foldaway (adjective)
 	- a foldaway bed
 - untangle <=> unfold
 - fold <=> unfold
@@ -439,7 +446,7 @@ Thank you.
 - defibrillation (noun)
 - defibrillator (noun)
 ---
-- anaesthetize (verb)
+- anaesthetize (verb) => anaesthetizes => anaesthetized => anaesthetized => anaesthetizing
 	- The animals were all fully anaesthetized before the tags were inserted.
 - anesthesia (noun)
 - anaesthesia (noun)
