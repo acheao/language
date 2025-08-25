@@ -234,3 +234,89 @@ But back to that photograph It reminds me of the photograph
 
 Thank you all so much.
 (Cheers and applause)
+
+- obscure
+- chorus
+- audio
+- cover
+- guitar
+- soul
+- straight
+- made up
+- apologize
+- synthesizers
+- sampling
+- hip hop
+- phonograph
+- reproduced <=> replicate
+- substitute <=> replace <=> take the place of
+- mathematical
+- parody
+- hobby
+- day job
+- advertising creative director
+- legend
+- I ain't into sports.
+- rubbed
+- Benz
+- fiddle
+- impersonation
+- peek <=> peak
+- a peek behind the curtain
+- chili peppers
+- Grocery List
+- Quinoa
+- ravioli
+- Canned
+- pickles
+- macaroni
+- unnerving
+- And that's why I lied to you guys up front.
+- suspect
+- imply
+- melody
+- rhythm
+- rhyming
+- chords
+- research <=> search
+- the range of ways
+- messy
+- lyrics
+- guitarist
+- stuck <=> struck
+- baritone
+- amused
+- purchase
+- Hallelujah
+- butts
+- deny
+- sprung
+- horny
+- stuffed
+- homeboys
+- esteemed
+- violin
+- dramatic movie score
+- clarify
+- mashup
+- Barbie Girl
+- Robots should not be subject to free speech
+- guardrails
+- deceptive
+- artistic
+- victims
+- bare
+- Gin
+- breeze
+- jumping
+- bitches
+- rubbers
+- indication
+- downsides
+- monstrosity <=> monster
+- stupidest
+- photograph
+- photo
+- ragtime
+- pants
+- gals
