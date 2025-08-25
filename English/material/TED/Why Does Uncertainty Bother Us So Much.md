@@ -436,10 +436,24 @@ Thank you.
 - untangle <=> unfold
 - fold <=> unfold
 ---
-- defibrillation
-- anesthesia
+- defibrillation (noun)
+- defibrillator (noun)
+---
+- anaesthetize (verb)
+	- The animals were all fully anaesthetized before the tags were inserted.
+- anesthesia (noun)
+- anaesthesia (noun)
+	- surgery carried out under anaesthesia
+- anaesthetic (noun)
+	- How long will I be under anaesthetic?
+	- They gave him a general anaesthetic (= one that makes you become unconscious).
+	- (a) local anaesthetic (= one that affects only a part of the body)
+	- We forget what life must have been like without anaesthetics and painkillers.
+- anaesthetic (adjective)
+	- an anaesthetic drug/spray
+- anaesthetist (noun)
+---
 - unconscious
-- totally
 - bother
 - mathematician
 - epidemics
