@@ -494,3 +494,213 @@ And when you do that, the ground around you starts to shift just a little bit.
 And that's the truth. Thank you.
 
 (Applause)
+
+- liar
+- liespotter
+- go the extra mile
+- deception
+- clarify
+- nitpicky
+- eyebrow
+- twitched
+- flared
+- nostril
+- spot deception
+- proposition
+- cooperative act
+- whatsoever
+- utterance
+- emerges
+- dignity
+- digiratti
+- Spam folder
+- unwilling
+- corporate fraud
+- Last year saw
+- eyelash
+- an eyelash under
+- revenues
+- Enron
+- Madoff
+- mortgage
+- double agents
+- traitors
+- compromise our security
+- undermine
+- defend us
+- con
+- whatever
+- the crux
+- fantasies
+- bridge that gap
+- And boy are we willing to fill in those gaps in our lives with lies.
+- on a given day
+- granted
+- now granted
+- white lies
+- recoil <=> retreat
+- prevalent
+- essentially
+- the plot actually thickens
+- coworkers
+- Extroverts
+- introverts
+- interactions
+- spouse
+- fabric
+- woven
+- ambivalent
+- parse <=> explain
+- covertly
+- sanctioned
+- Dante
+- Shakespeare
+- Bible
+- evolutionary
+- neocortex
+- deceptive
+- gorilla
+- sign language
+- kitten
+- fluffy
+- ripping
+- hardwired
+- leaders of the pack
+- pause
+- concealment
+- bluff
+- outright
+- manipulate
+- flattery
+- cover-up
+- breadwinners
+- cluttered
+- partisan
+- ingenious
+- schemers
+- Ponzi
+- deception
+- post-truth
+- confusing
+- morass
+- Bill Clinton
+- allegations
+- telltale
+- denial
+- non-contracted denial
+- overdetermined
+- distancing
+- unconsciously
+- dead giveaway
+- qualifying language
+- candor
+- discredits
+- peppered...with...
+- give an account of something
+- an account of the accident
+- Freud
+- mortal
+- fingertips
+- chatters
+- assumptions
+- temper
+- Let the science temper your knowledge a little bit.
+- fidget
+- upper bodies
+- compensate
+- myth
+- convey
+- sincerity
+- honesty
+- consciously
+- contract the muscles
+- cheeks
+-  the crow's feet of the eyes
+- goose bumps
+- overdid
+- Botox
+- overdo
+- discrepancies
+- overlooked
+- brainstorm
+- suspects
+- infuriated
+- lenient punishment.
+- withdrawn
+- herky-jerky
+- irrelevant
+- chronological
+- in strict chronological orde
+- interrogator
+- subtle
+- backwards
+- squirm
+- volume
+- rehearse
+- gestures
+- we shake our heads
+- convincing
+- slightly shrug our shoulders
+- duping delight
+- fathering a child out of wedlock
+- out of wedlock
+- paternity test
+- leaks
+- Murderers
+- venture
+- facial
+- the expression of contemp
+- on an even playing field
+- dismissed
+- moral superiority
+- asymmetrical
+- nightcap
+- go the other direction
+- surfaced
+- blink rate
+- shift <=> change
+- red flags
+- flailing gestures
+- clusters
+- probe
+- rapport
+- pummel
+- pummel their subjects into submission
+- spot a lie
+- close range
+- bled
+- scraggy-haired
+- agonizing
+- discrepancy
+- demeanor
+- fade
+- bothers <=> confuse
+- grieving
+- torturer
+- authentic
+- agony
+- third anniversary
+- terrified her
+- fought
+- brown
+- veracity
+- specialized
+- eye trackers
+- infrared
+- MRI
+- panaceas
+- deceit
+- electroencephalogram
+- Character's who you are in the dark.
+- lit up
+- transparent
+- buzz
+- oversharing
+- manic
+- blind <=> blink
+- decency
+- character integrity
+- explicit
+- exempt
+- falsehood
+- marginalized
