@@ -532,3 +532,13 @@ They need their bodies, privacy and two minutes, and it can significantly change
 Thank you.
 
 (Applause)
+
+- physiology <=> physician <=> psychology <=> physics
+- physiology (noun)
+	- the department of anatomy and physiology
+	- plant physiology
+	- the physiology of the horse
+- physiologist <=> psychologist
+- life hack
+- posture
+- audit
