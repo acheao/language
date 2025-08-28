@@ -33,10 +33,10 @@
 		{"id":"67988a630de1d3e1","type":"file","file":"material/TED/The Multidimensional Magic of Modern Maps.md","x":2880,"y":3640,"width":400,"height":400},
 		{"id":"903d7e2db040cd9e","type":"file","file":"material/TED/Is AI Ruining Music.md","x":2880,"y":2600,"width":400,"height":400},
 		{"id":"66e678fe95398d39","type":"text","text":"","x":835,"y":4440,"width":250,"height":60},
-		{"id":"82a0b13480a69cf9","type":"file","file":"material/TED/Don't Lie to Me.md","x":2880,"y":1680,"width":400,"height":400,"color":"3"},
-		{"id":"8633aa776997d1ce","type":"file","file":"material/TED/Body language shapes who you are.md","x":2880,"y":846,"width":400,"height":400},
+		{"id":"82a0b13480a69cf9","type":"file","file":"material/TED/Don't Lie to Me.md","x":2880,"y":1680,"width":400,"height":400},
+		{"id":"8633aa776997d1ce","type":"file","file":"material/TED/Body language shapes who you are.md","x":2880,"y":846,"width":400,"height":400,"color":"3"},
 		{"id":"dabbeb8a46d3ca60","type":"file","file":"material/TED/Looks aren't everything.md","x":2880,"y":0,"width":400,"height":400},
-		{"id":"0d3b5c6651aa5ac1","x":2880,"y":-880,"width":400,"height":400,"type":"file","file":"material/TED/The Blueprint for Serving a Million School Lunches.md"}
+		{"id":"0d3b5c6651aa5ac1","type":"file","file":"material/TED/The Blueprint for Serving a Million School Lunches.md","x":2880,"y":-880,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},

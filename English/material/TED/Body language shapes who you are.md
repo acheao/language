@@ -542,3 +542,32 @@ Thank you.
 - life hack
 - posture
 - audit
+- numerous
+- heckled
+- quicksand
+- spikes
+- hypothesis
+- positively
+- variables
+- competence
+- selves
+- residue
+- mediating
+- fraud
+- impostor
+- supposed
+- resonated
+- rehab
+- ward
+- deviations
+- traumatic
+- gifted
+- convinced
+- gamble
+- paralyzed
+- out-of-body
+- grad school
+- semester
+- defeated
+- internalize
+- ego
