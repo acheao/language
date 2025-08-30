@@ -11,17 +11,14 @@
             "id": "9cc2c55c8b306e86",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "English/material/TED/TED.canvas",
-                "viewState": {
-                  "x": -69.64162974880821,
-                  "y": 2683.2030903568984,
-                  "zoom": -3.290556877319212
-                }
+                "file": "English/material/TED/Body language shapes who you are.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "TED"
+              "icon": "lucide-file",
+              "title": "Body language shapes who you are"
             }
           }
         ]
@@ -101,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/material/other/vocabulary.md",
+            "file": "English/material/TED/Body language shapes who you are.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,10 +153,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cc2c55c8b306e86",
+  "active": "de06a9fc40a32e51",
   "lastOpenFiles": [
-    "English/material/TED/A New Vision of Healthy Masculinity.md",
     "English/material/TED/TED.canvas",
+    "English/material/TED/Let Your Ambition Light You Up — Not Burn You Out.md",
+    "English/material/TED/The Blueprint for Serving a Million School Lunches.md",
+    "English/material/TED/Looks aren't everything.md",
+    "English/material/TED/A New Vision of Healthy Masculinity.md",
     "English/material/other/vocabulary.md",
     "English/schedule.md",
     "English/temporary.md",
