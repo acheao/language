@@ -175,3 +175,65 @@ If there's a takeaway to this talk, I hope it's that we all feel more comfortabl
 Thank you.
 
 (Applause)
+
+- and for the last little while
+- wear => worn
+- outfit
+- heels
+- superficial
+- privileged
+- arch
+- tan
+- barring
+- immutable
+- twist
+- scouted
+- lottery
+- recipient
+- legacy
+- symmetry
+- biologically
+- cashing out
+- slender figures
+- commend
+- in charge of
+- impressive
+- on the runway
+- inventor
+- skeptical
+- fashionistas
+- cardiothoracic
+- ninja
+- the editor in chief
+- demonstration <=> demonstrate
+- democracy <=> demonstrate
+- surgeon
+- accumulated
+- HMI
+- walking shot
+- forth <=> fourth
+- go back and forth
+- Underwear
+- retouch
+- component
+- bikini
+- period
+- Vogue
+- constructions
+- hairstylists
+- makeup artists
+- stylists
+- pre-production
+- post-production
+- Cambridge
+- pulled over
+- frisked
+- skinnier
+- shinier
+- fabulous
+- passionate
+- a deck stacked in my favor
+- oppression
+- beneficiaries
+- unpack
+- agency

@@ -460,10 +460,98 @@ Thank you.
 	- an anaesthetic drug/spray
 - anaesthetist (noun)
 ---
-- unconscious
-- bother
-- mathematician
-- epidemics
+- unconscious (adjective)
+	- They found him lying unconscious on the floor.
+	- She was knocked unconscious.
+	- She fell unconscious after breathing in the gas.
+	- It was a powerful sedative that would render them unconscious within minutes.
+	- unconscious desires
+	- Freud sought to unlock the workings of the unconscious mind.
+	- the danger of unconscious bias
+	- The brochure is full of unconscious humour.
+- unconsciously (adverb)
+	- Perhaps, unconsciously, I've done something to offend her.
+- unconscious (noun)
+- unconscious bias (noun)
+	- Removing unconscious bias in the recruitment process is an important way of improving workforce diversity.
+	- They recognize the need for unconscious bias training as a starting point.
+- unconsciousness (noun)
+	- He had lapsed into unconsciousness.
+---
+
+- bother (verb) => bothers => bothered => bothered => bothering
+	- ‘Shall I wait?’ ‘No, don't bother’.
+	- I don't know why I bother! Nobody ever listens!
+	- If that’s all the thanks I get, I won’t bother in future!
+	- It's not worth bothering with (= using) an umbrella—the car's just outside.
+	- I don't know why you bother with that crowd (= why you spend time with them).
+	- He doesn’t bother much about his appearance.
+	- He didn't even bother to let me know he was coming.
+	- He hadn't even bothered to read the crucial documents.
+	- Doctors never bothered to check his blood pressure.
+	- Why bother asking if you're not really interested?
+	- I didn't bother trying to explain my feelings.
+	- The thing that bothers me is…
+	- That sprained ankle is still bothering her (= hurting).
+	- She has been bothered by a leg injury.
+	- ‘I'm sorry he was so rude to you.’ ‘It doesn't bother me.’
+	- I don't want to bother her with my problems at the moment.
+	- It bothers me to think of her alone in that big house.
+	- Stop bothering me when I'm working.
+	- Let me know if he bothers you again.
+	- Sorry to bother you, but there's a call for you on line two.
+	- Please stop bothering me with all these questions!
+	- be bothered
+		- I'm not bothered about what he thinks.
+		- ‘Where shall we eat?’ ‘I'm not bothered.’ (= I don't mind where we go.)
+	- can’t be bothered
+		- I should really do some work this weekend but I can't be bothered.
+		- All this has happened because you couldn't be bothered to give me the message.
+- bother (noun)
+	- You seem to have got yourself into a spot of bother.
+	- I don't want to put you to any bother (= cause you any trouble).
+	- Don't go to the bother of tidying up on my account (= don't make the effort to do it).
+	- ‘Thanks for your help!’ ‘It was no bother.’
+	- Call them and save yourself the bother of going round.
+	- I don’t mind looking after the children; they aren’t any bother.
+	- She’s been having a bit of bother with her car.
+	- I hope I haven't been a bother.
+- bother (exclamation)
+	- Bother! I've left my wallet at home.
+	- Oh, bother him! He's never around when you need him.
+- bothersome (adjective)
+---
+- mathematical (adjective)
+	- mathematical calculations/problems/models
+	- to assess children’s mathematical ability
+- mathematically (adverb)
+	- It's mathematically impossible.
+	- to model/calculate/prove something mathematically
+	- Some people are very mathematically inclined (= interested in and good at mathematics).
+- mathematics (noun)
+	- the school mathematics curriculum
+	- applied/pure mathematics
+	- He worked out the very difficult mathematics in great detail.
+	- Her proof is a remarkable piece of mathematics.
+	- The mathematics of baseball is/are very interesting.
+- mathematician (noun)
+	- one of the greatest mathematicians of all time
+---
+- epidemic (noun)
+	- the outbreak of a flu epidemic
+	- An epidemic of measles broke out, and over 200 children died.
+	- In Victorian times, London endured regular epidemics of smallpox and cholera.
+	- A recent report describes an epidemic of crime in the inner cities.
+- epidemics (adjective)
+	- Car theft is now reaching epidemic proportions.
+	- Marriage breakdown in the West has reached epidemic proportions.
+	- Obesity has reached epidemic proportions in this country.
+	- epidemic disease
+- epidemiological (adjective)
+	- epidemiological studies/data/evidence
+- epidemiologist (noun)
+- epidemiology (noun)
+---
 - statistical
 - complicated
 - visibly
@@ -560,3 +648,4 @@ Thank you.
 - abandon <=> relinquish
 - threaten <=> treatment
 - democracy <=> dramatic
+- freud <=> fraud

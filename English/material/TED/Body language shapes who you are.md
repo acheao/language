@@ -571,3 +571,90 @@ Thank you.
 - defeated
 - internalize
 - ego
+- posture
+- audit
+- sort of
+- hunching
+- wrapping
+- ankles
+- hold onto
+- tweak <=> adjust
+- life unfolds
+- fascinated
+- embarrassed <=> awkward
+- embarrassed <=> embrace
+- interaction
+- glance
+- wink <=> blink
+- handshake <=> shaking head
+- handshake
+- Prime Minister
+- nonverbal
+- nonverbal behavior <=> body language
+- valid
+- effective <=> valid
+- judgments
+- inferences
+- soundless
+- niceness
+- will be sued
+- incompetent
+- gubernatorial
+- emoticons
+- audience
+- prejudice
+- inevitable
+- dynamics
+- dominance
+- stretch
+- take up space
+- primates
+- chronically
+- universal
+- pride
+- congenitally
+- congenitally blind
+- blink <=> blind
+- chin
+- bump into
+- bumpy <=> bump
+- complement
+- exhibit
+- the full range of
+- caricatures
+- occupy
+- virtually
+- virtual <=> virtually
+- extent <=> degree
+- gender grade
+- equally qualified
+- collaborator
+- half the grade
+- behavioral
+- govern
+- do our nonverbals govern how we think and feel about ourselves?
+- hormones
+- make up
+- versus
+- assertive
+- games of chance
+- testosterone
+- cortisol
+- hierarchies
+- take over
+- facial
+- manipulation
+- intervention
+- dubbed
+- vial
+- spit
+- We don't want to prime them with a concept of power. <=> prime
+- gamble
+- saliva
+- whopping
+- risk tolerance
+- evaluative <=> evolution
+- school board
+- broad <=> board
+- giving a pitch
+- pitch
