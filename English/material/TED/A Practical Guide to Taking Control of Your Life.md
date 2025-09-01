@@ -157,3 +157,30 @@ No matter how stuck you are, if you can learn to locate the doors hidden within 
 Thank you.
 
 (Applause)
+
+- prisoner
+- conscious
+- passed out
+- awe
+- resentment
+- inconceivable <=> incredible
+- per se
+- trapped
+- foremost
+- multibillion
+- pioneering
+- innovative
+- fundamental
+- agency
+- personal agency
+- degrees of freedom
+- less and less
+- outsource
+- misapplied
+- quote
+- on tap
+- took from me
+- unnatural
+- advantage
+- cultivating
+- desperation
