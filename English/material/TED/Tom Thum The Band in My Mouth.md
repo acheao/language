@@ -137,3 +137,44 @@ Take it away.
 Thank you. Thank you very much.
 
 (Applause)
+
+- seedy
+- appropriate
+- demonstration
+- classics
+- back into time
+- way back
+- beatboxer
+- assure
+- microphone
+- whatsoever <=> whatever
+- stoked
+- inhuman
+- kinfolk <=> relative
+- noisemaking
+- niche market
+- cultural hub of the Southern Hemisphere
+- culture hub <=> culture centre
+- hemisphere
+- passion
+- continents
+- deserts
+- deserts
+- deserts
+- Sitar
+- destination
+- the thriving metropolis
+- reverb
+- flavor
+- Trumpet
+- unison
+- mimic
+- pad
+- last but not least
+- completely separate part
+- electric bass
+- jazz legends
+- Peeping
+- one and only
+- double bass
+- loop

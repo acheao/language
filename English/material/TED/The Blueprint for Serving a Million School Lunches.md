@@ -173,3 +173,4 @@ And if we get it right in Africa, the place where humanity began, we might just 
 Thank you.
 
 (Applause)
+

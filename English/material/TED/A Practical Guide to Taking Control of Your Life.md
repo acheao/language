@@ -184,3 +184,36 @@ Thank you.
 - advantage
 - cultivating
 - desperation
+- on tap
+- embarrass
+- roomful of strangers
+- ER
+- rehab
+- get back on my feet
+- pride
+- nodded along
+- agentic
+- to be some kind of desperate
+- adequate
+- shelf-stable
+- start-up
+- early on
+- invisible
+- innate
+- systematically
+- tactics
+- optimistic
+- traits
+- rejection
+- disservice
+- instinct
+- instead
+- unreasonable
+- delusional
+- feedback
+- obvious
+- anonymously
+- scary
+- exhilarating
+- specific <=> special
+- locate
