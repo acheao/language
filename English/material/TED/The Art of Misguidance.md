@@ -409,3 +409,8 @@ If you could control somebody's attention, what would you do with it?
 Thank you.
 
 (Applause)
+
+- superpower
+- unorthodox
+- misdirection
+- picking pockets
