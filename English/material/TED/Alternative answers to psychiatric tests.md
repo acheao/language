@@ -406,3 +406,128 @@ What would you have done?
 Thank you.
 
 (Applause) 
+
+- mental disorders
+- slim
+- pamphlet
+- leafing through it
+- generalized
+- nightmare
+- categorized
+- recurrent
+- malingering
+- crazier
+- psychiatry
+- critic
+- Scientologists
+- pseudo
+- Asylum
+- Criminally
+- Insane
+- serial killers
+- madness
+- sane
+- yawn
+- uncontrollably
+- apparently
+- wellness
+- Inn
+- peach
+- pine
+- bold
+- panic buttons
+- sweatpants
+- docile
+- whispered
+- medicated
+- pinstripe suit
+- outstretched
+- Apprentice
+- outfit
+- convince
+- cellmate
+- mad
+- cushy
+- biography
+- mentally
+- Scientist
+- bumblebees
+- sniff out
+- explosives
+- nonverbal
+- Strangler
+- Tiptoe
+- Stockwell Strangler
+- Tulips
+- rapist
+- aloof
+- grandiose
+- hang out with
+- clinician
+- hallucinations
+- cliche
+- vanished
+- psychopath
+- cunning
+- manipulative
+- glibness
+- superficial
+- charm
+- grandiose
+- empathy
+- psychopath-spotting
+- certified
+- adept
+- spotter
+- regular people
+- carnage
+- capitalism
+- ruthless
+- remorseless
+- manifestation
+- manifestation
+- psychopathy
+- Chainsaw
+- anomaly
+- predatory
+- grand
+- mansion
+- sculptures
+- falcons
+- eagles
+- effeminate
+- bodyguard
+- psychopathic
+- psychopathic traits
+- intrigued
+- Shallow affect
+- nonsense emotions
+- weighed down
+- juvenile
+- delinquency
+- marital
+- Admittedly
+- flesh
+- desperate
+- shove
+- maddest edges
+- gems
+- interviewee's
+- personality
+- hugely
+- bipolar
+- temper tantrums
+- remorse
+- witchcraft
+- tribunal
+- indefinitely
+- recidivism
+- corridor
+- Belgium
+- fancy
+- ominous
+- fracas
+- semi
+- gray area
+- complexity
+- 
