@@ -530,4 +530,3 @@ Thank you.
 - semi
 - gray area
 - complexity
-- 

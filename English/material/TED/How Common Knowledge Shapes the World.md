@@ -209,3 +209,161 @@ As a man once said, "What's there to say? It's so obvious."
 Thank you.
 
 (Applause)
+
+- nonetheless
+- blurting out
+- earshot
+- emperor
+- obsequious
+- deference
+- ridicule
+- scorn
+- immortal
+- draws on
+- momentous
+- distinction
+- but in addition
+- infinitum
+- coordination
+- Manhattan
+- incommunicado
+- somehow
+- browse
+- aisles
+- hang out
+- anticipate
+- occur
+- haunt
+- pirouettes
+- whipsawed
+- futile
+- guarantee
+- infinite Russian doll
+- spin
+- intuition
+- conspicuous
+- conveyed
+- dilemmas
+- absence
+- salience
+- focal
+- convention
+- tacit
+- chivalry
+- patriarchy
+- whimsy
+- lost-and-found
+- fairness
+- flip coins
+- take turns
+- maniac
+- freeway
+- grocer
+- groceries
+- supplier
+- autocrats
+- terrified
+- eponymous
+- Indians
+- demonstration
+- resistance
+- apparatus
+- boycotts
+- storming the palace
+- apparatus
+- stoppages
+- leaflets
+- passersby
+- blank sheets of paper
+- KGB
+- subversive
+- imitating
+- speculative
+- beauty contest
+- prettiest
+- contestant
+- exuberant
+- recursive
+- mentalizing
+- inherent
+- productive
+- unload it at a profit
+- fools
+- cryptocurrency
+- touting
+- levitate
+- midair
+- suspended
+- bank run
+- hyperinflation
+- bromide
+- theorem
+- wordsmiths
+- mystics
+- occasionally
+- comedians
+- mumble
+- incoherence
+- unduly
+- czar
+- self-fulfilling
+- dominant
+- transaction partners
+- cemented
+- blushing
+- reddening
+- cheeks
+- unignorable
+- Conversely
+- upending
+- blurt
+- veil <=> evil
+- innuendo
+- euphemism
+- drift
+- etchings
+- chill
+- bribes
+- Soprano
+- civic
+- plausible
+- deniability
+- giggle
+- overture
+- naive
+- dense
+- platonic
+- maintain
+- fiction <=> fraction
+- platonic
+- bare-faced
+- deplore
+- hypocrisy
+- interaction
+- dystopian
+- underpinned
+- limitless
+- loyalty
+- generosity
+- pollute
+- intimate
+- norms
+- lawgivers
+- civility
+- brazenly
+- insult
+- vendettas
+- prosecute
+- anarchic
+- you don't prosecute personal vendettas
+- arena
+- immortal
+- conquest
+- unthinkable
+- grandfathered in
+- propped
+- acceptance
+- imploding
+- overtly
+- flouted
+- harmony
