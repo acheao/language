@@ -163,3 +163,67 @@ For you to see your grandmother or a parent in the curved lines of my grandmothe
 Thank you.
 
 (Applause)
+
+- grapple with
+- visual
+- cartoonist
+- comics
+- impersonal
+- Commentary
+- lifted
+- creep
+- medium
+- I've been talking to your ass for 15 minutes
+- condom
+- smugness
+- pareidolia
+- phenomenon
+- inanimate
+- They're blank canvases onto which we project ourselves
+- evolutionary
+- convert <=> convey
+- revolution
+- noon
+- sensation
+- smoothness
+- instinct
+- surprisingly
+- Proustian
+- reflect on
+- essence
+- involuntary
+- complicated
+- grieve <=> grief <=> grieving
+- dodge
+- caricature
+- flaws
+- emblematic
+- distill
+- exaggerate
+- narrow <=> narrative
+- flattening
+- richness
+- arthritic
+- contours
+- veins
+- pronounced
+- moisturizing
+- vain
+- incapable
+- topless
+- available
+- capable
+- knuckles
+- gnarled
+- inhabit
+- quivering
+- spotted
+- kidney failure
+- regularly
+- transforming
+- dialysis
+- boots
+- jeans
+- accompanying
+- forgiveness
+- various <=> variable

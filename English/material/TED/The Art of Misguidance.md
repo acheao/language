@@ -414,3 +414,49 @@ Thank you.
 - unorthodox
 - misdirection
 - picking pockets
+- organize
+- pickpocket
+- perceptive
+- perceptions
+- trinity
+- fancy
+- surveillance
+- sensors
+- steers
+- aware
+- ironically
+- techniques
+- exploit
+- distraction
+- external <=> internal
+- turns around
+- American Express
+- rewind the tape
+- Just hold still where you are
+- inventory
+- buffet
+- ollow directions well
+- clicker
+- appreciate
+- poker chip
+- commitment
+- traumatizing
+- miscommunication
+- squeeze your hand tight
+- wrist
+- firm
+- shoulder
+- take it off
+- I have faith in you
+- distracted
+- This trick's more about the timing.
+- the watch
+- token
+- lands right back
+- Squeaking
+- herring
+- shrimp
+- entertained
+- Hesitant
+- pose that question to you
+- pants pocket
