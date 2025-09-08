@@ -11,14 +11,17 @@
             "id": "9cc2c55c8b306e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "English/material/TED/Body language shapes who you are.md",
-                "mode": "preview",
-                "source": false
+                "file": "English/material/TED/TED.canvas",
+                "viewState": {
+                  "x": -3506.421775499964,
+                  "y": -1751.8802976582997,
+                  "zoom": -2.2212565852398574
+                }
               },
-              "icon": "lucide-file",
-              "title": "Body language shapes who you are"
+              "icon": "lucide-layout-dashboard",
+              "title": "TED"
             }
           }
         ]
@@ -155,11 +158,11 @@
   },
   "active": "9cc2c55c8b306e86",
   "lastOpenFiles": [
+    "English/material/TED/Body language shapes who you are.md",
+    "English/material/TED/TED.canvas",
     "English/material/TED/Can AI Help Us Speak with Wolves.md",
     "English/material/TED/3 tips on how to study effectively.md",
     "English/material/TED/Why You Should Be Able to Vote on Your Phone.md",
-    "English/material/TED/Body language shapes who you are.md",
-    "English/material/TED/TED.canvas",
     "English/material/TED/Let Your Ambition Light You Up — Not Burn You Out.md",
     "English/material/TED/The Blueprint for Serving a Million School Lunches.md",
     "English/material/TED/Looks aren't everything.md",
