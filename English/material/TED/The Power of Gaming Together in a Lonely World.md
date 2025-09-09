@@ -251,3 +251,34 @@ Laura, thank you so much.
 LM: Thanks, Manoush.
 
 (Applause)
+
+- comparisons <=> compare
+- fidelity
+- revolutions
+- synonymous
+- pop culture
+- evolved
+- Emmys
+- TV adaptations
+- billion trillion
+- 120 million => 120个百万，英语思维（1.2亿中文思维）
+- Grammys <=> Germany
+- Oscars
+- Now for some context
+- times three
+- humanity
+- perfect medium
+- opponents
+- exponential accelerator
+- interact with games
+- platforms
+- but that's not the case
+- left to one’s own devices
+- surgeon general
+- epidemic of loneliness
+- mental well-being
+- belonging
+- collaborating
+- reality TV
+- lights up
+- skepticism

@@ -164,7 +164,10 @@ Thank you.
 
 (Applause)
 
-- grapple with
+- grapple(verb) => grapples => grappled => grappled => grappling
+	- Passers-by grappled with the man after the attack.
+	- They managed to grapple him to the ground.
+	- 
 - visual
 - cartoonist
 - comics
