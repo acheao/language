@@ -282,3 +282,58 @@ LM: Thanks, Manoush.
 - reality TV
 - lights up
 - skepticism
+- perception
+- spawned
+- survey <=> surgery <=> surgeon
+- validate
+- collaboration
+- isolated
+- homebound
+- dare I say
+- family guild
+- Nothing beats
+- play for longer
+- collaborative <=> Cooperative
+- studios
+- Fast forward to today
+- atomic
+- it's no accident
+- loneliness
+- longing
+- dimension
+- dimension <=> aspect
+- Navy
+- SEAL
+- roleplay
+- on the fly
+- squad
+- strategizing
+- all while the clock ticks away
+- compatibility
+- Fortnite
+- Minecraft
+- The Sims
+- chirped
+- epic  <=> era
+- superior
+- overwhelmingly
+- drastically <=> dramatic <=> domestic
+- intentional <=> internal 
+- external <=> internal
+- International <=> internal
+- path through
+- a call to arms
+- hardware
+- toasters
+- refrigerators => fridge
+- fridge <=> bridge
+- spectrum
+- interactive experiences
+- a broad spectrum of accessibility
+- puzzles
+- fast forward
+- goggles
+- footage
+- Battlefield
+- landscape
+- OK, looking forward to that
