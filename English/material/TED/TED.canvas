@@ -44,7 +44,8 @@
 		{"id":"ee40a51552f0ba8b","type":"file","file":"material/TED/How Art Helped Me Grapple with Grief.md","x":-2520,"y":-1880,"width":400,"height":400,"color":"6"},
 		{"id":"cfc8f0a91c09a727","type":"file","file":"material/TED/The Power of Gaming Together in a Lonely World.md","x":-3680,"y":-1880,"width":400,"height":400,"color":"3"},
 		{"id":"8e998e7a09b29eef","type":"file","file":"material/TED/Is This the Future of Media.md","x":-3680,"y":-880,"width":400,"height":400,"color":"3"},
-		{"id":"66e678fe95398d39","type":"text","text":"","x":-5920,"y":1320,"width":250,"height":60}
+		{"id":"66e678fe95398d39","type":"text","text":"","x":-5920,"y":1320,"width":250,"height":60},
+		{"id":"770591da0ee12c02","x":-3680,"y":0,"width":400,"height":400,"type":"file","file":"material/TED/700 Million People Still Live Without Electricity. Here’s the Fix.md"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
