@@ -200,3 +200,106 @@ A culture worth subscribing to.
 Thank you.
 
 (Applause)
+
+- disruption
+- printing press
+- transform <=> transfer <=> transformation <=> transportation
+- polarization
+- a hell of a mess
+- I secretly think that
+- a massive deal
+- navigating these shifts
+- Starbucks <=> Substack
+- lead writer
+- revolution <=> transform
+- democratize <=> demonstration
+- concentrated
+- in the hands of a few
+- flourish <=> flour
+- illustrator
+- incredible <=> credits
+- credits
+- Supercast
+- slide
+- Twitch
+- autonomy
+- at the mercy of
+- mercy
+- maximize engagement
+- engagement
+- advertising revenue
+- temple
+- top-down
+- centralized
+- gatekeepers
+- rigid
+- perspectives <=> perception
+- let in by favor
+- came along
+- sacked
+- classifieds
+- dismantling
+- streaming services
+- in the age of chaos media
+- catechism
+- cacophony
+- mirrors
+- Opponents
+- humiliated <=> humanitarian <=> humanity
+- fealty
+- doctrines
+- positive <=> negative
+- wins the day
+- dunk on someone
+- dunk tweets
+- goading salutes
+- goading
+- goading <=> aggressive
+- green shoots
+- salutes
+- inorganic
+- in somewhat inorganic terms
+- demonstrated
+- bulb
+- electric grid
+- virality
+- bedlam
+- the many instead of the few
+- Breaking Points
+- subscriptions
+- broader
+- a broader range of
+- spurned
+- accessible recipes
+- instant
+- bestseller
+- anointed
+- cultivated
+- genuine <=> genius
+- newsletter
+- aggregators <=> aggressive
+- ownership
+- whims
+- algorithmic whims
+- viral trends
+- vulnerable
+- changed their policies overnight
+- profound
+- nurturing
+- nuance
+- resists both
+- biodiversity <=> diversity
+- coverage
+- niches
+- echo chambers
+- network <=> grid
+- moderate
+- opposite <=> opponents
+- cannot last
+- values deep relationships
+- reclaim
+- doomscroll feeds
+- seedlings
+- thought <=> through
+- thoughtful
+- face up
