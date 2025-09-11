@@ -191,6 +191,45 @@ Thank you.
 
 (Applause)
 
-```
-survey protective millennial downright exceedinglydistracted participating tracked sophomores specificallytenements exam bricklayers alcoholism schizophrenia ladderopposite dedicated questionnaires videotape lonelinesstoxic midlife functioning affection octogenarian cholesterolslings and arrows magnified bicker wisdom messy complicatedglamorous retirement playmates possibilities practicallyfeuds grudges quote briefcallings to accountinstant
-```
+- survey 
+- protective 
+- millennial 
+- downright 
+- exceedingly distracted 
+- participating 
+- tracked 
+- sophomores 
+- specifically 
+- tenements 
+- exam 
+- bricklayers 
+- alcoholism 
+- schizophrenia 
+- ladderopposite 
+- dedicated 
+- questionnaires 
+- videotape 
+- loneliness 
+- toxic 
+- midlife 
+- functioning 
+- affection 
+- octogenarian 
+- cholesterol 
+- slings and arrows 
+- magnified 
+- bicker 
+- wisdom 
+- messy 
+- complicated 
+- glamorous 
+- retirement 
+- playmates 
+- possibilities 
+- practically 
+- feuds 
+- grudges 
+- quote 
+- brief
+- callings to account 
+- instant

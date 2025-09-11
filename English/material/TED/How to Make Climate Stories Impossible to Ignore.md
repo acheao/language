@@ -242,106 +242,103 @@ So thanks so much.
 
 (Applause)
 
-```
-confession
-intergovernmental
-panel
-flood
-crap
-screwed
-Institute
-covering
-behind the veil
-traumatic
-Journalism
-Network
-co-foun
-angel
-angle
-lens
-newsroom
-editors-in-chiefs
-loads of
-over the course of six months
-harder for people to look away
-proactive
-short of that
-boundary
-professors
-binge
-biodiversity
-activist
-rugby
-comedian
-alumnus
-broadcaster
-electrify
-Shortage
-electrician
-degrees
-heatstroke
-polling booths
-excuse
-react
-dots
-in charge of
-grappling with
-Little League game
-inventory
-climate desk
-contagious
-coverage
-livelihoods
-mushroom picking
-durian
-skiing
-tasty
-Mango
-brilliant
-assumptions
-confession
-intergovernmental
-panel
-flood
-crap
-screwed
-Institute
-covering
-behind the veil
-traumatic
-Journalism
-Network
-co-founders
-angel
-angle
-lens
-newsroom
-editors-in-chiefs
-loads of
-over the course of six months
-broadcaster
-electrify
-Shortage
-electrician
-degrees
-heatstroke
-polling booths
-excuse
-react
-dots
-in charge of
-grappling with
-Little League game
-inventory
-climate desk
-contagious
-coverage
-livelihoods
-mushroom picking
-durian
-skiing
-tasty
-Mango
-brilliant
-assumptions
-```
+
+- confession
+- intergovernmental
+- panel
+- flood
+- crap
+- screwed
+- Institute
+- covering
+- behind the veil
+- traumatic
+- Journalism
+- Network
+- co-foun
+- angel
+- lens
+- newsroom
+- editors-in-chiefs
+- loads of
+- over the course of six months
+- harder for people to look away
+- proactive
+- short of that
+- boundary
+- professors
+- binge
+- biodiversity
+- activist
+- rugby
+- comedian
+- alumnus
+- broadcaster
+- electrify
+- Shortage
+- electrician
+- degrees
+- heatstroke
+- polling booths
+- excuse
+- react
+- dots
+- in charge of
+- grappling with
+- Little League game
+- inventory
+- climate desk
+- contagious
+- coverage
+- livelihoods
+- mushroom picking
+- durian
+- skiing
+- tasty
+- Mango
+- brilliant
+- assumptions
+- confession
+- intergovernmental
+- panel
+- flood
+- crap
+- screwed
+- Institute
+- covering
+- behind the veil
+- traumatic
+- Journalism
+- Network
+- co-founders
+- angle
+- lens
+- newsroom
+- editors-in-chiefs
+- loads of
+- over the course of six months
+- broadcaster
+- electrify
+- Shortage
+- electrician
+- degrees
+- heatstroke
+- polling booths
+- excuse
+- react
+- dots
+- in charge of
+- grappling with
+- Little League game
+- inventory
+- climate desk
+- contagious
+- coverage
+- livelihoods
+- mushroom picking
+- durian
+- skiing
+- tasty
+- Mango
+- brilliant
+- assumptions

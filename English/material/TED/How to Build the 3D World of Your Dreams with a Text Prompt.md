@@ -132,29 +132,26 @@ Thank you.
 
 (Applause)
 
-```
-dimension 
-playable
-stylized
-pagoda
-pine trees
-traditional
-prompt
-spatial
-transforming
-avatar
-textures
-happening live
-Snowmobile
-Palm tree
-Cocos nucifera
-Santa
-right off the bat
-overall aesthetic
-globally
-truck
-immersive
-emit
-transformative
-
-```
+- dimension 
+- playable
+- stylized
+- pagoda
+- pine trees
+- traditional
+- prompt
+- spatial
+- transforming
+- avatar
+- textures
+- happening live
+- Snowmobile
+- Palm tree
+- Cocos nucifera
+- Santa
+- right off the bat
+- overall aesthetic
+- globally
+- truck
+- immersive
+- emit
+- transformative

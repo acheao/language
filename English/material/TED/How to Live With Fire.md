@@ -172,7 +172,61 @@ Thank you.
 
 (Applause)
 
-```
-ancestral grateful foe spirit drift glacierParadoxically diligently expertly millenniashaped lit gently trickled insects crittersindication sacredness lore manifests enliveningconnectedness Aboriginal indigenous destructivecolonialism developmentalism capitalism industrializationfiery wildfires custodians indiscriminatelywildlife incendiary bushland arsonists Queenslandecological acres wheatbelt overcleared overgrazedoverfertilized overcropped heal grasses endemicforeground regenerative contemporary holisticbiodiverse ecological nonexistent conserve ally commit
-```
+- ancestral 
+- grateful 
+- foe 
+- spirit 
+- drift 
+- glacier 
+- Paradoxically 
+- diligently 
+- expertly 
+- millennia 
+- shaped 
+- lit 
+- gently 
+- trickled 
+- insects 
+- critters 
+- indication 
+- sacredness 
+- lore 
+- manifests 
+- enlivening
+- connectedness 
+- Aboriginal 
+- indigenous 
+- destructive 
+- colonialism 
+- developmentalism 
+- capitalism 
+- industrialization 
+- fiery 
+- wildfires 
+- custodians 
+- indiscriminately 
+- wildlife 
+- incendiary 
+- bushland
+- arsonists 
+- Queensland 
+- Ecological 
+- acres 
+- wheatbelt 
+- overcleared 
+- overgrazed overfertilized 
+- overcropped 
+- heal 
+- grasses 
+- endemic 
+- foreground 
+- regenerative 
+- contemporary 
+- holistic 
+- biodiverse 
+- ecological 
+- nonexistent 
+- conserve 
+- ally 
+- commit
 

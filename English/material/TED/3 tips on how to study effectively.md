@@ -81,6 +81,28 @@ The reason all three of these study techniques work is because they’re designe
 
 They complement and reinforce the incredible way the brain works, sorting through and storing the abundance of information it’s fed day after day.
 
-```
-surgical suture arteries memorize anatomy temporarily neuronshippocampus chambers stabilizing neocortex crucially susceptiblequizzes flashcards retrieve competence gauge theorized relevantrevealed integrate deck Interleaving retention complement abundance
-```
+
+- surgical 
+- suture 
+- arteries 
+- memorize 
+- anatomy 
+- temporarily 
+- neurons hippocampus
+- chambers 
+- stabilizing 
+- neocortex 
+- crucially 
+- susceptible quizzes 
+- flashcards 
+- retrieve 
+- competence 
+- gauge 
+- theorized 
+- relevant revealed 
+- integrate 
+- deck 
+- Interleaving 
+- retention 
+- complement 
+- abundance

@@ -328,6 +328,68 @@ BG: Thank you.
 
 (Applause)
 
-```
-CE Common Era upended overstate inequity seize prevention pervasive hydrantAD Anno Domini Helicopter rotors whirring dispatched spotted orchestrate diplomacyAugustus ditch diverse logistic epidemiologists mission coordinated stationed risky infectiouscough pathogen sequence exponentially diagnostic quarantine distancing capita spectrumtherapeutics vaccines R&D inhale immune in advance vaccination miracle patch inhaleemerging variants standing by eradicate Innovative coronavirus insurance giganticmalaria personnel notch stunned ironic desirous
+
+- CE 
+- Common 
+- Era 
+- upended 
+- overstate 
+- inequity 
+- seize 
+- prevention 
+- pervasive 
+- hydrant
+- AD 
+- Anno 
+- Domini
+- Helicopter 
+- rotors 
+- whirring 
+- dispatched 
+- spotted 
+- orchestrate 
+- diplomacy 
+- Augustus 
+- ditch 
+- diverse 
+- logistic 
+- epidemiologists 
+- mission 
+- coordinated 
+- stationed 
+- risky 
+- infectious 
+- cough 
+- pathogen 
+- sequence 
+- exponentially 
+- diagnostic 
+- quarantine 
+- distancing 
+- capita 
+- spectrum 
+- therapeutics 
+- vaccines 
+- R&D 
+- inhale 
+- immune in 
+- advance 
+- vaccination 
+- miracle 
+- patch 
+- inhale 
+- emerging 
+- variants 
+- standing by 
+- eradicate 
+- Innovative 
+- coronavirus 
+- insurance 
+- gigantic 
+- malaria 
+- personnel 
+- notch 
+- stunned 
+- ironic 
+- desirous
 ```

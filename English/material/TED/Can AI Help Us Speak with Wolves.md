@@ -256,63 +256,61 @@ Thank you.
 
 (Applause)
 
-```
-howl 
-matriarch 
-grandest 
-iconic 
-wolfish 
-autonomous 
-precise 
-poacher 
-backcountry 
-barks 
-yelps 
-whimpers 
-whines 
-moans 
-clacking 
-chorus 
-departed 
-portion 
-poking 
-nap 
-representation 
-pale yellow dot on our pale blue planet 
-wolf den 
-blobs 
-dawn 
-spectrograms 
-visualizes 
-signal 
-distress 
-territory 
-rally 
-off camera 
-pack 
-mates 
-alpha 
-conductor 
-in this mosh pit 
-family bonds 
-rival 
-outnumbered 
-audio 
-census 
-loosely 
-modulated 
-send backup 
-secretive 
-vocalize 
-roughly 
-nod 
-close-range 
-snout 
-mammals 
-forearm 
-livestock 
-carnivores 
-pinky 
-wildness 
-vowel
-```
+- howl 
+- matriarch 
+- grandest 
+- iconic 
+- wolfish 
+- autonomous 
+- precise 
+- poacher 
+- backcountry 
+- barks 
+- yelps 
+- whimpers 
+- whines 
+- moans 
+- clacking 
+- chorus 
+- departed 
+- portion 
+- poking 
+- nap 
+- representation 
+- pale yellow dot on our pale blue planet 
+- wolf den 
+- blobs 
+- dawn 
+- spectrograms 
+- visualizes 
+- signal 
+- distress 
+- territory 
+- rally 
+- off camera 
+- pack 
+- mates 
+- alpha 
+- conductor 
+- in this mosh pit 
+- family bonds 
+- rival 
+- outnumbered 
+- audio 
+- census 
+- loosely 
+- modulated 
+- send backup 
+- secretive 
+- vocalize 
+- roughly 
+- nod 
+- close-range 
+- snout 
+- mammals 
+- forearm 
+- livestock 
+- carnivores 
+- pinky 
+- wildness 
+- vowel

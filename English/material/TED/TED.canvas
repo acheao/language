@@ -45,7 +45,10 @@
 		{"id":"cfc8f0a91c09a727","type":"file","file":"material/TED/The Power of Gaming Together in a Lonely World.md","x":-3680,"y":-1880,"width":400,"height":400,"color":"3"},
 		{"id":"8e998e7a09b29eef","type":"file","file":"material/TED/Is This the Future of Media.md","x":-3680,"y":-880,"width":400,"height":400,"color":"3"},
 		{"id":"66e678fe95398d39","type":"text","text":"","x":-5920,"y":1320,"width":250,"height":60},
-		{"id":"770591da0ee12c02","x":-3680,"y":0,"width":400,"height":400,"type":"file","file":"material/TED/700 Million People Still Live Without Electricity. Here’s the Fix.md"}
+		{"id":"770591da0ee12c02","type":"file","file":"material/TED/700 Million People Still Live Without Electricity. Here’s the Fix.md","x":-3680,"y":0,"width":400,"height":400},
+		{"id":"7676d76a6ee38f68","type":"file","file":"material/TED/An Unexpected Plan for Peace in the Middle East.md","x":-3680,"y":846,"width":400,"height":400},
+		{"id":"93741d063a925076","type":"file","file":"material/TED/How to Turn AI Prompts into Movie Magic.md","x":-3680,"y":1680,"width":400,"height":400},
+		{"id":"012a1dc260326baf","x":-3680,"y":2600,"width":400,"height":400,"type":"file","file":"material/TED/Schools stifle creativity.md"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -91,6 +94,10 @@
 		{"id":"ccc5516bba94d7a0","fromNode":"f6eae0ae0ac90815","fromSide":"left","toNode":"ee40a51552f0ba8b","toSide":"right"},
 		{"id":"da19a8860d4bbe35","fromNode":"ee40a51552f0ba8b","fromSide":"left","toNode":"cfc8f0a91c09a727","toSide":"right"},
 		{"id":"49c46f07acd70b52","fromNode":"cfc8f0a91c09a727","fromSide":"bottom","toNode":"8e998e7a09b29eef","toSide":"top"},
-		{"id":"5600488cd2a2bc92","fromNode":"66e678fe95398d39","fromSide":"top","toNode":"646b958e4357bddf","toSide":"bottom"}
+		{"id":"5600488cd2a2bc92","fromNode":"66e678fe95398d39","fromSide":"top","toNode":"646b958e4357bddf","toSide":"bottom"},
+		{"id":"bda47c8959e7c312","fromNode":"8e998e7a09b29eef","fromSide":"bottom","toNode":"770591da0ee12c02","toSide":"top"},
+		{"id":"407b942e965f5b2d","fromNode":"770591da0ee12c02","fromSide":"bottom","toNode":"7676d76a6ee38f68","toSide":"top"},
+		{"id":"350b6c2f8c88057b","fromNode":"7676d76a6ee38f68","fromSide":"bottom","toNode":"93741d063a925076","toSide":"top"},
+		{"id":"570988906f25dde1","fromNode":"93741d063a925076","fromSide":"bottom","toNode":"012a1dc260326baf","toSide":"top"}
 	]
 }
