@@ -45,10 +45,10 @@
 		{"id":"cfc8f0a91c09a727","type":"file","file":"material/TED/The Power of Gaming Together in a Lonely World.md","x":-3680,"y":-1880,"width":400,"height":400,"color":"3"},
 		{"id":"8e998e7a09b29eef","type":"file","file":"material/TED/Is This the Future of Media.md","x":-3680,"y":-880,"width":400,"height":400,"color":"3"},
 		{"id":"66e678fe95398d39","type":"text","text":"","x":-5920,"y":1320,"width":250,"height":60},
-		{"id":"770591da0ee12c02","type":"file","file":"material/TED/700 Million People Still Live Without Electricity. Here’s the Fix.md","x":-3680,"y":0,"width":400,"height":400},
+		{"id":"770591da0ee12c02","type":"file","file":"material/TED/700 Million People Still Live Without Electricity. Here’s the Fix.md","x":-3680,"y":0,"width":400,"height":400,"color":"3"},
 		{"id":"7676d76a6ee38f68","type":"file","file":"material/TED/An Unexpected Plan for Peace in the Middle East.md","x":-3680,"y":846,"width":400,"height":400},
 		{"id":"93741d063a925076","type":"file","file":"material/TED/How to Turn AI Prompts into Movie Magic.md","x":-3680,"y":1680,"width":400,"height":400},
-		{"id":"012a1dc260326baf","x":-3680,"y":2600,"width":400,"height":400,"type":"file","file":"material/TED/Schools stifle creativity.md"}
+		{"id":"012a1dc260326baf","type":"file","file":"material/TED/Schools stifle creativity.md","x":-3680,"y":2600,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},

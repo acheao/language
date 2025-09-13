@@ -224,10 +224,39 @@ Thank you.
 
 (Applause)
 
-- planetary
-- lifetime
-- invented <=> innovation
-- incandescent
+- planetary (adjective)
+	- planetary activity
+	- a planetary system
+- planet (noun)
+	- the planets of our solar system
+	- the planet Earth/Venus/Mars
+	- the possibility of life deep below the planet's surface
+	- the battle to save the planet
+	- He must be one of the few people on the planet without a website.
+- planetarium (noun) => planetariums
+---
+- lifetime (noun)
+	- a lifetime of experience
+	- His diary was not published during his lifetime.
+	- These spending commitments are not achievable in the lifetime of the present government.
+	- Memories can last a lifetime.
+	- He had spent a lifetime trying to please his father.
+	- The veteran actor was honoured with a lifetime achievement award.
+	- He received a lifetime ban from cycling after testing positive for a performance-enhancing drug.
+	- When she was offered the job she knew it was the chance of a lifetime.
+	- the trip/experience/opportunity of a lifetime
+	- once in a lifetime
+		- An opportunity like this comes once in a lifetime.
+		- a once-in-a-lifetime experience
+		- That sort of thing happens only once in a lifetime.
+---
+- incandescent (adjective)
+	- incandescent lamps
+	- incandescent white
+	- an incandescent musical performance
+	- She was incandescent with rage.
+- incandescence (noun)
+---
 - bulb
 - ushering
 - in the age of electricity
@@ -320,3 +349,4 @@ Thank you.
 - gasp
 - astonishment
 - averted
+- invented <=> innovation
