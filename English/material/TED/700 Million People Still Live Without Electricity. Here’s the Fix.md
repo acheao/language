@@ -223,3 +223,100 @@ So let's get going.
 Thank you.
 
 (Applause)
+
+- planetary
+- lifetime
+- invented <=> innovation
+- incandescent
+- bulb
+- ushering
+- in the age of electricity
+- age <=> era
+- dirty
+- overlooked
+- underestimated <=> estimated
+- estimated
+- moral imagination
+- approach risk
+- address the false binary
+- mitigation
+- adaptation
+- how we approach risk
+- at stake
+- Before we talk about that, though, let's look at what's at stake.
+- disproportionately
+- We know that the most vulnerable are disproportionately impacted by climate events.
+- cooling
+- irrigation
+- empowerment
+- entrepreneurs
+- tutor
+- can't claim full credit
+- privilege
+- extraordinary
+- adjacent
+- e-mobility
+- cookstoves
+- motorbikes
+- powering down the streets
+- continent <=> content
+- bandits
+- cousins
+- sign language
+- on track
+- electrification
+- dismiss
+- This is about our shared human dignity.
+- dignity
+- precisely
+- droughts
+- pandemics
+- fragile
+- urgency
+- rung
+- ladder
+- avert
+- transformation
+- constraint
+- transitioning
+- And it makes no sense.
+- scarce <=> scared
+- glance
+- Macroeconomic
+- headwinds
+- depreciation
+- pummeled
+- Inequality
+- narratives
+- post-aid
+- Reach <=> Research <=> search
+- essentially
+- blend
+- philanthropy
+- impact investing
+- commercial bank
+- early-stage patient capital investments
+- Somalia
+- DRC
+- debt facility
+- impact-aligned
+- Side by side
+- anchored
+- institutional capital
+- thus far
+- stakeholders
+- continuum
+- courage
+- competence
+- have the final word
+- offset
+- equally important
+- instability
+- emissions
+- emissions
+- perspective
+- investor's perspective
+- eminently
+- gasp
+- astonishment
+- averted
