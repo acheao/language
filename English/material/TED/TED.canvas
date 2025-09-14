@@ -65,7 +65,13 @@
 		{"id":"d3d248179799afd8","type":"file","file":"material/TED/Why Love Is Harder in a Second Language.md","x":4080,"y":846,"width":400,"height":400,"color":"5"},
 		{"id":"601609d89b471a00","type":"file","file":"material/TED/Are We Cooked How Social Media Shapes Language.md","x":4080,"y":0,"width":400,"height":400,"color":"5"},
 		{"id":"e2e5391ceacc4de3","type":"file","file":"material/TED/Let’s Get Real About Free Speech.md","x":4080,"y":-880,"width":400,"height":400,"color":"5"},
-		{"id":"f630ce10200765b7","type":"file","file":"material/TED/The Surprising Power of Your Nature Photos.md","x":4080,"y":-1880,"width":400,"height":400,"color":"1"}
+		{"id":"f630ce10200765b7","type":"file","file":"material/TED/The Surprising Power of Your Nature Photos.md","x":4080,"y":-1880,"width":400,"height":400,"color":"1"},
+		{"id":"f5bcd763eff6bde6","type":"file","file":"material/TED/What I Learned About Freedom in a Secret Chinese Prison.md","x":4080,"y":-2960,"width":400,"height":400,"color":"1"},
+		{"id":"ec2687b34049d9d5","type":"file","file":"material/TED/Is This the Time of Monsters — or Miracles.md","x":2880,"y":-2960,"width":400,"height":400,"color":"1"},
+		{"id":"5ec4eecddb931dfe","type":"file","file":"material/TED/A Parent’s Guide to Raising Kids After Loss.md","x":1840,"y":-2960,"width":400,"height":400,"color":"1"},
+		{"id":"bee49b72f2c3bdec","type":"file","file":"material/TED/The Future Isn’t Just Coded — It’s Built.md","x":760,"y":-2960,"width":400,"height":400,"color":"1"},
+		{"id":"b74cb74e8a140566","type":"file","file":"material/TED/A New Lifeline for the World’s Coral Reefs.md","x":-340,"y":-2960,"width":400,"height":400,"color":"1"},
+		{"id":"a0d1706e9b8310f7","x":-1440,"y":-2960,"width":400,"height":400,"color":"1","type":"file","file":"material/TED/The Poetry of Family.md"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -132,6 +138,12 @@
 		{"id":"f70db87ab949cbbe","fromNode":"a4772c4982339e4a","fromSide":"top","toNode":"d3d248179799afd8","toSide":"bottom"},
 		{"id":"d98cd6848eadd5b1","fromNode":"d3d248179799afd8","fromSide":"top","toNode":"601609d89b471a00","toSide":"bottom"},
 		{"id":"7d4c797fefcf44e1","fromNode":"601609d89b471a00","fromSide":"top","toNode":"e2e5391ceacc4de3","toSide":"bottom"},
-		{"id":"da84db1fdab4ed1d","fromNode":"e2e5391ceacc4de3","fromSide":"top","toNode":"f630ce10200765b7","toSide":"bottom"}
+		{"id":"da84db1fdab4ed1d","fromNode":"e2e5391ceacc4de3","fromSide":"top","toNode":"f630ce10200765b7","toSide":"bottom"},
+		{"id":"069f9728623255c2","fromNode":"f630ce10200765b7","fromSide":"top","toNode":"f5bcd763eff6bde6","toSide":"bottom"},
+		{"id":"95605a4b3ccd0365","fromNode":"f5bcd763eff6bde6","fromSide":"left","toNode":"ec2687b34049d9d5","toSide":"right"},
+		{"id":"e7c760031ce00bf7","fromNode":"ec2687b34049d9d5","fromSide":"left","toNode":"5ec4eecddb931dfe","toSide":"right"},
+		{"id":"2dff6c1e5b834e61","fromNode":"5ec4eecddb931dfe","fromSide":"left","toNode":"bee49b72f2c3bdec","toSide":"right"},
+		{"id":"5cb9abba18a52af9","fromNode":"bee49b72f2c3bdec","fromSide":"left","toNode":"b74cb74e8a140566","toSide":"right"},
+		{"id":"e61ceea3e3680b95","fromNode":"b74cb74e8a140566","fromSide":"left","toNode":"a0d1706e9b8310f7","toSide":"right"}
 	]
 }
