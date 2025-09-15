@@ -71,7 +71,7 @@
 		{"id":"5ec4eecddb931dfe","type":"file","file":"material/TED/A Parent’s Guide to Raising Kids After Loss.md","x":1840,"y":-2960,"width":400,"height":400,"color":"1"},
 		{"id":"bee49b72f2c3bdec","type":"file","file":"material/TED/The Future Isn’t Just Coded — It’s Built.md","x":760,"y":-2960,"width":400,"height":400,"color":"1"},
 		{"id":"b74cb74e8a140566","type":"file","file":"material/TED/A New Lifeline for the World’s Coral Reefs.md","x":-340,"y":-2960,"width":400,"height":400,"color":"1"},
-		{"id":"a0d1706e9b8310f7","x":-1440,"y":-2960,"width":400,"height":400,"color":"1","type":"file","file":"material/TED/The Poetry of Family.md"}
+		{"id":"a0d1706e9b8310f7","type":"file","file":"material/TED/The Poetry of Family.md","x":-1440,"y":-2960,"width":400,"height":400,"color":"1"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},

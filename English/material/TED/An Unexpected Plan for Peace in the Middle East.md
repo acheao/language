@@ -153,3 +153,56 @@ Our future is entangled, and our survival is shared.
 Thank you. 
 
 (Cheers and applause)
+
+- rages
+- Amid
+- loudness
+- treatment <=> threat
+- magnifier
+- suffering
+- instability
+- tinted
+- torn
+- tinted and torn by pain
+- untapped
+- post-World War II
+- two bitter enemies
+- battlefields
+- environmentally sustainable
+- prosperity
+- transformative
+- EcoPeace
+- diaspora
+- exposed <=> explosion <=> expect <=> exception
+- Liberation <=> library <=> Literally
+- profound <=> proud
+- peacebuilding
+- encountered <=> courage
+- fond <=> like
+- found <=> fund <=> fond
+- trials
+- Jordanian
+- equal footing
+- profess <=> professionals
+- knowledgeable
+- degrees
+- Celsius
+- precipitation
+- natural phenomena
+- asymmetry
+- checkpoints
+- boundaries
+- jeopardized
+- horizon
+- stagnation
+- held hostage
+- hostage <=> host
+- interconnected
+- mutual benefits
+- principles
+- diplomacy
+- realities
+- efforts
+- drastic humanitarian
+- We refuse the status quo
+- Triangle
