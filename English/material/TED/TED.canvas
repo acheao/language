@@ -60,7 +60,6 @@
 		{"id":"8caa92e731274f82","type":"file","file":"material/TED/A Musical Duet with AI Herself.md","x":4080,"y":4720,"width":400,"height":400,"color":"5"},
 		{"id":"a6375f93073aea0e","type":"file","file":"material/TED/The Inside Story of Notre-Dame’s Incredible Reconstruction.md","x":4080,"y":3640,"width":400,"height":400,"color":"5"},
 		{"id":"47798c2ca03470fb","type":"file","file":"material/TED/The Fire-Breathing Dragon-Horse Sparking Wonder in a City near You.md","x":4080,"y":2600,"width":400,"height":400,"color":"5"},
-		{"id":"b575dd214560bcb3","type":"text","text":"","x":-4600,"y":1016,"width":250,"height":60},
 		{"id":"a4772c4982339e4a","type":"file","file":"material/TED/The Razor-Thin Line Between Contagion and Connection.md","x":4080,"y":1680,"width":400,"height":400,"color":"5"},
 		{"id":"d3d248179799afd8","type":"file","file":"material/TED/Why Love Is Harder in a Second Language.md","x":4080,"y":846,"width":400,"height":400,"color":"5"},
 		{"id":"601609d89b471a00","type":"file","file":"material/TED/Are We Cooked How Social Media Shapes Language.md","x":4080,"y":0,"width":400,"height":400,"color":"5"},
@@ -71,7 +70,8 @@
 		{"id":"5ec4eecddb931dfe","type":"file","file":"material/TED/A Parent’s Guide to Raising Kids After Loss.md","x":1840,"y":-2960,"width":400,"height":400,"color":"1"},
 		{"id":"bee49b72f2c3bdec","type":"file","file":"material/TED/The Future Isn’t Just Coded — It’s Built.md","x":760,"y":-2960,"width":400,"height":400,"color":"1"},
 		{"id":"b74cb74e8a140566","type":"file","file":"material/TED/A New Lifeline for the World’s Coral Reefs.md","x":-340,"y":-2960,"width":400,"height":400,"color":"1"},
-		{"id":"a0d1706e9b8310f7","type":"file","file":"material/TED/The Poetry of Family.md","x":-1440,"y":-2960,"width":400,"height":400,"color":"1"}
+		{"id":"a0d1706e9b8310f7","type":"file","file":"material/TED/The Poetry of Family.md","x":-1440,"y":-2960,"width":400,"height":400,"color":"1"},
+		{"id":"b575dd214560bcb3","type":"text","text":"","x":-4620,"y":1850,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -133,7 +133,6 @@
 		{"id":"c25cb36b5d89a462","fromNode":"3a37c4c872413dee","fromSide":"right","toNode":"8caa92e731274f82","toSide":"left"},
 		{"id":"e03f9eba741e227d","fromNode":"8caa92e731274f82","fromSide":"top","toNode":"a6375f93073aea0e","toSide":"bottom"},
 		{"id":"9a1707155c2e0e51","fromNode":"a6375f93073aea0e","fromSide":"top","toNode":"47798c2ca03470fb","toSide":"bottom"},
-		{"id":"10e03ae526f9bc8c","fromNode":"b575dd214560bcb3","fromSide":"right","toNode":"7676d76a6ee38f68","toSide":"left"},
 		{"id":"680c9418d6e83f04","fromNode":"47798c2ca03470fb","fromSide":"top","toNode":"a4772c4982339e4a","toSide":"bottom"},
 		{"id":"f70db87ab949cbbe","fromNode":"a4772c4982339e4a","fromSide":"top","toNode":"d3d248179799afd8","toSide":"bottom"},
 		{"id":"d98cd6848eadd5b1","fromNode":"d3d248179799afd8","fromSide":"top","toNode":"601609d89b471a00","toSide":"bottom"},
@@ -144,6 +143,7 @@
 		{"id":"e7c760031ce00bf7","fromNode":"ec2687b34049d9d5","fromSide":"left","toNode":"5ec4eecddb931dfe","toSide":"right"},
 		{"id":"2dff6c1e5b834e61","fromNode":"5ec4eecddb931dfe","fromSide":"left","toNode":"bee49b72f2c3bdec","toSide":"right"},
 		{"id":"5cb9abba18a52af9","fromNode":"bee49b72f2c3bdec","fromSide":"left","toNode":"b74cb74e8a140566","toSide":"right"},
-		{"id":"e61ceea3e3680b95","fromNode":"b74cb74e8a140566","fromSide":"left","toNode":"a0d1706e9b8310f7","toSide":"right"}
+		{"id":"e61ceea3e3680b95","fromNode":"b74cb74e8a140566","fromSide":"left","toNode":"a0d1706e9b8310f7","toSide":"right"},
+		{"id":"7c163994ab09a6ab","fromNode":"b575dd214560bcb3","fromSide":"right","toNode":"93741d063a925076","toSide":"left"}
 	]
 }

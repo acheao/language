@@ -206,3 +206,44 @@ Thank you.
 - drastic humanitarian
 - We refuse the status quo
 - Triangle
+- integrated
+- Corridor
+- regional integration
+- Summit
+- catalytic
+- experts <=> export
+- extensive <=> extensions
+- Saudi Arabia
+- interconnector
+- Cyprus
+- renewables
+- desalination plant
+- national carrier
+- realized and implemented
+- interdependence
+- conduit
+- Gulf
+- port
+- gateway
+- prosperity
+- geopolitical security agenda
+- alongside
+- propel
+- mainstream media
+- unrealistic
+- visions
+- condemned
+- treason
+- normalizing
+- enemy
+- normalizing with the enemy
+- our reputations are smeared
+- smeared
+- occupation
+- sanity
+- comrades
+- coexist
+- innocent
+- concrete
+- bold
+- entangled
