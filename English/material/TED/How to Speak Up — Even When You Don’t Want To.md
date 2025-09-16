@@ -265,7 +265,36 @@ Thank you.
 	- precipitation
 		- The precipitation of crystals took several hours.
 ---
-- essential
+- essential (adjective) => vital => crucial => critical => decisive => indispensable
+	- an essential part/feature of something
+	- an essential element/ingredient/component of something
+	- The local government is not able to provide essential services such as gas, water and electricity.
+	- Vitamins play an essential role in many body processes.
+	- The museum is closed while essential repairs are being carried out.
+	- The charity will be taking food and essential supplies to six refugee camps.
+	- This book is essential reading for all nature lovers.
+	- All events are free, but booking is essential.
+	- Money is not essential to happiness.
+	- Experience is essential for this job.
+	- It is essential to keep the two groups separate.
+	- It is absolutely essential for all those involved in education to be computer-literate
+	- It is essential that you have some experience.
+	- The essential difference between Sara and me is in our attitude to money.
+	- He describes what he thinks is the essential nature of America.
+	- The essential character of the town has been destroyed by the new road.
+	- The film captures an essential truth of adolescence
+- essential (noun)
+	- I only had time to pack the bare essentials (= the most necessary things).
+	- The studio had all the essentials like heating and running water.
+	- The relief agencies are trying to provide food and other basic essentials.
+	- the essentials of English grammar
+- essentially (adverb)
+	- There are three essentially different ways of tackling the problem.
+	- The pattern is essentially the same in all cases.
+	- Essentially, what we are suggesting is that the firm needs to change.
+	- He was, essentially, a teacher, not a manager.
+	- The article was essentially concerned with her relationship with her parents (= it dealt with other things, but this was the most important).
+---
 - vividly
 - retiring
 - embarrassed
@@ -324,3 +353,5 @@ Thank you.
 - muffler <=> silencer 
 - hotel <=> hospital
 - barrier <=> fence
+- Vitamins <=> Vietnam <=> victim 
+- involved in education
