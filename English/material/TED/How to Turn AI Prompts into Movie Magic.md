@@ -265,3 +265,27 @@ JZ: Thank you.
 (Applause)
 
 (Laughter)
+
+- genre
+- Sci-fi
+- thrillers
+- rom-com
+- anime
+- Beaver
+- unexpected
+- submarine
+- sock
+- creativity
+- storytellers
+- figured out
+- blend
+- improvise
+- sort of improvise
+- conscience
+- time constraints
+- constraints
+- the piece
+- second-guessing
+- Submerged
+- cheery
+- It's kind of nuts
