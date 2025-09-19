@@ -71,7 +71,7 @@
 		{"id":"bee49b72f2c3bdec","type":"file","file":"material/TED/The Future Isn’t Just Coded — It’s Built.md","x":760,"y":-2960,"width":400,"height":400,"color":"1"},
 		{"id":"b74cb74e8a140566","type":"file","file":"material/TED/A New Lifeline for the World’s Coral Reefs.md","x":-340,"y":-2960,"width":400,"height":400,"color":"1"},
 		{"id":"a0d1706e9b8310f7","type":"file","file":"material/TED/The Poetry of Family.md","x":-1440,"y":-2960,"width":400,"height":400,"color":"1"},
-		{"id":"b575dd214560bcb3","type":"text","text":"","x":-4880,"y":2770,"width":250,"height":60}
+		{"id":"b575dd214560bcb3","type":"text","text":"","x":-4560,"y":4890,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -144,6 +144,6 @@
 		{"id":"2dff6c1e5b834e61","fromNode":"5ec4eecddb931dfe","fromSide":"left","toNode":"bee49b72f2c3bdec","toSide":"right"},
 		{"id":"5cb9abba18a52af9","fromNode":"bee49b72f2c3bdec","fromSide":"left","toNode":"b74cb74e8a140566","toSide":"right"},
 		{"id":"e61ceea3e3680b95","fromNode":"b74cb74e8a140566","fromSide":"left","toNode":"a0d1706e9b8310f7","toSide":"right"},
-		{"id":"7c163994ab09a6ab","fromNode":"b575dd214560bcb3","fromSide":"right","toNode":"012a1dc260326baf","toSide":"left"}
+		{"id":"d1d4f34a9fa73cfc","fromNode":"b575dd214560bcb3","fromSide":"right","toNode":"bc87cff6f726650f","toSide":"left"}
 	]
 }

@@ -159,3 +159,49 @@ We forget that we have  power in it.
 It just takes a few people  to start and you don't have to  necessarily have a complex set of  skills.
 
 What you really have to have is  a deep care and a deep love and a deep  knowledge of where you're planted and  where you want to grow.
+
+- where you're planted
+- circle <=> cycles
+- Industrial Commons
+- co-executive
+- extraction
+- textile
+- manufacturers
+- work horses
+- stent
+- firefighter
+- fiber
+- vibrant
+- neighbors
+- enterprise
+- employee owned
+- relate
+- employee ownership
+- upcycling facilities
+- brilliant
+- entrepreneur
+- district <=> distinct
+- band together
+- lightness
+- drawn the attention
+- - material return
+- cycles of generational poverty
+- yarn
+- cents
+- grind
+- put it through our system
+- come out on the other side
+- waste
+- engineering value back into something
+- sawmill
+- has a say in
+- represents
+- on behalf of
+- haul
+- long haul people
+- enterprise
+- thriving
+- get ahead
+- lightness
+- joy
+- where you're planted

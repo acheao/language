@@ -593,3 +593,157 @@ And our job is to help them make something of it.
 Thank you very much.
 
 (Applause)
+
+- blown
+- relevant <=> reveal
+- themes
+- conference <=> meeting <=> seminar <=> workshop <=> forum
+- extraordinary
+- the variety of it
+- the range of it
+- frankly
+- pin
+- vested
+- grasp
+- retiring
+- expertise
+- parade
+- unpredictability
+- nonetheless
+- marvel
+- dedication
+- contention <=> connection
+- tremendous
+- squander
+- ruthlessly
+- literacy
+- fascinated
+- Nativity
+- sequel
+- thrilled
+- agents
+- bearing gifts
+- frankincense
+- myrrh
+- afterward
+- out of sequence
+- switched
+- towels
+- frightened
+- stigmatize
+- born artists
+- passionately
+- I believe this passionately
+- seamless
+- Shakespeare
+- upset
+- hierarchy
+- humanities
+- Truthfully
+- progressively
+- waist up
+- slightly to one side
+- alien
+- conclude
+- brownie points
+- professors
+- high-water mark
+- affection
+- out of affection
+- disembodied
+- look upon
+- out-of-body experiences
+- residential
+- residential conference
+- academics
+- discotheque
+- pop into
+- writhing <=> writing
+- uncontrollably
+- off the beat
+- predicated on
+- industrialism
+- rooted on
+- steered
+- benignly
+- steered benignly
+- on the grounds
+- profoundly
+- profoundly mistaken
+- Benign
+- engulfed
+- protracted process
+- brilliant
+- stigmatized
+- UNESCO
+- demography
+- transformational
+- Bachelor of Arts
+- Master of Arts
+- Doctor of Philosophy
+- beneath <=> breathe
+- radically
+- diverse <=> deserve
+- visually
+- kinesthetically
+- dynamic
+- presentations
+- interactions
+- interactive
+- divided
+- compartments
+- disciplinary
+- more often than not
+- shaft
+- nerves
+- halves
+- corpus
+- callosum
+- corpus callosum
+- thicker
+- multitasking
+- a raft of
+- ceiling
+- annoyed
+- philosophical
+- chestnut
+- old chestnut
+- distinct
+- Epiphany
+- think in abstract terms
+- choreographer
+- Phantom
+- board
+- The Royal Ballet
+- learning disorder
+- concentrate
+- fidgeting
+- ADHD
+- aware
+- oak-paneled
+- disturbing
+- contemporary
+- ballet
+- tap
+- modern
+- soloist
+- eventually <=> finally
+- auditioned
+- theater <=> threat <=> treat <=> therapy
+- multimillionaire
+- ecology
+- the revolution that was triggered by
+- mined
+- commodity
+- strip-mine
+- fundamental 
+- principles
+- flourish
+- insects
+- disappear <=> disappoint
+- celebrates
+- avert
+- scenarios
+- for the richness they are
+- educate their whole being
+- 
