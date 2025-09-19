@@ -306,4 +306,60 @@ Thank you.
 
 Thank you.
 
-
+- efficient
+- trophy
+- Peanuts
+- gang
+- kind of even
+- buy-in
+- communication
+- pitching
+- glory
+- kindergartener
+- it's a home run
+- ecstatic
+- empathize
+- generous
+- the most teachable moment
+- buddy
+- nonprofit
+- psychologist
+- collective problem
+- weird
+- guilty
+- judged
+- forbid
+- Childhood
+- chess
+- homework
+- adult-run
+- chalk
+- cardboard
+- crouching
+- EpiPen
+- lifeguard
+- flirting
+- adventures
+- constant
+- supervision
+- swath
+- sanctuary
+- neighborhood
+- assignment
+- permission
+- ingredients
+- hot sauce
+- clerk
+- moron
+- cart
+- bolted
+- errand
+- defeated
+- humiliated
+- quest
+- buster
+- nephew
+- niece
+- on an overnight
+- cousins
+- guarantee
