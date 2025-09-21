@@ -363,3 +363,39 @@ Thank you.
 - on an overnight
 - cousins
 - guarantee
+- parenting
+- iron
+- lingerie
+- Long story short
+- levitating
+- forts
+- flashlight
+- Free-Range Kids
+- Togetherness
+- unsupervised
+- the Surgeon General
+- depressed
+- perfect
+- procedure
+- polyps
+- on vacation
+- sort of mashed up
+- deprogramming
+- teasing
+- cult
+- brainwashed
+- kidnapped
+- tragic
+- upshot
+- the upshot is
+- takeover
+- it's so vast
+- aisle
+- a can of peas
+- braver
+- canned food
+- snatched off
+- It's a while.
+- dust
+- teachable
+- 

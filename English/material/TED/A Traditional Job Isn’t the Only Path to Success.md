@@ -273,3 +273,94 @@ It's to fuel it.
 Thank you.
 
 (Applause)
+
+- paralyzing
+- handbook
+- casual
+- negotiable
+- just doesn't hold up
+- Sub-Saharan Africa
+- workforce
+- jobless <=> lay off
+- cyber cafe
+- hair salon
+- auto repair shop
+- turning
+- colleagues
+- hustle
+- entrepreneurs
+- marketplace
+- behaviors
+- Habit
+- emerge
+- long-held assumptions
+- levers
+- navigating
+- unhelpful
+- bouncing
+- bouncing between gigs
+- donuts
+- charcoal
+- permanent stall
+- amongst
+- contagious
+- how we approach skills development
+- ladder
+- certificate
+- to build credentials
+- quizzes
+- non-linear
+- characterized
+- jump on
+- jungle gym
+- analytical chemistry
+- spotted
+- wig
+- bookkeeping
+- pivot
+- engaging with
+- immediate
+- sandals
+- agribusiness
+- how to spot the red flags
+- mirrors
+- insurance
+- protections
+- photographer
+- painstakingly
+- deposit
+- legitimate
+- her gear was stolen
+- She showed up for the shoot
+- They stick to trusted circles.
+- shorthand
+- reliable
+- blank
+- marker
+- blank poster
+- individuals
+- post-it notes
+- most sought-after
+- mentoring
+- bankable
+- immediate circle
+- visible
+- showcase
+- formal
+- lenders
+- corporates
+- trustworthiness
+- confidence
+- facilitate trade
+- facilities <=> facilitate
+- glimpse
+- climate constraints
+- phenomenally
+- broader
+- digital lenders
+- leveraging
+- distribution models
+- livelihoods
+- expanding livelihoods
+- accelerating
+- here and now
