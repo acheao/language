@@ -295,8 +295,35 @@ Thank you.
 	- He was, essentially, a teacher, not a manager.
 	- The article was essentially concerned with her relationship with her parents (= it dealt with other things, but this was the most important).
 ---
-- vividly
-- retiring
+- vivid (adjective)
+	- vivid memories
+	- a vivid account
+		- He gave a vivid account of his life as a fighter pilot.
+	- vivid blue eyes
+	- The colours are vivid, which helps bring the game to life.
+	- His eyes were a vivid green.
+	- a wonderfully vivid imagination
+- vividly (adverb)
+	- I vividly remember the day we first met.
+	- The book vividly describes his childhood experiences.
+	- vividly coloured paintings
+- vividness (noun)
+	- the vividness of my dream
+	- the vividness of her description
+	- the vividness of the colours
+---
+- retire (verb)
+	- He is retiring next year after 30 years with the company.
+	- The company's official retiring age is 65.
+	- Lots of teachers like me expected to retire on a full pension.
+	- She was forced to retire early from teaching because of ill health.
+	- She retired from politics after her second term in office.
+	- My dream is to retire to a villa in France.
+	- He has no plans to retire as editor of the magazine.
+	- She was retired on medical grounds.
+		- medical grounds
+	- She fell badly, spraining her ankle, and had to retire.
+
 - embarrassed
 - offended
 - stomach
