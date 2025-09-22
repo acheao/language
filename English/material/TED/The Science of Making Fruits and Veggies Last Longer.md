@@ -207,3 +207,18 @@ Jenny Du, everybody.
 Thank you so much, Jenny.
 
 (Applause)
+
+- veggies
+- last longer
+- ticking time bomb
+- cannibalizing
+- nutrients
+- postdoctoral
+- nerd
+- mates
+- pitch
+- disguised
+- staggering
+- stats
+- flooring
+- supply chain
