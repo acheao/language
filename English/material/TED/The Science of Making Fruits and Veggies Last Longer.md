@@ -222,3 +222,93 @@ Thank you so much, Jenny.
 - stats
 - flooring
 - supply chain
+- restaurants
+- fertilizers 
+- emitter
+- gases
+- surprisingly
+- heavily
+- refrigeration
+- designer
+- pesticides
+- waxes
+- animal-derived
+- derived
+- petroleum
+- microplastics
+- relative to
+- transportation
+- can survive storage and transportation
+- density
+- nutrients
+- peel
+- cuticle
+- moisture
+- oxidation
+- infection
+- Fatty
+- glycerides
+- ingredients
+- universally
+- pulp
+- shelf lives
+- thickness
+- arrangement
+- edible
+- reinforce
+- texture
+- ultimately
+- garage
+- partnering
+- grower
+- limes
+- beads
+- caviar
+- fragrant
+- organic
+- batch
+- leftover
+- dipped
+- bowl
+- shut the front door
+- avocados
+- bell peppers
+- cucumbers
+- berries
+- frankly
+- ripen
+- tasteless
+- equivalent
+- raisin
+- integrate
+- processed
+- grocery stores
+- waxing
+- garage
+- high-purity
+- demonstrated
+- effectiveness
+- presence
+- metric
+- equivalent
+- varieties
+- widespread
+- status quo
+- past the food waste status quo
+- Shrink
+- silver bullet
+- scale-ups
+- optimistic
+- ancient wisdom
+- accent <=> ancient
+- abundance
+- blink
+- rotten
+- cuttable
+- sacrifice
+- guacamole
+- spraying
+- neutral
+- lick
+- strawberries
+- 
