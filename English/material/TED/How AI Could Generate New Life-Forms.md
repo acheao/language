@@ -227,3 +227,72 @@ And the future of life, it's ours to build.
 Thank you.
 
 (Cheers and applause)
+
+- park <=> poking <=> pork
+- the Human Genome Project
+- breakthroughs
+- mapping out
+- principle
+- dissecting
+- eradicating
+- biology
+- moonshot
+- from scratch
+- from the ground up
+- thrilling
+- unsettling
+- feeding
+- paragraphs
+- grammar
+- comprehend
+- in large part
+- sensitive
+- life-threatening
+- off by a single letter
+- 500 times longer than previous AI models
+- whole genomes
+- one letter at a time
+- tackle
+- chatbot
+- makes sense
+- What does that even mean
+- gene therapy
+- molecular scissors
+- proteins
+- proteins <=> protest <=> protect
+- realistic
+- resemble
+- proteins fold
+- nerve-racking
+- pregnancy
+- crystal
+- synthetic
+- rough sketch
+- anticipate
+- medicine
+- personalized
+- treatment options
+- permanent cure
+- outright
+- sickle cell disease
+- chromosomes
+- equipped
+- machinery
+- Jurassic Park
+- science fiction
+- extinct species
+- resurrect
+- woolly
+- mammoth
+- microbes
+- colonizing Mars
+- multiplanetary
+- terraform
+- extremophiles
+- biosecurity
+- bioweapons
+- advocating
+- versus
+- practical
+- constantly
+- sought
