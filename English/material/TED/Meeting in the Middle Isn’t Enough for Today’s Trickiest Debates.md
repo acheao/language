@@ -231,3 +231,110 @@ Challenge yourself to not just listen to each other and hang out on the horizont
 Thank you.
 
 (Applause)
+
+- capitalism
+- prosperity-generating force
+- extractive force
+- literacy
+- birthed
+- meeting in the middle
+- decimated
+- Trickiest
+- Debates
+- completely <=> compete
+- inducing
+- food is diabetes-inducing junk
+- life-saving drugs
+- fast-tracked
+- grow the pie
+- rigged
+- unevenly
+- distributed
+- Sweetheart
+- Venezuela
+- paradox
+- energy efficiency
+- crony
+- perversion
+- champion
+- imperfect
+- hammer
+- gut
+- sickle
+- criticizing
+- socialism
+- fatal
+- pursuit
+- midst
+- outraged
+- conscious
+- oligarch
+- fellas
+- partially
+- pit
+- decentralized
+- flaw
+- prioritize
+- metric
+- at the expense of
+- deferring
+- brink
+- upsides
+- downsides
+- empowering
+- at the end of the day
+- call it a day
+- woke
+- trade-off
+- perspectives
+- partially
+- inherently
+- incomplete
+- strive
+- hyper
+- dimensional
+- inspiration
+- keeping it light
+- thesis
+- antithesis
+- synthesis
+- infinite
+- pipeline
+- horizontal
+- dimension
+- metaphor
+- parallax
+- Georg Hegel
+- Ken Wilber
+- flipped
+- framed
+- bootstraps
+- disparity
+- extent
+- in a way
+- if any
+- elevates
+- viability
+- fetus
+- rape
+- incest
+- perverse
+- incentives
+- outrage
+- polarization
+- intervention
+- up against
+- upstream
+- incentives
+- relevant
+- sidesism
+- both-sidesism
+- relativism
+- contextual
+- tribalism
+- tagline
+- contending <=> content
+- gridlocked
+- nugget
+- incorporate
+- incorporate

@@ -253,3 +253,118 @@ In CSI crime shows, when they say enhance, can you do that?
 LN: OK, great.
 
 Hany Farid, everybody.
+
+- chilling
+- executed
+- grainy photo
+- bold
+- applied mathematician
+- authenticate
+- damning
+- spouse
+- gut-wrenching
+- photographic
+- a capital murder case
+- escalation
+- escalation <=> escape
+- amplifies
+- conspiracies
+- actively promotes
+- and collectively
+- contend
+- profound
+- profound consequences
+- institutions
+- democracies
+- offline
+- Victorians
+- manipulated
+- Stalin
+- airbrushed out
+- airbrushed
+- millennium
+- manipulate
+- tied up
+- basement
+- giraffe
+- turtleneck
+- supercharge
+- nudes
+- humiliate
+- extort
+- bogus
+- illnesses
+- Fortune
+- impersonator
+- infiltrated
+- vulnerable
+- descriptive caption
+- degraded
+- noise
+- array
+- reverse that process
+- diverse
+- semantically
+- consistent
+- incredible <=> unbelievable
+- decidedly
+- sensor
+- residual
+- extracted
+- visualization
+- decidedly different pattern
+- telltale
+- audience
+- magnitude
+- Fourier transform
+- definitely
+- forensic
+- vanishing
+- parallel
+- converge
+- railroad tracks
+- narrow
+- recede
+- intersect
+- statistical
+- geometry
+- physics
+- geometric
+- physical
+- anomalies
+- manipulation
+- annotated
+- implausible
+- shadows
+- corresponding
+- authentic
+- metaphor
+- hostages
+- succumb
+- instincts
+- human instincts
+- We have agency
+- forensics experts
+- credentials
+- authenticate
+- roll out
+- Silicon Valley
+- the equivalent of junk food
+- riddled
+- lies and conspiracies
+- slop
+- a fork in the road
+- rip us apart
+- sowing distrust
+- sowing <=> swallow
+- intolerance
+- leverage
+- Roughly
+- Signal-to-noise ratio
+- differentiate
+- distinguish
+- filters
+- versus
+- layperson
+- enhance
+- 
