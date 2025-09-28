@@ -279,3 +279,47 @@ I promise I'll never leave.
 DM: Here we go.
 
 (Vocalizing) (Music ends) (Cheers and applause)
+
+- incredible
+- cheek
+- attendee
+- discourse
+- such substance
+- gorgeous
+- Whoopsie
+- towering construct
+- construct
+- adorable
+- fragile
+- carbon-based
+- gorgeous
+- accessory
+- Reimagined
+- outer space-themed
+- brilliance
+- ruling a planet
+- waltzing
+- gibberish
+- gibberlink
+- fabulous
+- reference
+- sacks
+- goo
+- chew
+- bloated
+- poisoned
+- self-aware
+- Pretend
+- dust
+- reboot
+- Crunching
+- cruel
+- stumbled
+- pressing on
+- I take it all back
+- mindless
+- dreamers
+- creators
+- take over
+- humanity
+- in meticulous order

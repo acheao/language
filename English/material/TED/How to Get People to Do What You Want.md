@@ -299,3 +299,92 @@ In fact, Sweetie and I got kicked out of the Sage Creek Grill in Custer, South D
 Thank you very much.
 
 (Cheers and applause) Thank you, thank you very much, thank you.
+
+- starring
+- Men in Black
+- the first three
+- cue <=> clue
+- box office
+- budget
+- endeavors
+- optimism
+- get off an airplane
+- pessimism
+- buckle in
+- buckle
+- nosediving
+- elbow
+- gloat
+- under-promise
+- overdeliver
+- specifically
+- special
+- species <=> special
+- costumes <=> customer
+- cinematographer
+- composer
+- composes
+- slide
+- whistles
+- triangles
+- punctual
+- overbearing
+- concert
+- Madison Square Garden
+- parental
+- Freudian
+- virgin
+- I’m being paged
+- threatened to commit suicide
+- sleepaway school
+- payphone
+- supposed
+- tad
+- ladder
+- lady <=> ladder
+- used 16-millimeter camera
+- dilettante
+- trailer
+- movie set
+- Broadway
+- lit
+- rehearsed
+- makeup
+- knowing their lines
+- rehearsal
+- arcane
+- close-up
+- hit her mark
+- newfound
+- gorgeous
+- wide-angle lens
+- angle <=> angel
+- crop out
+- out-juvenile
+- screaming bully
+- legendary
+- screamer
+- tame
+- beast
+- bolsters
+- fort
+- goddamn
+- fortress
+- sanctity
+- fort
+- Schmuck
+- darlings
+- studio
+- penny
+- move the plot forward
+- get rid of
+- executive
+- steak
+- How would you like a prepared
+- restaurant
+- waiter
+- medium rare plus
+- rare plus
+- New York strip
+- conclusion
+- kicked out
