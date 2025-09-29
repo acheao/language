@@ -225,3 +225,74 @@ Within the five years’ deadline, they gave Notre-Dame back to Paris, to France
 Thank you.
 
 (Cheers and applause)
+
+- If I could go back in time, I would study harder.
+- The movie takes the audience back in time to the 18th century.
+- Listening to this song takes me back in time.
+- The smell of her kitchen took him back in time to his childhood.
+- Come with me, back in time.
+- Step back in time with this historical tour.
+- Which months does spring usually include?
+- Which months are in spring?
+- What months are considered spring?
+- spring March, April, May
+- summer June, July, August
+- Autumn September, October, November
+- Winter December, January, February
+- Easter
+- on a late spring afternoon
+- winding
+- The meeting is winding down, and everyone is starting to gather their things.
+- As the day winds down, the office becomes quiet.
+- After a long day at work, I like to wind down with a cup of tea.
+- She spent the evening winding down with some music.
+- The festival is winding down, and volunteers are cleaning up.
+- The company is winding down its operations in that region.
+- His excitement began winding down after the initial announcement.
+- The engine is winding down after running at full speed.
+- people are heading home from work
+- spire
+- The flag fluttered at the top of the spire of the cathedral.
+- Birds nested in the spire of the old church.
+- Lightning struck the spire of the tallest building in the city.
+- The spire of the castle was visible from miles away.
+- Smoke curled from the spire of the distant tower.
+- Sunlight gleamed on the spire of the ancient cathedral.
+- She watched in disbelief as her house was destroyed by the fire.
+- The crowd stood in disbelief when the accident happened.
+- He listened in disbelief to the news of his promotion.
+- We all stared in disbelief at the announcement.
+- Fans cheered in disbelief as the underdog team scored the winning goal.
+- She watched in disbelief as the magician made the elephant disappear.
+- He stood in disbelief, unable to comprehend what had just happened.
+- unbelievably <=> in disbelief
+- melting lead roof
+- illuminate the cathedral
+- Night is falling
+- plume
+- plume of smoke / fire / dust / steam / water
+- A plume of smoke rose from the burning building.
+- Firefighters battled a blaze that sent plumes of black smoke into the sky.
+- Volcanic plumes could be seen from miles away.
+- A plume of dust rose from the desert as the wind swept through.
+- The rocket left a white plume as it took off.
+- took off
+- A plume of steam escaped from the factory chimney.
+- factory chimney
+- She watched a plume of dust rise as the carriage rolled away.
+- The plane took off on time.
+- The rocket took off at dawn.
+- dawn
+- Her singing career really took off after the TV show.
+- The new product took off in the market.
+- He took off his coat.
+- She took off her shoes before entering the house.
+- He took a week off work.
+- She took off for a vacation.
+- The kids took off as soon as the teacher turned away.
+- an acrid smell
+- acrid
+- chanting
+- relentless
+- The soldiers fought a relentless battle against the enemy.
+- The city endured a relentless battle during the siege.
