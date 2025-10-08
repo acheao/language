@@ -399,3 +399,118 @@ Sometimes it's hardly there at all.
 Thank you.
 
 (Applause)
+
+- audio
+- documentaries
+- birthplace
+- at the beginning of the school year
+- Junior
+- Senior
+- High School
+- cheerleader
+- nap
+- stutter
+- stammer
+- tics
+- twitches
+- blurting
+- Symptoms
+- syndrome
+- spasms
+- barks
+- nowhere
+- eighth grade
+- whispers
+- tripling
+- They made up the whole story.
+- They quarrelled, but later made up.
+- I'll make it up to you.
+- locker
+- stuttering
+- Stop fucking around.
+- Holy shit
+- Lyme
+- heavy metals
+- mold
+- contagion
+- tampons
+- The plan didn’t pan out.
+- Their investment didn’t pan out as they hoped.
+- ripping
+- psychogenic
+- hysteria
+- He ripped the letter in half.
+- A storm ripped through the town.
+- The critics ripped the movie apart.
+- ripping
+- mass psychogenic illness
+- mass hysteria
+- skeptical
+- uterus
+- wandering
+- womb
+- medically
+- diagnosis
+- bullshit
+- neurologists
+- psychoanalysts
+- sociologists
+- the NIH
+- organic cause
+- limp
+- neurological
+- victims <=> Vietnam
+- factory floor
+- She started on the factory floor before becoming a manager.
+- nuns
+- convent
+- meowing
+- uncontrollably
+- archetypical
+- trauma
+- rash
+- grade schools
+- bacteria
+- envelopes
+- mailboxes
+- anthrax
+- epidemiologists
+- polite
+- messiness
+- psychological
+- fissures
+- tape
+- police body cams
+- in the field
+- fentanyl
+- tingling
+- warrant
+- passing out
+- proximity
+- presence
+- sometimes even just knowing its presence on the scene
+- toxicology
+- summer break
+- The students are excited for summer break.
+- tampon
+- prominent
+- spurts
+- He worked in short spurts of energy.
+- Blood spurted from the wound.
+- go through spurts
+- punch
+- Sit right here next to me.
+- It hurts right here.
+- chin
+- coldcock
+- beat the shit out of
+- volunteer <=> 
+- to say the least
+- ticking
+- tic
+- unconsciously
+- humid
+- buggy
+- revel <=> reveal
+- I’m feeling sick, so I’ll take the day off.
+- She took the day off to relax at home.
