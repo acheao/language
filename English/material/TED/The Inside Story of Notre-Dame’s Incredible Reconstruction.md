@@ -296,3 +296,142 @@ Thank you.
 - relentless
 - The soldiers fought a relentless battle against the enemy.
 - The city endured a relentless battle during the siege.
+- inferno
+- into an inferno
+- rushed on
+- momentous event
+- agenda
+- Notre-Dame
+- the full extent
+- ranging
+- came in from all sides
+- After the announcement, responses came in from all sides, praising and criticizing the decision.
+- ranging from small to huge amounts
+- generosity
+- A touching story can move people to tears.
+- Disney
+- Quasimodo
+- Musicals
+- are touched by
+- vaults
+- gigantic
+- buttress
+- flying buttress
+- showcase
+- vandalized
+- Temple of Reason
+- Napoleon
+- crowned
+- bad shape
+- After years of neglect, the old house was in bad shape, with a leaking roof and crumbling walls.
+- After the accident, he was in bad shape and needed months to recover.
+- The company was in bad shape financially after losing its biggest client.
+- crowned <=> crowd
+- demolition
+- considered for demolition
+- architecture
+- continued its course
+- restored
+- intact
+- She came out of the room smiling.
+- The sun came out after the storm.
+- His new novel came out last month.
+- The movie came out in 2022.
+- The cake came out perfect.
+- It came out intact.
+- The truth finally came out.
+- The news came out yesterday.
+- He came out as gay when he was 20.
+- funerals
+- national tributes
+- ceremony
+- in ruins
+- harsh
+- The sunlight was harsh and made it hard to see.
+- Harsh fluorescent lights filled the office.
+- His harsh voice made everyone wince.
+- The brakes made a harsh screeching sound.
+- They survived the harsh winter in the mountains.
+- The desert is a harsh and unforgiving place.
+- The teacher gave a harsh reprimand.
+- He received harsh criticism for his decision.
+- Life in the slums can be harsh.
+- The movie portrays the harsh realities of war.
+- dark brown
+- vaults
+- scattered
+- altar
+- golden cross
+- in the background
+- statue
+- Virgin
+- Pillar
+- untouched
+- Christ
+- Pieta
+- molten lead
+- rooster
+- crashed on the roof
+- come off its axis
+- come off
+- At that moment, I felt a determination that removed all doubt.
+- the symphony of stone
+- the harmony of light
+- architect
+- nightmare
+- supervise
+- secure the site
+- Historical Monuments Society
+- the project of the century
+- companionship
+- joy
+- fantastic journey
+- specialized tradespeople
+- bond
+- respect
+- invent
+- scaffolders
+- Master carpenters
+- masons
+- rope access technicians
+- gables
+- shored up
+- pillars
+- high bays
+- cover the vaults with tarps
+- flying buttresses
+- prop up
+- in the nave
+- rubble
+- We sorted the books by author.
+- She sorted through the letters to find the important ones.
+- We had to sort through the rubble.
+- There are all sorts of problems to solve.
+- What sort of music do you like?
+- We need to sort things out before tomorrow.
+- adorned
+- scaffolding
+- in the transept
+- restoration work
+- twisted metal.
+- could collapse
+- steel monster
+- builders
+- journeymen
+- dexterity
+- stained glass
+- decorations
+- lively
+- hue
+- carpenters
+- the same gestures of old
+- erect
+- bright and soft yellow
+- chapel
+- vivid
+- chandeliers
+- shining <=> shine
+- had to brave a COVID pandemic
+- heatwaves
+- trying conditions
+- tradespeople
