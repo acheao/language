@@ -335,3 +335,127 @@ I’m sure you’ll all “handle” it, too.
 Thank you.
 
 (Applause)
+
+- Razor-Thin
+- Razor
+- cruising <=> curious
+- pretty fresh day
+- rugged up
+- protective
+- hiking gear
+- camping gear
+- protective gear
+- change gear
+- in high gear
+- slow down a gear
+- visor
+- handles
+- a set of keys
+- a set of tools
+- a set of dishes
+- a set of rules
+- a set of instructions
+- a set of red lights
+- hips
+- squeeze
+- motorcycle
+- genuine <=> genius
+- misunderstanding
+- intercultural relationships
+- interactions
+- ABS
+- intimately connected
+- mother tongue
+- first language
+- long explanations of jokes and words
+- By a show of hands
+- monolingual couples
+- flawlessly
+- closest
+- linguistics
+- sometimes don't even know
+- workplace encounters
+- overlap
+- evokes
+- emotionally charged statement
+- over the years of my life
+- language distance
+- detached
+- observe
+- frustration
+- It's very often the impact that matters more instead of the words.
+- I dropped a certain C-word
+- cunt
+- grasp
+- offensive
+- land on the other person
+- delivery
+- intonation
+- to one table
+- determine the terms of a fight
+- falls flat
+- quite offensive
+- anonymous
+- linguistically
+- superficial
+- superficial facet thereof
+- The company and the rights thereof.
+- A book and the contents thereof.
+- purely linguistic issue
+- sarcasm
+- pun
+- shrimp on a barbie
+- annoys
+- cringey
+- nostalgicb
+- hilarious
+- limited common ground
+- She mastered the piano at a young age.
+- He mastered his fear and went on stage.
+- The dog obeyed its master.
+- subtext
+- punchline
+- the delivery
+- appropriate
+- self-esteem
+- particular <=> special
+- sentiments
+- attest
+- Austrian German
+- disheartened
+- tragedy
+- so subtle
+- dynamics
+- From a pure language perspective
+- perspective
+- superior <=> inferior
+- inferior
+- proficiency
+- apparent
+- heated moments
+- After a day of processing life and work
+- I will get back to you in three to five business days.
+- have the upper hand
+- Spanish
+- superior
+- gravitate
+- versus
+- The dominant global status of English
+- preference
+- flows into
+- reverse
+- surroundings
+- apparent
+- tricky
+- How long will the meeting last?
+- recommendations
+- awareness
+- conscious
+- microculture
+- blend
+- traditions
+- Invent
+- Switch
+- counts
+- evolve
+- an opportunity to evolve

@@ -245,3 +245,20 @@ And with that, I have just one final piece of slang for you.
 It's a common phrase used by younger people when we finish a long-winded explanation of something.
 
 “Thanks for coming to my TED Talk.” (Cheers and applause)
+
+- synonym
+- unalive
+- Hamlet's
+- contemplation
+- classroom
+- hypothetical
+- These are actual examples drawn from
+- hobby
+- for such a recent word
+- scenarios
+- euphemistic
+- euphemizing
+- decease
+- queasy
+- Apparently
+- stoic
