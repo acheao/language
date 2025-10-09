@@ -262,3 +262,29 @@ It's a common phrase used by younger people when we finish a long-winded explana
 - queasy
 - Apparently
 - stoic
+- suppresses
+- got around that
+- etymology
+- nerd
+- carve
+- tablet
+- entirely
+- linguist
+- paralyzing
+- censorship
+- The very structure of social media
+- Sticking Out
+- You’re so Fanum tax
+- sigma
+- lyrics
+- meme
+- instrumental
+- slang
+- repetition
+- catchy
+- engagement
+- previously
+- hashtags
+- metadata
+- audios
+- we actively use trending audios
