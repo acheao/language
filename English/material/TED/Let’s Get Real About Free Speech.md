@@ -243,3 +243,98 @@ And for that, we need free speech.
 Thank you.
 
 (Applause and cheers)
+
+- the order given by
+- pro-Israel
+- urging
+- venue
+- flee
+- mob
+- censorship
+- shout <=> Shut
+- incitement to violence
+- harassment
+- absolutist
+- First Amendment
+- dude
+- Individual Rights and Expression
+- fallen from understanding
+- principled
+- lefty
+- restrict and quarantine
+- campus
+- Orwellian name
+- ridiculous
+- protested <=> Protect
+- heckle
+- insult
+- hecklers
+- closer
+- appreciating
+- cures
+- powerless
+- mentor
+- civil libertarian
+- both on and off campus
+- bigoted
+- hurtful
+- hateful <=> fateful
+- Nazis
+- blush
+- lizard
+- estimates
+- Cornell
+- a couple of years back
+- punched out
+- assaulted
+- concussion
+- couldn't see out of
+- stabbed
+- chest
+- insult
+- victims <=> Vietnam
+- equating
+- invented
+- radar
+- cynical tool
+- bully
+- bigot
+- robber baron
+- protection
+- He calls the shots in the company.
+- Who’s calling the shots here?
+- They still get to call the shots.
+- revolutionary figures
+- championed
+- civil rights icon
+- a check on power
+- Congress acts as a check on the President.
+- Free press is a check on government abuse.
+- As if that's the same thing as saying that they're wrong.
+- like it or not
+- awful beliefs
+- massive contributions
+- Rocket scientist
+- spectacular
+- thoughtful man
+- overpopulation
+- famines
+- sterilization
+- intellectual
+- saint
+- morality
+- line up
+- participation time
+- Socrates
+- meaningless
+- woke
+- fascist
+- libtard
+- grifter
+- certainties
+- poster boy for
+- questioning
+- embodied
+- certainty is the mind killer
+- crucial
+- authentic selves

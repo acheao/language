@@ -288,3 +288,108 @@ It's a common phrase used by younger people when we finish a long-winded explana
 - metadata
 - audios
 - we actively use trending audios
+- an explosion of people
+- In the wake of
+- transmitted
+- from one host to another
+- infect different people along social networks
+- accelerating
+- obscurity
+- in the span of just a year
+- in the span of
+- word of the year
+- culprit
+- influencers
+- accomplices <=> accomplish
+- We use whatever tricks we can
+- to keep you entertained
+- suffix
+- aesthetics
+- has recently gotten very popular
+- cottagecore
+- goblincore
+- angelcore
+- And on the surface level
+- The entire reason
+- qualify
+- Only students with excellent grades qualify for the scholarship.
+- trendier
+- propagates
+- hypercompartmentalized
+- labels <=> level
+- since they can
+- commercialized
+- catering
+- decorations
+- subcultures
+- demographics
+- They profited off the popularity of the app.
+- echo chamber
+- affirms
+- niche community
+- linguistics
+- shared interests
+- shared need
+- actively harmful
+- convinced into a lifestyle
+- burritos
+- analogy
+- incel
+- ideology
+- misogynistic
+- perpetrated
+- urban design
+- and a few months back
+- and some days back
+- pavement
+- princess <=> process
+- Admittedly
+- bad to the bone
+- ironic
+- meme
+- social hierarchy
+- innocent
+- fossil fuel
+- etymology
+- marginalized groups
+- accessible
+- reclaim power
+- demographics
+- queer
+- norms
+- capitalize on
+- capitalize
+- perceived
+- goddamn <=> gyat
+- exaggerated
+- farce
+- makes a farce
+- diluted
+- euphemism
+- appropriation
+- whitewashing
+- mainstream
+- inevitably
+- screwed
+- we're so screwed.
+- bleak picture of the future
+- unpack
+- dystopian
+- censorship
+- suffering from brain rot
+- latch on
+- incapable
+- corrupted <=> occur
+- mindless
+- drones
+- rhetoric
+- normalizing
+- mockery
+- addition
+- diverse cultural moment
+- conditioned
+- conditioned by something
+- engineered to sell us things
+- regurgitates
+- long-winded
+- And with that

@@ -325,3 +325,32 @@ And that’s what keeps me going.
 Because if we’re just watching the world burn, it's really hard to get out of bed.
 
 CA: Thank you for your inspiration, that was phenomenal.
+
+- moth
+- fantastic
+- Frosted Phoenix
+- the Holy Grail
+- extinct
+- citizen science project
+- photographer
+- Swedish
+- birdwatcher
+- schoolteacher
+- I’m going down in Florida for the winter
+- nocturnal
+- balcony
+- mouth <=> moth
+- fell off the radar
+- let alone
+- I can’t afford a bike, let alone a car.
+- He can barely walk, let alone run a marathon.
+- life-support systems
+- faster and faster
+- extinction crisis
+- attention crisis
+- disconnected
+- I saw the accident firsthand
+- naturalists
+- vet it
+- master's project
+- atlas
