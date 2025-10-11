@@ -116,9 +116,7 @@ She took a picture of it.
 
 It's an entirely new species of praying mantis.
 
-So it was given the name Inimia nat, which abbreviates to I.
-
-nat, iNat is the nickname for iNaturalist, in honor of this kind of collaboration between regular, everyday people and scientists.
+So it was given the name Inimia nat, which abbreviates to I.nat, iNat is the nickname for iNaturalist, in honor of this kind of collaboration between regular, everyday people and scientists.
 
 We've seen hundreds of discoveries like this.
 
@@ -354,3 +352,97 @@ CA: Thank you for your inspiration, that was phenomenal.
 - vet it
 - master's project
 - atlas
+- observations
+- encounter
+- retiree
+- mantis
+- took a picture of it
+- praying mantis
+- abbreviates
+- in honor of
+- collaboration
+- regular, everyday people
+- class field trip
+- butterfly
+- Bend
+- super well-studied
+- filmmaker
+- on a scouting trip
+- hawk
+- architect
+- cabin
+- Andes
+- weasel
+- grabs his camera
+- elusive
+- only known from skins
+- museums
+- gins up
+- a bunch of attention on
+- colliding
+- marine
+- real-time
+- up and down
+- all powered by
+- Bachelor
+- planet <=> plants
+- starfish
+- conservation <=> conversation
+- scaling data
+- get more people involved
+- certain scale
+- BioBlitz
+- inventory
+- Young Biologists Association
+- Sri Lanka
+- engines
+- grassroots
+- capacity
+- effort
+- annual event
+- simultaneous
+- census <=> consensus
+- celebration
+- stewarding
+- habitat
+- pollinators
+- Minnesota
+- rallied
+- restore
+- invasive buckthorn
+- wildflowers
+- pulling out
+- newts
+- frogs
+- breed
+- amphibian
+- shepherd
+- bucket
+- underpasses
+- solutions
+- kick these off
+- actionable hope
+- throw up your hands
+- path forward
+- through passive despair
+- active participation
+- inspire
+- moth
+- balcony
+- fern
+- a crack in the sidewalk
+- sidewalk
+- emotional landscape
+- on-the-ground
+- sick to your stomach
+- roller coaster
+- environmentalist
+- hockey
+- stick
+- curves
+- hockey stick curve
+- potential
+- embracing
+- sort of
+- get out of bed
+- phenomenal

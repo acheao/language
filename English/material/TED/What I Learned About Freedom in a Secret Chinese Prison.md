@@ -221,3 +221,110 @@ Like a newborn.
 Thank you.
 
 (Applause)
+
+- accommodation
+- leaking state secrets overseas
+- in detention
+- ordeal
+- diet
+- a few
+- lottery
+- squander
+- You can be paralyzed by choice
+- comprehend
+- vastness
+- preciousness
+- glued
+- sit for 13 hours straight each day
+- permission
+- movement
+- And you know what I wanted to do the most?
+- torture
+- major torture
+- EarPods
+- wear => worn
+- shut people out
+- detention
+- paradise
+- regrets
+- regular <=> regrets
+- kicking ourselves over
+- imprisonment
+- taste
+- stuff
+- Another way to value freedom
+- the forms of prison
+- nursery
+- elementary
+- Property
+- tie us down
+- shackles
+- civil liberties
+- maximum
+- conventions
+- biases <=> basic
+- so bound by doctrine
+- delight
+- lockdowns
+- within
+- blindfolded
+- handcuffed
+- infinity
+- serenity
+- riding out the worst part
+- tiles
+- bash my head open against the tiles
+- shut off
+- anguish
+- in a cage
+- serene
+- exhausted
+- enforced
+- shit
+- courtesy
+- snitch
+- forgive
+- empathize
+- cellmates
+- vengeful
+- petty
+- bully
+- interrogation
+- comforted her
+- commonality
+- universal gift
+- ultimate commonality
+- most precious gifts
+- in solitary
+- Poetry
+- acrostic poem
+- adjacent
+- alphabetical
+- via
+- precise
+- transcend
+- punished <=> punch
+- Crafts
+- within a world of constraints
+- endless creativity
+- create something out of nothing
+- promoting
+- athletes training
+- high altitude
+- appreciation
+- deprivation
+- recalibrates
+- Richter scale
+- blackout
+- fluorescent
+- Melbourne
+- lotus
+- lotus position
+- Vancouver
+- bumping
+- corridor
+- smudge
+- magnify
+- bare
+- one drop of color
+- blindness
