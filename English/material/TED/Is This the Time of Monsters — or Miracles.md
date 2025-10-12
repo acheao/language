@@ -215,3 +215,62 @@ Both of these stories are true.
 The only question that matters now is which one do you belong to?
 
 (Applause)
+
+- stories of progress
+- philosopher
+- Antonio Gramsci
+- Antonio Gramsci
+- monsters
+- Those words are haunting
+- unraveling
+- underway
+- because it is everywhere
+- international rules-based order
+- Power over principle
+- obliterated
+- Aid budgets
+- Science under attack
+- hostages
+- Hungary <=> hungry
+- Venezuela
+- vandalism
+- contempt
+- cruelty
+- casual
+- measles
+- decency
+- common sense
+- reversal
+- violent backlash
+- All of the values that we assumed were universal
+- Beneath
+- menacings
+- undercurrents
+- now do the opposite
+- breed
+- paranoia
+- manufacturing division
+- drowning 
+- deliberate
+- falsehoods
+- slide
+- superstition
+- almost unnoticed back
+- planetary
+- firestorms
+- pollinators
+- permafrost
+- within our lifetimes
+- ice-free Arctic
+- tipping points loom
+- tipping
+- Precisely
+- equipped
+- Precisely at the moment that we seem least equipped to deal with them
+- collapse
+- front page
+- news feeds
+- graphic details
+- intimately familiar with
+- tune it out
+- turn it off
