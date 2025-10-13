@@ -282,3 +282,97 @@ The only question that matters now is which one do you belong to?
 - presence of this vaccine
 - rollout of
 - first-ever
+- fought for years and sometimes decades
+- fall from grace
+- grace
+- the Promised Land
+- renewal
+- ashes
+- annihilation
+- revolutionary
+- fairer
+- paradox
+- invented writing
+- eliminated
+- first-ever
+- punishment
+- leprosy
+- in all setting
+- banned or committed to banning
+- corporal punishment
+- Zambia
+- autocratic regime
+- rid
+- sparked
+- democratic
+- firmly
+- authoritarianism
+- Voters
+- largest democracy
+- contraception
+- Indonesia
+- Cambodia
+- mined
+- landmine-free
+- on track to
+- natural disasters
+- murder rate
+- biggest-ever
+- previous
+- deforestation
+- fourth-lowest level on record
+- solar panels
+- wind turbines
+- bending the curve
+- leveled off
+- biting into
+- overtake
+- breakthroughs
+- scientific revolution
+- boost
+- molecules
+- extraordinary
+- enzymes
+- plasma
+- nuclear fusion experiments
+- prevention
+- vaccines
+- asteroid
+- building blocks
+- Decoded whale speech
+- fractals
+- quantum realm
+- sea turtle populations
+- overfishing
+- Mediterranean
+- encircling
+- desert
+- belt
+- conservation corridor
+- stretching
+- Utah
+- extend our time frame out
+- sanitation
+- hygiene
+- insane
+- roller coaster
+- halved
+- precedent
+- question authority
+- destinies
+- innocent
+- snatched
+- snatched off
+- airstrikes
+- malaria
+- wards
+- across an entire continent
+- arc
+- moral
+- contested
+- terrain
+- downswing
+- upswing
+- downswing or the upswing of history
+- grand weave
+- It is not enough to believe in something anymore.
