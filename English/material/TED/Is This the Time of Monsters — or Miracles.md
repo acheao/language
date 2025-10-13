@@ -274,3 +274,11 @@ The only question that matters now is which one do you belong to?
 - intimately familiar with
 - tune it out
 - turn it off
+- though
+- Kenya
+- malaria
+- have greatly gone down
+- severe forms of malaria
+- presence of this vaccine
+- rollout of
+- first-ever
