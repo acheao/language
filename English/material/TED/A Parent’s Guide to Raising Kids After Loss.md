@@ -252,3 +252,89 @@ And I know when we're there, they continue to feel their mother's love.
 
 Thank you.
 
+- underneath
+- legitimate
+- a whole bunch more
+- let me back up
+- blueprint
+- succession <=> success
+- ovarian
+- her focus was split between
+- Unstructured
+- snacks
+- chemo
+- bounce
+- trial
+- clinical trial research
+- bounce house
+- upper hand
+- bad scan
+- Recurrent
+- metastasized
+- outlier
+- kind of the blunt
+- minivan
+- the tire pressure
+- N through Z
+- nuanced
+- underestimated
+- with headlights
+- more routine
+- route <=> routine
+- Permission slip
+- sunscreen
+- nitpicking
+- logistics
+- dimension
+- I tried to keep current
+- sleeves
+- long sleeves
+- surprises
+- kept evolving
+- adopted ... program
+- grown out of shoes
+- evolutions
+- middle of nowhere
+- drugstore
+- feminine products
+- Dumbfounded
+- shapes and approaches
+- cracked up laughing
+- break down
+- mama bear mode
+- tears of joy
+- desire <=> despair
+- pretzels
+- chapped
+- chapstick
+- sting
+- I punted
+- stared at each other
+- invitation
+- snowboarding
+- Pokemon
+- convinced
+- nervous system
+- fused
+- neurological
+- transcendent
+- tempted
+- daydream
+- outsource
+- mindless task
+- logistics
+- emotional evolutions
+- involve
+- cemented
+- unfairnesses
+- so whole
+- in time
+- looking forward
+- graduations
+- treasure
+- A locked in stare
+- suspected
+- sublime
+- squander
+- pure
+- pirated
