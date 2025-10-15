@@ -237,3 +237,32 @@ Let's roll up our sleeves and build it.
 Thank you.
 
 (Applause)
+
+- set aside
+- for the moment
+- manufactured
+- eye contact
+- a sixth of
+- one third of
+- for context
+- Somehow, though, it feels different this time.
+- Somehow, though, he managed to finish on time.
+- fluffy clouds
+- more and more every single day
+- how that manufacturing happens
+- our generation
+- social-media influencers
+- outdated
+- dull
+- mission
+- inspired
+- wide-eyed
+- on the hunt
+- on the hunt for purpose
+- hairnet
+- handed me
+- bring someone down to earth
+- nothing brings you down to earth faster
+- production floor
+- conveyors
+- sealing
