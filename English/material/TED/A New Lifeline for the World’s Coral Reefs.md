@@ -147,3 +147,64 @@ It's game on.
 Thank you.
 
 (Applause)
+
+- biodiverse
+- livelihoods
+- anchor
+- coastal
+- saltwater
+- increasingly <=> incredible
+- significance
+- poster
+- the poster child
+- Coral polyps
+- sensitive
+- expel
+- algae
+- nourish
+- skeletons
+- exposing <=> explore
+- vulnerable <=> volunteer
+- our lifetime
+- prior
+- parallels
+- the parallels are surprisingly striking
+- no cure
+- toolkit
+- coral gardening
+- replant
+- expensive <=> cheaper
+- difficult to scale
+- breakthrough
+- advancements
+- We've made more advancements in the last five years than the previous 50.
+- tolerance
+- better adapted to
+- ceramic
+- cradles
+- eliminating
+- divers
+- in a race against time
+- highly targeted way
+- ocean's natural currents
+- seeding
+- subsequent
+- offspring
+- precision
+- Pacific
+- unprecedented scale
+- portable
+- micronurseries
+- coastal
+- front line
+- millennia
+- to heal
+- blending
+- empowered
+- hope without a plan, it's nothing more than a wish.
+- generosity
+- lifeline
+- don't look away
+- sustain
+- livelihoods
+- safeguard

@@ -266,3 +266,77 @@ Thank you.
 - production floor
 - conveyors
 - sealing
+- cardboard
+- pipes
+- asphalt roads
+- manufacture
+- got a tiny taste
+- trapped
+- toilet paper
+- formula
+- fell <=> felt
+- gloves
+- critical things
+- fluff
+- how the heck
+- metal
+- stacked
+- wrapped
+- steel and cement
+- fans
+- cooling towers
+- We're at a turning point.
+- turning point
+- sleeves
+- rolled up their sleeves
+- Riveters
+- stepping up
+- efficient
+- meds
+- optimizing
+- transforming
+- bottling
+- pods
+- compostable
+- igloo
+- coolers
+- Medicine
+- Satellites
+- Sutures
+- Speedboats
+- seed
+- drones
+- crackers
+- entrepreneurial
+- sustainable
+- decarbonize
+- more factories than I can count
+- foundation
+- to close that gap
+- bulb
+- light bulb went off
+- clipped sensors
+- smartwatches
+- rolling in
+- stats
+- logging
+- heartbeat
+- nightmare
+- patchworks
+- equipment
+- how much it's producing
+- universal translator
+- first-ever
+- productivity
+- idling
+- in between production runs
+- efficiency
+- more scale
+- cutting-edge
+- dang
+- devalued
+- uplifted
+- infrastructure
+- overalls
+- Reels
+- here's my ask
