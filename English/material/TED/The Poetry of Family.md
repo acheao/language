@@ -181,3 +181,117 @@ And you'll learn what a friend is for, and then you'll know, you'll know, you'll
 Thank you.
 
 (Applause)
+
+- observed
+- scholars
+- poets
+- Poetry
+- along
+- cavalierly
+- stick to nothing
+- deliberately <=> intentionally
+- burrs
+- hall
+- Ireland
+- uncommon
+- remains
+- in the little that remains
+- there's so little left of older Ireland
+- only loss can teach
+- felicities
+- how the word
+- dawn
+- older tongue
+- intimacy
+- relief <=> belief
+- ambiance
+- the quality of a moment
+- arrive back home
+- pale
+- glow
+- headlights
+- clasped
+- seat belt
+- motion
+- tilting
+- just tilting and turning to look
+- advent
+- invents
+- intimate
+- companions <=> company
+- belittle
+- maltreat <=> abuse
+- sicken
+- ache
+- long to sleep
+- counsel
+- comfort our children at night
+- rival
+- however capable
+- affections
+- no parent
+- can ever hope to match
+- unease
+- misapprehension
+- consciousness
+- emerging
+- atoms
+- a particular arrangement of atoms
+- rests on an assumption
+- divine
+- principle
+- grieve
+- proxy
+- entertain
+- notion
+- somehow
+- empathetic synthetics
+- paper-folding
+- replicants
+- lore
+- sci-fi
+- board game
+- Castaway
+- however capable
+- no parent
+- can ever hope to match
+- unease
+- misapprehension
+- consciousness
+- emerging
+- atoms
+- a particular arrangement of atoms
+- rests on an assumption
+- divine
+- principle
+- grieve
+- proxy
+- entertain
+- notion <=> concept
+- somehow
+- empathetic synthetics
+- paper-folding
+- replicants
+- lore
+- sci-fi
+- board game
+- Castaway
+- Bianca
+- distraction
+- held his wake
+- quietly
+- casket
+- living romm
+- lid
+- doorway
+- looked right through me
+- corner
+- settle
+- A catch of air and tears
+- foot the threshold
+- trace every line
+- curving verse
+- distraction
+- the press of a kind hand
+- steady
+- I will take this step with you
