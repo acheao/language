@@ -71,7 +71,14 @@
 		{"id":"bee49b72f2c3bdec","type":"file","file":"material/TED/The Future Isn’t Just Coded — It’s Built.md","x":760,"y":-2960,"width":400,"height":400,"color":"1"},
 		{"id":"b74cb74e8a140566","type":"file","file":"material/TED/A New Lifeline for the World’s Coral Reefs.md","x":-340,"y":-2960,"width":400,"height":400,"color":"1"},
 		{"id":"a0d1706e9b8310f7","type":"file","file":"material/TED/The Poetry of Family.md","x":-1440,"y":-2960,"width":400,"height":400,"color":"1"},
-		{"id":"b575dd214560bcb3","type":"text","text":"","x":-1365,"y":5700,"width":250,"height":60}
+		{"id":"b575dd214560bcb3","type":"text","text":"","x":-1365,"y":5700,"width":250,"height":60},
+		{"id":"8b9ff3308375ef44","type":"file","file":"material/TED/The Life-Saving Secrets in Your Baby’s DNA.md","x":-2520,"y":-2960,"width":400,"height":400,"color":"5"},
+		{"id":"f1faca34fcd6098a","type":"file","file":"material/TED/Most Countries Fail at Clean Energy. Here’s How Mine Succeeded.md","x":-3680,"y":-2960,"width":400,"height":400,"color":"5"},
+		{"id":"ac08e4ad34706b9e","type":"file","file":"material/TED/“Marigolds,” a Poem About Wonder.md","x":-4800,"y":-2960,"width":400,"height":400,"color":"5"},
+		{"id":"5f7f55beb701e002","type":"file","file":"material/TED/Will Climate Change Make Your Home Uninsurable.md","x":-4800,"y":-1880,"width":400,"height":400,"color":"5"},
+		{"id":"bb060ac9866908b3","type":"file","file":"material/TED/The Grassroots Movement Transforming Public Safety.md","x":-4800,"y":-880,"width":400,"height":400,"color":"5"},
+		{"id":"3509b51c9b091a5d","type":"file","file":"material/TED/How We Took On an Oil Giant — and Won.md","x":-4800,"y":0,"width":400,"height":400,"color":"5"},
+		{"id":"5f4c4193badbcd37","type":"file","file":"material/TED/This TED Talk Is Full of Bad Ideas.md","x":-4800,"y":846,"width":400,"height":400,"color":"5"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -144,6 +151,13 @@
 		{"id":"2dff6c1e5b834e61","fromNode":"5ec4eecddb931dfe","fromSide":"left","toNode":"bee49b72f2c3bdec","toSide":"right"},
 		{"id":"5cb9abba18a52af9","fromNode":"bee49b72f2c3bdec","fromSide":"left","toNode":"b74cb74e8a140566","toSide":"right"},
 		{"id":"e61ceea3e3680b95","fromNode":"b74cb74e8a140566","fromSide":"left","toNode":"a0d1706e9b8310f7","toSide":"right"},
-		{"id":"d1d4f34a9fa73cfc","fromNode":"b575dd214560bcb3","fromSide":"top","toNode":"592399f12429ede0","toSide":"bottom"}
+		{"id":"d1d4f34a9fa73cfc","fromNode":"b575dd214560bcb3","fromSide":"top","toNode":"592399f12429ede0","toSide":"bottom"},
+		{"id":"0915888cbe607ab6","fromNode":"a0d1706e9b8310f7","fromSide":"left","toNode":"8b9ff3308375ef44","toSide":"right"},
+		{"id":"4a063c7126262f27","fromNode":"8b9ff3308375ef44","fromSide":"left","toNode":"f1faca34fcd6098a","toSide":"right"},
+		{"id":"5726566223f43120","fromNode":"f1faca34fcd6098a","fromSide":"left","toNode":"ac08e4ad34706b9e","toSide":"right"},
+		{"id":"c2e6be70890c1997","fromNode":"ac08e4ad34706b9e","fromSide":"bottom","toNode":"5f7f55beb701e002","toSide":"top"},
+		{"id":"e390f1924f90ed5e","fromNode":"5f7f55beb701e002","fromSide":"bottom","toNode":"bb060ac9866908b3","toSide":"top"},
+		{"id":"66b90851bf526396","fromNode":"bb060ac9866908b3","fromSide":"bottom","toNode":"3509b51c9b091a5d","toSide":"top"},
+		{"id":"eb0cf1933fa370aa","fromNode":"3509b51c9b091a5d","fromSide":"bottom","toNode":"5f4c4193badbcd37","toSide":"top"}
 	]
 }
