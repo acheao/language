@@ -171,3 +171,106 @@ But if we can do this, if we can embrace this, we can save millions of lives and
 Thank you.
 
 (Applause)
+
+- Maria
+- infant
+- comprehensively
+- preventive
+- clinical controlled trial
+- upset
+- odyssey
+- agonizing
+- that casts
+- misunderstanding
+- misdiagnosis
+- mismanagement
+- treat
+- permanent
+- tragic
+- treatable
+- genome
+- genomics
+- that casts … into …
+- a career odyssey
+- genetic testing
+- aghast
+- terrible
+- catastrophic
+- psychological
+- distress
+- exquisitely
+- behavioral
+- reassuring
+- shortly after birth
+- brilliant
+- newborn
+- didn’t quite
+- mutations
+- attack you in adulthood
+- pediatrician
+- overlooked
+- lookout
+- ironic
+- individually
+- elastin
+- narrowed
+- aorta
+- proactive
+- surprised down the road
+- mildly
+- suggestive
+- followed
+- biotinidase
+- deficiency
+- proper
+- dietary
+- supplement
+- enzyme
+- routine <=> route
+- predisposition
+- pediatric
+- onset
+- risk-reducing
+- I could be present for my son
+- insight
+- screening
+- Screen
+- metabolic
+- overburdened
+- under-resourced
+- keep up
+- so resistant
+- demanding
+- intellectually
+- But we've got to get past that.
+- privacy
+- biometric
+- fingerprint
+- law enforcement considerations
+- Whereas
+- medical context
+- psychiatric
+- so forth
+- confusing
+- offered
+- health care
+- genotyping
+- ancestry
+- traits <=> tactics
+- granular
+- 5,000 times more granular
+- systematic
+- institutional
+- spear
+- preserve our health
+- multiomics
+- proteomics
+- transcriptomics
+- wearables
+- international consortium
+- we compare notes
+- revisit
+- courage
+- usher
+- usher in an entirely new era
+- genome-inspired
