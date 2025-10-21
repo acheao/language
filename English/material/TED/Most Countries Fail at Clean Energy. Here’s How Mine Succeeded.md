@@ -217,3 +217,98 @@ And we won't stop until we see renewables in every single wire and beyond.
 Thank you.
 
 (Cheers and applause)
+
+- grid
+- globally
+- Argentina
+- globally recognized
+- shale
+- the fourth-largest shale oil reserve
+- the second-largest shale gas reserve
+- replicate
+- he energy transition work
+- in emerging markets
+- all comes down to …
+- there’s not any
+- a step one of
+- upfront
+- zero operational cost
+- mismanagement
+- importing
+- tackle both things at once
+- strain
+- hard currency
+- convenient
+- viable
+- emerging
+- habit
+- halfway through
+- convince
+- spans
+- multiple
+- not competitive against ...
+- the unit of
+- civil society
+- legal framework
+- political umbrella
+- rally
+- save on
+- undone
+- effort
+- polarization
+- demonstrating
+- consensus
+- unity
+- both chambers
+- phase
+- privilege
+- executive branch
+- the Ministry of Energy
+- change the course
+- credit rating
+- energy program
+- shift it out
+- scheme
+- guarantees
+- scenario
+- waterfall
+- the worst-case
+- It consists of three steps.
+- utility
+- established in advance by the government
+- fund
+- conversions
+- halted currency conversions
+- abroad
+- restricted money transfers abroad
+- extra layer
+- early termination
+- structured
+- treasury notes
+- defaulting
+- obligations
+- defaulting on its obligations
+- backstop
+- sovereign
+- least risky institutions
+- currency
+- negotiating contracts
+- 350-dollar range
+- Before I took office
+- a factor of seven
+- In the wires
+- And drum roll, please.
+- hard currency
+- assets
+- equivalent
+- well-structured
+- trustworthy
+- Breakthrough
+- nonprofit
+- at scale
+- design the path forward
+- craft the documents
+- hands-on
+- concrete tools
+- Caribbean
+- 
