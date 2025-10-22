@@ -217,3 +217,117 @@ Thank you.
 One more.
 
 (Applause) Thank you so much.
+
+- homicide rate
+- brokered 
+- urban
+- permanently maimed
+- incarcerated
+- This offer is subject to approval.
+- Children should not be subject to violence.
+- funerals
+- desensitized
+- inherently
+- committing violent crime
+- surrogate
+- inherit
+- intense
+- high-stake
+- waging
+- guidance
+- proximity
+- enemy territory
+- spread like wildfires
+- warring gangs
+- Fast forward into today
+- the cycle of violence
+- unequal
+- proposed
+- led
+- nontraditional
+- respective
+- complement
+- strengthen
+- intervention
+- consecutive
+- modest
+- philanthropies
+- credible messengers
+- incarcerated folks
+- mediation strategies
+- intervene
+- disputes
+- law enforcement investigations
+- crucial
+- painstakingly
+- painstakingly slow
+- whereas
+- Safe Passage program
+- trauma
+- therapeutic
+- heal
+- lives saved
+- consecutive 
+- nine consecutive years
+- essential strategic
+- rarely
+- trauma recovery center
+- retirement fund
+- retirement <=> retreat
+- grant
+- champion
+- employs
+- livable wage
+- ongoing training
+- overlooked
+- ineligible
+- commitment
+- replicate
+- primed to
+- generous
+- Audacious
+- Scaling Safety
+- Redefine
+- coordinated
+- real, lasting change
+- resident-led
+- resident <=> resist
+- spread...strategy nationwide
+- teaming up
+- Alliance
+- advocacy
+- reforms
+- rely on
+- rely on ... alone
+- emerged
+- preventative
+- outreach
+- peer
+- burdens
+- racially
+- equitable
+- community engagement
+- proudest
+- siblings
+- inspiration
+- lifelong
+- affluent
+- novice
+- destination
+- healing
+- infrastructure
+- vain
+- on behalf
+- actionable
+- exemplifies
+- to step up
+- the gift lie
+- anguish
+- prize
+- circumstances
+- expose
+- undress
+- hold space for them
+- behold
+- perpetrated
+- informing

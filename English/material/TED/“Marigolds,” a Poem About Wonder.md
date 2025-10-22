@@ -177,3 +177,69 @@ Safiya, thank you so very much.
 SS: Thank you all.
 
 (Applause)
+
+- Marigolds
+- bougainvillea
+- anointing
+- dew
+- dew on the leaves
+- veil <=> evil
+- joy
+- soil
+- pressing our hands into the dirt
+- holy
+- budding
+- crowns
+- flecked
+- hibiscus
+- fringe
+- silk
+- oleander
+- herb
+- awe
+- bouquet
+- warblers
+- orphaned
+- pups
+- untameable
+- eager
+- dawn
+- sea-wind
+- salt-air
+- the song of her gone mother
+- coiled
+- warrior
+- wonder
+- bellyful
+- mangoes
+- bloom
+- petals
+- Fragrant
+- slipping away
+- rocking
+- tender
+- your hour bright
+- your wants bursting
+- fossil
+- do a high five
+- encourage
+- a standing ovation
+- If the spirit moves you.
+- gracious
+- extraordinary
+- muse
+- the muse
+- transformative
+- spirituality
+- drop everything
+- revolves
+- archway
+- memoir
+- How do you approach
+- uncertainty and doubt
+- dialogue
+- characterization
+- narrativization
+- mystical
+- humility
+- notes
