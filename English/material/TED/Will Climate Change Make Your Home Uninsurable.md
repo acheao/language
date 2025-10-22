@@ -1,333 +1,179 @@
-https://www.youtube.com/watch?v=P7wNVGLKDL8 
+https://www.youtube.com/watch?v=deAEKPbpSSY When I first joined the insurance industry, I realized that telling people about it was the fastest way for them to lose interest.
 
-In 1992, the year that the Los Angeles homicide rate reached an all-time high, members of the Crips and Bloods, two of the largest gangs in the US, sat down together and brokered a peace treaty.
+(Laughter) Fortunately, that's changed.
 
-This historic event ended a three-decade-long urban war that claimed more than 10,000 lives in LA County alone, not including those permanently maimed or incarcerated for life.
+Risk is so much higher on people's personal and professional agendas.
 
-I was one of those gang members who negotiated that treaty.
+We know that it pays to manage risk.
 
-(Applause) Thank you.
+And my industry, our ability to price risk means that we have tools and products that can give a signal as to how we might adapt to climate change.
 
-(Applause) Growing up in the Jordan Downs housing projects in the Watts section of Los Angeles, I witnessed things no child should ever be subject to.
+So when I joined this industry, I knew nothing about it.
 
-By the time I was 16, I had attended 20 funerals of friends.
+But in my first week, I learned its role in a modern economy.
 
-And like so many youth surrounded by violence and poverty, I was desensitized and angry.
+Aeroplanes wouldn't fly, surgeons wouldn't operate, and Taylor Swift would not go on tour without access to insurance.
 
-And joining the neighborhood gang was my solution for safety and protection.
+In fact, very few people will take on a major financial commitment without it.
 
-Now, it's important to understand that Black American gangs aren't inherently violent.
+It works because the losses of the few are paid for by the many, making risks manageable.
 
-Less than three to five percent of so-called gang members are actually committing violent crime.
+And so banks rely on insurance.
 
-More often, they're like surrogate families.
+And if anyone here has built a wind farm or bought a home, the banks will have required you to have insurance in place.
 
-We're protecting one another, but sometimes the only way we knew how to survive.
+In fact, many, maybe even most financial transactions are contingent on insurance being in place.
 
-In the first two years of the peace treaty, homicides in Watts declined by 44 percent, changing the quality of life in my neighborhood.
+And so insurance is the lubricant of the financial services industry.
 
-I was just 23 years old, and my firstborn son, Terrell, had just turned seven.
+And without insurance, you'll struggle to access debt.
 
-Driven by the belief that our children would not inherit our conflicts, we took the call to peace to 16 more cities, contributing to a national decline in youth violence.
+Last bit of the insurance lesson, I promise.
 
-You see, peace was possible because nobody could stop that war but us.
+Premiums price risk.
 
-Those of us at the center of the conflict.
+So the cost of the insurance gives an indication of how likely it is that the insurer thinks that you will suffer a loss.
 
-It took months of intense high-stake conversations, starting with a handful of brothers from the four housing projects.
+And we all know this.
 
-During the negotiation, I asked who was winning the war that we were waging against each other.
+Young, inexperienced drivers pay high insurance premiums.
 
-Every time we'd die or go to prison, no one was there to provide direction and guidance for our kids.
+Yet on my home, if I install a burglar alarm or locks on my windows, I know the cost will be lower.
 
-You see, violence is about proximity.
+So the premium indicates how likely it is you will suffer a loss, but there are things that we can do to reduce the risk and reduce the cost.
 
-I had known most of my so-called enemies my entire life, from school and from the neighborhood.
+So what's any of this got to do with climate change?
 
-A small group of us went into so-called enemy territory.
+Well, importantly, insurance only works while extreme weather remains a risk.
 
-The news of the peace treaty spread like wildfires.
+If it becomes a near certainty, insurance becomes unaffordable and potentially not available.
 
-Hundreds of youths from formerly warring gangs attended celebrations in the projects to mark the new beginning.
+So we have an industry whose core competency is pricing risk, telling us that in places the cost of risk is too high for people to pay.
 
-The peace treaty inspired similar agreements across the country and lasted for 12 years.
+And at the same time, we have a financial services industry that relies on insurance to provide loans, which in turn make the financial system work.
 
-Fast forward into today, the cycle of violence remains an extremely concentrated problem with unequal impacts.
+Now the signals are really clear.
 
-Residents in low-income urban communities of color are 15 times more likely to be harmed by violence, but yet three times less likely to get help.
+We're told that in Australia, by 2100, 1.3 million homes will be uninsurable due to extreme weather.
 
-And for Black males ages 14 to 25, violence is the number one cause of death.
+And in New South Wales, that's 90 percent of people's homes.
 
-As this crisis has worsened in cities, overwhelmed police departments are joining forces with community leaders to say that arrests alone will not end the cycle of violence.
+In New Zealand, it's 10,000 homes uninsurable by 2050.
 
-Many solutions are being proposed.
+And across the world, in Canada, the Bureau of Insurance says that nearly 10 percent of homes are already close to uninsurable and represent 90 percent of the industry's losses.
 
-But what we're proposing is an internal solution.
+Why?
 
-A solution led by those most impacted by violence.
+Extreme weather due to climate change.
 
-A solution that lifts up nontraditional leaders to play a key role in creating safety in their own respective communities.
+Now, since the 1970s, the cost of extreme weather events has increased every decade.
 
-You see, investing in nontraditional leaders as a complement to policing works.
+Last year, the costs were 320 billion dollars.
 
-In 2014 -- (Applause) I got a call from my friend Ras Baraka, mayor of Newark, New Jersey.
+And the LA wildfires on their own, 150 billion dollars.
 
-Mayor Baraka asked me to help him to strengthen his community violence intervention strategy.
+But it's not just severe losses.
 
-Now, Newark had been on the top ten most violent city lists for almost 50 consecutive years.
+Sticking in the US, last year, there were 27 incidents with costs of over one billion dollars.
 
-With a modest investment from local philanthropies, I launched a Newark Community Street Team.
+That's more than two a month.
 
-I hired 16 credible messengers, many of them ex-gang members and formerly incarcerated folks who have deep relationships in the neighborhood.
+So the equation has flipped.
 
-We trained them in conflict resolution and mediation strategies and deployed them in high-violence areas, and asked them to use their relationship capital to intervene and mediate gang disputes that could lead to violence.
+It's no longer just the losses of the few.
 
-Now, you know, law enforcement investigations are crucial, but not always successful, and often painstakingly slow, whereas the credible messengers can prevent the next shooting in real time.
+It's now the losses of the many.
 
-We launched the Safe Passage program to ensure our kids went to school safely, because violence often happens before and after school.
+And as a result, we're hearing stories of people struggling to access insurance.
 
-We launched the city's first trauma recovery center to provide therapeutic services to victims to help them heal.
+And if you can't get insurance for your home, your house is worth less, and you'll struggle to sell.
 
-We also provided mentoring and outreach and case management.
+Data in the UK shows that homeowners with no access to flood insurance typically lose 10 to 30 percent of the home's value.
 
-You see, safety isn't just one intervention.
+In Florida, that's 20 to 40 percent.
 
-It's a shared strategy and requires an ecosystem of programs that residents trust.
+And 30 percent of mortgage foreclosures in the US are expected to be due to extreme weather, due to climate change, by 2035.
 
-When we started our work in Newark in 2014, the city had 103 homicides.
+So there's an indication of people are saying that insurance has failed, but it has not.
 
-In 2024, we had 37.
+It's just telling us that the costs are too high to bear.
 
-(Applause) Family, these are not just numbers.
+Simply put, without access to insurance, people will struggle to secure debt, they will struggle to sell their homes, they will struggle to invest in their businesses.
 
-They're actual lives saved.
+And we're seeing this happen due to climate change.
 
-Newark now has nine consecutive years of decline, and we're no longer on the top ten most violent city lists.
+I'm afraid there's another challenge.
 
-(Applause) Now, what we achieved in Newark was more than historic lows in violence.
+Loans and mortgages are normally taken out for long periods.
 
-Local law enforcement credits us as the essential strategic partner in reducing violence in the city.
+It may be 20 years or more.
 
-And today, the Newark Street team has over 80 staff, is a formal partner with the city, and received millions of dollars in public funding.
+And so you may build your wind farm or buy your home, assuming that you can use insurance to manage your risk.
 
-Now, family, we're not just the only ones that's improving safety in our cities.
+Yet over time, the frequency and severity of extreme weather events means that insurance becomes unaffordable.
 
-It's just rarely recognized and supported.
+And so you've lost a key tool in your financial resilience toolkit, and you're more likely to default on your loan.
 
-Take my good friend, Miss Brenda Glass, a survivor of violence from Cleveland, Ohio.
+And so we're also in a situation where the finance industry are seeing asset devaluations, they're seeing increased chances of default, and so we could have liquidity crunches in some areas where investors choose to exit the areas with the most risk.
 
-Brenda started Cleveland's first trauma recovery center, but had to cash in her retirement fund just to keep her doors open.
+So it's clear we need to act.
 
-And despite being the city's only 24-hour assistance for victims, it took the city five years before they granted her money.
+And the scientists have been telling us this for a really long time.
 
-Another champion is my brother Lyle Muhammad from Miami, who employs credible messengers in some of the most violent neighborhoods but struggles to provide a livable wage and ongoing training for his staff.
+It's just the finance industry is saying it now, too.
 
-These often overlooked groups are most of the time ineligible for public funding, but what they do have is deep commitment, lived experience, trust and community support.
+Beyond cutting emissions, which we need to do, there are things that we can do.
 
-Now, other cities are primed to replicate the successes that we had in Newark and following the steps of leaders like Brenda and Lyle, but very few essential community organizations have the know-how to become a permanent part of the city's public safety workforce.
+One of the fantastic things about having a price for risk is it incentivizes you to invest in resilience.
 
-Family, we're about to change all of that with the generous investment from the Audacious TED community.
+And we know that investments in preventative measures have a payback of 10 to 13 dollars for every dollar spent.
 
-(Applause) And support from people just like you.
+So as an industry, we need to do far more to tell people that prevention saves money.
 
-We're launching Scaling Safety, an initiative to put the public back in public safety.
+Now, the cheapest time to invest in resilience is when you build new things.
 
-Our solution is simple.
+We should only build resilient new structures.
 
-Redefine public safety by investing in a coordinated set of high-impact, resident-led programs that create real, lasting change.
+But 80 to 85 [percent] of the buildings that exist everywhere in the world today will still be here in 2040.
 
-In 2021, I launched a community-based public safety collective to spread the Newark Community Street Team strategy nationwide.
+So that means we also need to retrofit.
 
-We've already helped 150 organizations in 60-plus cities.
+Some of those actions may be things like lifting electrical equipment off the ground floor of buildings to reduce damage from flood, or you may need to replace the shingles on your home with a living roof to make you more resilient to wildfire.
 
-Now we're teaming up with the Alliance for Safety and Justice, the nation's leader in public safety advocacy.
+But these cost money and some of the interventions cost a lot of money.
 
-ASJ has unlocked three billion dollars in funding and led 150 policy reforms to support community safety programs.
+Now there are grants and there are resilience funds that can help with this, but their scale is woefully inadequate.
 
-Together, we're creating a stronger, more effective approach to safety, one that complements law enforcement and breaks the cycle of harm.
+So as an insurance industry, we need to do more to promote preventative measures so that we're reducing the risk now and saving for the future.
 
-Now, addressing violence is extremely complex, but just as we no longer rely on hospitals and emergency rooms alone to improve public health, we cannot rely on the justice system alone to create safety.
+Now there are lots of roles for insurance to support climate change.
 
-(Applause) In public health, community health workers emerged to improve preventative health care by training residents in outreach and peer support.
+One other that I want to mention is I've been talking about the impact of insurance on property damage, but there's a type of insurance called parametric insurance that supports people in stresses like extreme heat or water stress.
 
-They've reduced the burdens on emergency rooms and improved public health.
+And right here in Kenya, we have a program supporting small-scale farmers.
 
-We believe the same can be done with public safety, because racially equitable access to safety begins with community engagement.
+So in the event that the rains don't come and the crops fail, or in India, where extreme heat means it's unsafe to work in the market, the micro insurance can replace people's livelihoods.
 
-Now, in 2003, my oldest son, Terrell, that was seven years old when I negotiated the treaty, graduated from high school and was accepted into Humboldt State University.
+And these insurances are impacting hundreds of thousands of people's lives globally for the better.
 
-(Applause) The proudest day of my life, family, was driving this kid to school to start his first day as a college student.
+But these insurances too, will become unavailable and unaffordable if the risk becomes a certainty.
 
-Terrell was an inspiration to his younger siblings and the reason why I became a lifelong advocate for peace.
+So insurance is doing exactly what it's supposed to, it's pricing risk, and it's giving us a warning sign that assets may be worth less and credit could be less available as banks either refuse or charge more for credit because insurance isn't there.
 
-He came home from winter break.
+Which means one of the key tools in our toolkit may not be available when we need it most.
 
-He went to a party with some of his friends in an affluent neighborhood in LA.
+So what is my vision for insurance?
 
-There, some kids from a local gang showed up at the party, mistook his red Mickey Mouse sweater for gang colors, and shot him to death.
+I don't want it to be seen as a problem.
 
-Family, I'm no novice to violence, I've witnessed it my entire life.
+I want it to be part of the solution.
 
-But nothing prepares you for the loss of your child.
+Insurance is a sophisticated financial tool that provides us all with an incentive to act as a society.
 
-But what I've come to understand is that peace is a journey and not a destination.
+And that's what we need to do.
 
-And that public safety is not just the absence of violence and crime, but the presence of well-being and the infrastructure to support victims and survivors in their healing journey.
-
-Scaling Safety is our healing journey and my continued commitment to Terrell and Oscar Guizar and Ronzell Pointer, and the thousands like them, that their deaths were not in vain.
+We need to invest in adaptation and resilience so the risk remains manageable, enabling people and businesses to continue to invest in their future.
 
 Thank you.
 
-(Applause) Helen Walters: Aqeela, another hug, if you will.
-
-OK, come right here, I have a question.
-
-Thank you for sharing your story.
-
-I speak on behalf of everybody when I say that we're so sorry for your loss.
-
-Aqeela Sherrills: Thank you.
-
-HW: We talked a lot this week about actionable hope.
-
-What you're doing exemplifies a spirit that too many of us have no idea what you've experienced and what you do on a daily basis.
-
-What advice do you give those who are trying to dig deep in this time, to step up and to find actionable hope?
-
-How do you do it?
-
-AS: I would say that where the wounds are in the personal life is where the gift lie.
-
-Sometimes we have to sit long and hard, in the anguish and the pain of the things that we suffered and keep our eye on the prize, you know, continue to look for the gift despite, you know, the circumstances around you.
-
-You know, the thing that I would encourage folks to do is to find someone that you know or don’t know, sometimes it’s easy to talk to people that you don’t know.
-
-And expose the deep secrets in your personal life, you know, as a way of accessing the gift of who you are.
-
-Because when you undress yourself, others can’t undress you, right?
-
-And I would say, for the folks who are the listeners because, you know, people always, you know, come to us and they tell us their horror story, hold space for them, behold them, don't define them as their experience, because we're not the things that we've perpetrated or the things that have been done to us.
-
-Those things are only informing who we become, they don't define who we are.
-
-HW: Aqeela, you're an inspiration.
-
-Thank you.
-
-One more.
-
-(Applause) Thank you so much.
-
-- homicide rate
-- brokered 
-- urban
-- permanently maimed
-- incarcerated
-- This offer is subject to approval.
-- Children should not be subject to violence.
-- funerals
-- desensitized
-- inherently
-- committing violent crime
-- surrogate
-- inherit
-- intense
-- high-stake
-- waging
-- guidance
-- proximity
-- enemy territory
-- spread like wildfires
-- warring gangs
-- Fast forward into today
-- the cycle of violence
-- unequal
-- proposed
-- led
-- nontraditional
-- respective
-- complement
-- strengthen
-- intervention
-- consecutive
-- modest
-- philanthropies
-- credible messengers
-- incarcerated folks
-- mediation strategies
-- intervene
-- disputes
-- law enforcement investigations
-- crucial
-- painstakingly
-- painstakingly slow
-- whereas
-- Safe Passage program
-- trauma
-- therapeutic
-- heal
-- lives saved
-- consecutive 
-- nine consecutive years
-- essential strategic
-- rarely
-- trauma recovery center
-- retirement fund
-- retirement <=> retreat
-- grant
-- champion
-- employs
-- livable wage
-- ongoing training
-- overlooked
-- ineligible
-- commitment
-- replicate
-- primed to
-- generous
-- Audacious
-- Scaling Safety
-- Redefine
-- coordinated
-- real, lasting change
-- resident-led
-- resident <=> resist
-- spread...strategy nationwide
-- teaming up
-- Alliance
-- advocacy
-- reforms
-- rely on
-- rely on ... alone
-- emerged
-- preventative
-- outreach
-- peer
-- burdens
-- racially
-- equitable
-- community engagement
-- proudest
-- siblings
-- inspiration
-- lifelong
-- affluent
-- novice
-- destination
-- healing
-- infrastructure
-- vain
-- on behalf
-- actionable
-- exemplifies
-- to step up
-- the gift lie
-- anguish
-- prize
-- circumstances
-- expose
-- undress
-- hold space for them
-- behold
-- perpetrated
-- informing
+(Applause)
