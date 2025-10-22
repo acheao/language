@@ -179,3 +179,30 @@ We need to invest in adaptation and resilience so the risk remains manageable, e
 Thank you.
 
 (Applause)
+
+- insurance
+- agendas
+- signal
+- adapt
+- Aeroplanes 
+- financial commitment
+- in place
+- All safety measures are in place.
+- We need to have a plan in place before the meeting.
+- transactions 
+- contingent
+- contingent on
+- Our success is contingent on teamwork.
+- The deal is contingent on government approval.
+- lubricant 
+- Premiums 
+- indication 
+- inexperienced 
+- burglar alarm
+- remains 
+- unaffordable
+- competency 
+- uninsurable 
+- Wales
+- Bureau 
+- the Bureau of Insurance
