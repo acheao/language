@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=deAEKPbpSSY When I first joined the insurance industry, I realized that telling people about it was the fastest way for them to lose interest.
+https://www.youtube.com/watch?v=deAEKPbpSSY 
+
+When I first joined the insurance industry, I realized that telling people about it was the fastest way for them to lose interest.
 
 (Laughter) Fortunately, that's changed.
 
