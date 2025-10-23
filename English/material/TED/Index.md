@@ -75,3 +75,6 @@
 75. [The Grassroots Movement Transforming Public Safety.md](The%20Grassroots%20Movement%20Transforming%20Public%20Safety.md)
 76. [How We Took On an Oil Giant — and Won.md](How%20We%20Took%20On%20an%20Oil%20Giant%20—%20and%20Won.md)
 77. [This TED Talk Is Full of Bad Ideas.md](This%20TED%20Talk%20Is%20Full%20of%20Bad%20Ideas.md)
+78. [Why We Need to Know Our Lives Matter.md](Why%20We%20Need%20to%20Know%20Our%20Lives%20Matter.md)
+79. [Inside India’s Astonishing Solar Revolution.md](Inside%20India’s%20Astonishing%20Solar%20Revolution.md)
+80. [What Happens When Your Dog Uses the Internet.md](What%20Happens%20When%20Your%20Dog%20Uses%20the%20Internet.md)

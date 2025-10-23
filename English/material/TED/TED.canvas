@@ -78,7 +78,10 @@
 		{"id":"5f7f55beb701e002","type":"file","file":"material/TED/Will Climate Change Make Your Home Uninsurable.md","x":-4800,"y":-1880,"width":400,"height":400,"color":"5"},
 		{"id":"bb060ac9866908b3","type":"file","file":"material/TED/The Grassroots Movement Transforming Public Safety.md","x":-4800,"y":-880,"width":400,"height":400,"color":"5"},
 		{"id":"3509b51c9b091a5d","type":"file","file":"material/TED/How We Took On an Oil Giant — and Won.md","x":-4800,"y":0,"width":400,"height":400,"color":"5"},
-		{"id":"5f4c4193badbcd37","type":"file","file":"material/TED/This TED Talk Is Full of Bad Ideas.md","x":-4800,"y":846,"width":400,"height":400,"color":"5"}
+		{"id":"5f4c4193badbcd37","type":"file","file":"material/TED/This TED Talk Is Full of Bad Ideas.md","x":-4800,"y":846,"width":400,"height":400,"color":"5"},
+		{"id":"d6722d6dd56f31ae","type":"file","file":"material/TED/Why We Need to Know Our Lives Matter.md","x":-4800,"y":1680,"width":400,"height":400,"color":"2"},
+		{"id":"3b6ee706cbac6033","type":"file","file":"material/TED/Inside India’s Astonishing Solar Revolution.md","x":-4800,"y":2600,"width":400,"height":400,"color":"2"},
+		{"id":"82075700a433e378","x":-4800,"y":3640,"width":400,"height":400,"color":"2","type":"file","file":"material/TED/What Happens When Your Dog Uses the Internet.md"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -158,6 +161,9 @@
 		{"id":"c2e6be70890c1997","fromNode":"ac08e4ad34706b9e","fromSide":"bottom","toNode":"5f7f55beb701e002","toSide":"top"},
 		{"id":"e390f1924f90ed5e","fromNode":"5f7f55beb701e002","fromSide":"bottom","toNode":"bb060ac9866908b3","toSide":"top"},
 		{"id":"66b90851bf526396","fromNode":"bb060ac9866908b3","fromSide":"bottom","toNode":"3509b51c9b091a5d","toSide":"top"},
-		{"id":"eb0cf1933fa370aa","fromNode":"3509b51c9b091a5d","fromSide":"bottom","toNode":"5f4c4193badbcd37","toSide":"top"}
+		{"id":"eb0cf1933fa370aa","fromNode":"3509b51c9b091a5d","fromSide":"bottom","toNode":"5f4c4193badbcd37","toSide":"top"},
+		{"id":"78f85417ba652a4c","fromNode":"5f4c4193badbcd37","fromSide":"bottom","toNode":"d6722d6dd56f31ae","toSide":"top"},
+		{"id":"469ef598a45d53e5","fromNode":"d6722d6dd56f31ae","fromSide":"bottom","toNode":"3b6ee706cbac6033","toSide":"top"},
+		{"id":"9a257cb99d870fc6","fromNode":"3b6ee706cbac6033","fromSide":"bottom","toNode":"82075700a433e378","toSide":"top"}
 	]
 }
