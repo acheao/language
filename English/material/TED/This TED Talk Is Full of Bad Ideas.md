@@ -297,3 +297,112 @@ All right.
 Thank you.
 
 (Applause and cheers)
+
+- salesman
+- vintage 
+- faux wood
+- paneling
+- turbo
+- temporary
+- key fob
+- fob
+- necessarily 
+- making this stuff up
+- make up
+- art collective
+- Handbags
+- Mischief
+- difficult beast
+- microscopic
+- endeavored 
+- auction
+- incidentally
+- volume
+- strapped 
+- paintball
+- constructed
+- gallery
+- vine
+- die on the vine
+- get in the way
+- initial prototypes
+- sketching
+- chaotic 
+- glee
+- leaked
+- drop
+- hindsight
+- fondly
+- smiled quite fondly upon
+- blur
+- courtside 
+- wrestler 
+- pay-per-view
+- on live
+- curb 
+- stomped
+- cutting room
+- with one catch
+- digital leaderboard 
+- balances
+- horrifying
+- studio 
+- conferred
+- Basel
+- Miami
+- booth <=> cubicle
+- hesitant 
+- shady
+- participatory
+- muster  
+- muster up the courage
+- swipe their card
+- clock in
+- The car can clock in at 200 km/h.
+- weird
+- debit card
+- entourage
+- shot to the top of the leaderboard
+- hazy 
+- amassed 
+- assigned
+- bumping
+- artworks
+- captive 
+- concerningly 
+- sincere
+- wholesome 
+- wrap up
+- acquiring
+- whopping
+- strangers
+- awkward
+- transparency
+- Pandora's
+- loop
+- assure
+- ultrasonic
+- speakers
+- blasts
+- mic
+- eavesdropping
+- life-size sculpture
+- supposed to
+- discourage
+- communal
+- meetups
+- occasional
+- Grand Theft Auto
+- Philadelphia
+- glorious
+- tow pound
+- purchasers
+- flown
+- escapades
+- regrettably
+- scribbled
+- rallying point
+- sprang up
+- nowhere
+- sprang up out of nowhere
+- dispense

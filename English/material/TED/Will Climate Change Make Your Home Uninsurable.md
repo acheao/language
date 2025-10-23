@@ -206,3 +206,52 @@ Thank you.
 - Wales
 - Bureau 
 - the Bureau of Insurance
+- due to
+- wildfires
+- Sticking in the US
+- more than two a month
+- equation 
+- flipped
+- flood
+- mortgage
+- foreclosures
+- indication
+- secure
+- unaffordable
+- the frequency and severity
+- toolkit
+- resilience
+- devaluations
+- The company defaulted on its loan.
+- Higher risk of default
+- liquidity
+- crunches
+- liquidity crunches
+- exit
+- cutting emissions
+- incentivizes
+- preventative measures
+- payback
+- prevention 
+- structures
+- retrofit
+- electrical equipment
+- lifting ... off
+- the ground floor
+- living roof
+- shingles
+- interventions
+- woefully
+- inadequate
+- promote
+- property damage
+- property <=> proper
+- parametric
+- livelihoods
+- crops 
+- the crops fail
+- Insurance
+- sophisticated financial
+- adaptation
+- the risk remains manageable
+- Grassroots

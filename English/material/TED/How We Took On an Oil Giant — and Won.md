@@ -221,3 +221,57 @@ When we fight with courage and intelligence, we beat the oil industry.
 Thank you.
 
 (Cheers and applause)
+
+- corporate 
+- sink
+- rainforest
+- drafted
+- Indigenous
+- tropical
+- toads
+- butterflies
+- opossums
+- stillness 
+- hummingbird
+- shimmers
+- overheating 
+- ExxonMobil
+- offshore
+- barrels <=> bucket
+- greenhouse gas
+- pensioner
+- courageous
+- filed ten cases against...
+- permits 
+- restricted
+- enforced that rule
+- Simple but effective
+- moral
+- assessment
+- environmental impact assessment
+- extract oil
+- scope 3 emissions
+- indirect impacts
+- justify 
+- take into account ...
+- precedent
+- dangerous exercise
+- liable
+- compensating
+- liability
+- unlimited
+- guarantee
+- comply
+- petroleum
+- accidentally
+- crashed into
+- fierce
+- furious 
+- go to court
+- binds 
+- judgment 
+- persuade
+- not be penalized
+- fooled 
+- collapse
+- despair
