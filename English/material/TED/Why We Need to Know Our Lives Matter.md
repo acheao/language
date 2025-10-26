@@ -249,3 +249,107 @@ We want to know that our lives, our very existence, matters.
 Thank you.
 
 (Applause)
+
+- firefighters
+- undeniable
+- rookie
+- car wreck
+- rookie <=> cookie
+- trapped
+- pinned
+- twisted
+- steel
+- took over
+- jagged
+- heavy bunker coat
+- intense
+- rarely
+- outcomes
+- erode
+- morale
+- fuel
+- burnout
+- cynicism
+- fire chief
+- tracked the outcomes
+- vital
+- denying
+- thrive
+- scientific
+- contribute
+- withdraw
+- substances
+- self-harm
+- alleviate
+- lash
+- lash out
+- road rage
+- desperate
+- erases
+- a sense of identity and purpose
+- ahead for us
+- responsibility
+- either fuel this crisis or be a key to solving it
+- Wisconsin
+- Phillips
+- workstation
+- assembling
+- squishy
+- nice-to-have
+- employees
+- loyal
+- uncovered a formula
+- strengths <=> advantage
+- talents
+- caregiver
+- full-time
+- passed away
+- unmoored
+- purposeless
+- retreating
+- inward
+- outward
+- Grieving
+- belongings
+- their loved ones' belongings
+- gently used
+- deliver
+- transformed
+- empty nest
+- retirement
+- transitions
+- responsibility
+- checking in
+- appreciating out colleague
+- supportive
+- remind
+- breaking point
+- stretching ourselves to the breaking point
+- elusive
+- strengthen resilience
+- recruited
+- cortisol
+- the stress hormone
+- ripples out
+- normalize
+- isolated
+- adults
+- oxygen mask
+- revealed
+- intimately
+- hesitate
+- generosity
+- our disconnected world
+- instituted
+- Dutch
+- supermarket chain
+- slow checkout lanes
+- cashiers
+- loneliness
+- rolled out
+- intentional
+- colleagues
+- Affirming
+- glue
+- deep down
+- existence

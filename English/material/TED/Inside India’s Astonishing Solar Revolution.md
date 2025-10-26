@@ -139,3 +139,80 @@ Because the time is right and we can't stop now.
 Thank you.
 
 (Applause)
+
+- gigawatts
+- divided
+- betting
+- unrealistic
+- lifetime
+- milestone
+- simultaneously
+- solar revolution
+- catapulted
+- boosting
+- blackouts
+- brownouts
+- household
+- beacon
+- motivation
+- ideological
+- transition
+- a range of countries
+- primary
+- takeaway
+- The main takeaway from the meeting is that we need to improve communication.
+- commitments
+- the cost of finance
+- cost of capital
+- unsurprisingly
+- electricity
+- technology innovation alone is not getting it done
+- as...as...
+- eagerness
+- manufacturers
+- Developers and manufacturers
+- readily
+- elusive
+- electricity utilities
+- chronically
+- large shares
+- variable
+- delayed
+- spooking
+- experimented
+- solar parks
+- act as anchor
+- fortified
+- integrated into the grid
+- revolution
+- built on the back of
+- distilled
+- three distinct levels
+- innovation
+- localization
+- commitments
+- Sustainable
+- Ghana
+- net-zero
+- look at the trade offs
+- develop
+- motion
+- hotbeds
+- curtailed
+- sub-Saharan
+- viability
+- financial viability
+- results-based
+- addresses both these risks
+- leveraged
+- prosperity
+- powerhouse
+- panels
+- s having none of it
+- underway
+- irreversible
+- four out of every five
+- in motion
+- unmet
+- keep this momentum up
+- up to all of us
