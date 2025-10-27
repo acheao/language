@@ -261,3 +261,124 @@ So the next time you make a video call to a loved one, just remember that a parr
 Thank you very much.
 
 (Applause)
+
+- cut off
+- swipe
+- bridge this divide
+- strange idea
+- collars
+- trackers on
+- detect
+- where their dog or cat is at any point
+- cognition
+- behavior
+- flip
+- flip the script
+- master
+- Arduino
+- Raspberry Pi
+- low-fidelity
+- various
+- introduced to
+- imply (that)...
+- some level of + 名词
+- keep doing sth
+- enrichment
+- Finland
+- start to realize (that)...
+- have little control over...
+- saki
+- a tiny species of
+- typically live...
+- mid-range in the rainforest
+- elusive
+- tunnel
+- audio
+- whenever they enter
+- fascinating
+- barracudas
+- jellyfish
+- mealworms
+- significantly like ...
+- really heavy beeping traffic noise
+- which makes completely no sense
+- make sense
+- make no sense
+- make completely no sense
+- like I mentioned before
+- it's not only about A, but also B
+- the impact on sb/sth
+- scratching behavior
+- stressful behavior
+- significantly reduce sth
+- can be seen as ...
+- get on to something
+- not only ... but also ...
+- impact their well-being
+- improves their health
+- stimuli
+- something totally different
+- marmoset
+- light switch
+- enclosure
+- for instance
+- from having sth
+- From having access to the library, students improved their grades.
+- not because ... but because ...
+- suspect (that) ... / suspect sb of ...
+- give sb control over sth
+- predictability
+- in the first place
+- heating devices
+- fundamental
+- social lives
+- Parrots
+- flocks
+- packs
+- primates
+- chimpanzees
+- efficient fusion
+- fly in flocks
+- run in packs
+- a process called ...
+- captivity
+- practical reasons
+- keep animals in captivity
+- for practical reasons
+- behavioral management
+- aquarium
+- naughty
+- keep sb/sth to one side
+- start to wonder / start wondering
+- What if ...?
+- what I knew
+- leaning behaviors
+- in our lounge
+- leaning <=> learning
+- whenever
+- routines <=> route
+- develop routines
+- But sometimes, things don’t go as planned.
+- become a bit too much
+- back to back to back
+- eventually
+- run out of sth
+- flipped the camera
+- buskers
+- portal
+- in many ways
+- wasn’t always available
+- couldn't keep running sth
+- start to wonder / start wondering
+- cut sb/sth out
+- parrots
+- highly social creatures
+- get one’s thinking hat on
+- collaborators
+- tablet
+- tongues
+- trigger the video calls
+- profile photos
+- on a tablet
+- put together
+- care giver
