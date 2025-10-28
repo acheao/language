@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=iLhFAWKCE0M So if you want to understand how challenging the future could be for creative people, just look at what's happening with musicians right now.
+https://www.youtube.com/watch?v=iLhFAWKCE0M 
+
+So if you want to understand how challenging the future could be for creative people, just look at what's happening with musicians right now.
 
 Up until the late '90s, people either listened to music for free on the radio or by buying a physical copy to listen to at home.
 
