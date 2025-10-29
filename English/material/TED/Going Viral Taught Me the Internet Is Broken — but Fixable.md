@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=yWj33Ud8iag I was born and raised in Tucson, Arizona, by a single mom, and when I was 15 years old, I moved out because of her struggles with substance abuse.
+https://www.youtube.com/watch?v=yWj33Ud8iag 
+
+I was born and raised in Tucson, Arizona, by a single mom, and when I was 15 years old, I moved out because of her struggles with substance abuse.
 
 The next year, 2017, while living with my boyfriend and his family, my senator voted to strip the funding that I needed when I walked into a clinic with no money, no insurance and no parents to walk out with the birth control I needed to take control of my body, my future.
 

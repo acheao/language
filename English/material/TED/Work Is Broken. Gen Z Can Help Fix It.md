@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=n8QoLnT4ygo I’d like to start with a little game of “would you rather”.
+https://www.youtube.com/watch?v=n8QoLnT4ygo 
+
+I’d like to start with a little game of “would you rather”.
 
 So I'm going to invite everyone to go ahead and stand up.
 

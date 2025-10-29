@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=dJIw-hljICY As a little girl, I loved playing sports.
+https://www.youtube.com/watch?v=dJIw-hljICY 
+
+As a little girl, I loved playing sports.
 
 I also loved painting my fingernails and parading around my mother's house in her high-heeled shoes.
 

@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=IzTpuucqim0 Kelly Corrigan: So will you describe for us the average Woebot interaction?
+https://www.youtube.com/watch?v=IzTpuucqim0 
+
+Kelly Corrigan: So will you describe for us the average Woebot interaction?
 
 Alison Darcy: Sure.
 

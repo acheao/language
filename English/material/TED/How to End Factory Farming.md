@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=dvLnIecUNL8 Today, I want to talk with you of the most important moral issues we never talk about.
+https://www.youtube.com/watch?v=dvLnIecUNL8 
+
+Today, I want to talk with you of the most important moral issues we never talk about.
 
 And that's factory farming.
 

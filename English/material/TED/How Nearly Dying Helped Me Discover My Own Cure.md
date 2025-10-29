@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=sb34MfJjurc Hi, I'm David Fajgenbaum and this is me in 2010, when all of my organs were shutting down and I was dying for the first time.
+https://www.youtube.com/watch?v=sb34MfJjurc 
+
+Hi, I'm David Fajgenbaum and this is me in 2010, when all of my organs were shutting down and I was dying for the first time.
 
 My doctors came in the room and told me, "David, we've tried everything.
 
