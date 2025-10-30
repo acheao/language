@@ -131,3 +131,33 @@ And maybe only then we might have a chance to close that financing gap and have 
 Thank you.
 
 (Applause)
+
+- peatland
+- carbon-rich
+- accumulated
+- organic matter
+- agriculture
+- fifth
+- in places like ...
+- made up of ...
+- dead organic matter
+- around a fifth of ...
+- no viable pathway
+- mitigate climate change
+- mitigate
+- without stopping the loss of our forests
+- mangroves
+- commodities
+- timber
+- palm oil
+- ubiquitous
+- shelves
+- that is so ubiquitous
+- that there's a good chance...
+- shelves
+- have something to do with palm oil one way or another
+- commodity
+- prevalent
+- prevalent => presence
+- popular => people
+- realistic
