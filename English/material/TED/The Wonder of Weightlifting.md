@@ -201,3 +201,97 @@ And physically strong women are healthy women.
 Thank you.
 
 (Applause)
+
+- fingernails
+- parading
+- high-heeled shoes
+- in contrasting worlds
+- Contrasting and often conflicting
+- a pivotal moment
+- sophomore
+- sophomore in high school
+- audition
+- modeling agency
+- plus-size model
+- turned down their offer
+- softball
+- weightlifter
+- gym
+- instilled
+- nagging
+- whisper
+- somehow not ideal
+- commented
+- Cosmopolitan
+- cover girls
+- muscular
+- muscles
+- Frankly
+- frail
+- idolized
+- frame
+- multitude
+- myths
+- societal myths
+- aesthetics
+- transformed forever
+- amidst
+- stressful career
+- residency
+- metabolic diseases
+- I survived residency
+- certain genetic potential
+- concerted
+- lean tissue
+- relative
+- prone
+- sarcopenia
+- frail
+- composition
+- Myth
+- cardio
+- equipment
+- dispel
+- Strength training
+- back squat
+- multiple plates
+- inviting
+- estrogen
+- fatigue
+- overtraining
+- handle more volume in weight training
+- aerobics
+- treadmills
+- ellipticals
+- stair climbers
+- free-weight section
+- disparity
+- foster
+- lifespan
+- Resistance
+- Resistance training
+- non-pharmacological
+- intervention
+- offset
+- skeletal muscle mass
+- treadmill
+- pillow
+- bias
+- counter
+- fancy machines
+- examined
+- through
+- resistance band
+- functional fitness
+- grip strength
+- gait
+- groceries
+- urgency
+- mortality
+- formative
+- everyday
+- competed
+- pageant
+- shatter
+- stereotypes
+- aesthetics

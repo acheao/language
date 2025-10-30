@@ -161,3 +161,86 @@ Let's build our digital future together.
 Thank you.
 
 (Cheers and applause)
+
+- Tucson, Arizona
+- the birth control
+- town-hall
+- deny
+- Overnight, I had gone viral.
+- Planned Parenthood
+- gas station
+- discourse
+- on even footing
+- unimaginable
+- insidious
+- impressions
+- retweets
+- replies
+- cyber mob
+- DMs
+- in my shoes
+- ongoing
+- threat <=> treat
+- speculation
+- facilitated
+- dorm
+- sisterhood
+- redefining
+- committed to
+- sisterhood
+- lifeline
+- afterthought
+- deserve
+- harassment
+- ...informed by...
+- stimulus checks
+- bestie
+- internships
+- fellowships
+- strategists
+- narrative and political power
+- survival strategies
+- Archive
+- introduction
+- salacious
+- subversive
+- salacious fan works
+- noncommercial
+- nonprofit
+- elected board
+- volunteer-powered
+- legacy
+- fangirls
+- stan account
+- Sunroom
+- monetized
+- fitness instructors
+- career coaches
+- content moderation
+- through a woman's lens
+- tolerance
+- harassment
+- restroom
+- inauguration
+- reproductive health
+- guaranteeing
+- anonymous
+- censoring
+- gems
+- credit card points
+- brands <=> band
+- affirmations
+- fellow <=> follow
+- architecture
+- frivolous
+- pastime
+- discourse
+- entrenched
+- permanent
+- rating
+- democratizing
+- public discourse
+- on a full ride
+- he promise of the internet
+- The promise of technology is endless.
+- conservation <=> conversation

@@ -382,3 +382,23 @@ Thank you very much.
 - on a tablet
 - put together
 - care giver
+- called in
+- groomed
+- set up
+- essence
+- pre-recorded
+- gradual
+- instantaneous
+- interaction
+- much more out there
+- awareness
+- uncover
+- as we go
+- bright future
+- vet
+- biased <=> basic
+- enormous
+- possibilities
+- companionship
+- reaching out across the divide
+- gold ornaments
