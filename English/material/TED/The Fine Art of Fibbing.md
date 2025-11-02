@@ -275,4 +275,49 @@ Thank you.
 - for a fact
 - Avatar
 - manipulate
-- 
+- ordinary
+- day-to-day
+- I've read the terms and conditions
+- brush
+- teeth
+- bin
+- stereotypes
+- warranty
+- naughty
+- for my good or for someone else's good
+- combed
+- untrue
+- distance ourselves from
+- bride
+- bridesmaid
+- hideous
+- elderly billionaire
+- selfish
+- literate
+- get … literate
+- get computer literate
+- fib
+- qualified
+- put the bins out
+- mad
+- incensed
+- furious
+- Whilst
+- scenario
+- mortgage
+- mortgage crisis
+- laundry
+- stench
+- Audrey Hepburn
+- iconic
+- vape
+- cigarette
+- social grace
+- present
+- delicious
+- deceit
+- skillful
+- vaccinate
+- resilience
+- deception
+- analogy
