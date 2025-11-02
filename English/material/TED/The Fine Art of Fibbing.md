@@ -259,3 +259,20 @@ But this comes close.
 Thank you.
 
 (Applause)
+
+- stubbed
+- toe
+- cryptocurrency
+- alcohol
+- In a week, on average
+- figure
+- pint
+- denial
+- protracted
+- forbid
+- underneath
+- goodness
+- for a fact
+- Avatar
+- manipulate
+- 
