@@ -365,3 +365,149 @@ And if there's one thing that I've come away from this whole lurid, crazy journe
 Thanks very much, everyone.
 
 (Applause)
+
+- murdered
+- descended
+- darknet
+- encryption
+- anonymity
+- rumors <=> tumor
+- swirled
+- uranium
+- the offer
+- first laid eyes on it
+- alias <=> atlas
+- transact
+- clip art
+- probing
+- scanning
+- momentously
+- vulnerability <=> volunteer
+- wiggle
+- in a weird way
+- wiggle through
+- pattern-of-life
+- intercepting
+- mock up
+- jail
+- Slovakia
+- short and curt
+- clipped
+- lurid
+- justifications
+- real-time updates
+- and others still
+- grotesque
+- disgusting <=> distinguish
+- frightening
+- all the time
+- sane
+- insane
+- strangers
+- uniformed
+- kitchen
+- I laid it all out for them
+- diagram
+- hacks
+- genuinely
+- the Metropolitan Police
+- step away
+- professionally
+- reach the people
+- sculpted
+- brace
+- dreaded
+- hand grenade
+- fantastical
+- assassins
+- hung up
+- evolve
+- on the scene
+- outskirts
+- took a deep breath
+- agonizing
+- delivered
+- regarding
+- ugly
+- divorce
+- shadowy
+- forth for weeks or months
+- hitmen
+- incompetent
+- getting lost
+- every single time
+- extort
+- place an order
+- place a bet
+- place a request
+- deadly serious
+- nowhere
+- starker
+- renting
+- flat
+- flip knife
+- telescopic baton
+- submachine gun
+- Glock 9mm pistol
+- AK-47
+- zip ties
+- black bin bag
+- rubber gloves
+- GPS trackers
+- lock picks
+- five-foot-five
+- go getter
+- sweetheart
+- bitter
+- custody
+- custody battle
+- raged
+- see eye to eye
+- understatement
+- technician
+- biological father
+- adoptive father
+- solitary
+- religious
+- kidnapped
+- forcibly
+- heroin
+- moniker
+- Scar
+- laid out a bonus structure
+- court motions
+- definitely
+- neonatologist
+- vulnerable
+- addiction
+- upbringing
+- clinician
+- obsessed
+- devoid
+- contrition
+- 50 Shades of Gray
+- on steroids
+- Sports Direct
+- love triangle
+- disclosed
+- criminals
+- Romanian
+- rash
+- a rash of something
+- a rash of raids
+- spectacular moment
+- organized crime
+- unsettling
+- convenient
+- lowered the barriers
+- entry
+- ordering an assassination
+- disconcerting
+- perpetrators
+- plotting in secret
+- intimate partner
+- spiraling out of control
+- desire for control
+- inability
+- lurid
+- we might like to think
