@@ -203,3 +203,109 @@ Because it is not representation when it is the expectation.
 Thank you.
 
 (Applause)
+
+- autism
+- Spectrum
+- stereotyped
+- ideologies
+- Grape
+- Manic
+- through a lens that has falsely
+- crash <=> crush
+- bump
+- crash landed on
+- alien planet
+- I knew from as young as four
+- kindergarten
+- snails
+- hanging out
+- tighter
+- neurotype
+- painfully aware
+- relate to
+- I can really relate to that character.
+- She relates to her students easily.
+- fantasy
+- normality
+- mould ourselves
+- societally
+- talons
+- claws
+- societally conditioned
+- to behave
+- I was diagnosed with autism
+- to be cursed
+- Can I catch it?
+- tease me
+- acting opportunities
+- casting directors
+- producers
+- autism
+- I was being told
+- stubborn
+- stubborn as hell
+- let that story define me
+- rocket ship
+- actress
+- clapping
+- correct representation
+- feel a little bit sick
+- inspiring
+- groundbreaking
+- history-making
+- undoubtedly
+- perception
+- palatable
+- variance
+- authentic <=> authenticate
+- high-functioning
+- functioning labels
+- historically stereotypically
+- low-functioning
+- on the spectrum
+- blending
+- capable
+- capitalistic value
+- what we contribute
+- cog
+- fluctuate
+- abundance <=> abandon
+- circumstances
+- bright outfit
+- avatar
+- makeup
+- pre-written
+- caretaker
+- Functioning labels
+- linear
+- a linear spectrum
+- wheel
+- hex code
+- habitat <=> Habit
+- behavior <=> behalf
+- unlearn
+- relearn
+- embarrassingly
+- embrace
+- cast out
+- in leading roles
+- directors
+- in positions
+- BIPOC
+- represented
+- phrase
+- tiring
+- tired
+- inducing
+- responsibility-inducing
+- constantly up
+- tune into
+- death threats
+- get off
+- contrary <=> constantly
+- advocate
+- research
+- fairy tale
+- happily ever after
+- sidekick
+- privilege
