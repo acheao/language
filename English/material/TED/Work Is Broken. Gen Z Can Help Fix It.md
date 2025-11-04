@@ -239,3 +239,61 @@ But it will take all of us to make it happen.
 Thank you.
 
 (Applause)
+
+- would you rather
+- go ahead
+- You can go ahead and start without me
+- Go ahead, tell me what happened
+- invite
+- retire
+- preferring
+- workforce
+- make up
+- Women make up half of the population.
+- He made up an excuse
+- I'll make up for the lost time
+- She spent an hour making up.
+- tenure
+- loyalty
+- longevity
+- collective insight
+- norms
+- millennials
+- prototypes
+- iterate
+- inhabit those spaces
+- workplace
+- inspiration
+- instilled
+- I'll circle back
+- blessed
+- phenomenal
+- desire
+- transition
+- tough
+- paycheck
+- daycare
+- pregnant
+- discover
+- sibling priority
+- have a spot
+- waking my kids up
+- to rush them to daycare
+- I had to rush to catch the bus.
+- She rushed her kids to school.
+- There was a rush to buy tickets.
+- apart than together
+- tumultuousness
+- outdated
+- upon
+- generally
+- wives
+- summers off
+- harvest
+- life peaks
+- our duties caring
+- recipe
+- It's a recipe for burnout
+- Hybrid
+- rethink
+- midst
