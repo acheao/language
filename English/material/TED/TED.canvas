@@ -99,7 +99,8 @@
 		{"id":"c3db8048f5adcdcc","type":"file","file":"material/TED/Can AI Help with the Chaos of Family Life.md","x":5280,"y":0,"width":400,"height":400,"color":"1"},
 		{"id":"7f48d2c237904d9d","type":"file","file":"material/TED/The Catastrophic Risks of AI — and a Safer Path.md","x":5280,"y":-880,"width":400,"height":400,"color":"1"},
 		{"id":"b5f5bf30be3f04dc","type":"file","file":"material/TED/The Mental Health AI Chatbot Made for Real Life.md","x":5280,"y":-1880,"width":400,"height":400,"color":"3"},
-		{"id":"c64bad066721fbed","type":"file","file":"material/TED/Work Is Broken. Gen Z Can Help Fix It.md","x":760,"y":5760,"width":400,"height":400,"color":"3"}
+		{"id":"c64bad066721fbed","type":"file","file":"material/TED/Work Is Broken. Gen Z Can Help Fix It.md","x":760,"y":5760,"width":400,"height":400,"color":"3"},
+		{"id":"ee2b8a6662951754","x":5280,"y":-2960,"width":400,"height":400,"color":"3","type":"file","file":"material/TED/Why Good People Become Bad Bosses.md"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -200,6 +201,7 @@
 		{"id":"6559973ac18fec77","fromNode":"c3db8048f5adcdcc","fromSide":"top","toNode":"7f48d2c237904d9d","toSide":"bottom"},
 		{"id":"795a7e8260c33722","fromNode":"7f48d2c237904d9d","fromSide":"top","toNode":"b5f5bf30be3f04dc","toSide":"bottom"},
 		{"id":"ce7479ad0554df3c","fromNode":"8f6637b1f5efc76a","fromSide":"right","toNode":"c64bad066721fbed","toSide":"left"},
-		{"id":"13eea69b523aeb7c","fromNode":"c64bad066721fbed","fromSide":"right","toNode":"1b467dc02a5faa91","toSide":"left"}
+		{"id":"13eea69b523aeb7c","fromNode":"c64bad066721fbed","fromSide":"right","toNode":"1b467dc02a5faa91","toSide":"left"},
+		{"id":"ecedfc7be6170ed0","fromNode":"b5f5bf30be3f04dc","fromSide":"top","toNode":"ee2b8a6662951754","toSide":"bottom"}
 	]
 }

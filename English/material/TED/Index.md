@@ -97,3 +97,4 @@
 97. [Can AI Help with the Chaos of Family Life.md](Can%20AI%20Help%20with%20the%20Chaos%20of%20Family%20Life.md)
 98. [The Catastrophic Risks of AI — and a Safer Path.md](The%20Catastrophic%20Risks%20of%20AI%20—%20and%20a%20Safer%20Path.md)
 99. [The Mental Health AI Chatbot Made for Real Life.md](The%20Mental%20Health%20AI%20Chatbot%20Made%20for%20Real%20Life.md)
+100. [Why Good People Become Bad Bosses.md](Why%20Good%20People%20Become%20Bad%20Bosses.md)
