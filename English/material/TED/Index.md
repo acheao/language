@@ -84,7 +84,7 @@
 84. [The Fine Art of Fibbing.md](The%20Fine%20Art%20of%20Fibbing.md)
 85. [Inside a Dark Web Kill List.md](Inside%20a%20Dark%20Web%20Kill%20List.md)
 86. [The Autism Spectrum Isn’t What You Think It Is.md](The%20Autism%20Spectrum%20Isn’t%20What%20You%20Think%20It%20Is.md)
-87. [A New Lifeline for the World’s Coral Reefs.md](A%20New%20Lifeline%20for%20the%20World’s%20Coral%20Reefs.md)
+87. [Work Is Broken. Gen Z Can Help Fix It.md](Work%20Is%20Broken.%20Gen%20Z%20Can%20Help%20Fix%20It.md)
 88. [How to End Factory Farming.md](How%20to%20End%20Factory%20Farming.md)
 89. [How Nearly Dying Helped Me Discover My Own Cure.md](How%20Nearly%20Dying%20Helped%20Me%20Discover%20My%20Own%20Cure.md)
 90. [A Musical Duet with AI Herself.md](A%20Musical%20Duet%20with%20AI%20Herself.md)
@@ -97,4 +97,3 @@
 97. [Can AI Help with the Chaos of Family Life.md](Can%20AI%20Help%20with%20the%20Chaos%20of%20Family%20Life.md)
 98. [The Catastrophic Risks of AI — and a Safer Path.md](The%20Catastrophic%20Risks%20of%20AI%20—%20and%20a%20Safer%20Path.md)
 99. [The Mental Health AI Chatbot Made for Real Life.md](The%20Mental%20Health%20AI%20Chatbot%20Made%20for%20Real%20Life.md)
-100. [Work Is Broken. Gen Z Can Help Fix It.md](Work%20Is%20Broken.%20Gen%20Z%20Can%20Help%20Fix%20It.md)
