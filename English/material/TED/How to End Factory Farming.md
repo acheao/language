@@ -245,3 +245,83 @@ We should use it.
 Thank you.
 
 (Applause)
+
+- "Vuja De" moment
+- perceptions
+- intensely
+- blind
+- physical-digital
+- fluidity
+- memorable
+- Permission
+- hybrid
+- I'm sick of
+- It's time.
+- stung
+- graduated in
+- pre-pandemic
+- Phygital
+- physical plus digital
+- contrary
+- least likely
+- seamlessly
+- blend
+- perhaps
+- clues
+- broader
+- asynchronous
+- communication norms
+- interactions
+- clarify
+- privilege
+- clarify
+- productive
+- transparency
+- viral
+- raised with the golden rule
+- treat <=> threaten
+- flexibility
+- appreciates
+- crowded
+- roommate
+- situation
+- platinum rule
+- crowded roommate situation
+- clarity <=> charitable
+- effective
+- five-star-rating
+- trade offs
+- will and won’t make
+- in-office
+- competitive advantage
+- boldly
+- declaring
+- insists on inclusion
+- burdened
+- overload
+- overwhelming
+- Put me in, coach
+- engage
+- the Gucci shadow board
+- demographic
+- core demographic was aging
+- advisory board
+- marketing initiatives
+- previously believed to be true
+- similarities
+- side step
+- incorporated
+- for one reason or another
+- by word of mouth
+- year over year
+- acquired
+- brand <=> band
+- blended
+- synchronous
+- asynchronous
+- retained
+- authentic
+- stayed
+- empty nester
+- veteran
+- individuals
