@@ -246,3 +246,111 @@ Thank you.
 
 (Applause)
 
+- factory farming
+- acres
+- 100 acres of rolling hills
+- graze
+- hillsides
+- hilltops
+- circle up
+- fall asleep
+- picnic
+- right after
+- slaughter
+- at least
+- lived good lives
+- frankly
+- reincarnated
+- New Zealander
+- live their life
+- Vietnam
+- Hanoi
+- backstreets
+- stumbled into
+- live-animal
+- crammed
+- trembling in fear
+- distress
+- New Zealand
+- still
+- how in particular
+- naively
+- slaughterhouse
+- bonded over
+- coming down off
+- shaking
+- squealing
+- limping
+- in pain
+- replied
+- looked into
+- miserable
+- egg gag laws
+- make it a crime
+- deliberately
+- gruesome
+- out-there
+- realities
+- crate <=> create
+- gestation
+- breeding pigs
+- confined
+- pregnancies
+- gave birth
+- pregnant
+- worked undercover
+- fought
+- battery
+- cage
+- egg-laying
+- hens
+- roughly
+- flap
+- trash
+- chicks
+- comic-book
+- villain
+- meat grinder
+- fan
+- unacceptable
+- animal cruelty
+- felony
+- densely
+- near genetically identical
+- immune-compromised
+- the perfect breeding grounds
+- antibiotics
+- viruses
+- bird-flu pandemic
+- dedicated
+- prior
+- tipping point
+- caged hens
+- Innovators
+- in-ovo
+- hatch
+- day-old
+- alternative proteins
+- algae
+- protein
+- at any prior point in our history
+- inflicted
+- humanity
+- descendants
+- advocate
+- donate
+- devote
+- corporations
+- basic animal-welfare standards
+- thrives
+- thrives in the dark
+- shielded
+- cone of silence
+- voiceless
+- childhood
+- philanthropy
+- reform
+- amassed
+- unprecedented
+- What separates us from the pigs
+- moral
