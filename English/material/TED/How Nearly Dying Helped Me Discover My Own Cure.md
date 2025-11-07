@@ -257,3 +257,98 @@ So if you see us sharing about treatments that can help patients, please, please
 LN: Thank you so much, David Fajgenbaum.
 
 (Cheers and applause)
+
+- cure
+- organs were shutting down
+- dying
+- There's nothing more we can do.
+- priest
+- rites
+- hugging
+- dedicated
+- had dedicated someone's life
+- quarterback
+- Castleman disease
+- immune system
+- last-ditch
+- chemotherapies
+- before-and-after picture
+- relapsed
+- gown
+- drenched
+- in memory of
+- scratch
+- from scratch
+- repurposed
+- Viagra
+- utilized
+- pediatric
+- thalidomide
+- defects
+- birth defects
+- leprosy
+- the cancer multiple myeloma
+- underlying
+- mechanisms
+- therefore
+- prescribe
+- off-label prescribing
+- prescriptions
+- communication line
+- overdrive
+- transplant
+- sirolimus
+- remission
+- faculty
+- Chasing
+- rare inflammatory
+- freshman
+- bone-marrow
+- clinical trials
+- aisle
+- wedding day
+- melanoma
+- pharmacies
+- limited treatment options
+- profitable
+- generic
+- pharma
+- systematically
+- promising
+- interconnectedness
+- laboratory
+- spotlighting
+- cofounders
+- going to turn it into reality
+- Audacious
+- nonprofits
+- take this leap
+- applied for funding
+- transformative
+- high-scoring
+- transferred
+- hospice care
+- leucovorin
+- derivative
+- subgroup
+- antibodies
+- folate
+- receptor
+- randomized controlled trials
+- photographed
+- nonverbal
+- syndrome
+- funeral
+- pharmacy
+- incentives
+- indigestion
+- patent
+- infertility
+- laser-focused
+- broaden
+- cracks
+- ordinary
+- off-label
+- awareness
+- campaigns
+- amplify
