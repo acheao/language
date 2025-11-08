@@ -89,7 +89,6 @@
 		{"id":"8f6637b1f5efc76a","type":"file","file":"material/TED/The Autism Spectrum Isn’t What You Think It Is.md","x":-340,"y":5760,"width":400,"height":400,"color":"3"},
 		{"id":"1b467dc02a5faa91","type":"file","file":"material/TED/How to End Factory Farming.md","x":1840,"y":5760,"width":400,"height":400,"color":"3"},
 		{"id":"4ac44f8a9b1697a2","type":"file","file":"material/TED/How Nearly Dying Helped Me Discover My Own Cure.md","x":2880,"y":5760,"width":400,"height":400,"color":"3"},
-		{"id":"3eb4872a4dedb298","type":"file","file":"material/TED/A Musical Duet with AI Herself.md","x":4080,"y":5760,"width":400,"height":400,"color":"3"},
 		{"id":"78a166cdbecfd9ca","type":"file","file":"material/TED/How Displaced People Are Driving Local Economies.md","x":5280,"y":5760,"width":400,"height":400,"color":"3"},
 		{"id":"b58faf5631bff81b","type":"file","file":"material/TED/The Powerful Promise of Earth’s Harshest Places.md","x":5280,"y":4720,"width":400,"height":400,"color":"1"},
 		{"id":"81c29c77dffacbc7","type":"file","file":"material/TED/The Fire-Breathing Dragon-Horse Sparking Wonder in a City near You.md","x":5280,"y":3640,"width":400,"height":400,"color":"1"},
@@ -100,7 +99,8 @@
 		{"id":"7f48d2c237904d9d","type":"file","file":"material/TED/The Catastrophic Risks of AI — and a Safer Path.md","x":5280,"y":-880,"width":400,"height":400,"color":"1"},
 		{"id":"b5f5bf30be3f04dc","type":"file","file":"material/TED/The Mental Health AI Chatbot Made for Real Life.md","x":5280,"y":-1880,"width":400,"height":400,"color":"3"},
 		{"id":"c64bad066721fbed","type":"file","file":"material/TED/Work Is Broken. Gen Z Can Help Fix It.md","x":760,"y":5760,"width":400,"height":400,"color":"3"},
-		{"id":"ee2b8a6662951754","x":5280,"y":-2960,"width":400,"height":400,"color":"3","type":"file","file":"material/TED/Why Good People Become Bad Bosses.md"}
+		{"id":"ee2b8a6662951754","type":"file","file":"material/TED/Why Good People Become Bad Bosses.md","x":5280,"y":-2960,"width":400,"height":400,"color":"3"},
+		{"id":"0bdf95cd15fb9fba","x":4080,"y":5760,"width":400,"height":400,"color":"3","type":"file","file":"material/TED/How AI Is Discovering Athletes That Human Scouts Miss.md"}
 	],
 	"edges":[
 		{"id":"11754587ccc5dbb0","fromNode":"646b958e4357bddf","fromSide":"bottom","toNode":"124a96b9362f8f59","toSide":"top"},
@@ -190,8 +190,6 @@
 		{"id":"2ba41821502b3c81","fromNode":"a36f77cca5749c92","fromSide":"right","toNode":"5bcf97df626980c7","toSide":"left"},
 		{"id":"b30d7bfece769606","fromNode":"5bcf97df626980c7","fromSide":"right","toNode":"8f6637b1f5efc76a","toSide":"left"},
 		{"id":"a02e5f5a04a930b4","fromNode":"1b467dc02a5faa91","fromSide":"right","toNode":"4ac44f8a9b1697a2","toSide":"left"},
-		{"id":"9b43b4ed0367d87b","fromNode":"4ac44f8a9b1697a2","fromSide":"right","toNode":"3eb4872a4dedb298","toSide":"left"},
-		{"id":"3c30391b97f60184","fromNode":"3eb4872a4dedb298","fromSide":"right","toNode":"78a166cdbecfd9ca","toSide":"left"},
 		{"id":"12650d8d58519614","fromNode":"78a166cdbecfd9ca","fromSide":"top","toNode":"b58faf5631bff81b","toSide":"bottom"},
 		{"id":"745f894b012f89c8","fromNode":"b58faf5631bff81b","fromSide":"top","toNode":"81c29c77dffacbc7","toSide":"bottom"},
 		{"id":"1bb85b7c97ee63f3","fromNode":"81c29c77dffacbc7","fromSide":"top","toNode":"c019ff2b609b258d","toSide":"bottom"},
@@ -202,6 +200,8 @@
 		{"id":"795a7e8260c33722","fromNode":"7f48d2c237904d9d","fromSide":"top","toNode":"b5f5bf30be3f04dc","toSide":"bottom"},
 		{"id":"ce7479ad0554df3c","fromNode":"8f6637b1f5efc76a","fromSide":"right","toNode":"c64bad066721fbed","toSide":"left"},
 		{"id":"13eea69b523aeb7c","fromNode":"c64bad066721fbed","fromSide":"right","toNode":"1b467dc02a5faa91","toSide":"left"},
-		{"id":"ecedfc7be6170ed0","fromNode":"b5f5bf30be3f04dc","fromSide":"top","toNode":"ee2b8a6662951754","toSide":"bottom"}
+		{"id":"ecedfc7be6170ed0","fromNode":"b5f5bf30be3f04dc","fromSide":"top","toNode":"ee2b8a6662951754","toSide":"bottom"},
+		{"id":"edbbb30660e36e6f","fromNode":"4ac44f8a9b1697a2","fromSide":"right","toNode":"0bdf95cd15fb9fba","toSide":"left"},
+		{"id":"ba3499d13f1d8c9a","fromNode":"0bdf95cd15fb9fba","fromSide":"right","toNode":"78a166cdbecfd9ca","toSide":"left"}
 	]
 }

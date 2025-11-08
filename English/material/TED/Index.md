@@ -87,7 +87,7 @@
 87. [Work Is Broken. Gen Z Can Help Fix It.md](Work%20Is%20Broken.%20Gen%20Z%20Can%20Help%20Fix%20It.md)
 88. [How to End Factory Farming.md](How%20to%20End%20Factory%20Farming.md)
 89. [How Nearly Dying Helped Me Discover My Own Cure.md](How%20Nearly%20Dying%20Helped%20Me%20Discover%20My%20Own%20Cure.md)
-90. [A Musical Duet with AI Herself.md](A%20Musical%20Duet%20with%20AI%20Herself.md)
+90. [How AI Is Discovering Athletes That Human Scouts Miss.md](How%20AI%20Is%20Discovering%20Athletes%20That%20Human%20Scouts%20Miss.md)
 91. [How Displaced People Are Driving Local Economies.md](How%20Displaced%20People%20Are%20Driving%20Local%20Economies.md)
 92. [The Powerful Promise of Earth’s Harshest Places.md](The%20Powerful%20Promise%20of%20Earth’s%20Harshest%20Places.md)
 93. [The Fire-Breathing Dragon-Horse Sparking Wonder in a City near You.md](The%20Fire-Breathing%20Dragon-Horse%20Sparking%20Wonder%20in%20a%20City%20near%20You.md)
