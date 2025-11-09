@@ -271,3 +271,51 @@ Now, with technology and your very own smartphone, you can make that talent visi
 Thank you.
 
 (Applause)
+
+- Athletes 
+- Scouts
+- visualize
+- greatness
+- subset
+- forgive
+- talent
+- not strictly true
+- realize
+- overlooked
+- visible
+- bleachers
+- try out
+- thrilling
+- fantasy
+- Chelsea
+- prestigious
+- academy
+- well-funded
+- Premier League team
+- super limited
+- geography
+- access
+- bridge that gap
+- biomechanics
+- motion
+- laboratories
+- remit
+- equipment
+- biased
+- devoid
+- lab protocols
+- equitably
+- fairly
+- standardized
+- drills
+- standardized smartphone drills
+- brilliant vision
+- genuine problem
+- at hand
+- predefined drills
+- segments
+- inferred
+- symmetry
+- coordination
+- raw-level
+- interpret
