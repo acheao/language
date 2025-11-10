@@ -341,3 +341,55 @@ Thank you.
 - dribbling through cones
 - genuine <=> genius
 - incredibly
+- intuitive
+- articulate
+- pumped
+- benchmarks
+- stands out
+- recruited
+- average footballers
+- head and shoulders
+- academies
+- debut
+- his under-18 debut
+- theoretically
+- heavy lifting
+- processing
+- Mumbai
+- Reliance Foundation
+- reliance
+- scholarships
+- generally
+- eligible
+- in-person
+- augmenting
+- on top of that
+- the IOC
+- Senegal
+- up-and-coming
+- She’s an up-and-coming actress in Hollywood.
+- acceleration
+- great reactive strength
+- rugby sevens
+- futsal
+- hand-eye coordination
+- baseball
+- softball
+- tablets
+- military
+- wrestling
+- athletics
+- partnership
+- federations
+- cloud-agnostic
+- country-specific
+- rolled this out
+- preseason
+- mid-season
+- postseason
+- cricket
+- underlying movement primitives
+- deceleration
+- universal
+- talent visible
+- level the playing field
