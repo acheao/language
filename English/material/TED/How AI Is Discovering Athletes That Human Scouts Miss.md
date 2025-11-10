@@ -319,3 +319,25 @@ Thank you.
 - coordination
 - raw-level
 - interpret
+- given moment of time
+- pace
+- formal
+- moment <=> movement
+- great body movement
+- tailored
+- club-by-club
+- Premier League teams
+- metrics
+- football-specific metrics
+- relevant
+- comparable
+- benchmarkable
+- reliable
+- above all else
+- ambiguity
+- predefined drills
+- ten-meter sprints
+- counter-movement jumps
+- dribbling through cones
+- genuine <=> genius
+- incredibly
