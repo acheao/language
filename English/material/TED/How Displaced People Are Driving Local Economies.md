@@ -143,3 +143,106 @@ And it's on the rest of us to recognize this and invest in them.
 Thank you.
 
 (Cheers and applause)
+
+- displaced
+- back-to-back
+- solar panels
+- streetlights
+- ducked
+- refugee
+- refuge
+- bustling
+- hasn't always been this way
+- thrive
+- nowhere
+- poor infrastructure
+- surrounding area
+- 10,000 businesses
+- remarkable
+- transformation
+- ingenuity
+- most pressing problems
+- forward-looking
+- entrepreneurs
+- took a chance
+- tailoring
+- dealership
+- philanthropy
+- covers
+- sustainable
+- scalable
+- plausible
+- scenario
+- once-unthinkable
+- than ever before
+- forcibly
+- fend
+- accelerated crises
+- flee
+- triggering
+- floods
+- continents
+- unlivable conditions
+- incremental change
+- humanitarian aid
+- essential
+- emergencies
+- vulnerable
+- perspectives <=> Prosperity
+- framed as burdens
+- narrative <=> narrow
+- dignity
+- widespread system
+- worked alongside
+- displacement- affected
+- traits
+- celebrate
+- resourceful
+- innovate and adapt
+- problem-solvers
+- overlooked
+- disbursed
+- derisked
+- investible
+- repayment rate
+- demonstrating
+- risk-sharing facilities
+- scaling hotels
+- unchecked capitalist practices
+- disparities
+- flawed
+- capitalism
+- inclusion
+- reformed
+- agriculture
+- manufacturing
+- health care
+- in hospitality
+- colleague
+- vibrant
+- equipping
+- financial skills
+- access to capital
+- home country
+- been anything but linear
+- navigate complex systems
+- Leveraging
+- expansion
+- audacious
+- generosity
+- diaspora
+- entrepreneurs
+- portfolios
+- Philanthropists
+- funding
+- climate focus
+- viable
+- academics
+- policymakers
+- economic integration
+- regional
+- shared prosperity
+- one truth remains
+- flourishes
+- preventing
+- lies within
