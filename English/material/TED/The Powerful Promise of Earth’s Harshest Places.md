@@ -201,3 +201,82 @@ It is indeed the one and only pathway for us, for our humanity, to achieve a new
 Thank you.
 
 (Cheers and applause)
+
+- harshest
+- promise
+- inner Mongolia
+- Desert
+- most Mars-like
+- barren
+- barrenness
+- sandstorms
+- minus 40 degrees
+- civilization
+- emptiness
+- uselessness
+- abundance
+- abundant
+- shining sun
+- infinite
+- prosperity
+- equation
+- industrial revolution
+- muscle power
+- forces
+- fertilizer
+- tremendous
+- unlock such a big potential from desert
+- solar radiation
+- in front of
+- rough
+- raw wind
+- steam engine
+- motion
+- wind turbine
+- long-distance
+- transmission lines
+- off-grid
+- integrating
+- storage
+- orchestrations
+- utilize
+- industrial
+- energy-intensive
+- hydrogen
+- ammonia
+- molecules
+- kilowatt
+- decarbonize
+- abate
+- segment
+- net-zero chemicals
+- aviation
+- battery
+- envisioned
+- production base
+- commissioning
+- phase
+- supposed
+- parity
+- AI-regulated
+- hybrid
+- lithium
+- supercapacitor
+- electrolyzer
+- membranes
+- electrodes
+- modular
+- prefabricated
+- as easy as stacking LEGO
+- convinced
+- last bottleneck
+- possibilities
+- superintelligence
+- desalinate
+- oasis
+- poverty
+- protein
+- basement
+- interstellar
+- routine
+- pathway
