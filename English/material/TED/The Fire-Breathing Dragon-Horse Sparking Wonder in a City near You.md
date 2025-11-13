@@ -177,3 +177,101 @@ In La Machine, we don't really use artificial intelligence, but we definitely us
 Thank you.
 
 (Applause)
+
+- minotaur
+- bull
+- galloping
+- rearing up
+- growls
+- breathes
+- fend off
+- city hall
+- creature snoring
+- imitates
+- immersed
+- performer
+- founded
+- theater experiences
+- animated machines
+- extraordinary
+- boulevards
+- avenues
+- have no practical function
+- citizens
+- commissioned
+- sea dragon
+- delightful promenades
+- spitting fire
+- smoke
+- belongs
+- atlantic coast
+- workshop
+- shipyard
+- elephant
+- the giant spider
+- dragon horse
+- beehive
+- trades
+- crafts
+- involved
+- welders
+- musicians
+- comedians
+- sculptors
+- roboticists
+- Perhaps
+- digital wireframe
+- scanned
+- skeleton
+- hydraulic
+- Then the construction can begin.
+- carpenters
+- completion
+- drive
+- joystick
+- exoskeletons
+- One person per arm and per legs.
+- special effects
+- pilot
+- director
+- soul
+- indications
+- mics
+- realistic movement
+- Perhaps
+- Ottawa
+- cathedral
+- big deal
+- slogan
+- the administrative capital
+- fences
+- inclusive
+- ongoing
+- exhibitions
+- facility
+- urban regeneration program
+- inhabitants
+- esplanade
+- carousel
+- testimony
+- Jules Verne
+- entertainment
+- motion
+- poetic figures
+- coverage
+- magically
+- presented
+- mayor
+- Airbus
+- Seattle
+- aeronautics
+- antique
+- ancient city
+- myths
+- labyrinth
+- Guardian
+- gigantic
+- scorpion
+- ego
+- artistic
+- reimagine 
