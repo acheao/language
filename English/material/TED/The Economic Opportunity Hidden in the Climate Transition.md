@@ -253,3 +253,155 @@ What opportunities lie ahead?
 Thank you.
 
 (Applause)
+
+- philosophical
+- grit <=> grid
+- sufficient
+- creativity
+- political
+- nuts
+- bolts
+- undertaking
+- turbines
+- hydrogen
+- overhaul
+- increasingly
+- carrots
+- sticks
+- feasible
+- whether by carrots or sticks
+- sustainability
+- lobbying
+- conclusion
+- urgent
+- agility
+- on the necessary time scales
+- highlights
+- think tank
+- institute
+- scale
+- Underpinning
+- transform
+- automotive industries
+- sectors
+- in parallel
+- holistically
+- approach this question
+- materials
+- classically
+- scarcity
+- fiber
+- carbon fiber
+- terbium
+- factoring
+- staggering
+- perspective
+- policymakers
+- make informed decisions
+- scenario
+- each of these individual technologies
+- mounted
+- bottom left
+- rooftop
+- inverters <=> investor
+- gigawatt
+- modest
+- varied
+- modest 6,000 experiments
+- crystalline silicon
+- thin films
+- aluminum
+- framed in aluminum
+- glass backing
+- varied similar parameters
+- Some of the materials we expected, right?
+- cobalt
+- rare earth metals
+- decarbonization
+- sway
+- overcome
+- scarcities
+- transformations
+- blades
+- fiberglass
+- substitute
+- absorb
+- boron
+- throughout
+- rare earth magnets
+- borosilicate
+- strain
+- mine
+- known reserves
+- implications
+- This policy has serious implications for small businesses.
+- components
+- to consider
+- resonate
+- lithium ion batteries
+- skyrocketing
+- anode material
+- graphite
+- dominated
+- battery-grade graphite
+- silicon
+- pressure
+- semiconductor
+- fierce
+- broader range
+- The materials and components
+- gain a share
+- commodities
+- a little bit
+- stagnant
+- boon
+- take our approach to
+- hardware
+- frames
+- conductors
+- lightweight
+- scarce
+- copper
+- thereby
+- substitution
+- certain grades of steel
+- silver
+- epoxy resin
+- manufacturer
+- automotive parts
+- mechanical parts
+- revenue
+- diversify
+- foothold
+- product portfolio
+- lubricant
+- drivetrains
+- scarce
+- lubricant
+- offshore
+- enormous
+- components
+- erect
+- ship <=> sheep
+- skyscraper-sized
+- methanol
+- ammonia
+- triple
+- storage tank
+- construction
+- logistic services
+- touched the surface
+- pause
+- consumption
+- social costs
+- thoughtful
+- processes
+- recycling
+- bulb
+- fraction
+- incandescent bulb
+- complexity
+- collaboration
+- complexity involved
+- after all
+- lie ahead
