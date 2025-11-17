@@ -254,3 +254,48 @@ Thank you.
 - coercion
 - manipulation
 - prior
+- disclosure
+- briefings
+- legal
+- stakeholders
+- corporations
+- policymakers
+- anti-development
+- The process is as important as the end result.
+- approaching Indigenous peoples' traditional governance systems
+- equal footing
+- put someone on an equal footing
+- All partners should work on an equal footing.
+- meaningfully engaged
+- automaker
+- ultimate goal
+- silver bullet
+- extraction
+- reuse
+- recycling
+- wellbeing
+- a stack of many solutions
+- equity
+- immemorial <=> Immersive
+- millennia-old
+- inherited
+- ancestors
+- alternative solution
+- extractive mindset
+- other-than-human kin
+- in place
+- mangrove forests
+- agroecological
+- kelp
+- massively
+- cumulative
+- one-sided approaches
+- solely
+- exclusively
+- tunnel
+- sacrifice 
+- holistic <=> historic
+- reciprocity
+- brink
+- extinction
+- brink of extinction
