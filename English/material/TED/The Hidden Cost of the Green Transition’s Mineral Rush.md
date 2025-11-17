@@ -177,3 +177,80 @@ But it's the mindset that will determine whether we survive or find ourselves on
 Thank you.
 
 (Applause)
+
+- mineral rush
+- trash
+- intention
+- shiny packages
+- paradigm
+- extract
+- extractive
+- regenerate
+- clan
+- Siberia
+- Baikal
+- childhood
+- seven generations ago
+- seven generations ahead
+- coalition
+- tenets
+- harmonious
+- sustainable
+- Arctic
+- subsidiary
+- nickel
+- ruptured
+- spilled
+- diesel
+- waterway
+- purchase
+- urge
+- dialogue
+- end-user
+- susceptible
+- reputational risk
+- manifest
+- substantial
+- iceberg
+- the tip of the iceberg
+- copper
+- cobalt
+- lithium
+- categorized
+- ultimate
+- touted <=> touch
+- Queensland
+- territories
+- stewards
+- pose a threat
+- pose a risk
+- pose a problem
+- livelihoods
+- transition
+- mining
+- minerals
+- deposit
+- the largest deposit
+- reindeer
+- herding
+- existing iron ore mine
+- proposition
+- wipe them out
+- triangle
+- Bolivia
+- Desert
+- competing
+- lithium mining industry
+- water-intensive
+- replicate
+- victimhood
+- protagonists
+- moved ... from
+- prior
+- informed
+- consent <=> consensus
+- principles
+- to life
+- coercion
+- manipulation
+- prior
