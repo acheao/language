@@ -181,3 +181,90 @@ This feels like a brave new world, but I'm excited to see what is possible when 
 That reminds us not to be afraid to bear the friction that just shows us how we are all beautifully, imperfectly, inconveniently human.
 
 Thank you.
+
+- disturb
+- suck
+- mindlessly
+- rehearsal
+- field trip
+- self-restraint
+- foolproof
+- pickup
+- rehearsal
+- gym
+- costumes
+- volunteering
+- head back to
+- looking through
+- sit back relieved
+- cocktail
+- crazy hair days
+- misplaced library books
+- somehow
+- collaboration
+- Pro tip
+- frustration
+- hone
+- hone my ability to…
+- friction
+- the tiniest bits of friction
+- child-resistant
+- arthritic
+- SMS
+- parenthood
+- intercept
+- interruption
+- capable
+- organized
+- meticulously
+- logistics
+- scenario
+- allergy
+- square- shaped
+- ambiguous
+- incomplete
+- explicit
+- implicit
+- birthday present
+- sidekick
+- newsletters
+- grocery
+- hit with
+- related to the family
+- greedy
+- take on
+- the rote
+- the rote, repetitive administrative
+- coordinate
+- bickering
+- pop in
+- resolve their dispute
+- pretty reserved
+- sitter <=> nanny
+- suck
+- as we fleshed these features out
+- something just didn't feel right
+- eliminate
+- nagged
+- clay
+- half-hazardly
+- score each side
+- one another
+- slide past
+- productive friction
+- disguised
+- inefficiencies
+- permeable
+- shielded
+- for me to handle
+- blossoming
+- leave for me on top …
+- circumstances
+- tennis triyouts
+- product launch
+- load that we need help lightening
+- the most radical things
+- evolving
+- imperfectly
+- inconveniently
+- just shows us how …

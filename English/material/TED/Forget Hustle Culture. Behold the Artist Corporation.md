@@ -205,3 +205,91 @@ Artists need power.
 Thank you.
 
 (Cheers and applause)
+
+- hustle
+- behold
+- creative people
+- musicians
+- up until
+- Up until last year
+- physical copy
+- infinite
+- rent
+- ghost
+- unnamed
+- uncredited
+- prominent
+- royalties
+- dynamic
+- maximize profits by minimizing creator compensation
+- gatekeepers
+- pre-existing
+- stark
+- estimated
+- aristocrats
+- make a living
+- comes natural to them
+- craftsperson
+- potter
+- automatic
+- wealth <=> health
+- traveling peddlers
+- piece together a living
+- grinding away
+- by the second
+- getting lonelier by the second
+- getting more nervous by the second
+- competition
+- burnt out
+- independently
+- subject
+- proposed a way
+- shared treasury
+- make six figures
+- silly
+- YOLO
+- LLC
+- shield
+- grow the pie
+- overhead
+- red tape
+- wrapped in red tape
+- digging
+- exact
+- opposite
+- prosperity <=> propose
+- band <=> brand
+- intellectual property
+- gear
+- pooling
+- healthcare
+- commercial
+- revenue
+- came along
+- customary
+- which has been customary until now
+- capabilities
+- entrepreneurs
+- anarchist
+- hippie
+- impresario
+- phenom
+- Smoky Mountains
+- Tennessee
+- agency
+- kit
+- self-determination
+- special favor
+- government handout
+- excluded <=> include
+- capitalism
+- revolution
+- financial return
+- venture capital
+- venture <=> revenue
+- aristocracy
+- patrons
+- executives
+- cultural institutions
+- a creative vision brought to life
+- pity
