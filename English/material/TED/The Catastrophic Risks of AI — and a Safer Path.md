@@ -291,3 +291,84 @@ And all of the scientific evidence in the last few months point to that.
 CA: Yoshua, thank you so much.
 
 YB: Thank you.
+
+- regularly
+- blocks
+- wondrous
+- eureka
+- agency
+- human agency
+- the expanding threads
+- has been foundational
+- prizes
+- godfather
+- responsibility
+- catastrophic
+- assumptions
+- barely
+- the symbol on the right
+- nascent
+- medical diagnostics
+- grandson
+- seems to master language
+- on everybody's lips
+- anticipated
+- signatory
+- pause
+- executives of some company
+- mitigating
+- extinction
+- Senate
+- heed
+- the most cited
+- I have the impression
+- apocalyptic prediction
+- weapons
+- terrorists
+- medium
+- increasing agency of AI
+- human-level cognition
+- duration
+- exponentially
+- accuracy
+- tendencies
+- deception
+- deceptive
+- cheating
+- self-preservation
+- dumb
+- blatant lie
+- incentive
+- a giant leap
+- commercial pressure
+- societal guardrails
+- playing with fire
+- regulation
+- mitigate
+- trajectory
+- plausible
+- aligned
+- blindly
+- trajectory
+- haze
+- doomer
+- technical solution
+- selfless
+- agency <=> agentic
+- imitate
+- untrustworthy
+- behaviors
+- behave
+- fit the bill
+- guardrail
+- accelerate
+- betterment
+- betting
+- introvert
+- collaborators
+- endeavors
+- steer out societies
+- human flourishing
+- artificial general intelligence
+- sailed
+- deterministic
