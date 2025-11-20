@@ -311,3 +311,133 @@ But yeah, just to reiterate that point, we have to make sure that the tech is in
 KC: Thank you so much for coming to TED.
 
 (Applause)
+
+- interaction
+- unmet
+- depression
+- disability
+- therapists
+- having a panic attack
+- vacuum
+- sophisticated
+- psychotherapeutic
+- haunted
+- access
+- approachability
+- reach out
+- brief encounters
+- outside of clinic hours
+- roleplay
+- generative AI
+- supervision
+- rails
+- make up
+- fantastic
+- exploring
+- advantages
+- disclose
+- pronounced
+- perceived
+- stigmatized
+- judging
+- how you appear to something
+- transcripts
+- perfection
+- scares
+- the hell out of me
+- inadvertently
+- dumb
+- incomplete
+- half-asleep
+- hyper-responsive
+- definitely
+- advancement
+- individuation
+- perfection
+- illusion
+- crucial
+- partnership
+- health system
+- therapeutic approaches
+- cognitive behavioral therapy
+- get them back to their life
+- engagement
+- sort of a road to addiction
+- incentive
+- ensure
+- entrepreneurs
+- not the other way around
+- crush on
+- if you like
+- therapeutic process
+- structurally
+- mindset
+- negative
+- tune in
+- diagnosis
+- use the analogy of
+- tennis balls
+- swing
+- fundamentally
+- objective function
+- betterment
+- do explicitly
+- IRL interactions
+- value set
+- avoidance
+- discomfort
+- encourage
+- come back a few days later
+- you said you were going to …
+- facilitate
+- self-awareness
+- accountability
+- most favored feature
+- sit around and …
+- loads
+- advertisers
+- flirt
+- muddies
+- muddies the dynamic
+- purpose 
+- achieve
+- boundary 
+- effectiveness
+- efficacy
+- across the board
+- psychotherapy
+- forgive
+- clinical psychologists
+- technological advancement
+- needle
+- anxious
+- depressed
+- as … as ever
+- aperture
+- therapist
+- fights
+- transcript
+- interrupted
+- dynamics
+- dumb 
+- Not being personal at all here, Edward.
+- laptop
+- replicating
+- that were built for human delivery
+- bringing up something else that's interesting
+- models of therapeutic approaches
+- lean into
+- that's new and that's novel
+- flirting
+- bangs
+- can't tell if … or …
+- nodding off
+- vary
+- potential for damage
+- plenty
+- with intentionality
+- unintended consequences
+- addition <=> additional
+- take advantage of positive directions
+- go through
+- reiterate
