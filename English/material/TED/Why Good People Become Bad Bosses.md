@@ -281,3 +281,92 @@ We just have to be brave enough to look in the mirror.
 Thank you.
 
 (Applause)
+
+- wretched
+- devastated
+- excitement
+- miserable
+- more than their fair share
+- crack
+- disrespected
+- incompetent
+- institutional power
+- coach
+- nightmares
+- lying awake
+- brilliant
+- rise to the surface
+- widespread
+- power blindness
+- fall prey
+- tone
+- dismissal
+- ruin
+- virtue
+- by virtue of
+- tough feedback
+- stupid jokes
+- reality distortion
+- forward
+- training team
+- direct reports
+- gel as a team
+- put out
+- irritated
+- budget report
+- gathers oneself
+- play favorites
+- Holy crap
+- professional consultant
+- ego
+- statistically speaking
+- bunch of grade
+- really fit in
+- hanging out
+- armor
+- intimidating
+- arrogant
+- blind to the fact
+- spikes
+- adore
+- landing
+- vulnerable
+- sobbing
+- a little
+- gut punch
+- own it
+- shame
+- fortress
+- solitude
+- fortress of solitude
+- self-justifications
+- cubicle of solitude
+- accusations
+- favoritism
+- logical explanation
+- problematic
+- upset
+- demoralized
+- disconnected
+- self-reflection
+- a healthy dose of
+- meet the mirror
+- blindness
+- compact
+- self-reflect
+- touch ups
+- hallway mirror
+- humane
+- cost me the ability
+- stuff
+- spiky armor
+- unintentionally
+- push away
+- positive recognition
+- carve out time
+- deepened
+- collaborate
+- ethical
+- obligation
+- advantages
+- brave
