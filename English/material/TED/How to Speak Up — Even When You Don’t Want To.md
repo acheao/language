@@ -323,8 +323,34 @@ Thank you.
 	- She was retired on medical grounds.
 		- medical grounds
 	- She fell badly, spraining her ankle, and had to retire.
-
-- embarrassed
+---
+- embarrass (verb)
+	- Her questions about my private life embarrassed me.
+	- I didn't want to embarrass him by kissing him in front of his friends.
+	- It embarrassed her to meet strange men in the corridor at night.
+	- The speech was deliberately designed to embarrass the prime minister.
+	- The scandal has totally embarrassed cricket's governing body.
+- embarrassed (adjective)
+	- I've never felt so embarrassed in my life!
+	- Her remark was followed by an embarrassed silence.
+	- He's embarrassed about his weight.
+	- I was embarrassed about talking to my parents about it.
+	- She was embarrassed at her own behaviour.
+	- He felt embarrassed at being the centre of attention.
+	- I'm embarrassed to admit it, but I laughed.
+	- Some women are too embarrassed to consult their doctor about the problem.
+- embarrassing (adjective)
+	- an embarrassing moment/situation
+	- an embarrassing mistake/gaffe
+	- an embarrassing question
+	- I didn't want to risk making the rest of the evening painfully embarrassing for both of us.
+	- His terrible acting is just embarrassing to watch.
+	- It can be embarrassing for children to tell complete strangers about such incidents.
+	- It was so embarrassing having to sing in public.
+	- This EU ruling puts Britain in a very embarrassing position.
+	- to be potentially/politically embarrassing
+	- The report is likely to prove highly embarrassing to the government.
+	- Such action by a NATO ally would be extremely embarrassing for the United States.
 - offended
 - stomach
 - upon
