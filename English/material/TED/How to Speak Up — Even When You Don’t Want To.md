@@ -166,7 +166,7 @@ Thank you.
 
 (Applause)
 
-- contemplate
+- contemplate (verb)
 	- You're too young to be contemplating retirement.
 	- I have never contemplated living abroad.
 	- He continued while she contemplated how to answer.
@@ -177,10 +177,10 @@ Thank you.
 	- She lay in bed, contemplating.
 	- She contemplated him in silence.
 	- He sat there, contemplating his fingernails.
-- contemplation
+- contemplation (noun)
 	- The monks dedicate themselves to a life of prayer and contemplation.
 	- She turned from her contemplation of the photograph.
-- contemplative
+- contemplative (adjective)
 	- She was in contemplative mood.
 	- He gave her a contemplative look.
 	- the contemplative life (= life in a religious community)
@@ -351,14 +351,67 @@ Thank you.
 	- to be potentially/politically embarrassing
 	- The report is likely to prove highly embarrassing to the government.
 	- Such action by a NATO ally would be extremely embarrassing for the United States.
-- offended
+- offend (verb)
+	- They'll be offended if you don't go to their wedding.
+	- Neil did not mean to offend anybody with his joke.
+	- She managed to offend her boyfriend’s parents as soon as she opened her mouth.
+	- A TV interviewer must be careful not to offend.
+	- The smell from the farm offended some people.
+	- an ugly building that offends the eye
+	- The show was careful not to offend local sensibilities
+	- He started offending at the age of 16.
+	- What is the best way to stop someone who has offended from repeating the offence?
+	- comments that offend against people’s religious beliefs
+	- Viewers complained that the broadcast offended against good taste.
+- offended (adjective)
+	- Alice looked rather offended.
+- offence (noun)
+	- a criminal/serious/minor/sexual offence
+	- a drug/firearms/traffic offence
+	- a first offence (= the first time that somebody has been found guilty of a crime)
+	- a capital offence (= one for which somebody may be punished by death)
+	- What are the alleged offences (= that have been stated but not yet proved)?
+	- He was not aware that he had committed an offence.
+	- New legislation makes it an offence to carry guns.
+	- He was found guilty of offences under the Official Secrets Act.
+	- These people have been charged with public order offences.
+	- He has been arrested for a serious offence.
+	- an offence against society/humanity/the state
+	- prisoners convicted of offences against children
 - stomach
+	- stomach pains/cramps
+	- an upset stomach
+	- It's not a good idea to drink (= alcohol) on an empty stomach (= without having eaten anything).
+	- You shouldn't exercise on a full stomach.
+	- The attacker kicked him in the stomach.
+	- Lie on your stomach with your arms by your side.
+	- They crawled along the ground on their stomachs.
+	- exercises to strengthen the stomach muscles
+	- somebody’s eyes are bigger than their stomach
+		- Her eyes were bigger than her stomach again; she left half the cake untouched.
+	- have butterflies (in your stomach)
+		- I had butterflies in my stomach as I went to get my exam results.
+	- have no stomach for something
+		- She had no stomach for the leftover stew.
+		- They had no stomach for a fight.
+	- have a strong stomach
+		- You need a strong stomach to go on the giant roller coaster.
+	- the pit of your/the stomach
+		- He had a sudden sinking feeling in the pit of his stomach.
+		- I felt a sickening feeling in the pit of my stomach when I saw the ambulance.
+			- a sickening feeling
+	- sick to your stomach
+		- I was sick to my stomach before the exam.
+		- Nora turned sick to her stomach on hearing this news.
+		- It makes me sick to my stomach to hear such stupid attitudes.
+	- turn your stomach
+		- Pictures of the burnt corpses turned my stomach.
+		- The smell of the dead dog turned his stomach.
 - upon
 - healthcare
 - initial
 - Especially
-- morale
-- moral
+- morale <=> moral
 - cardio
 - weightlifting
 - flight
