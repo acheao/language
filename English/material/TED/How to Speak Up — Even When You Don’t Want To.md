@@ -351,6 +351,7 @@ Thank you.
 	- to be potentially/politically embarrassing
 	- The report is likely to prove highly embarrassing to the government.
 	- Such action by a NATO ally would be extremely embarrassing for the United States.
+---
 - offend (verb)
 	- They'll be offended if you don't go to their wedding.
 	- Neil did not mean to offend anybody with his joke.
@@ -378,6 +379,7 @@ Thank you.
 	- He has been arrested for a serious offence.
 	- an offence against society/humanity/the state
 	- prisoners convicted of offences against children
+---
 - stomach
 	- stomach pains/cramps
 	- an upset stomach
@@ -407,12 +409,160 @@ Thank you.
 	- turn your stomach
 		- Pictures of the burnt corpses turned my stomach.
 		- The smell of the dead dog turned his stomach.
-- upon
-- healthcare
-- initial
-- Especially
-- morale <=> moral
+---
+- upon (preposition)
+	- The decision was based upon two considerations.
+	- mile upon mile of dusty road
+	- thousands upon thousands of letters
+	- upon hearing the news
+	- once upon a time
+		- Once upon a time there was a beautiful princess.
+	- (almost) upon you
+		- The summer season was almost upon them again.
+		- The deadline is almost upon you.
+		- Danger is almost upon you.
+- act upon (phrasal verb)
+	- Acting on information from a member of the public, the police raided the club.
+	- Why didn't you act on her suggestion?
+- hit upon (phrasal verb)
+	- She hit on the perfect title for her new novel.
+- set upon (phrasal verb)
+	- I opened the gate, and was immediately set on by a large dog.
+- base upon (phrasal verb)
+	- What are you basing this theory on?
+	- The maps are based on satellite data.
+	- His first novel was loosely based on his own experiences as a doctor.
+	- The local economy is largely based on tourism.
+	- It was a decision based solely on scientific evidence.
+---
+- healthcare (noun)
+	- the costs of healthcare for the elderly
+	- community healthcare
+	- healthcare workers/professionals
+---
+- initial (verb)
+	- Please initial each page and sign in the space provided.
+	- The agreement was finally initialled on May 8.
+- initial (adjective)
+	- There is an initial payment of £60 followed by ten instalments of £25.
+	- The government will make an initial investment of $ 4.7 billion in the company.
+	- in the initial stages (= at the beginning) of the campaign
+	- an initial phase/period
+	- an initial assessment/investigation/report
+	- My initial reaction was to decline the offer.
+- initial (noun)
+	- ‘What initial is it, Mrs Owen?’ ‘It's J, J for Jane.’
+	- ‘What's your middle initial?’ ‘M—I'm John M Butler.’
+	- We have the same initials and surname.
+	- John Fitzgerald Kennedy was often known by his initials JFK.
+	- Just write your initials.
+- initialism (noun)
+---
+- especial (adjective) <=> particular
+	- a matter of especial importance
+	- The lecture will be of especial interest to history students.
+- especially (adverb) <=> particularly
+	- In some countries, especially poorer ones, healthcare systems are struggling to cope.
+	- I love Rome, especially in the spring.
+	- The car is quite small, especially if you have children.
+	- I got up early especially.
+	- I made it especially for you.
+	- The vehicle was designed especially for use in the desert.
+	- A plentiful supply of water is especially important in summer.
+	- especially useful/interesting
+	- Many websites display the date of publication within the URL for the page. This is especially true of blogs and news sites.
+	- I wasn't feeling especially happy that day.
+	- ‘Do you like his novels?’ ‘Not especially.’
+---
+- particulate (noun)
+	- the effects of diesel particulates on human health
+- particulate (adjective)
+	- particulate pollution
+- particularize (verb)
+	- could you particularize your request?
+	- the report particularizes the problems we faced.
+- particular (adjective)
+	- There is one particular patient I'd like you to see.
+	- Is there a particular type of book he enjoys?
+	- Each village has its own particular charm.
+	- In this particular case, the owners were not local but Indian.
+	- specialized advice tailored to your particular circumstances
+	- We must pay particular attention to this point.
+	- These documents are of particular interest.
+	- I went into town for no particular reason.
+	- The high inflation rates were of particular concern.
+	- She's very particular about her clothes.
+	- in particular
+		- He loves science fiction in particular.
+		- Peter was lying on the sofa doing nothing in particular.
+		- Is there anything in particular you'd like for dinner?
+		- She directed the question at no one in particular.
+	- particular to somebody/something
+		- cheeses that are particular to this area (= that are made there and nowhere else)
+- particular (noun)
+	- The police officer took down all the particulars of the burglary.
+	- The nurse asked me for my particulars (= personal details such as your name, address, etc.).
+	- The new contract will be the same in every particular as the old one.
+	- Application forms and further particulars are available from the Personnel Office.
+	- the particulars of a house in Bury
+- particularly (adverb)
+	- particularly useful/important/interesting
+	- I particularly like the colour of the walls.
+	- The story focuses particularly on the character of Nelly.
+	- Traffic is bad, particularly in the city centre.
+	- I enjoyed the play, particularly the second half.
+	- The task was not particularly (= not very) difficult.
+	- ‘Did you enjoy it?’ ‘No, not particularly (= not very much).’
+	- I don't particularly care (= I don't care very much) what happens to him.
+	- 
+---
+- morale (noun) <=> moral
+	- to boost/raise/improve morale
+	- Morale amongst the players is very high at the moment.
+	- Staff are suffering from low morale.
+	- Another win would be good for the team’s morale.
+- moral (noun)
+	- He has absolutely no morals, that man!
+	- The play was considered an affront to public morals.
+	- The question is one of manners rather than morals.
+	- a person of loose morals (= with a low standard of sexual behaviour)
+	- The moral of the story is always stick to what you do best.
+	- And the moral is that crime doesn't pay.
+- moral (adjective)
+	- a moral issue/dilemma
+	- traditional moral values
+	- a decline in moral standards
+	- moral and ethical questions
+	- The basic moral philosophies of most world religions are remarkably similar.
+	- He was a deeply religious man with a highly developed moral sense.
+	- The newspapers were full of moral outrage at the weakness of other countries.
+	- moral responsibility/duty/authority
+	- We have a moral imperative to help whenever we can.
+	- I make no moral judgement on this decision.
+	- Governments have at least a moral obligation to answer these questions.
+	- Children learn to develop their own moral code for adulthood.
+	- The job was to call on all her diplomatic skills and moral courage (= the courage to do what you think is right).
+	- He led a very moral life.
+	- a very moral person
+	- We try to teach our students to be conscientious, moral young people.
+	- Children are not naturally moral beings.
+	- take, claim, seize, etc. the moral high ground
+		- I was angry with his blatant attempt to take the moral high ground.
+- moral fibre (noun)
+	- It isn’t just a lack of moral fibre that leads to a rising crime rate.
+- moral compass (noun)
+	- He is not the only politician who has lost his moral compass.
+- moral hazard (noun)
+	- Cheap easy credit has created moral hazard throughout the global economy.
+	- The insurance creates a moral hazard for banks to engage in risky investments and loan too much money to unsuitable borrowers.
+- moral support (noun)
+	- My sister came along just to give me some moral support.
+- moral victory (noun)
+	- In spite of the result, we felt we had won a moral victory.
+- moral philosophy (noun)
+---
 - cardio
+	- 
 - weightlifting
 - flight
 - fortunate
@@ -461,3 +611,5 @@ Thank you.
 - barrier <=> fence
 - Vitamins <=> Vietnam <=> victim 
 - involved in education
+- practical support
+- The Moral Maze
