@@ -561,7 +561,7 @@ Thank you.
 	- In spite of the result, we felt we had won a moral victory.
 - moral philosophy (noun)
 ---
-- cardio
+- cardio (noun)
 	- 
 - weightlifting
 - flight
