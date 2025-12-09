@@ -562,10 +562,70 @@ Thank you.
 - moral philosophy (noun)
 ---
 - cardio (noun)
-	- 
-- weightlifting
-- flight
-- fortunate
+	- Cardio is the answer if you want to lose weight.
+	- cardio exercise/workouts.
+- cardiologist (noun)
+	- I have an appointment with a cardiologist tomorrow.
+	- The cardiologist said my heart is perfectly healthy.
+	- She decided to become a cardiologist after her father got sick.
+	- The cardiologist recommended more exercise and less salt.
+- weightlifting (noun)
+	- I started weightlifting last year to get stronger.
+	- Weightlifting helps improve overall muscle strength.
+	- She injured her shoulder during weightlifting practice.
+	- Weightlifting requires both technique and discipline.
+	- Many people combine weightlifting with cardio exercises.
+---
+- flight (verb)
+	- He equalized with a beautifully flighted shot.
+- flight (noun)
+	- a smooth/comfortable/bumpy flight
+	- a domestic/an international flight
+	- a transatlantic flight
+	- The first prize is a return flight to Delhi.
+	- China's first manned space flight
+	- a hot-air balloon flight
+	- We met on a flight from London to Paris.
+	- We're booked on the same flight.
+	- If we leave now, I can catch the earlier flight.
+	- After a few phone calls he boarded a flight to Bangkok.
+	- Flight BA 4793 is now boarding at Gate 17.
+	- They've cancelled my flight!
+	- At present there is no direct flight to Egypt from Namibia.
+	- They took a commercial flight to Vicenza, Italy.
+	- She took a flight for Los Angeles.
+	- I had an early morning flight out of Stockholm.
+	- All flights between New York and Washington have been cancelled due to fog.
+	- mercy/relief flights (= planes taking help to countries where there is a war)
+	- the age of supersonic flight
+	- The bird is easily recognized in flight (= when it is flying) by the black band at the end of its tail.
+	- the stresses the body endures in space flight
+	- flight safety
+	- the flight of a ball
+	- She fell down a flight of stairs/steps and hurt her back.
+	- the flight of refugees from the advancing forces
+	- a flight from harsh reality
+	- The main character is a journalist in flight from a failed marriage.
+	- This idea was one of my wilder flights of fancy.
+	- a flight of geese
+	- They flew in two flights of three aircraft.
+	- an aircraft of the King's flight
+	- in the first/top flight
+		- This is the team’s first season back in the top flight for more than 60 years.
+	- put somebody to flight
+		- The enemy was quickly put to flight.
+	- take flight
+		- The gang took flight when they heard the police car.
+		- As soon as they detected the cheetah it took flight.
+- in-flight (adjective)
+	- an in-flight meal/movie
+	- in-flight refuelling
+- flight crew (noun)
+	- The flight crew is/are trained in first aid.
+- flight deck (noun)
+	- the pilot invited the kid to see the flight deck (cockpit)
+	- jets were taking off from the flight deck
+---
 - Specifically
 - intensive
 - traumas
