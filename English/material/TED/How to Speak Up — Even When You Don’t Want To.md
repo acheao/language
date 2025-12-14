@@ -626,7 +626,18 @@ Thank you.
 	- the pilot invited the kid to see the flight deck (cockpit)
 	- jets were taking off from the flight deck
 ---
-- Specifically
+- specifically (adverb)
+	- liquid vitamins specifically designed for children
+	- the development of new treatments that specifically target cancer cells
+	- The service has been designed specifically for use by children.
+	- a magazine aimed specifically at working women.
+	- a specifically Christian approach to morality
+	- The book focused specifically on Tom's boyhood.
+	- She had specifically asked him to keep her updated on the investigation.
+	- The agreement specifically mentions the lifting of sanctions.
+	- I specifically told you not to go near the water!
+	- The author specifically addresses seven important issues.
+	- 
 - intensive
 - traumas
 - fierce
@@ -635,6 +646,7 @@ Thank you.
 - belt
 - pivotal
 - courageous
+- courage
 - commitment
 - tricky
 - innovation
@@ -644,8 +656,7 @@ Thank you.
 - nurture
 - metal
 - symbols
-- tricky
-- Empathy
+- empathy
 - reactive
 - proactive
 - bumpy
@@ -664,6 +675,8 @@ Thank you.
 - champion
 - shaky
 - transitive
+- confidence
+- resignation
 - plural
 - crush <=> crash 
 - muffler <=> silencer 
@@ -673,3 +686,63 @@ Thank you.
 - involved in education
 - practical support
 - The Moral Maze
+- organizational performance
+- working short-staffed
+- cycles of change
+- sharing feedback
+- identifying mistakes
+- disrespect
+- individuals
+- stakes are high
+- cardio or weightlifting
+- vulnerable
+- desired action
+- fortunate
+- an intensive care nurse
+- air time
+- frustrating
+- pivotal role
+- changemaking
+- I owe it to my team to finish the project
+- momentous step
+- the cool metal upon my skin
+- ground myself
+- directions
+- take the high road
+- in tricky situations
+- I feel seen, cared for
+- tone
+- trying to be understood
+- getting into a mindset
+- change management
+- inspiring
+- physician
+- to a fault
+- split second
+- It happened in a split second.
+- come in handy
+- representation
+- understandably devaluing
+- valuable
+- imperative
+- powerful instrument
+
+we can all learn
+we can all think
+they will surely understand
+she must always try her best
+you should never give up
+I can already see the problem.
+You can probably fix it.
+We can all agree on this.
+They will never forget this.
+She will certainly win.
+We will definitely try.
+You must always be careful.
+We should never ignore the risks.
+He must really like it.
+主语 + 助动词 + 副词 + 动词
+can could will would shall should may might must
+felt like the right path, if not even essential
+the right, if not even essential, path
+A, if not even B
