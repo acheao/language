@@ -270,3 +270,121 @@ I'll conclude with a wish: I'd like to see Zimbardo's guys who are wiping out an
 
 Thanks for listening.
 (Applause)
+
+---
+- inspire  
+- eager
+- fascinated
+- perceive
+- compelling
+- novelty
+- spike
+- ancestors
+- courtship
+- addictive
+- consumption
+- craving
+- willpower
+---
+- unconsciously
+- conducted
+- pornography
+- nudity
+- arousals
+- skyrocketing
+- excitement
+- fertilizing
+- ram
+- ewe
+- Coolidge effect
+- mammalian
+- neurochemical
+- dopamine
+- rewires
+- bonanza
+- harem
+- voyeurism
+- masturbate
+- pheromones
+- dilemma
+- Undaunted
+- Zimbardo
+- Demise
+- inquiring
+- circuit
+- bonding
+- satiation
+- rats
+- obese
+- addicted
+- cocaine
+- alcohol
+- hook
+- wolves packing
+- mating
+- evolutionary jackpot
+- molecular
+- chronic
+- promotes
+- binging
+- dominos
+- numbed
+- hyper-reactive
+- frontal cortex
+- emphasize
+- gambling
+- slide
+- reversing
+- voluntarily
+- Resurrection
+- erectile
+- dysfunction
+- flaming
+- neurologists
+- enhancement
+- viagra
+- numb
+- libido
+- erection
+- desensitization
+- qualitatively
+- ED
+- impairment
+- pot
+- weirdness
+- nonexistent
+- chick magnet
+- congregate
+- peering
+- Fapping
+- unhook
+- bizarre
+- ointment
+- regaining
+- mojo
+- neuroplasticity
+- prune
+- ruts
+- panic
+- escalated
+- orientation
+- sexual orientation
+- revert
+- sensitivity
+- procrastination
+- conclude
+----
+- nudity
+- 4 out of 5
+- junk
+- checkers
+- essence
+- slide
+- wolves packing
+- in 2 minutes flat
+- utterly
+- exhausted
+- a host of
+- molecular
+- dominos
+- bonus

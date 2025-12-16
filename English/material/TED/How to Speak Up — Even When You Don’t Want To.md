@@ -637,8 +637,8 @@ Thank you.
 	- The agreement specifically mentions the lifting of sanctions.
 	- I specifically told you not to go near the water!
 	- The author specifically addresses seven important issues.
-	- 
 - intensive
+	- 
 - traumas
 - fierce
 - compass
