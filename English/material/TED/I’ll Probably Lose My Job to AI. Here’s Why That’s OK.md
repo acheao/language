@@ -177,3 +177,69 @@ And it is literally better than they could have imagined.
 
 Thank you.
 (Applause)
+
+---
+- gather
+- displace
+- occupation
+- competent
+- offset
+- obligation
+- beneficiaries
+- prioritize
+- descendants
+---
+- The Luddites
+- libertarians
+- technophobes
+- canard
+- legacy
+- inheritance
+- theft
+- beneficiaries
+- creative destruction
+- revolution
+- doomsday scenarios
+- compelling
+- allay
+- persuaded
+- effectively
+- tempted
+- predicted
+- downside / upside
+- cumulative
+- unprecedented
+- artisans
+- handcrafted
+- textiles
+- mechanized
+- mill
+- underpricing
+- cutting-edge
+- spinning jennies
+- spinner
+- spools
+- weaver
+- handloom
+- columnist
+- displaced workers
+- handout
+- post-secondary
+- standardized
+- suburbs
+---
+- hallmark card
+- landline
+- whoops
+- awesome
+- fairyland
+- magic wands
+- cloak
+- refrigerator
+- novocaine
+- buggies
+- stockings
+- fairy tale
+- huddled
+- smashing
+- rush out
