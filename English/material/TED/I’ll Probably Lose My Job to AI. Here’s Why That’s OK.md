@@ -188,6 +188,7 @@ Thank you.
 	- But every day, AI seems to get better and better at writing competent prose.
 - offset (verb)
 	- The Industrial Revolution raised living standards and offset them with grim factory jobs, squalid urban living conditions and choking pollution.
+	- Prices have risen in order to offset the increased cost of materials.
 - obligation (noun)
 	- And we have an obligation to count those costs.
 - beneficiary (noun)
@@ -205,7 +206,6 @@ Thank you.
 - legacy
 - inheritance
 - theft
-- beneficiaries
 - creative destruction
 - revolution
 - doomsday scenarios
