@@ -178,113 +178,27 @@ And it is literally better than they could have imagined.
 Thank you.
 (Applause)
 
-**A类**
-
 - gather (verb)
-	- A crowd soon gathered.
-	- His supporters gathered in the main square.
-	- Can you all gather round? I've got something to tell you.
-	- They were all gathered round the TV.
-	- The whole family gathered together at Ray's home.
-	- A large crowd was gathered outside the studio.
-	- The kids were gathered together in one room.
-	- People slowly gathered their belongings and left the hall.
-	- I waited while he gathered up his papers.
-	- She gathered her things together and got to her feet.
-	- to gather information/data/intelligence
-	- Detectives have spent months gathering evidence.
-	- to gather wild flowers
-	- They lived in the forest, gathering mushrooms and berries to eat.
-	- It was late August and the harvest had been safely gathered in.
-	- I gather (that) you wanted to see me.
-	- I gather from your email that you're not enjoying your job.
-	- ‘There's been a delay.’ ‘I gathered that.’
-	- ‘She won't be coming.’ ‘So I gather.’
-	- You're self-employed, I gather.
-	- As far as I can gather, he got involved in a fight.
-	- From what I can gather, there's been some kind of problem.
-	- The truck gathered speed.
-	- During the 1980s the green movement gathered momentum.
-	- Thousands of these machines are gathering dust (= not being used) in stockrooms.
-	- As the weeks passed, Charlotte began to gather strength.
-	- The storm clouds were gathering.
-	- the gathering gloom of a winter’s afternoon
-	- He gathered his cloak around him.
-	- She gathered up her skirts and ran.
-	- She wore a skirt gathered (in) at the waist.
-	- She gathered the child in her arms and held him close.
-	- He gathered her to him.
-	- I gathered her close and kissed her.
-	- I sat down for a moment to gather my strength.
-	- She was still trying to gather her thoughts together when the door opened.
-	- Fortunately the short delay gave him time to gather himself.
-	- He paused to gather his breath.
-	- collect/gather dust
-		- That guitar's been sitting there gathering dust for years now.
-		- Play your guitar that's gathering dust, or pull out the old tennis racket for a match.
-		- You may already have an old laptop that is collecting dust but otherwise usable.
-	- a rolling stone gathers no moss
-- gatherer (noun)
-	- prehistoric hunters and gatherers
-	- We've already lined up squads of volunteer signature gatherers.
-- gathering (noun)
-	- a social/family gathering
-	- He was asked to speak at a gathering of religious leaders.
-	- methods of information gathering
-- gathers (noun)
-	- ​small folds that are sewn into a piece of clothing
----
+	- I gather I'm not the only one who worries about AI.
 - displace (verb)
-	- Gradually factory workers have been displaced by machines.
-	- Around 10 000 people have been displaced by the fighting.
-	- If the dam is built it will displace 100 000 people.
-	- Check for roof tiles that have been displaced by the wind.
-	- displaced workers
-	- The ship displaces 58 000 tonnes.
-- displacement (noun)
-	- the largest displacement of civilian population since World War Two
-	- a ship with a displacement of 10 000 tonnes
----
+	- it's still going to displace a lot of workers
 - occupation (noun)
-	- Please state your name, age and occupation below.
-	- Her main occupation seems to be shopping.
-	- the Roman occupation of Britain
-	- The zones under occupation contained major industrial areas.
-	- occupation forces
-	- The offices will be ready for occupation in June.
-	- The following applies only to tenants in occupation after January 1 this year.
-	- The level of owner occupation (= people owning their homes) has increased rapidly in the last 30 years.
-- occupational (adjective)
-	- occupational health
-	- an occupational risk/hazard
-	- an occupational pension scheme
-- occupationally (adverb)
-	- occupationally induced disease
----
+	- And I don't know what I'm supposed to do if typing words in a row stops being a semi profitable occupation.
 - competent (adjective)
-	- He's very competent in his work.
-	- Make sure the firm is competent to carry out the work.
-	- I don’t feel competent to comment.
-	- She is highly competent at her job.
-	- Ron was a competent player—more than that, he was good!
-	- The case was referred to a competent authority.
-- competently (adverb)
-	- The movie is well-acted and very competently filmed.
-	- The characters are played competently enough, but without any particular distinction.
-- competency (noun)
-	- technical competency is essential for this job.
-	- language competency is required for international positions.
----
+	- But every day, AI seems to get better and better at writing competent prose.
 - offset (verb)
-	- Prices have risen in order to offset the increased cost of materials.
-	- What expenses can you offset against tax?
----
-- obligation
-- beneficiaries
-- prioritize
-- descendants
+	- The Industrial Revolution raised living standards and offset them with grim factory jobs, squalid urban living conditions and choking pollution.
+- obligation (noun)
+	- And we have an obligation to count those costs.
+- beneficiary (noun)
+	- She was the sole beneficiary of her father’s will.
+- prioritize (prioritize)
+	- You should make a list of all the jobs you have to do and prioritize them.
+- descendant (noun)
+	- That is a precious and totally unearned inheritance, and I think we have an obligation to pay that forward and leave an even bigger legacy for our descendants.
 ---
 - The Luddites
+- squalid
 - libertarians
 - technophobes
 - canard
@@ -317,7 +231,6 @@ Thank you.
 - weaver
 - handloom
 - columnist
-- displaced workers
 - handout
 - post-secondary
 - standardized
