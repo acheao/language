@@ -271,7 +271,7 @@ I'll conclude with a wish: I'd like to see Zimbardo's guys who are wiping out an
 Thanks for listening.
 (Applause)
 
----
+
 - inspire  
 - eager
 - fascinated
