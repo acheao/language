@@ -166,20 +166,34 @@ Thank you.
 
 (Applause)
 
-- contemplate
+- contemplation
+	- It can be a needed moment of peace and contemplation.
 - barrier
+	- But what happens when silence becomes a barrier?
 - muffle
+	- A barrier that muffles the voice of truth, of advocacy, of change?
 - advocate
+	- Advocate for yourself.
 - retire
+	- In this post-pandemic time, with baby boomers retiring and a wave of quiet resignation upon us, the world seems to be working short-staffed.
 - embarrass
+	- While I was embarrassed, I had a split second to decide.
 - offend
+	- Times when I stood red-faced, embarrassed or offended, frustrated or angry, with a sinking feeling in my stomach, unable to find my voice and unsure if I had the courage, confidence or will to face the difficult conversation before me.
 - essential
-- vivid
-- stomach
+	- Perhaps the precipice of an uncomfortable conversation when speaking up felt like the right, if not even essential, path.
+- vivid (adjective) / vividly (adverb)
+	- I can vividly see and feel myself being in those moments.
+- stomach (noun)
+	- I had butterflies in my stomach as I went to get my exam results.
 - upon
+	- I imagine holding a compass in my hand, the cool metal upon my skin, taking a breath, a moment to pause and ground myself.
 - particularly
+	- In a world where we are experiencing increasingly rapid cycles of change, we can expect difficult conversations, particularly in the workplace, to happen more often than ever before.
 - especially
+	- Especially not for the reason of avoiding a challenging conversation.
 - initial
+	- We need to find a path to help us get past that initial fight, flight or freeze response, to get us to the table and make leaning into uncomfortable conversations the desired action for our own benefit, as well as to benefit those around us.
 ----
 - advocacy
 - crossroads
