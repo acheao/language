@@ -154,3 +154,78 @@ We're already the 80 percent. We just don't know we know it yet.
 
 Thank you so much.
 (Applause)
+
+A类
+---
+- march on
+- quiet  
+	- /ˈkwaɪət/  
+	- 安静的（状态）
+	- The room went quiet.
+- quit 
+	- /kwɪt/  
+	- 停止 / 退出（动作）  
+	- He quit his job.
+- edifice
+- coexist
+- mindsets
+- realists
+- in the lead up (to)
+- ever since
+- hurtling
+- planetary
+- tipping (points)
+- surge
+- hang on a second
+- wiping (out)
+- embracing
+- simultaneously
+- reality
+- realism
+- optimistic
+- unleash
+- gaslight
+- take head on
+- agency
+- signal
+- outlook
+- convene
+- activists
+- phase / phase out
+- participate
+- collaborate
+- campaign
+- halving
+- breakdown
+- paradigm
+- consciousness
+- viral
+
+B类
+---
+- clashed
+- throughout
+- throughout the ages
+- spice (things up)
+- positive / negative
+- batteries
+- defiantly
+- renewing
+- campaigning
+- crafting
+- clamoring
+- tapping
+- stretch
+- carried away
+- philosophers
+- architects
+- profoundly
+- photographed
+
+C类
+---
+- separate
+- perfect
+- sexuality
+- queer
+- Strange Fruit
