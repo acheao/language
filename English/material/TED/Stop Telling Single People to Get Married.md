@@ -208,3 +208,66 @@ So let's toast to a world that honors both the choice to settle down or go solo.
 
 Cheers.
 (Cheers and applause)
+
+- subtle
+- rationale
+- Unbeknownst
+- tolerated / intolerance
+- projected
+- unavailable
+- marital
+- milestones
+- advocates
+- conclusion
+- overprescribing
+- correlational
+- feature
+- progress
+- increasingly
+- optional
+- dispense
+- significant other
+- unconditional
+- elevate
+- on par
+- wholehearted
+- hitch / hitched
+- prescription（比喻义）
+- near misses
+- bump
+- fades
+- puzzle（比喻）
+---
+- civilization
+- harsh
+- agrarian
+- altar
+- spinning wheel
+- birth control
+- Urbanization
+- appliances
+- spurring
+- pioneers
+- trailblazers
+- chorus
+- preaching
+- choir
+- pearl clutching
+- toast / let’s toast to
+- on par
+- stand side by side, equal
+---
+- bachelor
+- slapped
+- clinked
+- crock / pots / crock pots
+- fedora
+- Indiana
+- Stockholm
+- tent
+- spouse
+- Widowed
+- a pop
+- got rolling
+- swapped
+- intrigued
