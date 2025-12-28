@@ -157,6 +157,7 @@ Thank you so much.
 
 ---
 - march on
+	- Remember 2019, when four million people took to the streets across 4,000 cities to march on climate in a single day?
 - quiet  
 	- /ˈkwaɪət/  
 	- 安静的（状态）
@@ -165,15 +166,24 @@ Thank you so much.
 	- /kwɪt/  
 	- 停止 / 退出（动作）  
 	- He quit his job.
-- edifice
-- coexist
-- mindsets
-- realists
+- edifice (noun)
+	- Each one of us can have a room inside that house, and while each of the rooms can be a different shape and size, all the rooms are essential to making up the overall edifice of the house of the movement.
+- coexist (verb)
+	- Because actually, the primary challenge our movement faces is in allowing different beliefs, different mindsets, to coexist under the same roof.
+- mindset (noun)
+	- Because actually, the primary challenge our movement faces is in allowing different beliefs, different mindsets, to coexist under the same roof.
+- realist (noun)
+	- The realists and the optimists are obviously both correct.
 - in the lead up (to)
+	- This is how I've been thinking about the climate movement ever since I joined the United Nations in the lead up to the Paris Agreement. 
 - ever since
-- hurtling
-- planetary
-- tipping (points)
+	- This is how I've been thinking about the climate movement ever since I joined the United Nations in the lead up to the Paris Agreement. 
+- hurtling (verb)
+	- We're actually hurtling towards positive climate tipping points.
+- planetary (adjective)
+	- We've got the realists, and the realists say we are rapidly hurtling towards negative planetary tipping points, with every year hotter than the last, with rising sea surface temperatures making the hurricanes we're experiencing right now twice as likely, and with a crazy surge in oil and gas exploration that is leading to another 12 billion tons of emissions.
+- tip (verb)
+	- We're actually hurtling towards positive climate tipping points.
 - surge
 - hang on a second
 - wiping (out)

@@ -116,9 +116,7 @@ He had one of my newsletters printed out and was waving it in the air.
 
 "Who's the cheerleader sending out this stuff?"
 
-As an optimist --
-(Laughter)
-sometimes to a fault, I knew right away, that cheerleader was me.
+As an optimist -- (Laughter) sometimes to a fault, I knew right away, that cheerleader was me.
 
 While I was embarrassed, I had a split second to decide.
 
