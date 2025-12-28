@@ -155,7 +155,6 @@ We're already the 80 percent. We just don't know we know it yet.
 Thank you so much.
 (Applause)
 
-A类
 ---
 - march on
 - quiet  
@@ -200,8 +199,6 @@ A类
 - paradigm
 - consciousness
 - viral
-
-B类
 ---
 - clashed
 - throughout
@@ -221,8 +218,6 @@ B类
 - architects
 - profoundly
 - photographed
-
-C类
 ---
 - separate
 - perfect

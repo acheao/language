@@ -148,95 +148,88 @@ We need to first know and understand it before we can be responsible stewards an
 
 This is not just a journey for scientists, it is for all of us, because the decisions we collectively make over the next decade will affect what the ocean looks like for centuries to come. Thank you.
 
-
-sunlit 
-otherworldly 
-realm 
-twilight 
-glimmer 
-particles 
-bioluminescence 
-teemmicrobes 
-plankton 
-adaptation 
-predators 
-whales 
-tuna 
-swordfish 
-biomass 
-undiscovered
-intertwined 
-virtually 
-oceanography 
-intersection 
-spark 
-breakthrough 
-expedition 
-lasermicroscopic 
-algae 
-photosynthetic 
-abundant 
-organisms 
-convinced 
-breathtaking 
-exceedingly
-Arctic 
-pressures 
-enormous 
-fascinating 
-lurking 
-lantern 
-bristlemouth 
-fierce 
-vertebrates tube  
-sheer 
-penetrating 
-sonar 
-dense 
-bounces off 
-migration 
-inhabitants 
-atmosphere 
-carbon dioxide 
-transport 
-curiosity 
-vacuuming 
-shrimp krill 
-aquaculture 
-nutraceutical 
-fisheries 
-gold rush 
-irreversible 
-fortunate 
-oceanographic 
-Institution 
-passion 
-exploration 
-tackle 
-observing 
-remarkable 
-diversity 
-multiscale 
-multidimensional 
-integrate 
-satellite 
-feeding diets 
-gelatinous 
-salps 
-superefficient 
-vacuum 
-vacuuming 
-slurping 
-plankton 
-pellets poop 
-forensic 
-urgency 
-inexhaustible 
-sustainably 
-stewards
-
-
-
+---
+- virtually
+- intertwined
+- intersection
+- spark
+- breakthrough
+- abundant
+- convinced
+- breathtaking
+- exceedingly
+- enormous
+- migration
+- atmosphere
+- carbon dioxide
+- transport
+- curiosity
+- irreversible
+- exploration
+- remarkable
+- diversity
+- integrate
+- urgency
+- inexhaustible
+- sustainably
+- stewards / stewardship
+---
+- sunlit
+- otherworldly
+- realm
+- twilight
+- glimmer
+- particles
+- bioluminescence
+- microbes
+- plankton
+- adaptation
+- predators
+- biomass
+- undiscovered
+- oceanography / oceanographic
+- expedition
+- laser
+- microscopic
+- algae
+- photosynthetic
+- organisms
+- Arctic
+- pressures
+- fascinating
+- vertebrates
+- sheer
+- sonar
+- dense
+- migration
+- aquaculture
+- nutraceutical
+- fisheries
+- multiscale
+- multidimensional
+- satellite
+- gelatinous
+- forensic
+---
+- whales
+- tuna
+- swordfish
+- lantern
+- bristlemouth
+- lurking
+- fierce
+- tube
+- bounces off
+- inhabitants
+- vacuuming
+- shrimp
+- krill
+- gold rush
+- Institution
+- salps
+- superefficient
+- slurping
+- pellets / poop
 
 
 

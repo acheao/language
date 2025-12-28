@@ -209,6 +209,7 @@ So let's toast to a world that honors both the choice to settle down or go solo.
 Cheers.
 (Cheers and applause)
 
+---
 - subtle
 - rationale
 - Unbeknownst
@@ -232,11 +233,11 @@ Cheers.
 - on par
 - wholehearted
 - hitch / hitched
-- prescription（比喻义）
+- prescription
 - near misses
 - bump
 - fades
-- puzzle（比喻）
+- puzzle
 ---
 - civilization
 - harsh

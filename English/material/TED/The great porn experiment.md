@@ -272,19 +272,37 @@ Thanks for listening.
 (Applause)
 
 
-- inspire  
-- eager
-- fascinated
-- perceive
-- compelling
-- novelty
-- spike
-- ancestors
-- courtship
-- addictive
-- consumption
-- craving
-- willpower
+- inspire (verb)
+	- Inspired by the last talker I'm going to have a little song about Internet porn.
+- eager (adjective)
+	- Nearly every young guy with an Internet access becomes an eager test subject.
+- fascinate (verb)
+	- Driven by a brain that is suddenly fascinated by sex. 
+- fantastic (adjective)
+	- He's done a fantastic job.
+- perceive (verb)
+	- This old mammalian program, the Coolidge effect, perceives each novel female on a guy's screen as a genetic opportunity.
+- compelling (adjective)
+	- Now, users perceive Internet porn as far more compelling than porn of the past.
+- novelty (noun)
+	- Constant novelty at the click can cause addiction.
+- spike (noun)
+	- Subjects watch 22 porn displays. See that spike? That's where the researchers switch to porn the guys hadn't seen before.
+- ancestor (noun)
+	- With internet porn a guy can see more hot babes in 10 minutes than his ancestors could see in several lifetimes.
+- ancestry (noun)
+	- people of Japanese ancestry.
+	- He was able to trace his ancestry back over 1 000 years.
+- courtship (noun)
+	- Now, real sex, in contrast, is courtship, touching, being touched, smells, pheromones, emotional connection, interaction with a real person.
+- addictive (adjective)
+	- In this Dutch study - here's the title - they found that in fact of all activities on the Internet porn has the most potential to become addictive.
+- consumption (noun)
+	- So the dominos are excess consumption excess dopamine, Delta-FosB, brain changes. One of the first changes is a numbed pleasure response.
+- craving (noun)
+	- Now, with excess chronic consumption of drugs or natural rewards, this build up a Delta-FosB starts to alter the brain and promotes the cycle of binging and craving.
+- willpower (noun)
+	- Finally his willpower erodes as his frontal cortex changes.
 ---
 - unconsciously
 - conducted

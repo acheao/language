@@ -166,33 +166,33 @@ Thank you.
 
 (Applause)
 
-- contemplation
+- contemplation (noun)
 	- It can be a needed moment of peace and contemplation.
-- barrier
+- barrier (noun)
 	- But what happens when silence becomes a barrier?
-- muffle
+- muffle (verb)
 	- A barrier that muffles the voice of truth, of advocacy, of change?
-- advocate
+- advocate (noun)
 	- Advocate for yourself.
-- retire
+- retire (verb)
 	- In this post-pandemic time, with baby boomers retiring and a wave of quiet resignation upon us, the world seems to be working short-staffed.
-- embarrass
+- embarrass (verb)
 	- While I was embarrassed, I had a split second to decide.
-- offend
+- offend (verb)
 	- Times when I stood red-faced, embarrassed or offended, frustrated or angry, with a sinking feeling in my stomach, unable to find my voice and unsure if I had the courage, confidence or will to face the difficult conversation before me.
-- essential
+- essential (adjective)
 	- Perhaps the precipice of an uncomfortable conversation when speaking up felt like the right, if not even essential, path.
 - vivid (adjective) / vividly (adverb)
 	- I can vividly see and feel myself being in those moments.
 - stomach (noun)
 	- I had butterflies in my stomach as I went to get my exam results.
-- upon
+- upon (preposition)
 	- I imagine holding a compass in my hand, the cool metal upon my skin, taking a breath, a moment to pause and ground myself.
-- particularly
+- particularly (adverb)
 	- In a world where we are experiencing increasingly rapid cycles of change, we can expect difficult conversations, particularly in the workplace, to happen more often than ever before.
-- especially
+- especially (adverb)
 	- Especially not for the reason of avoiding a challenging conversation.
-- initial
+- initial (adjective)
 	- We need to find a path to help us get past that initial fight, flight or freeze response, to get us to the table and make leaning into uncomfortable conversations the desired action for our own benefit, as well as to benefit those around us.
 ----
 - advocacy
