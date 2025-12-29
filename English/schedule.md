@@ -5,3 +5,10 @@
 	- TED 精听
 	- youtube 泛听
 
+
+
+
+
+
+gaslight
+take head on

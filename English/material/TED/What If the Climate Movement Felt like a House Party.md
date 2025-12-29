@@ -184,18 +184,38 @@ Thank you so much.
 	- We've got the realists, and the realists say we are rapidly hurtling towards negative planetary tipping points, with every year hotter than the last, with rising sea surface temperatures making the hurricanes we're experiencing right now twice as likely, and with a crazy surge in oil and gas exploration that is leading to another 12 billion tons of emissions.
 - tip (verb)
 	- We're actually hurtling towards positive climate tipping points.
-- surge
+- surge (noun/verb)
+	- She felt a sudden surge of anger.
 - hang on a second
+	- And they say, hang on a second.
 - wiping (out)
-- embracing
-- simultaneously
-- reality
-- realism
-- optimistic
-- unleash
-- gaslight
+	- Four years ago, it was one in 25. In batteries, sales are doubling every two to three years, which is wiping out half of fossil fuel demand.
+- embrace (verb/noun)
+	- It’s when we start embracing and housing both of them simultaneously that we root ourselves in the reality, the realism of where we’re at but leave ourselves defiantly optimistic in our ability to unleash change.
+- simultaneous (adjective) / simultaneously (adverb)
+	- she was talking and writing simultaneously.
+	- the two events happened simultaneously.
+- reality (noun)
+	- face reality / harsh reality / in reality / reality check / escape from reality
+- realism (realism)
+	- we need a bit of realism here.
+	- realism tells us this will take time.
+	- a dose of realism / grounded in realism / brutal realism / brutal realism
+- optimistic / pessimistic  (adjective)
+	- I am optimistic about the future.
+	- She is optimistic about the project.
+	- We should stay optimistic.
+	- cautiously optimistic
+- unleash (verb)
+	- unleash change / unleash potential / unleash energy / unleash innovation 
+- gaslight (noun)
+	- We start being able to take head on oil and gas’s attempt to gaslight us, what I call oil-and-gaslighting.
+	- gaslight someone / gaslighting behavior / emotional gaslighting 
 - take head on
-- agency
+	- she decided to take the problem head on.
+- agency (noun)
+	- We start renewing our agency to act. 
+	- students need more agency in their learning.
 - signal
 - outlook
 - convene
