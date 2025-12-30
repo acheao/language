@@ -216,19 +216,63 @@ Thank you so much.
 - agency (noun)
 	- We start renewing our agency to act. 
 	- students need more agency in their learning.
-- signal
-- outlook
-- convene
-- activists
-- phase / phase out
-- participate
-- collaborate
-- campaign
-- halving
-- breakdown
-- paradigm
-- consciousness
-- viral
+- signal (noun/verb)
+	- I'm climate campaigning. And in Dubai, the world expected governments to signal the end of the fossil fuel era.
+- outlook (noun) 
+	- But as we got into the second week, the outlook was not looking great.
+	- vision / outlook / prospect / forecast
+- convene (verb)
+	- We decided to convene a group of realist scientists, optimistic businesses and activists in a movement that wasn't ready to give up.
+- activist (noun)
+	- human/civil/animal rights activists
+- phase (noun)
+	- initial phase
+	- next phase
+	- in the final phase
+- phase out
+	- We ended up crafting a letter to the president of the negotiations, clamoring for a phase out on fossil fuels, which in under 48 hours got 800, then 1,000, then 2,000 signatures.
+- phase down
+	- governments agreed to phase down coal use over the next decade.
+- participate (verb)
+	- And I realized that when you start creating the places, the spaces where everyone can participate without finger-pointing, you start to connect and collaborate on an entirely new dimension.
+- collaborate (verb)
+	- scientists collaborated on the project.
+	- countries must collaborate with each other.
+- dimension (noun)
+	- We measured the dimensions of the kitchen.
+	- the box has three dimensions: length, width, height.
+	- adding a new dimension to the discussion
+	- this issue has many dimensions.
+- campaign (verb/noun)
+	- So before Dubai, I helped to create the world's largest climate coalition in a campaign called Race to Zero.
+	- a climate campaign
+	- a marketing campaign
+	- she is campaigning for better education.
+	- she is campaigning to save the rainforest.
+	- the climate campaign gained global attention.
+	- companies often run advertising campaigns during holidays.
+- halve (verb)
+	- It’s got 15,000 organizations now, covering two-thirds of the global economy, and they've all set their sights on halving emissions by 2030 and getting to zero by 2050.
+	- The company halved its emissions.
+	- halve emissions / costs / production / risk
+- breakdown (noun)
+	- And this is leading to a breakdown in trust, which threatens to pull our movement down from the inside.
+	- a breakdown of costs
+	- a breakdown of the plan
+- paradigm (noun)
+	- Artists have inspired paradigm shifts on issues like race and sexuality.
+	- The company introduced a paradigm shift in online retail.
+- consciousness (noun)
+	- Viral. The point is, artists have the power to awaken the public consciousness for mass climate action. 
+	- The patient regained consciousness after the operation.
+	- He lost consciousness during the accident.
+	- awareness / consciousness
+- viral (adjective)
+	- a viral infection
+	- viral diseases such as influenza
+	- The video went viral within hours.
+	- viral content / video / meme
+	- virus (noun)
 ---
 - clashed
 - throughout
@@ -238,7 +282,6 @@ Thank you so much.
 - batteries
 - defiantly
 - renewing
-- campaigning
 - crafting
 - clamoring
 - tapping
