@@ -210,23 +210,108 @@ Cheers.
 (Cheers and applause)
 
 ---
-- subtle
-- rationale
-- Unbeknownst
-- tolerated / intolerance
-- projected
-- unavailable
-- marital
-- milestones
-- advocates
-- conclusion
-- overprescribing
-- correlational
-- feature
-- progress
-- increasingly
-- optional
-- dispense
+- subtle (_adjective_)
+    - My not so subtle request: stop telling single people to get married.
+    - a subtle hint
+    - a subtle way of persuading people
+    - a subtle mind
+- rationale (_noun_)
+    - My rationale, without a wedding in sight, why do married folks get to have all the fun?
+    - reason / rational / rationalize / rationale
+- unbeknownst (_preposition_)
+    - Unbeknownst to her, the plan had already changed.
+    - Unbeknownst to me, that night I joined a movement, the solo movement, where being single isn't just tolerated, it's celebrated.
+    - Unbeknownst to the public, the company was already in trouble.
+- tolerate (_verb_)
+    - He cannot tolerate noise.
+    - Such behavior will not be tolerated.
+- tolerance (_noun_)
+    - She had no tolerance for jokes of any kind.
+- intolerance (_noun_)
+    - religious intolerance
+    - lactose intolerance
+    - intolerance of / toward something
+    - zero tolerance / intolerance
+    - food intolerance
+- intolerant (_adjective_)
+    - She was intolerant of others who were less efficient than her.
+    - He was deeply intolerant of all opposition.
+- project (_verb/noun_)
+    - The population is projected to grow by 10%.
+    - The image was projected onto the screen.
+    - He projected confidence.
+    - The project finished as projected.
+    - The completion date is projected for June.
+- unavailable (_adjective_)
+    - Married people have access to over 1,000 legal advantages unavailable to singles.
+    - The product is currently unavailable.
+    - This feature is unavailable in your region.
+    - The manager is unavailable right now.
+    - The server is temporarily unavailable.
+    - He was unavailable for comment.
+    - The API is unavailable during maintenance.
+- marital (_adjective_)
+    - They are having marital problems.
+    - Singles invest heavily in marital milestones.
+    - Please indicate your marital status on the form.
+- milestone (_noun_)
+    - reach a milestone
+    - major / significant milestone
+    - career / life / project milestone
+    - Graduating from university was a major milestone in his life.
+    - Completing the prototype is an important milestone in the project.
+- advocate (_noun_)
+    - The “get married” advocates like to point to data that show that married people report higher life satisfaction than single people.
+- conclusion (_noun_)
+    - Any serious scientist who looks at these data comes to the same conclusion.
+    - draw/come to a conclusion
+    - reach a conclusion
+    - in conclusion
+    - After analyzing all the data, we reached the conclusion that more research is needed.
+    - In conclusion, we can see that education has a huge impact on society.
+- overprescribe (_verb_)
+    - Doctors should not overprescribe antibiotics.
+    - But I am against overprescribing marriage based on correlational data that the “get married” crowd is a little too wedded to.
+    - The report highlights the problem of overprescribing in hospitals.
+    - Overprescribing can lead to drug resistance and health risks.
+- correlational (_adjective_)
+    - The research found a correlational link between stress and sleep quality.
+    - positively / negatively correlational
+    - The study used correlational methods to examine the relationship between income and happiness.
+    - A correlational analysis showed that exercise frequency was positively associated with mood.
+- correlation (_noun_)
+- feature (_verb_/_noun_)
+    - facial features
+    - I say, rather than treating the rise of singles as a bug, let's treat it as a feature.
+- progress (_verb_/_noun_)
+    - A feature of progress, especially for women.
+    - She has made significant progress in her studies.
+    - make / achieve / show progress
+    - in progress
+    - monitor / track progress
+    - The treatment is progressing well.
+    - He is making steady progress in learning English.
+- increasingly (_adverb_)
+    - The world is becoming increasingly connected through technology.
+    - increasingly important / popular / common
+    - increasingly difficult / complex / expensive
+    - increasingly aware / concerned / worried
+    - She is becoming increasingly confident in her role.
+    - Smoking is increasingly recognized as a major health risk.
+    - The climate is increasingly unpredictable.
+    - These issues are increasingly difficult to solve.
+    - progressively / progressively / gradually
+- optional (_adjective_)
+    - Attendance at the workshop is optional.
+    - optional course / subject
+    - Participation in the trip is completely optional.
+    - mandatory / compulsory
+    - Students can take optional courses in art and music.
+    - The hotel offers breakfast as an optional extra.
+- dispense (_verb_)
+    - So let's dispense with the calls to get married.
+    - The pharmacist dispenses medicine to patients.
+    - The manager decided to dispense with the meeting due to time constraints.
 - significant other
 - unconditional
 - elevate
