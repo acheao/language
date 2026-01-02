@@ -313,16 +313,35 @@ Cheers.
     - The pharmacist dispenses medicine to patients.
     - The manager decided to dispense with the meeting due to time constraints.
 - significant other
-- unconditional
-- elevate
+	- Let's start by expanding the concept of significant other.
+- unconditional (*adjective*)
+	- There's my brother from another mother, Darwin, who's taught me more about unconditional love than any lover has. 
+- elevate (*verb*)
+	- And lastly, let's elevate single living to be on par with married living.
 - on par
-- wholehearted
-- hitch / hitched
-- prescription
+	- His performance is on par with the best in the industry.
+- wholehearted (*adjective*)
+	- I feel wholehearted, and I hope you do too.
+- hitch (*verb* / *noun*)
+	- But there was a hitch. I wasn't getting hitched.
+	- There’s a hitch in our plans.
+	- The car broke down because it hitch.
+- hitched (*adjective*)
+	- They got hitched last summer.
+	- I’m not getting hitched anytime soon.
+- prescription (*noun*)
+	- The future is about options, not prescriptions.
 - near misses
-- bump
-- fades
-- puzzle
+	- I've even had a couple near misses.
+	- And as I was nursing a broken heart after one of my near misses, it hit me.
+- bump (*verb* / *noun*)
+	- There's a wedding-day bump, but it fades fast.
+- fade (*verb*)
+	- All colour had faded from the sky.
+	- The smile faded from his face.
+- puzzle (*noun*)
+	- But here's the real puzzle, and it’s one that the “get married” crowd can’t answer.
+	- The detectives were beginning to solve the murder. All the pieces of the puzzle were falling neatly into place.
 ---
 - civilization
 - harsh
