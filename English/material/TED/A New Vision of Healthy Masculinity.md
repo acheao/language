@@ -265,17 +265,55 @@ Thank you.
 (Applause)
 
 ---
-- masculinity
-- manhood
-- propelled
-- reflection
-- insecurity
-- justify
-- felony
-- escalation
-- incarceration
-- estranged
-- ife-altering
+- masculinity (*noun*)
+	- All influencing how men and boys view masculinity and what it means to be a real man.
+- manhood (*noun*)
+	- And if you're someone who is still currently being impacted and influenced by that invisible yet potent misconception of manhood and masculinity, hopefully it can help you to avoid some of these life-altering situations as well.
+	- He reached manhood at 18.
+	- He showed courage and strength, a sign of true manhood.
+- propel (*verb*)
+	- It was the murder of my two best friends and my cousin, Robert Gary Jackson Jr., Trayvon Williams, Tyrone Tucker Jr., that really propelled me to become a healthy manhood and masculinity advocate and to go on to found the Giant's Den leadership network for aspiring Black men and boys, where we foster emotionally intelligent leaders who are also actively engaged in their communities.
+	- The boat is propelled by a motor.
+	- His curiosity propelled him to explore the world.
+	- The scandal propelled him into the public eye.
+- reflection (*noun*)
+	- But in my reflection, I recognized that it wasn't disrespect that I was feeling.
+	- I saw my reflection in the mirror.
+	- the reflection of the sun on the water was dazzling.
+	- after much reflection, he decided to resign.
+	- reflection on one’s life
+	- her actions are a reflection of her character.
+- insecurity (*noun*)
+	- She felt a lot of insecurity about her appearance.
+	- His insecurity made it hard for him to trust others.
+	- The country suffers from economic insecurity.
+	- The country suffers from economic insecurity.
+- justify (*verb*)
+	- He tried to justify his actions.
+	- I'm telling myself one-sided stories that justify what I'm about to do.
+	- Nothing can justify such rude behavior.
+	- The text is justified on both sides.
+- felony (*noun*)
+	- He was convicted of a felony.
+	- Murder and robbery are considered felonies.
+	- felon
+	- misdemeanor
+- escalation (*noun*)
+	- In fact, when I came up, I learned conflict escalation skills, how to pop off.
+	- The argument led to an escalation of tensions between the two countries.
+	- There has been an escalation in violence in the city.
+- incarceration (*noun*)
+	- He spent five years in incarceration for robbery.
+	- Mass incarceration is a major social issue in the United States.
+	- Having emotional management skills not only to be a nice person but to avoid life-altering situations like going down that treacherous path of mass incarceration, substance abuse, domestic violence, estranged family relationships, and statistically speaking, dying early.
+- estranged (*adjective*)
+	- an estranged husband/wife
+	- He is estranged from his family.
+	- Money issues estranged him from his friends.
+- life-altering (adjective)
+	- a life-altering decision
+	- the accident was a life-altering event.
+- domestic violence
 - potent
 - pinpoint
 - de-escalation
