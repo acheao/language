@@ -339,6 +339,7 @@ Cheers.
 	- And as I was nursing a broken heart after one of my near misses, it hit me.
 - bump (*verb* / *noun*)
 	- There's a wedding-day bump, but it fades fast.
+	- I bumped into an old friend.
 - fade (*verb*)
 	- All colour had faded from the sky.
 	- The smile faded from his face.
