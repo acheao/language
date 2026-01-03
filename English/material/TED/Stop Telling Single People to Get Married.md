@@ -316,8 +316,11 @@ Cheers.
 	- Let's start by expanding the concept of significant other.
 - unconditional (*adjective*)
 	- There's my brother from another mother, Darwin, who's taught me more about unconditional love than any lover has. 
+	- Parents often show unconditional love for their children.
 - elevate (*verb*)
 	- And lastly, let's elevate single living to be on par with married living.
+	- The movement aims to elevate single living to equal status.
+	- Education can elevate people out of poverty.
 - on par
 	- His performance is on par with the best in the industry.
 - wholehearted (*adjective*)
