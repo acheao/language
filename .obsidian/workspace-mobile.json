@@ -11,17 +11,14 @@
             "id": "9cc2c55c8b306e86",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "English/material/TED/TED.canvas",
-                "viewState": {
-                  "x": -3240.288996079897,
-                  "y": 1046.3514154051343,
-                  "zoom": -1.8924050284575944
-                }
+                "file": "English/material/vanessa/15 Essential Daily English Sentences.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "TED"
+              "icon": "lucide-file",
+              "title": "15 Essential Daily English Sentences"
             }
           }
         ]
@@ -148,6 +145,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -158,8 +156,8 @@
   },
   "active": "9cc2c55c8b306e86",
   "lastOpenFiles": [
-    "English/material/TED/Body language shapes who you are.md",
     "English/material/TED/TED.canvas",
+    "English/material/TED/Body language shapes who you are.md",
     "English/material/TED/Can AI Help Us Speak with Wolves.md",
     "English/material/TED/3 tips on how to study effectively.md",
     "English/material/TED/Why You Should Be Able to Vote on Your Phone.md",
