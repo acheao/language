@@ -314,19 +314,67 @@ Thank you.
 	- a life-altering decision
 	- the accident was a life-altering event.
 - domestic violence
-- potent
-- pinpoint
-- de-escalation
-- acronym
-- impacted
-- influenced
-- susceptible
-- boundary / boundaries
-- perspective
-- convey
-- empathize
-- fascinate/fantastic
-- facilitating
+- potent (_adjective_)
+    - See, I grew up right here in Inglewood, and Inglewood, like many cities across the country, has been impacted by that invisible, yet potent misconception of masculinity and what it means to be a real man.
+    - a potent drug
+    - a potent force
+    - a potent symbol
+- pinpoint (_verb / noun / adjective_)
+    - Not often having the language to pinpoint an actual emotion.
+    - But the feelings wheel actually gives us some language to identify and pinpoint where we might be in our emotions.
+    - It’s hard to pinpoint the exact cause of the problem.
+    - The report pinpoints several key risks.
+- de-escalation (_noun_)
+    - There's a tool that was created by BEAM, which is the Black Emotional and Mental Health collective that really helps with de-escalation.
+    - calls for de-escalation
+    - de-escalation of tensions
+    - path to de-escalation
+    - push for de-escalation
+- acronym (_noun_)
+    - initialism / abbreviation
+- impact (_noun_)
+    - And they’ve also created victims, and they've impacted their own families and communities.
+    - Sales were impacted by export controls.
+    - Supply chains were heavily impacted.
+    - Communities impacted by the storm.
+- influence (_verb_ / _noun_)
+    - And if you're someone who is still currently being impacted and influenced by that invisible yet potent misconception of manhood and masculinity, hopefully it can help you to avoid some of these life-altering situations as well.
+    - His decision was influenced by his upbringing.
+    - strongly / heavily influenced
+- susceptible (_adjective_)
+    - we're not so susceptible to popping off
+    - Because if we can identify the root, we can get to the actual cause of this and we're not so susceptible to popping off.
+- boundary (_noun_)
+    - Set boundaries, separate yourself, ensure safety.
+    - The river forms the boundary between the two countries.
+    - It’s important to set personal boundaries.
+- perspective (_noun_)
+    - From my perspective, this is a good idea.
+    - The painting shows perfect perspective.
+    - It's not only about me sharing with you how I'm feeling and what I'm doing and trying to convey my perspective, but it's also about ensuring safety for everyone who's in this space.
+- convey (_verb_)
+    - She tried to convey her feelings through the letter.
+    - The teacher conveyed the importance of honesty to the students.
+    - Please convey my regards to your family.
+- empathize (_verb_)
+    - I can empathize with your situation.
+    - Good leaders empathize with their employees.
+    - It’s important to empathize with others’ struggles.
+- fascinate (_verb_)
+    - The magician’s performance fascinated the children.
+    - I’ve always been fascinated by space exploration.
+    - he story fascinated me.
+- fantastic (_adjective_)
+    - You did a fantastic job!
+    - The view from the mountain is fantastic.
+    - He told a fantastic story about dragons.
+    - You look fantastic!
+- facilitate (_verb_)
+    - So a few years ago, I was facilitating a workshop inside of a level-three men's prison right here in California.
+    - AI is facilitating faster decision-making.
+    - Good leadership involves facilitating collaboration.
+    - She is facilitating the workshop today.
+    - The platform is facilitating remote work for companies worldwide.
 ----
 - assertiveness
 - confident
