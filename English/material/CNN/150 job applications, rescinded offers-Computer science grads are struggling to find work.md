@@ -69,5 +69,28 @@ lucrative
 	The idea of landing a lucrative six-figure salary without a traditional degree
 enrollment
 	led to a boom in enrollment at these bootcamps throughout the 2010s
-aspiring
-	
+- aspiring
+	- attracted aspiring software engineers
+- garnering / executives
+	- the school is now also garnering interest from C-level executives
+- tiers
+	- across all tiers of a company
+- disrupted
+	- we realized that every role is disrupted
+- incorporated
+	- General Assembly has incorporated AI skills teachings into its programming across disciplines
+	- The company has incorporated AI into its products.
+- resonate
+	- and have those really resonate
+- grunt
+	- to be creative with AI doing the grunt work.
+- cold comfort
+	- that may be cold comfort to new grads
+- compensation
+	- vice president of the compensation advisory group at consulting firm
+- equity
+	- broadly distributing equity
+- intimidated
+	- he would feel “intimidated” by the rise of AI tools in coding if he were a junior engineer
+- mindset
+	- he’s of the mindset that AI will change the job rather than wipe it out completely
