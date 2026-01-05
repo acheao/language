@@ -149,16 +149,92 @@ We need to first know and understand it before we can be responsible stewards an
 This is not just a journey for scientists, it is for all of us, because the decisions we collectively make over the next decade will affect what the ocean looks like for centuries to come. Thank you.
 
 ---
-- virtually
-- intertwined
-- intersection
-- spark
-- breakthrough
-- abundant
-- convinced
-- breathtaking
-- exceedingly
-- enormous
+- virtually (_adverb_)
+    - Yet the twilight zone is virtually unexplored.
+    - The room was virtually empty.
+    - He virtually admitted his mistake.
+    - This decision virtually guarantees success.
+    - She was virtually in charge of the whole project.
+    - The meeting was held virtually.
+    - You can virtually tour the museum.
+- intertwine (_verb_)
+    - There are countless undiscovered species in deep waters, and life in the twilight zone is intertwined with earth's climate.
+    - Their fingers were intertwined.
+    - Vines intertwined around the fence.
+    - History and politics are deeply intertwined.
+    - Her personal life is intertwined with her career.
+    - Tradition and modern culture are intertwined in this city.
+    - deeply / closely intertwined
+    - intertwined with
+    - complexly intertwined
+    - interwoven / entangled
+- intersection (noun)
+    - To me it represents the perfect intersection of science, technology and the unknown, the spark for so many breakthrough discoveries about life on our planet.
+    - Turn left at the next intersection.
+    - The accident happened at the intersection.
+    - The intersection of A and B.
+    - This research lies at the intersection of medicine and technology.
+    
+lie → lay → lain
+lay → laid → laid
+- spark (_verb / noun_)
+    - A spark flew from the wire.
+    - One spark can start a fire.
+    - There was a spark of hope.
+    - That speech gave her a spark of inspiration.
+    - They felt an instant spark between them.
+    - The incident sparked a debate.
+    - His comment sparked public anger.
+    - The invention sparked a revolution.
+    - The friction sparked a flame.
+    - spark interest / curiosity / debate / controversy
+    - spark an idea / change / movement
+    - a spark of hope / creativity / life
+- breakthrough (_noun_)
+    - Scientists made a breakthrough in cancer treatment.
+    - This drug is a major medical breakthrough.
+    - She achieved a breakthrough in her career.
+    - After months of practice, he finally had a breakthrough.
+    - make / achieve a breakthrough
+    - a major / significant breakthrough
+    - a scientific / technological breakthrough
+- abundant (_adjective_)
+    - We now know those tiny cells are the most abundant photosynthetic organisms on earth.
+    - Believe it or not, these are the most abundant vertebrates on earth and many are so small that a dozen could fit in this one tube.
+    - Food was abundant at the festival.
+    - She has abundant energy.
+    - Opportunities are abundant in this city.
+    - abundant resources / evidence / information / energy / opportunities
+    - be abundant in something
+        - This region is abundant in minerals.
+- convince (_verb_)
+    - I am convinced that the discoveries awaiting us in the twilight zone will be just as breathtaking.
+    - I’m convinced that he’s telling the truth.
+    - The data convinced scientists that the theory was correct.
+    - They are convinced that success is possible.
+    - She is convinced of his innocence.
+- breathtaking (_adjective_)
+    - The mountain view was breathtaking.
+    - The sunset over the ocean was absolutely breathtaking.
+    - Her performance was breathtaking.
+    - The speed of the car was breathtaking.
+    - The scale of the project is breathtaking.
+    - absolutely / truly breathtaking
+    - stunning / spectacular / magnificent / awe-inspiring
+- exceedingly (_adverb_)
+    - The task was exceedingly difficult.
+    - She was exceedingly kind to everyone.
+    - This is an exceedingly rare condition.
+- enormous (_adjective_)
+    - They live in an enormous house.
+    - An enormous ship entered the harbor.
+    - The project required an enormous amount of money.
+    - She made an enormous effort to succeed.
+    - The discovery had enormous importance.
+    - enormous size / amount / effort / impact / pressure
+    - an enormous difference
+    - enormous potential
+    - huge / massive / gigantic / tremendous
 - migration
 - atmosphere
 - carbon dioxide
