@@ -235,20 +235,120 @@ lay → laid → laid
     - an enormous difference
     - enormous potential
     - huge / massive / gigantic / tremendous
-- migration
-- atmosphere
+- migration (_noun_)
+    - This is actually the largest animal migration on earth.
+    - In this way, the migration may help keep carbon dioxide out of our atmosphere and limit the effects of global warming on our climate.
+    - Human migration has shaped history.
+    - Rural-to-urban migration is increasing.
+    - Many families moved because of economic migration.
+    - Wildebeest migration is a natural phenomenon.
+    - Database migration to the cloud
+    - System migration from old software to a new platform
+    - internal / international migration
+    - immigration **/** emigration
+- atmosphere (_noun_)
+    - Earth’s atmosphere protects us from harmful radiation.
+    - The atmosphere contains oxygen.
+    - The cafe has a warm, friendly atmosphere.
+    - There was a tense atmosphere in the room.
+    - The movie creates a mysterious atmosphere.
+    - The atmosphere of academic research
+    - An atmosphere of trust
+    - create / change an atmosphere
+    - pleasant / relaxed / tense / hostile atmosphere
 - carbon dioxide
-- transport
-- curiosity
-- irreversible
-- exploration
-- remarkable
-- diversity
-- integrate
-- urgency
-- inexhaustible
-- sustainably
-- stewards / stewardship
+- transport (_verb / noun_)
+    - Public transport is very convenient in this city.
+    - Goods are moved by sea transport.
+    - Transport costs are rising.
+    - The company transports oil across the country.
+    - The patients were transported to the hospital.
+    - The music transported her back to her childhood.
+- curiosity (_noun_)
+    - Out of curiosity, I opened the box.
+    - Curiosity drives scientific discovery.
+    - The device attracted curiosity.
+    - natural curiosity / intellectual curiosity / spark curiosity / satisfy curiosity
+- irreversible (_adjective_)
+    - The damage to the environment is irreversible.
+    - This decision had irreversible consequences.
+    - Some chemical reactions are irreversible.
+    - Irreversible climate change
+    - Irreversible brain damage
+    - An irreversible shift in public opinion
+    - irreversible damage / change / process / effects
+    - irreversible consequences
+- exploration (_noun_)
+    - Together, we are ready to launch a large-scale exploration of the twilight zone.
+    - This kind of multiscale, multidimensional exploration means we need to integrate new technologies.
+    - Space exploration has expanded human knowledge.
+    - Early exploration of Africa was dangerous.
+    - Ocean exploration reveals new species.
+    - The exploration of new treatments
+    - This book is an exploration of human behavior.
+    - Data exploration is the first step in analysis.
+    - scientific / space / ocean exploration
+    - exploration of ideas / culture / possibilities
+    - further exploration
+- remarkable (_adjective_)
+    - We have a plan to begin right away with expeditions in the North Atlantic, where we'll tackle the big challenges of observing and studying the twilight zone's remarkable diversity.
+    - She made a remarkable recovery after the accident.
+    - It’s remarkable how much progress he has made.
+    - The painting is remarkable for its detail.
+    - A remarkable coincidence occurred yesterday.
+    - His story is remarkable in its honesty.
+    - a remarkable achievement / talent / story / performance
+    - remarkable for its accuracy
+- diversity (_noun_)
+    - Cultural diversity is celebrated in this city.
+    - Workplace diversity improves creativity.
+    - The university values diversity in its student body.
+    - The forest has great biodiversity.
+    - The garden’s plant diversity attracts many insects.
+    - cultural / ethnic / racial diversity
+    - biodiversity
+    - promote / encourage / increase diversity
+- integrate (_verb_)
+    - This kind of multiscale, multidimensional exploration means we need to integrate new technologies.
+    - The software integrates data from multiple sources.
+    - This app integrates maps and payment services.
+    - The new system integrates with existing platforms.
+    - Immigrants need time to integrate into society.
+    - The school helps new students integrate quickly.
+    - The course integrates theory with practice.
+    - They integrated traditional methods and modern technology.
+    - integrate A with / into B
+    - be integrated into
+    - integrated system / approach
+- urgency (_noun_)
+    - There is also a deep sense of urgency.
+    - There is a sense of urgency in the situation.
+    - The problem requires urgent action.
+    - She spoke with urgency.
+    - Climate change creates a growing urgency.
+    - The deadline adds urgency to the project.
+    - sense of urgency / urgent need / matter of urgency
+    - increase / create urgency
+- inexhaustible (_adjective_)
+    - We can't turn back the clock on decades of overfishing in countless regions of the ocean that once seemed inexhaustible.
+- sustainably (_adverb_)
+    - The company sources materials sustainably.
+    - We need to first know and understand it before we can be responsible stewards and hope to fish it sustainably.
+    - Forests must be managed sustainably.
+    - The business is growing sustainably.
+    - Food must be produced sustainably to meet future demand.
+    - live sustainably
+    - grow / develop sustainably
+    - produced / sourced sustainably
+    - sustainably managed resources
+- steward (_noun_)
+    - We are stewards of the environment.
+    - The organization appointed stewards to oversee the project.
+    - Flight stewards
+    - Train stewards
+    - Event stewards at sports games or concerts
+    - Stadium stewards ensured safety during the match.
+    - stewardship
 ---
 - sunlit
 - otherworldly
