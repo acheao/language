@@ -331,6 +331,11 @@ lay → laid → laid
     - increase / create urgency
 - inexhaustible (_adjective_)
     - We can't turn back the clock on decades of overfishing in countless regions of the ocean that once seemed inexhaustible.
+    - The sun is an inexhaustible source of energy.
+    - She has inexhaustible patience.
+    - inexhaustible supply
+    - inexhaustible energy
+    - inexhaustible resources
 - sustainably (_adverb_)
     - The company sources materials sustainably.
     - We need to first know and understand it before we can be responsible stewards and hope to fish it sustainably.
