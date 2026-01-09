@@ -1,0 +1,35 @@
+- supplements
+- probe
+- purchased
+- prominent
+- outspoken
+- cannabis-derived
+- acquaintance
+- broadcaster
+- over-the-counter medicine
+- ingredients
+- cannabidiol
+- compound
+- marijuana
+- hemp
+- psychoactive
+- recollection
+- violated
+- voluntarily
+- in accordance
+- step down
+- recognizable
+- promote
+- Oscar-nominated
+- over-the-hill
+- prohibited
+- trafficking
+- smuggling
+- harsher
+- penalties
+- recreational
+- cannabis
+- high-profile
+- convenience store
+- outsider
+- beverage

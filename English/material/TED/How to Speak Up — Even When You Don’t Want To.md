@@ -166,32 +166,141 @@ Thank you.
 
 - contemplation (noun)
 	- It can be a needed moment of peace and contemplation.
+	- She sat in contemplation, trying to decide what to do.
+	- After some contemplation, he accepted the job offer.
+	- The company is under contemplation of expanding overseas.
+	- deep contemplation / quiet contemplation / a moment of contemplation / in contemplation of (formal)
+	- He stared out the window in silent contemplation.
+	- The painting invites contemplation rather than quick judgment.
+	- She needed time for contemplation before making a decision.
+	- meditation
 - barrier (noun)
 	- But what happens when silence becomes a barrier?
+	- - A wall is a barrier between the two areas.
+	- Language barriers can prevent communication.
+	- Fear can be a barrier to success.
+	- Cost is a major barrier for many students.
+	- Cultural differences are a barrier to understanding.
+	- a major / serious barrier
+	- overcome a barrier
+	- break down barriers
+	- remove barriers
+	- barrier to + noun
+	    - a barrier to communication
+	- Lack of confidence is a barrier to learning English.
+	- The fence acts as a barrier to keep animals out.
+	- They are working to break down social barriers.
+	- obstacle / hindrance / block
 - muffle (verb)
 	- A barrier that muffles the voice of truth, of advocacy, of change?
+	- He muffled his voice so no one could hear.
+	- The thick walls muffled the noise from the street.
+	- She tried to muffle a laugh.
+	- He muffled his anger during the meeting.
+	- The scarf muffled her voice.
+	- Snow can muffle sound, making everything quiet.
+	- He covered his mouth to muffle his cough.
+	- muffle a sound / voice / cry / noise
+	- muffled laughter
+	- muffle the noise
 - advocate (noun)
 	- Advocate for yourself.
+	- She advocates for equal rights in the workplace.
+	- Many doctors advocate regular exercise for health.
+	- advocate for
+	- strongly advocate
+	- advocate change / reform / policy
+	- He is a passionate advocate for animal welfare.
+	- She became an advocate for education reform.
+	- Legal advocate
 - retire (verb)
 	- In this post-pandemic time, with baby boomers retiring and a wave of quiet resignation upon us, the world seems to be working short-staffed.
+	- My father will retire at 65.
+	- She decided to retire after 40 years of teaching.
+	- After the meeting, he retired to his office to think.
+	- She retired early to her room to read a book.
+	- The player retired injured in the second half.
+	- The troops retired from the battlefield.
+	- retire from work / a job / business
+	- retire early / late
+	- retire to somewhere
+	- officially retire
+	- He plans to retire next year and travel the world.
+	- After finishing dinner, she retired to the living room.
+	- Many athletes retire in their thirties.
+	- She is enjoying her retirement.
+	- He is a retired teacher.
 - embarrass (verb)
 	- While I was embarrassed, I had a split second to decide.
+	- He was embarrassed by the attention.
+	- She didn’t want to embarrass her parents.
+	- I was embarrassed when I forgot his name.
+	- She felt embarrassed about her mistake.
+	- Don’t ask him about that — you’ll embarrass him.
+	- I accidentally called the teacher “Mom,” and I was so embarrassed.
+	- Public speaking embarrasses him.
+	- He laughed to hide his embarrassment.
+	- embarrass someone in public
+	- feel deeply / extremely embarrassed
+	- an embarrassing mistake / situation / moment
 - offend (verb)
 	- Times when I stood red-faced, embarrassed or offended, frustrated or angry, with a sinking feeling in my stomach, unable to find my voice and unsure if I had the courage, confidence or will to face the difficult conversation before me.
+	- I didn’t mean to offend you.
+	- His rude comment offended everyone at the meeting.
+	- He offended against the law.
+	- The company offended environmental regulations.
+	- Don’t offend people with jokes about sensitive topics.
+	- That remark is very offensive.
+	- He took offense at her remark.
+	- offend / offensive
+	- offense/offence
+	- Be careful what you say; you might offend her.
+	- He was offended by the joke.
+	- That movie contains offensive language.
 - essential (adjective)
 	- Perhaps the precipice of an uncomfortable conversation when speaking up felt like the right, if not even essential, path.
+	- Water is essential for life.
+	- It is essential to follow the instructions carefully.
+	- Good communication skills are essential in any job.
+	- Vitamins and minerals are dietary essentials.
+	- The book covers all the essentials of grammar.
+	- Pack only the essentials for the trip.
+	- It’s essential to check your work.
+	- Essentially, the two plans are the same.
+	- Pack only the essentials for the trip.
 - vivid (adjective) / vividly (adverb)
 	- I can vividly see and feel myself being in those moments.
+	- She wore a vivid red dress.
+    - He gave a vivid description of the sunset.
+    - The movie left a vivid impression on me.
 - stomach (noun)
 	- I had butterflies in my stomach as I went to get my exam results.
+	- I have a pain in my stomach.
+	- I can’t face that horror movie; it’s too much for my stomach.
+	- I can’t stomach eating broccoli.
 - upon (preposition)
 	- I imagine holding a compass in my hand, the cool metal upon my skin, taking a breath, a moment to pause and ground myself.
+	- The book is upon the table.
+	- He looked upon her with admiration.
+	- Upon hearing the news, she burst into tears
+	- Once upon a time
 - particularly (adverb)
 	- In a world where we are experiencing increasingly rapid cycles of change, we can expect difficult conversations, particularly in the workplace, to happen more often than ever before.
+	-  I like fruits, particularly apples.
+	- She didn’t explain the plan particularly clearly.
 - especially (adverb)
 	- Especially not for the reason of avoiding a challenging conversation.
+	- I love fruit, especially strawberries.
+	- This rule applies to everyone, especially new employees.
+	- He is known for his generosity, especially towards children.
 - initial (adjective)
 	- We need to find a path to help us get past that initial fight, flight or freeze response, to get us to the table and make leaning into uncomfortable conversations the desired action for our own benefit, as well as to benefit those around us.
+	- The initial stage of the project was challenging.
+	- Her initial reaction was surprise.
+	- We made some initial preparations before the meeting.
+	- Write your initials at the bottom of the form.
+	- Initial public offering
+	- Initial assessment
 ----
 - advocacy
 - crossroads
