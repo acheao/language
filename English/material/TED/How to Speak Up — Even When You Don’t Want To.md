@@ -176,7 +176,7 @@ Thank you.
 	- meditation
 - barrier (noun)
 	- But what happens when silence becomes a barrier?
-	- - A wall is a barrier between the two areas.
+	- A wall is a barrier between the two areas.
 	- Language barriers can prevent communication.
 	- Fear can be a barrier to success.
 	- Cost is a major barrier for many students.
