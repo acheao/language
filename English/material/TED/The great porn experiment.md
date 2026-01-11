@@ -272,36 +272,84 @@ Thanks for listening.
 (Applause)
 
 
-- inspire (verb)
+- inspire (*verb*)
 	- Inspired by the last talker I'm going to have a little song about Internet porn.
-- eager (adjective)
+	- Her story inspired me to never give up.
+	- The music inspired a new design.
+- eager (*adjective*)
 	- Nearly every young guy with an Internet access becomes an eager test subject.
-- fascinate (verb)
+	- She is eager to learn English.
+	- I am eager for your reply.
+	- The children were eager to open their gifts.
+	- He is eager for success.
+- fascinate (*verb*)
 	- Driven by a brain that is suddenly fascinated by sex. 
-- fantastic (adjective)
+	- The stars have always fascinated humans.
+	- I am fascinated by how the brain works.
+	- Her voice fascinated the audience.
+	- The story fascinated me from beginning to end.
+- fantastic (*adjective*)
 	- He's done a fantastic job.
-- perceive (verb)
+	- The food was fantastic.
+	- She has a fantastic memory.
+	- He made a fantastic escape.
+	- The view from the top is fantastic.
+	- The story is full of fantastic creatures.
+	- He lives in a fantastic world of dreams.
+- perceive (*verb*)
 	- This old mammalian program, the Coolidge effect, perceives each novel female on a guy's screen as a genetic opportunity.
-- compelling (adjective)
+	- I perceived a strange sound in the dark.
+	- She perceived a change in his voice.
+	- The baby can perceive light and movement.
+	- He is perceived as a leader.
+	- She perceived his words as a threat.
+- compelling (*adjective*)
 	- Now, users perceive Internet porn as far more compelling than porn of the past.
-- novelty (noun)
+	- She told a compelling story about her childhood.
+	- The movie has a compelling plot.
+	- He gave a compelling speech that held everyone’s attention.
+	- There is compelling evidence that he is innocent.
+	- She made a compelling argument.
+- novelty (*noun*)
 	- Constant novelty at the click can cause addiction.
-- spike (noun)
+	- The novelty of the new phone soon wore off.
+	- Children enjoy the novelty of a new toy.
+	- Traveling gives life a sense of novelty.
+	- This gadget is a novelty in the market.
+	- The shop sells small novelties and souvenirs.
+- spike (*verb/noun*)
 	- Subjects watch 22 porn displays. See that spike? That's where the researchers switch to porn the guys hadn't seen before.
-- ancestor (noun)
+	- He stepped on a metal spike.
+	- The fence is covered with spikes.
+	- The rose has sharp spikes on its stem.
+	- There was a spike in prices last year.
+	- The chart shows a sudden spike in temperature.
+	- We saw a spike in online traffic.
+	- They spiked the drink with alcohol.
+	- The news spiked public interest.
+	- His heart rate spiked during the race.
+- ancestor (*noun*)
 	- With internet porn a guy can see more hot babes in 10 minutes than his ancestors could see in several lifetimes.
-- ancestry (noun)
+	- My ancestors came from China.
+	- We honor our ancestors during the festival.
+	- This tradition was passed down from our ancestors.
+- ancestry (*noun*)
 	- people of Japanese ancestry.
 	- He was able to trace his ancestry back over 1 000 years.
-- courtship (noun)
+	- She is proud of her Chinese ancestry.
+	- His ancestry can be traced back to Europe.
+	- People are interested in learning about their ancestry.
+	- Scientists study the ancestry of modern humans.
+	- This animal shares ancestry with wolves.
+- courtship (*noun*)
 	- Now, real sex, in contrast, is courtship, touching, being touched, smells, pheromones, emotional connection, interaction with a real person.
-- addictive (adjective)
+- addictive (*adjective*)
 	- In this Dutch study - here's the title - they found that in fact of all activities on the Internet porn has the most potential to become addictive.
-- consumption (noun)
+- consumption (*noun*)
 	- So the dominos are excess consumption excess dopamine, Delta-FosB, brain changes. One of the first changes is a numbed pleasure response.
-- craving (noun)
+- craving (*noun*)
 	- Now, with excess chronic consumption of drugs or natural rewards, this build up a Delta-FosB starts to alter the brain and promotes the cycle of binging and craving.
-- willpower (noun)
+- willpower (*noun*)
 	- Finally his willpower erodes as his frontal cortex changes.
 ---
 - unconsciously
