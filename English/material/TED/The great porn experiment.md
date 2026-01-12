@@ -343,6 +343,11 @@ Thanks for listening.
 	- This animal shares ancestry with wolves.
 - courtship (*noun*)
 	- Now, real sex, in contrast, is courtship, touching, being touched, smells, pheromones, emotional connection, interaction with a real person.
+	- Their courtship lasted two years before they got married.
+	- In the past, courtship was very formal.
+	- The movie shows a beautiful courtship story.
+	- He began his courtship with flowers and letters.
+	- Courtship rituals are different in every culture.
 - addictive (*adjective*)
 	- In this Dutch study - here's the title - they found that in fact of all activities on the Internet porn has the most potential to become addictive.
 - consumption (*noun*)
