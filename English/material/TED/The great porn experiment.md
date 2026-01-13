@@ -350,12 +350,39 @@ Thanks for listening.
 	- Courtship rituals are different in every culture.
 - addictive (*adjective*)
 	- In this Dutch study - here's the title - they found that in fact of all activities on the Internet porn has the most potential to become addictive.
+	- Nicotine is highly addictive. 
+	- That game is really addictive. 
+	- The TV series is addictive.
 - consumption (*noun*)
 	- So the dominos are excess consumption excess dopamine, Delta-FosB, brain changes. One of the first changes is a numbed pleasure response.
+	- Energy consumption is increasing. 
+	- The consumption of sugar should be reduced. 
+	- Household consumption drives economic growth. 
+	- Excessive alcohol consumption harms health. 
+	- The device has low power consumption. 
+	- Media consumption habits are changing. 
+	- much consumption / levels of consumption
 - craving (*noun*)
 	- Now, with excess chronic consumption of drugs or natural rewards, this build up a Delta-FosB starts to alter the brain and promotes the cycle of binging and craving.
+	- I have a craving for chocolate. 
+	- She’s been having cravings for spicy food. 
+	- He has a craving for cigarettes. 
+	- Drug cravings are hard to control. 
+	- A craving for attention This snack is craveable. 
+	- intense / strong / sudden craving 
+	- satisfy a craving 
+	- fight / resist a craving
 - willpower (*noun*)
 	- Finally his willpower erodes as his frontal cortex changes.
+	- It takes a lot of willpower to resist junk food. 
+	- She showed great willpower during her recovery. 
+	- strong / weak willpower 
+	- self-control and willpower 
+	- lack of willpower 
+	- test someone’s willpower 
+	- Quitting smoking requires willpower.
+	- He relied on willpower to finish the marathon. 
+	- Dieting without willpower is difficult.
 ---
 - unconsciously
 - conducted

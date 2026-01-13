@@ -182,13 +182,35 @@ Thank you.
 	- I gather I'm not the only one who worries about AI.
 - displace (verb)
 	- it's still going to displace a lot of workers
+	- New technology displaced older methods. 
+	- Online shopping has displaced some traditional stores. 
+	- The war displaced thousands of people. 
+	- Climate change has displaced many communities. 
+	- The war displaced thousands of people. 
+	- Climate change has displaced many communities. 
+	- The ship displaces a large amount of water.
 - occupation (noun)
 	- And I don't know what I'm supposed to do if typing words in a row stops being a semi profitable occupation.
+	- What is your occupation? 
+	- Teaching is a rewarding occupation. 
+	- The occupation of the building lasted several weeks. 
+	- The country was under foreign occupation for decades. 
+	- Reading is a pleasant occupation. 
+	- Occupational health is important.
 - competent (adjective)
 	- But every day, AI seems to get better and better at writing competent prose.
+	- She is competent at her job. 
+	- A competent teacher can handle difficult students effectively. 
+	- He is technically competent, but lacks people skills. 
+	- His competence in mathematics is excellent.
 - offset (verb)
 	- The Industrial Revolution raised living standards and offset them with grim factory jobs, squalid urban living conditions and choking pollution.
 	- Prices have risen in order to offset the increased cost of materials.
+	- High sales offset the losses from last quarter. 
+	- The extra hours of work offset the low pay. 
+	- The costs were offset by savings. 
+	- The tax credit is an offset against other expenses. 
+	- The shelves are offset from each other.
 - obligation (noun)
 	- And we have an obligation to count those costs.
 - beneficiary (noun)
