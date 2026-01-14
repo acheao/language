@@ -138,7 +138,7 @@ I mean, for that matter, weekends and standardized time.
 
 How about suburbs and pizza delivery?
 
-And a nation so rich that when a pandemic strikes, people can afford to wait that out at homewhile scientists, like -- "What is a scientist," asks the Luddite -- while scientists rush out a magic shot that helps keep people from dying.
+And a nation so rich that when a pandemic strikes, people can afford to wait that out at home while scientists, like -- "What is a scientist," asks the Luddite -- while scientists rush out a magic shot that helps keep people from dying.
 
 To a Luddite, that would have sounded like a fairy tale, and he'd be right.
 
@@ -178,9 +178,13 @@ And it is literally better than they could have imagined.
 Thank you.
 (Applause)
 
-- gather (verb)
+- gather (*verb*)
 	- I gather I'm not the only one who worries about AI.
-- displace (verb)
+	- People gathered in the park.
+	- She gathered her books.
+	- We need to gather more data.
+	- He gathered the courage to speak.
+- displace (*verb*)
 	- it's still going to displace a lot of workers
 	- New technology displaced older methods. 
 	- Online shopping has displaced some traditional stores. 
@@ -189,7 +193,7 @@ Thank you.
 	- The war displaced thousands of people. 
 	- Climate change has displaced many communities. 
 	- The ship displaces a large amount of water.
-- occupation (noun)
+- occupation (*noun*)
 	- And I don't know what I'm supposed to do if typing words in a row stops being a semi profitable occupation.
 	- What is your occupation? 
 	- Teaching is a rewarding occupation. 
@@ -197,13 +201,13 @@ Thank you.
 	- The country was under foreign occupation for decades. 
 	- Reading is a pleasant occupation. 
 	- Occupational health is important.
-- competent (adjective)
+- competent (*adjective*)
 	- But every day, AI seems to get better and better at writing competent prose.
 	- She is competent at her job. 
 	- A competent teacher can handle difficult students effectively. 
 	- He is technically competent, but lacks people skills. 
 	- His competence in mathematics is excellent.
-- offset (verb)
+- offset (*verb*)
 	- The Industrial Revolution raised living standards and offset them with grim factory jobs, squalid urban living conditions and choking pollution.
 	- Prices have risen in order to offset the increased cost of materials.
 	- High sales offset the losses from last quarter. 
@@ -211,14 +215,42 @@ Thank you.
 	- The costs were offset by savings. 
 	- The tax credit is an offset against other expenses. 
 	- The shelves are offset from each other.
-- obligation (noun)
+- obligation (*noun*)
 	- And we have an obligation to count those costs.
-- beneficiary (noun)
+	- He has a legal obligation to pay taxes.
+	- I feel a moral obligation to help my family.
+	- The company failed to meet its contractual obligations.
+	- You are under no obligation to agree.
+	- have / fulfill / meet an obligation
+	- legal / moral / contractual obligation
+	- sense of obligation
+	- be under an obligation
+	- She has an obligation to report the incident.
+	- The responsibility places an obligation on employers.
+- beneficiary (*noun*)
 	- She was the sole beneficiary of her father’s will.
-- prioritize (prioritize)
+	- She is the main beneficiary of the will.
+	- The children were the beneficiaries of the charity.
+	- Employees are beneficiaries of the new healthcare plan.
+	- The company is the ultimate beneficiary of the policy change.
+	- primary / main beneficiary
+	- ultimate beneficiary
+	- named beneficiary
+	- beneficiary of a policy / plan / trust
+	- He is a beneficiary of the insurance policy.
+	- Those who qualify are beneficiaries under the scheme.
+- prioritize (*verb*)
 	- You should make a list of all the jobs you have to do and prioritize them.
-- descendant (noun)
+	- You need to prioritize your tasks.
+	- She prioritized her health over work.
+	- We must prioritize learning over entertainment.
+	- He prioritized family over money.
+	- You should prioritize getting enough sleep.
+- descendant (*noun*)
 	- That is a precious and totally unearned inheritance, and I think we have an obligation to pay that forward and leave an even bigger legacy for our descendants.
+	- She is a descendant of a famous writer.
+	- These people are descendants of the first settlers.
+	- He is a direct descendant of the king.
 ---
 - The Luddites
 - squalid
