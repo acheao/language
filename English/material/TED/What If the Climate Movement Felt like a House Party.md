@@ -168,6 +168,10 @@ Thank you so much.
 	- He quit his job.
 - edifice (noun)
 	- Each one of us can have a room inside that house, and while each of the rooms can be a different shape and size, all the rooms are essential to making up the overall edifice of the house of the movement.
+	- he city is known for its ancient edifices. 
+	- The university is an impressive edifice of knowledge. 
+	- The cathedral is a magnificent edifice in the town square. 
+	- His argument is an edifice built on years of research. (metaphorical)
 - coexist (verb)
 	- Because actually, the primary challenge our movement faces is in allowing different beliefs, different mindsets, to coexist under the same roof.
 - mindset (noun)
@@ -273,6 +277,7 @@ Thank you so much.
 	- The video went viral within hours.
 	- viral content / video / meme
 	- virus (noun)
+- draft<=>crafting<=>craft
 ---
 - clashed
 - throughout
