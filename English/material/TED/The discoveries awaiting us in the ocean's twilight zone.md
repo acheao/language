@@ -22,13 +22,9 @@ Yet the twilight zone is virtually unexplored. There are so many things we still
 
 I think we can change that. I was drawn to oceanography by just this kind of challenge.
 
-To me it represents the perfect intersection of science, technology and the unknown,
+To me it represents the perfect intersection of science, technology and the unknown, the spark for so many breakthrough discoveries about life on our planet.
 
-the spark for so many breakthrough discoveries about life on our planet.
-
-As a college student, I went on an expedition across the Atlantic
-
-with a team of scientists using a high-powered laser to measure microscopic algae.
+As a college student, I went on an expedition across the Atlantic with a team of scientists using a high-powered laser to measure microscopic algae.
 
 The wild thing that happened on that trip is that we discovered what everyone who looked before had completely missed: photosynthetic cells smaller than anyone thought possible.
 
