@@ -112,9 +112,9 @@ I was in a change management and communications role for a big project.
 
 And while the work was complex and bumpy, I was proud of myself.
 
-I was writing good stuff, inspiring hearts and minds.
+I was writing good stuff, inspiring hearts and minds. Or so I thought. 
 
-Or so I thought. One day a physician came into the office where I was meeting with my boss, my boss’s boss and a number of other leaders. 
+One day a physician came into the office where I was meeting with my boss, my boss’s boss and a number of other leaders. 
 
 He had one of my newsletters printed out and was waving it in the air.
 
