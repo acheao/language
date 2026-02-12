@@ -102,7 +102,9 @@ I try to understand their feelings and create a safe place for them to be themse
 
 And west. The W stands for wonder. Getting curious about what might be going on for the other  person.
 
-I ask questions and listen, so I understand before trying to be understood. When I focus on the principles of the compass, I'm able to move from reactive to proactive, getting into a mindset where I can be true to my values and share my voice.
+I ask questions and listen, so I understand before trying to be understood. 
+
+When I focus on the principles of the compass, I'm able to move from reactive to proactive, getting into a mindset where I can be true to my values and share my voice.
 
 I recall a situation not long ago where I was able to put the compass to use.
 
