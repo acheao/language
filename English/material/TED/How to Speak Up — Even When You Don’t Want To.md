@@ -130,9 +130,9 @@ The compass came in handy in that moment.
 
 North Star: What was the good and right thing to do? Well I needed to own my work.
 
-Take the feedback. So I said, "That would be me." He lowered his arm and said, "Well, this is too positive.
+Take the feedback. So I said, "That would be me." He lowered his arm and said, "Well, this is too positive. Not an accurate representation of what we're going through." 
 
-Not an accurate representation of what we're going through." While still defensive, I remembered: support and empathy.
+While still defensive, I remembered: support and empathy.
 
 I wanted to create a safe place where he could feel seen and heard.
 
