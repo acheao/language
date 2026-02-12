@@ -138,7 +138,9 @@ I wanted to create a safe place where he could feel seen and heard.
 
 So I suggested we sit down together so I could better understand his concerns.
 
-Next step? Wonder. We went to his office and I asked curious questions.
+Next step? Wonder. 
+
+We went to his office and I asked curious questions.
 
 And over some tea, he told me his story. He got out a red pen and circled the nine times I'd  mentioned something positive in that article.
 
