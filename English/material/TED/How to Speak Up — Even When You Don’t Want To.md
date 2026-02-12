@@ -84,9 +84,9 @@ North, I think about the North Star, a guide towards the good and right thing to
 
 In tricky situations, I remember my mom's voice.
 
-"Be the best version of yourself." "Take the high road." "Say what needs to be said." South.
+"Be the best version of yourself." "Take the high road." "Say what needs to be said." 
 
-The S in south reminds me of support.
+South. The S in south reminds me of support.
 
 When people support me, I feel seen, cared for. When it comes to supporting others, I try to do the same.
 
