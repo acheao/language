@@ -92,7 +92,9 @@ When people support me, I feel seen, cared for. When it comes to supporting othe
 
 Leaning into tricky conversations with kindness and an intention of helping people grow.
 
-And east, the E stands for empathy. Empathy sets the tone for a conversation.
+And east, the E stands for empathy. 
+
+Empathy sets the tone for a conversation.
 
 As a leader, I want people to feel safe coming to me.
 
