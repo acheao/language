@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=DM6UVe5jsxA
 
+### 1
+
 Well, I gather I'm not the only one who spends a lot of time thinking about AI these days.
 
 And by think I mean panic. I'm not even worried about the doomsday scenarios because I have no way to assess those.
@@ -20,6 +22,8 @@ And also, by the way, something I really, really, really love to do."
 I got lucky and it worked out. Today I'm a columnist at the "Washington Post."
 
 But every day, AI seems to get better and better at writing competent prose.
+
+### 2
 
 And I don't know what I'm supposed to do if typing words in a row stops being a semi profitable occupation.
 
@@ -42,6 +46,8 @@ So they decided to destroy the machines. Honestly, I have some sympathy.
 
 In fact, every time one of these companies issues a new model, I get more sympathetic.
 
+### 3
+
 We libertarians like to talk about the glories of freedom and progress, and they are glorious.
 
 But they are not free. Sometimes people get hurt.
@@ -61,6 +67,8 @@ So here's why, even after a full accounting, I think we should be willing to bea
 Very few people in this room have ever worried about how they were going to obtain food or shelter or heat, or how they were going to bury a child who died of diarrhea before its first birthday.
 
 Those worries are the normal condition of humanity.
+
+### 4
 
 We escaped them only through massive chronological luck.
 
@@ -82,6 +90,8 @@ So picture that, really picture it. A spinner sells a few spools of thread and s
 
 A weaver sells a handloom cloak and whoops, there go your refrigerator, your central heating and your college education.
 
+### 5
+
 A whole suit of clothes and thousands of kids just died of preventable disease.
 
 So when you're tempted to halt the innovation that might compete for your job, you have to ask yourself, how much am I willing to steal from my grandkids?
@@ -101,6 +111,8 @@ Others might be asking, quite reasonably, but what about global warming and enda
 I mean, is progress really all that great? Well, I'd ask you to remember your last trip to the dentist and then reimagine it without the Novocaine.
 
 Now I know the obvious retort.
+
+### 6
 
 "That's a libertarian canard." 
 
@@ -122,6 +134,8 @@ But the long-term upside is much harder to grasp because progress is cumulative,
 
 So a final thought experiment.
 
+### 7
+
 Imagine trying to explain your life right now to a Luddite.
 
 Better yet, just imagine trying to explain the life of some ordinary British working-class stiff whose great, great, great, something, great grandfather was out there smashing machines.
@@ -141,6 +155,8 @@ How about suburbs and pizza delivery?
 And a nation so rich that when a pandemic strikes, people can afford to wait that out at home while scientists, like -- "What is a scientist," asks the Luddite -- while scientists rush out a magic shot that helps keep people from dying.
 
 To a Luddite, that would have sounded like a fairy tale, and he'd be right.
+
+### 8
 
 We are living in fairyland, and indeed, we all have magic wands in our pockets.
 
@@ -162,6 +178,8 @@ They were just trying to make a profit.
 But we're the ones who profited the most. So to return to where we started.
 
 Yes, I am scared of AI. I assume that the government is going to try to do something for displaced workers, maybe provide them job retraining.
+
+### 9
 
 But like the Luddites, I'm a human being working in a proud tradition.
 

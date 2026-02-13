@@ -3,6 +3,8 @@ https://www.youtube.com/watch?v=wSF82AwSDiU
 Transcriber: Maciek Sterkowicz
 Reviewer: Capa Girl
 
+### 1
+
 Inspired by the last talker I'm going to have a little song about Internet porn.
 
 No, just kidding. The widespread use of Internet porn is one of the fastest moving most global experiments ever unconsciously conducted.
@@ -22,6 +24,8 @@ Subjects watch 22 porn displays. See that spike? That's where the researchers sw
 What happened? Their erections and their brains fired up. Why all the excitement?
 
 Mother nature likes to keep a male fertilizing willing females as long as any new ones are around.
+
+### 2
 
 In that top line the ram, he needs more and more time to make with the same old ewe.
 
@@ -43,6 +47,8 @@ The problem is he has a hunter-gather brain. A heavy user brain rewires itself t
 
 Such behaviours that are associated with this are being alone, voyeurism, clicking, searching, multiple tabs fast-forwarding, constant novelty, shock and surprise.
 
+### 3
+
 As one young guy once asked: Are we the first generation to masturbate left handed?
 
 Now, real sex, in contrast, is courtship, touching, being touched, smells, pheromones, emotional connection, interaction with a real person.
@@ -56,11 +62,14 @@ So the first serious dilemma is that studies have no control groups.
 Now, this creates a huge blind spot. Imagine if all guys started smoking at age 10 and there were no groups that didn't.
 
 We would think that lung cancer is normal for all guys.
+
 Undaunted by his lack of non-users Lajeunesse asked 20 male students: Is Internet porn affecting you or your attitude towards women?
 
 They answered, "No, I don't think so." But they've been using it for about a decade then pretty much non-stop.
 
 This is like asking a fish what it thinks about water? Which bring us to a second problem.
+
+### 4
 
 Researchers haven't asked porn users about the symptoms Zimbardo described in "The Demise of Guys." 
 
@@ -82,6 +91,8 @@ In this Dutch study - here's the title - they found that in fact of all activiti
 
 Here's why. This ancient programme, the reward circuit, evolved to drive us towards natural rewards such as sex, bonding and food.
 
+### 5
+
 As a consequence extreme versions of natural rewards have a unique ability to capture us.
 
 For example: high-calorie foods or hot novel babes give us extra dopamine.
@@ -101,6 +112,8 @@ In essence, it is getting it while the getting is good. Now, you can think of wo
 What if mating season never ends? 
 
 All those hits of dopamine can tell your brain to do two things.
+
+### 6
 
 First they say, "Man, you've hit the evolutionary jackpot."
 
@@ -122,6 +135,8 @@ Everything else in the porn user's life is sort of boring, but porn is super exc
 
 Finally his willpower erodes as his frontal cortex changes.
 
+### 7
+
 I can't emphasize this enough. 
 
 All addictions share these same brain changes and the same molecular switch that kicks them in -  Delta-FosB.
@@ -142,6 +157,8 @@ So far all brain research points only in one direction.
 
 Constant novelty at the click can cause addiction.
 
+### 8
+
 We know this because when scientist examined former Internet addicts they found that these brain changes were reversing themselves.
 
 Unfortunately, none of these studies isolate porn users, but they do include them.
@@ -159,6 +176,8 @@ They're showing experts what changing one single variable can do.
 I call it "The Resurrection of Guys" as opposed to "the Demise of Guys."
 
 Now, before I continue probably you wanna know why any porn loving guy in his right mind would give it up.
+
+### 9
 
 Two words: erectile dysfunction.
 
@@ -181,6 +200,8 @@ As doctor Foresta says, "It starts with lower reactions to porn sites. Then ther
 
 There are 3 take-aways from this. First, Foresta is describing a classic addiction process -  gradual desensitization.
 
+### 10
+
 Second, Internet porn is qualitatively different from Playboy.
 
 Widespread youthful ED has never been seen before.
@@ -200,6 +221,8 @@ Have tried Fexer, Ritalin, Xanax, Paxil dropped out at two different colleges, b
 I've been approached by quite a few women I guess due to my looks and status but they quickly flew away due to my incredible weirdness.
 
 I've been a hardcore porn addict since age 14.
+
+### 11
 
 For the last 2 years I've been experimenting and finally realised that porn was an issue.
 
@@ -221,6 +244,8 @@ This is why pockets of guys are peering all over the web - body building sites, 
 
 In essence, they are seeking a neurochemical rebirth.
 
+### 12
+
 Here's a group on reddit.com who call themselves "Fapstronauts."
 
 Fapping is slang for solo sex, but what they really mean is giving up porn.
@@ -237,10 +262,11 @@ Guys in the early 20s aren't regaining their erectile health as quickly as older
 
 How can a 50-year-old get his mojo back quicker then a 20-something?
 
-The answer, even though older guys have been using porn a whole lot longer they didn't start
-on today’'s Internet porn.
+The answer, even though older guys have been using porn a whole lot longer they didn't start on today’'s Internet porn.
 
 Now, we know this is a key variable because the older guys didn'’t start having sexual problems until after they got high-speed Internet. (Laughter)
+
+### 13
 
 Now, today'’s young teens start on high-speed Internet when their brains are at their peak of dopamine production and neuroplasticity.
 
@@ -261,6 +287,8 @@ Here's one more example of what we hear everyday, "I feel like the next Sir Isaa
 Since I quit a month ago, I've literally: started a business, taken up piano, been studying French every day, been programming, drawing, writing, started managing my finances and I have more awesome ideas than I know what to do with.
 
 My confidence is sky-high.
+
+### 14
 
 I already feel like I can talk to any girl! 
 

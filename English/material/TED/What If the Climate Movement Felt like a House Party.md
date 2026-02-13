@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=Ki5AcnSWbSs
 
+### 1
+
 When you see the ideal climate movement, what do you imagine?
 
 When I imagine the ideal climate movement, I see a house of many rooms.
@@ -19,6 +21,8 @@ But recently, it's like our movement has started to live in separate houses.
 And this is leading to a fragmentation when we can afford it least.
 
 Remember 2019, when four million people took to the streets across 4,000 cities to march on climate in a single day?
+
+### 2
 
 Last year, the figure was 70,000.
 
@@ -40,6 +44,8 @@ We've got the realists, and the realists say we are rapidly hurtling towards neg
 
 But then there's the optimists.
 
+### 2
+
 And they say, hang on a second.
 
 We're actually hurtling towards positive climate tipping points.
@@ -59,6 +65,8 @@ We start being able to take head on oil and gas’s attempt to gaslight us, what
 We start renewing our agency to act. 
 
 So I saw this happen at the UN climate negotiations in Dubai.
+
+### 3
 
 By this time I've left the UN.
 
@@ -80,6 +88,8 @@ And he said, "Hello, Matthew, I know what you're doing."
 
 And I thought, "Shit. He knows what I'm doing. I am in such trouble."
 
+### 4
+
 But he said, "I know what you and your partners are doing, and I want you to know we support it."
 
 And I realized that when you start creating the places, the spaces where everyone can participate without finger-pointing, you start to connect and collaborate on an entirely new dimension.
@@ -99,6 +109,8 @@ But before I get completely carried away, this house that we're building for our
 There have been nearly 30 of them, after all.
 
 And it needs to be a house where we build trust, where those inside it are honest.
+
+### 5
 
 And we particularly need trust from those big organizations that make up the global economy.
 
@@ -120,6 +132,8 @@ If we don't have trust, if we don't have truth, our movement is nothing.
 
 And I would say exactly the same about art.
 
+### 6
+
 Without art, we're nothing.
 
 So I want to return to that image of the Alhambra up on the hill.
@@ -139,6 +153,8 @@ Or Billie Holiday singing a song like "Strange Fruit" a quarter of a century bef
 Or less profoundly, just think of Harry Styles getting photographed on an electric bike.
 
 Viral. The point is, artists have the power to awaken the public consciousness for mass climate action. 
+
+### 7
 
 That's how we build the climate movement of the future. 
 

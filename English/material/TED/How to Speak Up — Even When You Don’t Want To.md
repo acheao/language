@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=fkOMupkw5D8
 
+### 1
+
 Silence. It can be a needed moment of peace and contemplation.
 
 But what happens when silence becomes a barrier?
@@ -19,6 +21,8 @@ I can vividly see and feel myself being in those moments.
 Times when I stood red-faced, embarrassed or offended, frustrated or angry, with a sinking feeling in my stomach, unable to find my voice and unsure if I had the courage, confidence or will to face the difficult conversation before me.
 
 Sound familiar? We're not alone. 
+
+### 2
 
 Research from VitalSmarts, a global leader in organizational performance and leadership, tells us people would rather quit their jobs than address a challenging situation.
 
@@ -40,6 +44,8 @@ I've experienced this for myself. Now I donâ€™t have all the answers, and I donâ
 
 In fact, I make a mess of it sometimes.
 
+### 3
+
 But often I've found it's a bit like cardio or weightlifting. 
 
 Well we feel a bit vulnerable at the time. With practice, we start to experience the benefits.
@@ -59,6 +65,8 @@ She always created air time for normally avoided matters.
 With a fierce moral compass that was sometimes incredibly frustrating, she advocated for what was right, showing me the importance of standing up for oneself and others, even when uncomfortable to do so.
 
 My mom, she died a long time ago now, and I still miss her desperately.
+
+### 4
 
 Something I think I miss the most, though, is her always knowing the right thing to do.
 
@@ -80,6 +88,8 @@ I imagine holding a compass in my hand, the cool metal upon my skin, taking a br
 
 I see the directions of north, south, east and west as symbols, reminders of her core teachings.
 
+### 5
+
 North, I think about the North Star, a guide towards the good and right thing to do.
 
 In tricky situations, I remember my mom's voice.
@@ -99,6 +109,8 @@ Empathy sets the tone for a conversation.
 As a leader, I want people to feel safe coming to me.
 
 I try to understand their feelings and create a safe place for them to be themselves.
+
+### 6
 
 And west. The W stands for wonder. Getting curious about what might be going on for the other  person.
 
@@ -120,6 +132,8 @@ He had one of my newsletters printed out and was waving it in the air.
 
 "Who's the cheerleader sending out this stuff?"
 
+### 7
+
 As an optimist -- (Laughter) sometimes to a fault, I knew right away, that cheerleader was me.
 
 While I was embarrassed, I had a split second to decide.
@@ -140,6 +154,8 @@ So I suggested we sit down together so I could better understand his concerns.
 
 Next step? Wonder. 
 
+### 8
+
 We went to his office and I asked curious questions.
 
 And over some tea, he told me his story. He got out a red pen and circled the nine times I'd  mentioned something positive in that article.
@@ -159,6 +175,8 @@ North: North Star, south: support, east: empathy, and west: wonder.
 I know when I'm true to my compass, I'm courageous, confident, the person I want to be, and I think the daughter my parents would be proud of.
 
 And with my husband and our two daughters, I get the chance to pay it forward. 
+
+### 9
 
 So I hope you'll join me in leaning into tricky conversations, not only finding our voices but understanding the imperative to use them.
 

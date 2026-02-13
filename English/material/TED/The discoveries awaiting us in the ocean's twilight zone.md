@@ -1,5 +1,7 @@
 [The discoveries awaiting us in the ocean's twilight zone](https://www.youtube.com/watch?v=rJmwZhy9Suk)
 
+### 1
+
 I bet all of you are familiar with this view of the ocean, but the thing is, most of the ocean looks nothing like this.
 
 Below the sunlit surface waters, there's an otherworldly realm known as the twilight zone.
@@ -19,6 +21,8 @@ In fact, maybe more than all the rest of the ocean combined.
 There are countless undiscovered species in deep waters, and life in the twilight zone is intertwined with earth's climate.
 
 Yet the twilight zone is virtually unexplored. There are so many things we still don't know about it.
+
+### 2
 
 I think we can change that. I was drawn to oceanography by just this kind of challenge.
 
@@ -40,6 +44,8 @@ It's exceedingly large, spanning from the Arctic to the Southern Ocean and aroun
 
 It's different from place to place. It changes quickly as the water and animals move.
 
+### 2
+
 And it's deep and dark and cold, and the pressures there are enormous.
 
 What we do know is fascinating.
@@ -58,9 +64,9 @@ You can see what I mean by the red and yellow colors around 400 meters in these 
 
 So much sound bounces off this layer, it's been mistaken for the ocean bottom.
 
-But if we look, it can't be, because the layer is deep during the day,
+But if we look, it can't be, because the layer is deep during the day, it rises up at night and the pattern repeats day after day.
 
-it rises up at night and the pattern repeats day after day.
+### 3
 
 This is actually the largest animal migration on earth.
 
@@ -82,6 +88,8 @@ We need to answer these questions and answer them quickly, because the twilight 
 
 Factory ships in the open ocean have been vacuuming up hundreds of thousands of tons of small, shrimp-like animals called krill.
 
+### 4
+
 The animals are ground into fish meal to support increasing demands for aquaculture and for nutraceuticals such as krill oil.
 
 Industry is on the brink of deepening fisheries such as these into the mid-water in what could start a kind of twilight zone gold rush operating outside the reach of national fishing regulations.
@@ -102,6 +110,8 @@ Let me show you a recent example that has changed our thinking.
 
 Satellite tracking devices on animals such as sharks are now showing us that many top predators regularly dive deep into the twilight zone to feed.
 
+### 5
+
 And when we map their swimming patterns and compare them to satellite data, we find that their feeding hot spots are linked to ocean currents and other features.
 
 We used to think these animals found all of their food in surface waters.
@@ -121,6 +131,8 @@ We need to know where and when and why and whether this kind of carbon sink has 
 To meet these challenges, we will need to push the limits of technology.
 
 We will deploy cameras and samplers on smart robots to patrol the depths and help us track the secret lives of animals like salps.
+
+### 6
 
 We will use advanced sonar to figure out how many fish and other animals are down there.
 

@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=1IAaKLAVysQ
 
+### 1
+
 So a few years ago, I was facilitating a workshop inside of a level-three men's prison right here in California.
 
 Oftentimes, we had about 70 participants.
@@ -19,6 +21,8 @@ An overwhelming amount of participants took a step forward.
 And not just one of the trainings, but in every one of them.
 
 Wow. I was astonished.
+
+### 2
 
 In less than 60 seconds, these men had lost so many years of their lives.
 
@@ -40,6 +44,8 @@ It was the murder of my two best friends and my cousin, Robert Gary Jackson Jr.,
 
 But this ain't how it started.
 
+### 3
+
 Before I was known for this work, before I found my passion for supporting Black men and boys, I was known and celebrated for my aggression on the football field and also known for these hands.
 
 I was the guy who wanted to fight once folks started making one too many jokes.
@@ -59,6 +65,8 @@ So I followed suit.
 When I was 20 years old, I took a two-hour drive in the middle of the night to get into a fight because I had felt disrespected.
 
 But in my reflection, I recognized that it wasn't disrespect that I was feeling.
+
+### 4
 
 It was insecurity.
 
@@ -82,6 +90,8 @@ But the consequences of that night actually led me to a felony assault charge.
 
 A felony.
 
+### 5
+
 And that wasn't the worst part.
 
 I wasn't able to see my daughter for the next three and a half years.
@@ -101,6 +111,8 @@ But after bumping my head, after doing my work, I've realized the importance of 
 Having emotional management skills not only to be a nice person but to avoid life-altering situations like going down that treacherous path of mass incarceration, substance abuse, domestic violence, estranged family relationships, and statistically speaking, dying early.
 
 But I want to give some tools that could have been a game changer for me in my situation.
+
+### 6
 
 And if you're someone who is still currently being impacted and influenced by that invisible yet potent misconception of manhood and masculinity, hopefully it can help you to avoid some of these life-altering situations as well.
 
@@ -122,6 +134,8 @@ I'll ask you how you're doing.
 
 Somebody might say, "Oh, this is what happened to me today."
 
+### 7
+
 That is a story, and that is not a feeling, right?
 
 So wanting to really provide a tool so we can say, "I'm feeling depressed,"
@@ -141,6 +155,8 @@ Now P.A.U.S.E. is an acronym.
 And I'll break down each letter for you.
 
 And hopefully it sticks and it's something that you can share with your communities as well.
+
+### 8
 
 The first letter is P.  
 
@@ -164,6 +180,8 @@ Were you forgetting to take that deep breath?
 
 Was your heart rate sped up?
 
+### 9
+
 These are all signs that our bodies are sharing with us to let us know that we're in an escalated state.
 
 What story, what narrative are we sharing with ourselves?
@@ -184,6 +202,8 @@ What is it that was said, done, what is it about the environment that is activat
 
 You might call it a trigger.
 
+### 10
+
 Do you know what your triggers are?
 
 Do you know the environments, the people, the things that activate you?
@@ -203,6 +223,8 @@ In my life, I recognized ...
 That there's a voice in my head often judging me, telling me what to do, leading me.
 
 And somewhere along my journey, I recognized that that's not actually my voice.
+
+### 11
 
 So whose voice is it that's guiding you and your decisions?
 
@@ -226,6 +248,8 @@ Alright?
 
 Next letter is S.
 
+### 12
+
 Set boundaries, separate yourself, ensure safety.
 
 I know sometimes, I don't want to walk away, we're going to handle this right now.
@@ -245,6 +269,8 @@ To empathize.
 
 How are other people experiencing me?
 
+### 13
+
 What point were they trying to get across?
 
 How am I contributing to escalating this entire situation?
@@ -261,8 +287,7 @@ But a real man takes time to think about the impacts of their decisions, to thin
 
 A real man takes a pause.
 
-Thank you.
-(Applause)
+Thank you. (Applause)
 
 ---
 - masculinity (*noun*)

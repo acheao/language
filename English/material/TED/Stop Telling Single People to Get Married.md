@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=0ZLLoNYEYfs
 
+### 1
+
 My not so subtle request: stop telling single people to get married.
 
 (Laughter)
@@ -20,6 +22,8 @@ In 1960, 90 percent of adults in the United States would go on to get married.
 Today, 50 percent of adults in the US are unmarried.
 
 Twenty-five percent of millennials are projected to never marry.
+
+### 2
 
 And don't get me started on what's happening with Gen Z.
 
@@ -43,6 +47,8 @@ Lately, a chorus of media voices have traded Aunt Sally's question for a prescri
 
 Get married. You don't believe me?
 
+### 3
+
 There's a book called "Get Married." And it came out, of course, on Valentine's Day.
 
 The “get married” advocates like to point to data that show that married people report higher life satisfaction than single people.
@@ -64,6 +70,8 @@ But I am against overprescribing marriage based on correlational data that the �
 Any serious scientist who looks at these data comes to the same conclusion.
 
 That is that people who get married are already slightly happier to begin with.
+
+### 4
 
 But there is a happiness effect in the data.
 
@@ -87,6 +95,8 @@ A feature of progress, especially for women.
 
 The arranged marriage was invented 4,400 years ago in order to form business alliances during harsh agrarian times.
 
+### 5
+
 Women were treated more like property than partners, with the husband receiving "ownership" from the father at the altar.
 
 Thankfully, today, marriage is more about love, and it's increasingly optional.
@@ -97,19 +107,18 @@ And it really got rolling with the invention of the spinning wheel.
 
 The spinsters who used it could earn their own money and escape being owned by a husband or a father.
 
-With the invention of birth control and greater access to education and economic opportunities, "I 
-do" is becoming "do I?"
+With the invention of birth control and greater access to education and economic opportunities, "I do" is becoming "do I?"
 (Laughter and applause)
 
-The spinsters of yesterday and the cat ladies of today -- 
-(Cheers and applause)
-Are not old maids.
+The spinsters of yesterday and the cat ladies of today -- (Cheers and applause) Are not old maids.
 
 They're trailblazers. Pioneers of independence.
 
 Urbanization, apartments and the home appliances that were invented for housewives are spurring a huge increase in people living alone, especially in cities like Stockholm. 
 
 Intrigued by these happy Scandinavians, I swapped out my Stetson for an Indiana-Jones-style fedora and headed to Sweden, a global leader in gender equality.
+
+### 6
 
 And I found lots of one-bedroom apartments filled with singles, some by choice, some by chance.
 
@@ -130,6 +139,8 @@ They're not looking for love or lust, whether for now or forever.
 And they're channeling their time and their energy and intention into education, building businesses, creating art.
 
 For many singles, they live meaningful lives.
+
+### 7
 
 Singles give more time, they're more likely to care for elderly parents and disabled friends, more so than their non-single counterparts.
 
