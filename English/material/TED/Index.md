@@ -1,3 +1,9 @@
+# TED Index
+
+Back to [Material Index](../Index.md)
+
+## Notes
+
 1. [How to Speak Up — Even When You Don’t Want To.md](How%20to%20Speak%20Up%20—%20Even%20When%20You%20Don’t%20Want%20To.md)
 2. [The great porn experiment.md](The%20great%20porn%20experiment.md)
 3. [I’ll Probably Lose My Job to AI. Here’s Why That’s OK.md](I’ll%20Probably%20Lose%20My%20Job%20to%20AI.%20Here’s%20Why%20That’s%20OK.md)
@@ -98,3 +104,10 @@
 98. [The Catastrophic Risks of AI — and a Safer Path.md](The%20Catastrophic%20Risks%20of%20AI%20—%20and%20a%20Safer%20Path.md)
 99. [The Mental Health AI Chatbot Made for Real Life.md](The%20Mental%20Health%20AI%20Chatbot%20Made%20for%20Real%20Life.md)
 100. [Why Good People Become Bad Bosses.md](Why%20Good%20People%20Become%20Bad%20Bosses.md)
+101. [Are We Still Human If Robots Help Raise Our Babies.md](Are%20We%20Still%20Human%20If%20Robots%20Help%20Raise%20Our%20Babies.md)
+102. [Floating Farms, Sponge Cities and the Climate Solutions Already Working.md](Floating%20Farms,%20Sponge%20Cities%20and%20the%20Climate%20Solutions%20Already%20Working.md)
+103. [How AI Is Unlocking the Secrets of Nature and the Universe _ Demis Hassabis _ TED.md](How%20AI%20Is%20Unlocking%20the%20Secrets%20of%20Nature%20and%20the%20Universe%20_%20Demis%20Hassabis%20_%20TED.md)
+104. [The Case for Making Art When the World Is on Fire.md](The%20Case%20for%20Making%20Art%20When%20the%20World%20Is%20on%20Fire.md)
+105. [The Rise of China's Homegrown Brands — and Why They Matter.md](The%20Rise%20of%20China's%20Homegrown%20Brands%20—%20and%20Why%20They%20Matter.md)
+106. [The World's First-Nature Superpower's.md](The%20World's%20First-Nature%20Superpower's.md)
+107. [Want to Make a Change_Let Young People Tell Their Stories.md](Want%20to%20Make%20a%20Change_Let%20Young%20People%20Tell%20Their%20Stories.md)
