@@ -30,6 +30,7 @@ yt2obsidian "<youtube-url>"
 
 - `--folder "English/material/other"`：指定笔记落到 vault 内的哪个目录
 - `--profile "Default"`：改用别的 Chrome profile 读取 cookie
+- `--title "..."`：手动指定笔记标题，覆盖 YouTube 返回的不稳定标题
 - `--no-cookies`：完全不读浏览器 cookie
 - `--open`：创建完成后直接在 Obsidian 打开笔记
 
@@ -47,11 +48,17 @@ yt2obsidian "https://www.youtube.com/watch?v=D0UBAOensKo" --open
 yt2obsidian "https://www.youtube.com/watch?v=D0UBAOensKo" --folder "English/material/other"
 ```
 
+```bash
+yt2obsidian "https://www.youtube.com/watch?v=oj5Tc45R06o" --title "Are YOU Making These 5 EASILY FIXABLE Common Mistakes in English?"
+```
+
 ## 输出规则
 
 - 默认会根据 YouTube channel 名称，把笔记放进 `English/material/<Channel>/`
 - 如果对应文件夹已经存在，会直接复用那个文件夹
 - 如果文件夹不存在，会自动创建文件夹和 `Index.md`
+- 标题会优先尝试读取浏览器渲染后的页面标题，失败时再回退到元数据接口
+- 新生成的文件名默认会带上视频 ID，格式类似 `Title [video-id].md`
 - 新笔记会自动加入该目录的 `## Notes` 索引
 
 生成出来的笔记结构是：
