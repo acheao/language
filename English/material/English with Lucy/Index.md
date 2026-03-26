@@ -12,6 +12,3 @@ Back to [Material Index](../Index.md)
 - [Do YOU Mispronounce These Common English Words?](./Do%20YOU%20Mispronounce%20These%20Common%20English%20Words%20%5BYwGjFpQr8tw%5D.md)
 - [English Level Test 2026 - What is YOUR Level of English?](./English%20Level%20Test%202026%20-%20What%20is%20YOUR%20Level%20of%20English%20%5BusYwiAknUwo%5D.md)
 - [Achieve the C2 (Proficiency) Level of English in 3 Months](./Achieve%20the%20C2%20(Proficiency)%20Level%20of%20English%20in%203%20Months%20%5Byp6Dn4sa27Y%5D.md)
-## PDFs
-- [35 Common Mistakes English Learners Make.pdf](./35%20Common%20Mistakes%20English%20Learners%20Make.pdf)
-- [234. Never Mix Up These Words (Homophones).pdf](./234.%20Never%20Mix%20Up%20These%20Words%20%28Homophones%29.pdf)
