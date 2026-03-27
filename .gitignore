@@ -1,2 +1,14 @@
+# Root vault shared settings
+# Keep tracked: /.obsidian/app.json, /.obsidian/appearance.json
+
+# Root vault local workspace state
 /.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
+/.obsidian/graph.json
 /.obsidian/core-plugins.json
+
+# Nested/legacy sub-vault local settings
+/English/.obsidian/
+
+# Obsidian local trash
+.trash/

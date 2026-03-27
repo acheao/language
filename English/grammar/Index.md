@@ -1,13 +1,17 @@
 # Grammar Index
 
-Back to [English Dashboard](../Index.md)
+Back to [English Dashboard](<../Index.md>)
 
-## Core Notes
-- [noun](./noun.md)
-- [verb](./verb.md)
-- [sentence](./sentence.md)
-- [Inversion Sentence](./Inversion%20Sentence.md)
+## Parts of Speech
+- [noun](<./noun.md>)
+- [verb](<./verb.md>)
 
-## Suggested Use
-- Review one grammar note.
-- Return to a source note in [Material Index](../material/Index.md) and look for live examples.
+## Sentence Building
+- [sentence](<./sentence.md>)
+- [Inversion Sentence](<./Inversion Sentence.md>)
+
+## How To Use This Section
+1. Find the grammar point that blocked your reading, writing, or listening.
+2. Review one note only.
+3. Return to one real source note in [Material Index](<../material/Index.md>) and look for live examples.
+4. Add one example sentence of your own before moving on.
