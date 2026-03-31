@@ -17,6 +17,9 @@
 - 已安装并启用 `obsidian` CLI
 - 本机 Chrome 可以读取登录态
 - 默认使用的 Chrome profile 是 `Profile 3`
+- 默认固定写入 `language` vault（`/home/acheao/Work/language`）
+
+脚本不再依赖当前激活的 Obsidian vault；即使你当前切在别的库，生成内容也会写进 `language`。
 
 如果某个视频触发 YouTube 的 bot 检查，命令会优先尝试读取 Chrome cookie。这个策略已经在当前机器上验证过。
 
@@ -28,7 +31,7 @@ yt2obsidian "<youtube-url>"
 
 常用参数：
 
-- `--folder "English/material/other"`：指定笔记落到 vault 内的哪个目录
+- `--folder "English/material/other"`：指定笔记落到 `language` vault 内的哪个目录
 - `--profile "Default"`：改用别的 Chrome profile 读取 cookie
 - `--title "..."`：手动指定笔记标题，覆盖 YouTube 返回的不稳定标题
 - `--no-cookies`：完全不读浏览器 cookie
