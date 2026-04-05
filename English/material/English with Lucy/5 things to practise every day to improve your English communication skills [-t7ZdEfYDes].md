@@ -4,6 +4,10 @@
 - URL: https://www.youtube.com/watch?v=-t7ZdEfYDes
 - Channel: English with Lucy
 - Subtitle source: YouTube captions (`en`)
+- Audio file: [5 things to practise every day to improve your English communication skills [-t7ZdEfYDes].mp3](./5%20things%20to%20practise%20every%20day%20to%20improve%20your%20English%20communication%20skills%20%5B-t7ZdEfYDes%5D.mp3)
+
+## Audio
+- [Open mp3](./5%20things%20to%20practise%20every%20day%20to%20improve%20your%20English%20communication%20skills%20%5B-t7ZdEfYDes%5D.mp3)
 
 ## Transcript
 Kind: captions Language: en What is the best way to improve your spoken English and overall fluency? Well, you need to practice a lot every day, ideally. That's probably not news to you, but it's something that can be really difficult to actually do. Today, I'm going to give you five things that you can practice every day on your own without needing to find a speaking partner or join conversation groups. These are all things you can do independently that are extremely fun, extremely engaging, and I'm going to guess that you haven't heard of some of them before. To do this, we're going to be using Langua. This is an AI conversation platform that I've partnered with.
