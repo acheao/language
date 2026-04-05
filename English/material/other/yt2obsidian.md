@@ -5,6 +5,7 @@
 `yt2obsidian` 会把一个 YouTube 链接整理成一篇 Obsidian 笔记：
 
 - 下载英文字幕
+- 下载对应音频并转成 `mp3`
 - 清洗 VTT 里的时间轴和重复片段
 - 生成 Markdown 笔记
 - 自动更新对应目录下的 `Index.md`
@@ -74,6 +75,9 @@ yt2obsidian "https://www.youtube.com/watch?v=oj5Tc45R06o" --title "Are YOU Makin
 - Channel: ...
 - Subtitle source: ...
 
+## Audio
+- [Open mp3](./...)
+
 ## Transcript
 ...
 ```
@@ -82,7 +86,7 @@ yt2obsidian "https://www.youtube.com/watch?v=oj5Tc45R06o" --title "Are YOU Makin
 
 - 目前只处理 YouTube 已有的英文字幕或英文自动字幕
 - 还没有接入音频转写兜底，所以没有字幕的视频会失败
-- `ffmpeg` 不参与当前流程
+- `ffmpeg` 用于把音频提取成 `mp3`
 - 字幕如果本身没有标点，命令不会强行改写成润色稿
 
 ## 排错
