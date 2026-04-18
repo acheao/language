@@ -4,6 +4,14 @@
 - URL: https://www.youtube.com/watch?v=oIKHXT2cy6g
 - Channel: English with Lucy
 - Subtitle source: YouTube captions (`en`)
+- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Speak like THIS to Sound British Instantly [oIKHXT2cy6g].mp3`
+- Lyrics archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Speak like THIS to Sound British Instantly [oIKHXT2cy6g].lrc`
+
+## Audio
+- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Speak like THIS to Sound British Instantly [oIKHXT2cy6g].mp3`
+
+## Lyrics
+- Remote lrc: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Speak like THIS to Sound British Instantly [oIKHXT2cy6g].lrc`
 
 ## Transcript
 Kind: captions Language: en Do you want to sound more British? It's actually pretty easy. Today you are going to learn how to sound like a Brit in just 12 minutes. So, we're focusing on phrases in this lesson, but that is only one part of sounding more British. If you really want to sound British, you also need to perfect the accent. The fastest way to get started on that is my 5day British accent boot camp. In just 15 to 30 minutes per day for 5 days, you will learn the sounds that make my accent modern RP stand out. From essential vowel clarity to the letters we soften or drop, all while mastering natural rhythm with real British vocabulary.

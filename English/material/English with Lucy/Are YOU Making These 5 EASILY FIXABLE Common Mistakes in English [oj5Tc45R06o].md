@@ -1,9 +1,17 @@
-# Are YOU Making These 5 EASILY FIXABLE Common Mistakes in English?
+# Are YOU Saying it WRONG? 5 Highly Common Mistakes in English
 
 ## Source
 - URL: https://www.youtube.com/watch?v=oj5Tc45R06o
 - Channel: English with Lucy
 - Subtitle source: YouTube captions (`en`)
+- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Are YOU Making These 5 EASILY FIXABLE Common Mistakes in English [oj5Tc45R06o].mp3`
+- Lyrics archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Are YOU Making These 5 EASILY FIXABLE Common Mistakes in English [oj5Tc45R06o].lrc`
+
+## Audio
+- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Are YOU Making These 5 EASILY FIXABLE Common Mistakes in English [oj5Tc45R06o].mp3`
+
+## Lyrics
+- Remote lrc: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Are YOU Making These 5 EASILY FIXABLE Common Mistakes in English [oj5Tc45R06o].lrc`
 
 ## Transcript
 Kind: captions Language: en Do you make any of these common mistakes in English? Are you agree? According to me, this is the best solution. It's one of the best place I know. All of these are incorrect. Today, we are looking at five of the most common mistakes that my students make. But I have something even better to offer you for free. I have put together an ebook of the 35 most common mistakes in English and how to fix them. Okay, let's start with the first mistake. Can you spot the mistake here? According to me, this is the best solution.

@@ -4,6 +4,14 @@
 - URL: https://www.youtube.com/watch?v=D0UBAOensKo
 - Channel: English with Lucy
 - Subtitle source: YouTube captions (`en`)
+- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Avoid this word if you want to speak good English.mp3`
+- Lyrics archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Avoid this word if you want to speak good English.lrc`
+
+## Audio
+- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Avoid this word if you want to speak good English.mp3`
+
+## Lyrics
+- Remote lrc: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Avoid this word if you want to speak good English.lrc`
 
 ## Transcript
 Kind: captions Language: en Never say very in front of these words. I'm not saying that you should never say very, but you should never say very in front of quite a few very specific words. I will also teach you quite a surprising way that you can use it. Before we get started, I want to let you know that I've created a very guide, which sounds grammatically incorrect in itself, but a guide all about the word very. It's a free PDF download. It covers everything that we cover in today's lesson, plus lots more examples and not one, but two very quizzes. Sorry, it just is funny because it sounds so incorrect to say very quizzes.
@@ -24,7 +32,7 @@ Really is probably the most common word here. There are lots of other alternativ
 
 More examples like this include your input was very much appreciated. Not very appreciated. You might hear it, but it's technically not correct. I'm just giving you the information. You can choose how you use it. Another example, the performance was greatly admired by the judges. Greatly is quite formal here and it's not very admired. Note that we can use very before past participle adjectives like worried or frightened. They're very worried. I'm very frightened of mice. Let's stick with adjectives. We have another no for very. Do not use very before comparative adjectives. For example, it is incorrect to say, "My cat is very lazier than my dog." Incorrect.
 
-It is incorrect to say, "She is very better at following directions than I am." How can we correct these sentences? Well, we can simply remove very. My cat is lazier. She's better. Or we could intensify the comparison by using much instead of very. My cat is much lazier than my dog. She is much better. A lot also works too. My cat is a lot lazier than my dog. So that's comparatives. But what about superlatives? Which one of these sentences is correct? That was the very most embarrassing moment of my life or that was the very best moment of my life. The second one is fine. The first one is not. It's very much not fine. So, can we use very before superlative adjectives?
+It is incorrect to say, "She is very better at following directions than I am." How can we correct these sentences? Well, we can simply remove very. My cat is lazier. She's better. Or we could intensify the comparison by using much instead of very. My cat is much lazier than my dog. She is much better. A lot also works too. My cat is a lot lazier than my dog. So that's comparatives. But what about superlatives? Which one of these sentences is correct? That was the very most embarrassing moment of my life or that was the very best moment of my life. The second one is fine. The first one is not. It's very much not fine. [laughter] So, can we use very before superlative adjectives?
 
 Sometimes we don't generally use very before superlatives formed with the most. So this is wrong. She told me the very most interesting story at dinner. We should simply remove very for emphasis. We could use by far instead. By far the most interesting story. However, we can use very before superlatives that end in est. And that includes best and those ending in st like worst. We do this for emphasis. This is the very worst restaurant in town or the shop has the very lowest prices in the city. We could also use by far in those sentences. By far the worst or by far the lowest. So expressive.
 
@@ -34,4 +42,4 @@ Okay, first I will give you two sentences to correct. Number one, Maria very lov
 
 Is it very warmer or warmer? Did you say very warmer? I hope not because it should just be warmer. We don't use very before comparative adjectives. Number four. Is this sentence correct? It was very freezing yesterday. No, it's not. We don't use very before extreme adjectives. We could remove very or we could use a different word like absolutely. It was absolutely freezing yesterday. That sounds nice and natural. And number five, is this sentence correct? Anna's very English. She drinks tea at 5 and loves the rain. Yes, this is correct in the sense that you will hear people saying this.
 
-Even though English here is an absolute adjective, the speaker is using very to emphasize an obvious quality. Anna is very English or so English. So, how did you do? Let me know your score in the comments. And don't forget to download the very guide, your guide to everything very. It's a free PDF download. We put a lot of work into it. It's a really helpful one and it has not one but two quizzes. The link is in the description box and you can scan the QR code here. I very much hope you enjoyed this lesson. I will see you in the next one.
+Even though English here is an absolute adjective, the speaker is using very to emphasize an obvious quality. Anna is very English or so English. So, how did you do? Let me know your score in the comments. And don't forget to download the very guide, [laughter] your guide to everything very. It's a free PDF download. We put a lot of work into it. It's a really helpful one and it has not one but two quizzes. The link is in the description box and you can scan the QR code here. I very much hope you enjoyed this lesson. I will see you in the next one. >> [music]

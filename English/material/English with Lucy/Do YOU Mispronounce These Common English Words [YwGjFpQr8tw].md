@@ -4,6 +4,14 @@
 - URL: https://www.youtube.com/watch?v=YwGjFpQr8tw
 - Channel: English with Lucy
 - Subtitle source: YouTube captions (`en`)
+- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Do YOU Mispronounce These Common English Words [YwGjFpQr8tw].mp3`
+- Lyrics archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Do YOU Mispronounce These Common English Words [YwGjFpQr8tw].lrc`
+
+## Audio
+- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Do YOU Mispronounce These Common English Words [YwGjFpQr8tw].mp3`
+
+## Lyrics
+- Remote lrc: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Do YOU Mispronounce These Common English Words [YwGjFpQr8tw].lrc`
 
 ## Transcript
 Kind: captions Language: en Do you mispronounce these 10 words in English? Let's find out today. And if you are serious about improving your pronunciation, I have something you will like. It's my 5day British accent boot camp. It's 5 days of focused lessons that take you through the essential sounds of British English. From key vowel sounds to some that we drop, plus real vocabulary we use every day. You will learn exactly how to shape your mouth, connect your words smoothly, and sound confident when you speak. You will be amazed by how much you can progress in just 5 days. We are running an amazing discount.

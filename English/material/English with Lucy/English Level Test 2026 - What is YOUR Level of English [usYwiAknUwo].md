@@ -4,6 +4,14 @@
 - URL: https://www.youtube.com/watch?v=usYwiAknUwo
 - Channel: English with Lucy
 - Subtitle source: YouTube captions (`en`)
+- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/English Level Test 2026 - What is YOUR Level of English [usYwiAknUwo].mp3`
+- Lyrics archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/English Level Test 2026 - What is YOUR Level of English [usYwiAknUwo].lrc`
+
+## Audio
+- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/English Level Test 2026 - What is YOUR Level of English [usYwiAknUwo].mp3`
+
+## Lyrics
+- Remote lrc: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/English Level Test 2026 - What is YOUR Level of English [usYwiAknUwo].lrc`
 
 ## Transcript
 Kind: captions Language: en Today we are going to finally find out what your level of English is in 2026. A1, A2, B1, B2, or even C1 or C2, the maximum level of English. Here is how it's going to work. I will ask you 30 questions starting at A1 and moving all the way up to English proficiency at C2. Just keep track of your score as we go and by the end of this lesson you will have a much clearer idea of your current level. Today's test will focus mainly on grammar and vocabulary. So if you want a more comprehensive assessment of your skills, I also offer a free full online level test.

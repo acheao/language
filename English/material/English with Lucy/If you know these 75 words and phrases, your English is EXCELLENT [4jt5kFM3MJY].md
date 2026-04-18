@@ -1,13 +1,17 @@
-# If you know these 75 words and phrases, your English is EXCELLENT.
+# If you know these 75 words and phrases, your English is OUTSTANDING.
 
 ## Source
 - URL: https://www.youtube.com/watch?v=4jt5kFM3MJY
 - Channel: English with Lucy
 - Subtitle source: YouTube captions (`en`)
-- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-05/4jt5kFM3MJY.mp3`
+- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/If you know these 75 words and phrases, your English is EXCELLENT [4jt5kFM3MJY].mp3`
+- Lyrics archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/If you know these 75 words and phrases, your English is EXCELLENT [4jt5kFM3MJY].lrc`
 
 ## Audio
-- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-05/4jt5kFM3MJY.mp3`
+- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/If you know these 75 words and phrases, your English is EXCELLENT [4jt5kFM3MJY].mp3`
+
+## Lyrics
+- Remote lrc: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/If you know these 75 words and phrases, your English is EXCELLENT [4jt5kFM3MJY].lrc`
 
 ## Transcript
 Kind: captions Language: en Are you ready for a proper English upgrade? Perfect if you said yes, because this might be one of the most useful lessons I've ever put together. If you know these 75 words and phrases, your English is truly outstanding. This is a total master class. You're going to hear each word or phrase in context. You're going to understand exactly how we use it. And I'm going to test you along the way with quick quizzes to help you retain it all in your brain. And to make things even easier for you, I have created a free PDF ebook to go with this lesson. Beautifully designed, full of examples, explanations, and exercises.
