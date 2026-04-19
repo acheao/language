@@ -3,13 +3,13 @@
 Back to [English Dashboard](<../Index.md>)
 
 ## Source Folders
-- [TED](<./TED/Index.md>) - 106 notes - long-form listening, ideas, public speaking
+- [TED](<./TED/Index.md>) - long-form listening, ideas, public speaking
 - [TED Canvas](<./TED/TED.canvas>)
-- [CNN](<./CNN/Index.md>) - 8 notes - news, economy, current affairs
-- [English with Lucy](<./English with Lucy/Index.md>) - 9 notes - pronunciation, fluency, common mistakes
-- [Vanessa](<./vanessa/Index.md>) - 3 notes - daily speaking and conversational English
-- [Ariannita la Gringa](<./Ariannita la Gringa/Index.md>) - 1 note - casual spoken English
-- [Other Language Notes](<./other/Index.md>) - 4 notes - phrase, vocabulary, sentence structure, workflow
+- [CNN](<./CNN/Index.md>) - news, economy, current affairs
+- [English with Lucy](<./English with Lucy/Index.md>) - pronunciation, fluency, common mistakes
+- [Vanessa](<./vanessa/Index.md>) - daily speaking and conversational English
+- [Ariannita la Gringa](<./Ariannita la Gringa/Index.md>) - casual spoken English
+- [Other Language Notes](<./other/Index.md>) - phrase, vocabulary, sentence structure, workflow
 
 ## Suggested Entry Points
 - If you want broad input: start with [TED](<./TED/Index.md>)
