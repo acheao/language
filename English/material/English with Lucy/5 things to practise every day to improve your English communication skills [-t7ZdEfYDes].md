@@ -3,9 +3,8 @@
 ## Source
 - URL: https://www.youtube.com/watch?v=-t7ZdEfYDes
 - Channel: English with Lucy
-- Subtitle source:
-  - Kind: captions
-  - Language: `en`
+- Subtitle source: YouTube captions (`en`)
+
 
 ## Transcript
 Kind: captions Language: en 

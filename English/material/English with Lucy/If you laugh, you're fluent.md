@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=gWb03UazHY8
+
 If you can understand these jokes, you are basically fluent in English.
 
 All of the jokes today rely on word play, which we use heavily in Britain.
