@@ -1,11 +1,6 @@
-# Root vault shared settings
-# Keep tracked: /.obsidian/app.json, /.obsidian/appearance.json
-
-# Root vault local workspace state
-/.obsidian/workspace.json
-/.obsidian/workspace-mobile.json
-/.obsidian/graph.json
-/.obsidian/core-plugins.json
+# Root vault settings
+# Existing tracked files under /.obsidian/ remain tracked.
+/.obsidian/
 
 # Nested/legacy sub-vault local settings
 /English/.obsidian/
