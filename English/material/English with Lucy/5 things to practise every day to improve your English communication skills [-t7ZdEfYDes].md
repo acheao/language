@@ -3,15 +3,9 @@
 ## Source
 - URL: https://www.youtube.com/watch?v=-t7ZdEfYDes
 - Channel: English with Lucy
-- Subtitle source: YouTube captions (`en`)
-- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/5 things to practise every day to improve your English communication skills [-t7ZdEfYDes].mp3`
-- Lyrics archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/5 things to practise every day to improve your English communication skills [-t7ZdEfYDes].lrc`
-
-## Audio
-- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/5 things to practise every day to improve your English communication skills [-t7ZdEfYDes].mp3`
-
-## Lyrics
-- Remote lrc: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/5 things to practise every day to improve your English communication skills [-t7ZdEfYDes].lrc`
+- Subtitle source:
+  - Kind: captions
+  - Language: `en`
 
 ## Transcript
 Kind: captions Language: en 

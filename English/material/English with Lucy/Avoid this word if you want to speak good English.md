@@ -3,15 +3,9 @@
 ## Source
 - URL: https://www.youtube.com/watch?v=D0UBAOensKo
 - Channel: English with Lucy
-- Subtitle source: YouTube captions (`en`)
-- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Avoid this word if you want to speak good English.mp3`
-- Lyrics archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Avoid this word if you want to speak good English.lrc`
-
-## Audio
-- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Avoid this word if you want to speak good English.mp3`
-
-## Lyrics
-- Remote lrc: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Avoid this word if you want to speak good English.lrc`
+- Subtitle source:
+  - Kind: captions
+  - Language: `en`
 
 ## Transcript
 Kind: captions Language: en Never say very in front of these words. I'm not saying that you should never say very, but you should never say very in front of quite a few very specific words. I will also teach you quite a surprising way that you can use it. Before we get started, I want to let you know that I've created a very guide, which sounds grammatically incorrect in itself, but a guide all about the word very. It's a free PDF download. It covers everything that we cover in today's lesson, plus lots more examples and not one, but two very quizzes. Sorry, it just is funny because it sounds so incorrect to say very quizzes.
