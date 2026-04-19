@@ -3,15 +3,9 @@
 ## Source
 - URL: https://www.youtube.com/watch?v=yp6Dn4sa27Y
 - Channel: English with Lucy
-- Subtitle source: YouTube captions (`en`)
-- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Achieve the C2 (Proficiency) Level of English in 3 Months [yp6Dn4sa27Y].mp3`
-- Lyrics archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Achieve the C2 (Proficiency) Level of English in 3 Months [yp6Dn4sa27Y].lrc`
-
-## Audio
-- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Achieve the C2 (Proficiency) Level of English in 3 Months [yp6Dn4sa27Y].mp3`
-
-## Lyrics
-- Remote lrc: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Achieve the C2 (Proficiency) Level of English in 3 Months [yp6Dn4sa27Y].lrc`
+- Subtitle source:
+  - Kind: captions
+  - Language: `en`
 
 ## Transcript
 Kind: captions Language: en Have you ever been on the tube in London? You'll have heard this. >> Please mind the gap between the train and the platform. >> And it's funny because at your level of English, it's not grammar and vocabulary that's your main concern. It's the gap. Your intellect and your thoughts, your your personality is up here, but your English is here. You can hold complex conversations. You can explain yourself, but you simplify, you adjust, and you hold back. Not because your ideas aren't strong, but because your English won't stretch to where your thinking already is.

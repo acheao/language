@@ -3,15 +3,9 @@
 ## Source
 - URL: https://www.youtube.com/watch?v=4TX2BiH1DIQ
 - Channel: English with Lucy
-- Subtitle source: YouTube captions (`en`)
-- Audio archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Are YOU Saying it WRONG-5 Highly Common Mistakes in English.mp3`
-- Lyrics archive: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Are YOU Saying it WRONG-5 Highly Common Mistakes in English.lrc`
-
-## Audio
-- Remote mp3: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Are YOU Saying it WRONG-5 Highly Common Mistakes in English.mp3`
-
-## Lyrics
-- Remote lrc: `acheao@192.168.1.9:/home/acheao/share/mp3/2026-04-12/Are YOU Saying it WRONG-5 Highly Common Mistakes in English.lrc`
+- Subtitle source:
+  - Kind: captions
+  - Language: `en`
 
 ## Transcript
 Kind: captions Language: en Stop making these mistakes in English. On next Monday, let's discuss about it. I'm boring. Today, I'm going to show you five of the most common mistakes in English and exactly how to correct them. I need to tell you about something incredible. I have created a brand new, completely free ebook. It changes everything. 35 common mistakes English learners make and how to fix them. This powerful ebook will help you fix some of the most common errors English learners make immediately. Inside you will find everything from today's lesson, plus 30 more mistakes that my teaching team and I have seen again and again. And yes, for now, I'm offering it to you for free.

@@ -73,10 +73,9 @@ yt2obsidian "https://www.youtube.com/watch?v=oj5Tc45R06o" --title "Are YOU Makin
 ## Source
 - URL: ...
 - Channel: ...
-- Subtitle source: ...
-
-## Audio
-- [Open mp3](./...)
+- Subtitle source:
+  - Kind: captions
+  - Language: `en`
 
 ## Transcript
 ...
