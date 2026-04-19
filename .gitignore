@@ -1,5 +1,4 @@
-# Root vault settings
-# Existing tracked files under /.obsidian/ remain tracked.
+# Root vault local settings
 /.obsidian/
 
 # Nested/legacy sub-vault local settings
