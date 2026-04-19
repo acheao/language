@@ -3,12 +3,10 @@
 ## Source
 - URL: https://www.youtube.com/watch?v=D0UBAOensKo
 - Channel: English with Lucy
-- Subtitle source:
-  - Kind: captions
-  - Language: `en`
+- Subtitle source: YouTube captions (`en`)
 
 ## Transcript
-Kind: captions Language: en Never say very in front of these words. I'm not saying that you should never say very, but you should never say very in front of quite a few very specific words. I will also teach you quite a surprising way that you can use it. Before we get started, I want to let you know that I've created a very guide, which sounds grammatically incorrect in itself, but a guide all about the word very. It's a free PDF download. It covers everything that we cover in today's lesson, plus lots more examples and not one, but two very quizzes. Sorry, it just is funny because it sounds so incorrect to say very quizzes.
+Never say very in front of these words. I'm not saying that you should never say very, but you should never say very in front of quite a few very specific words. I will also teach you quite a surprising way that you can use it. Before we get started, I want to let you know that I've created a very guide, which sounds grammatically incorrect in itself, but a guide all about the word very. It's a free PDF download. It covers everything that we cover in today's lesson, plus lots more examples and not one, but two very quizzes. Sorry, it just is funny because it sounds so incorrect to say very quizzes.
 
 If you would like to download that for free, just click on the link in the description box or scan that QR code there. Join my mailing list and I'll send the PDF guide directly to your inbox. Okay, let's begin. When do we never use very? Take a look at this sentence. The play was very fantastic. We can't use very here. Why? Well, because fantastic itself means very good. So the word already contains the meaning very strong adjectives like this are called extreme adjectives. They are ungradable. We don't generally use very before these adjectives. So we'll remove very here. But can we use a different word to make extreme adjectives even stronger? The answer is yes.
 
@@ -36,4 +34,4 @@ Okay, first I will give you two sentences to correct. Number one, Maria very lov
 
 Is it very warmer or warmer? Did you say very warmer? I hope not because it should just be warmer. We don't use very before comparative adjectives. Number four. Is this sentence correct? It was very freezing yesterday. No, it's not. We don't use very before extreme adjectives. We could remove very or we could use a different word like absolutely. It was absolutely freezing yesterday. That sounds nice and natural. And number five, is this sentence correct? Anna's very English. She drinks tea at 5 and loves the rain. Yes, this is correct in the sense that you will hear people saying this.
 
-Even though English here is an absolute adjective, the speaker is using very to emphasize an obvious quality. Anna is very English or so English. So, how did you do? Let me know your score in the comments. And don't forget to download the very guide, [laughter] your guide to everything very. It's a free PDF download. We put a lot of work into it. It's a really helpful one and it has not one but two quizzes. The link is in the description box and you can scan the QR code here. I very much hope you enjoyed this lesson. I will see you in the next one. >> [music]
+Even though English here is an absolute adjective, the speaker is using very to emphasize an obvious quality. Anna is very English or so English. So, how did you do? Let me know your score in the comments. And don't forget to download the very guide, [laughter] your guide to everything very. It's a free PDF download. We put a lot of work into it. It's a really helpful one and it has not one but two quizzes. The link is in the description box and you can scan the QR code here. I very much hope you enjoyed this lesson. I will see you in the next one.

@@ -5,10 +5,7 @@
 - Channel: English with Lucy
 - Subtitle source: YouTube captions (`en`)
 
-
 ## Transcript
-Kind: captions Language: en 
-
 What is the best way to improve your spoken English and overall fluency? Well, you need to practice a lot every day, ideally. That's probably not news to you, but it's something that can be really difficult to actually do. Today, I'm going to give you five things that you can practice every day on your own without needing to find a speaking partner or join conversation groups. These are all things you can do independently that are extremely fun, extremely engaging, and I'm going to guess that you haven't heard of some of them before. To do this, we're going to be using Langua. This is an AI conversation platform that I've partnered with.
 
 It is the best app I have ever found for independent study. I use it constantly for practicing my Italian and keeping up with my Spanish. Langua is also home to my AI clone. Of course, a table in the middle is fine. Please follow me. So, you can practice English with me. It's my voice there. It's going to blow your mind. And as soon as you try it, I know you're going to feel so excited because you will see how much easier your English learning journey will become. The best thing is that you can try it for free. Just click the link below or scan the QR code here. You need to fill out your profile on the website first before you download the app.

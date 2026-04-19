@@ -3,12 +3,10 @@
 ## Source
 - URL: https://www.youtube.com/watch?v=4TX2BiH1DIQ
 - Channel: English with Lucy
-- Subtitle source:
-  - Kind: captions
-  - Language: `en`
+- Subtitle source: YouTube captions (`en`)
 
 ## Transcript
-Kind: captions Language: en Stop making these mistakes in English. On next Monday, let's discuss about it. I'm boring. Today, I'm going to show you five of the most common mistakes in English and exactly how to correct them. I need to tell you about something incredible. I have created a brand new, completely free ebook. It changes everything. 35 common mistakes English learners make and how to fix them. This powerful ebook will help you fix some of the most common errors English learners make immediately. Inside you will find everything from today's lesson, plus 30 more mistakes that my teaching team and I have seen again and again. And yes, for now, I'm offering it to you for free.
+Stop making these mistakes in English. On next Monday, let's discuss about it. I'm boring. Today, I'm going to show you five of the most common mistakes in English and exactly how to correct them. I need to tell you about something incredible. I have created a brand new, completely free ebook. It changes everything. 35 common mistakes English learners make and how to fix them. This powerful ebook will help you fix some of the most common errors English learners make immediately. Inside you will find everything from today's lesson, plus 30 more mistakes that my teaching team and I have seen again and again. And yes, for now, I'm offering it to you for free.
 
 Just sign up to my mailing list using the link in the description or scan the QR code now. I'll send it straight to your inbox. It's genuinely one of the best resources I've ever created and I can't wait for you to see it. Okay, first, can you spot an issue with this sentence? I'm so boring. Well, it's grammatically correct, but it's most likely not what people usually want to say. This is by far one of the most common mistakes I hear from my students. They usually mean I'm so bored, as in I feel bored. Not I'm boring as in I make other people feel bored. The mistake here is mixing up ed and ing adjectives. Adjectives that end in ed describe how someone feels.
 
