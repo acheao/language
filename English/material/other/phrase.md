@@ -100,6 +100,7 @@ running water
 
 ```
 safe to assume/这么认为是比较有把握的
+scratch the surface
 Senior Year
 slings and arrows
 Sophomore Year

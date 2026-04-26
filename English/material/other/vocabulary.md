@@ -1843,6 +1843,7 @@ saint
 salesperson
 sampler
 sandwich
+sarcastic
 satellite
 satisfactory
 saturated
