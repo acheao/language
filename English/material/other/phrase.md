@@ -1,68 +1,125 @@
-trip over a curb
-graduate programs
-assume office
-board of governors
-be drawn to something
-sweep through
-figure out
-gelatin paper
-stay clear of
-reaching out
-like a dose of salts
-drawn up
-Junior Year
-Sophomore Year
-Freshman
-Senior Year
-fell into the habit
-over a 12-month period
-corner flag
-as far as
-count as
-assume importance
-under one’s belt
-handful of( = several)
-take great exception
-hook up
-center on/centre on
-looms large
-a small handful
-running water
-hit pay dirt
-drove off
-crack down
-pull up
-quick fix
-Joan of Arc
-dive in
-jumble sale
-rummage sale
-fell into the habit
-who fared the best
-strike over
-poll tax
-carry out
-safe to assume/这么认为是比较有把握的
+﻿```
+a headline act
 a raft of
+a small handful
 a whole raft of
-into the bargain
-on the spur of the moment
-studio apartment
-falls squarely within
-slings and arrows
-at stake
-reached out
-centring on
-lather up
 abrasive pad
-tangle with
-retinol serum
-squeaky clean
+as far as
+assume importance
+assume office
+at stake
+```
+
+```
+be drawn to something
+board of governors
+bound to
+```
+
+```
+carry out
+center on/centre on
+centring on
+chicken stock
+contact lens
+corner flag
+count as
+crack down
+critical importance
+```
+
+```
+dive in
+drawn up
+drove off
+```
+
+```
+falls squarely within
+fell into the habit
+figure out
+fresh as a daisy
+Freshman
+```
+
+```
+gelatin paper
+get stuck
+graduate programs
+```
+
+```
+handful of( = several)
+hit pay dirt
+hook up
+```
+
+```
+into the bargain
+```
+
+```
+Joan of Arc
+jumble sale
+Junior Year
+```
+
+```
+lather up
+like a dose of salts
+looms large
+```
+
+```
 nail clipper
 nail scissors
-contact lens
-chicken stock
-critical importance
-bound to
+```
 
-fresh as a daisy/精力充沛、神清气爽、容光焕发
+```
+on the spot
+on the spur of the moment
+over a 12-month period
+```
+
+```
+poll tax
+pull up
+```
+
+```
+quick fix
+```
+
+```
+reached out
+reaching out
+retinol serum
+rummage sale
+running water
+```
+
+```
+safe to assume/这么认为是比较有把握的
+Senior Year
+slings and arrows
+Sophomore Year
+squeaky clean
+stay clear of
+strike over
+studio apartment
+sweep through
+```
+
+```
+take great exception
+tangle with
+trip over a curb
+```
+
+```
+under one’s belt
+```
+
+```
+who fared the best
+```
