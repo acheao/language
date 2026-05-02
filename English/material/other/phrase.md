@@ -12,6 +12,7 @@ at stake
 
 ```
 be drawn to something
+blow your mind
 board of governors
 bound to
 ```
