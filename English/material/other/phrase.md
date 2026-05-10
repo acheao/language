@@ -12,12 +12,14 @@ at stake
 
 ```
 be drawn to something
+bend grammar
 blow your mind
 board of governors
 bound to
 ```
 
 ```
+carries more weight in marking
 carry out
 center on/centre on
 centring on
@@ -30,12 +32,15 @@ critical importance
 ```
 
 ```
+describe the stages of a process
+detailed logical argument
 dive in
 drawn up
 drove off
 ```
 
 ```
+factual information
 falls squarely within
 fell into the habit
 figure out
@@ -52,10 +57,13 @@ graduate programs
 ```
 handful of( = several)
 hit pay dirt
+hold back
 hook up
 ```
 
 ```
+instinctive conversation
+instruction manuals
 into the bargain
 ```
 
@@ -66,9 +74,15 @@ Junior Year
 ```
 
 ```
+labelling a diagram/plan/map
 lather up
 like a dose of salts
 looms large
+```
+
+```
+more extended texts
+multiple choice
 ```
 
 ```
@@ -83,6 +97,7 @@ over a 12-month period
 ```
 
 ```
+paragraph headings
 poll tax
 pull up
 ```
@@ -94,6 +109,7 @@ quick fix
 ```
 reached out
 reaching out
+realistic situations
 retinol serum
 rummage sale
 running water
@@ -107,14 +123,17 @@ slings and arrows
 Sophomore Year
 squeaky clean
 stay clear of
+stretch to
 strike over
 studio apartment
 sweep through
 ```
 
 ```
+tailored guidance
 take great exception
 tangle with
+ticked all the boxes
 trip over a curb
 ```
 

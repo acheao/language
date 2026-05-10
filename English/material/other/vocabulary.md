@@ -223,6 +223,7 @@ bolster
 bond
 bonus
 boost
+boosting
 bounce
 bound
 bracket
@@ -238,6 +239,7 @@ brick
 bricklayer
 brief
 brilliant
+brilliantly
 brink
 bristle
 bristlemouth
@@ -335,6 +337,7 @@ circumstance
 civil
 civilian
 clashed
+classification
 clause
 claw
 cleverly
@@ -368,6 +371,7 @@ colleague
 collectively
 collide
 collision
+colloquial
 colonial
 colony
 coma
@@ -395,6 +399,7 @@ compliance
 complicated
 complimentary
 comply
+comprehensive
 comprise
 compromise
 compulsory
@@ -473,6 +478,7 @@ corner
 coroner
 corporate
 corpse
+correctness
 corruption
 cosiness
 cosmetic
@@ -486,6 +492,7 @@ coupon
 courage
 courses
 crab
+crafted
 cram
 cramming
 cramped
@@ -577,6 +584,7 @@ depression
 depths
 deputy
 derivative
+descriptive
 desert
 deserve
 deserved
@@ -685,6 +693,7 @@ echelon
 edge
 edition
 efficiency
+effortless
 elaborate
 elbow
 elective
@@ -721,6 +730,7 @@ enhance
 enormous
 enormously
 enquiry
+enroll
 enshrine
 enterprise
 entertainment
@@ -794,6 +804,7 @@ export
 exporter
 expressionism
 expressive
+extension
 extensive
 external
 extinction
@@ -862,6 +873,7 @@ flood
 flooded
 flora
 flosser
+flow-chart
 fluid
 flutter
 foam
@@ -972,6 +984,7 @@ gutted
 habit
 habitat
 hail
+halffinished
 hall
 hallucinate
 halt
@@ -997,6 +1010,7 @@ heartfelt
 hedge
 hefty
 heighten
+heightened
 helicopter
 hellfire
 hepatitis
@@ -1114,9 +1128,11 @@ inspire
 inspiring
 instant
 instantly
+instinctive
 institute
 institution
 instruction
+instructive
 instructor
 instrument
 instrumentation
@@ -1129,6 +1145,7 @@ intense
 intensify
 intensity
 intent
+intention
 intentionally
 interaction
 intermediary
@@ -1149,6 +1166,7 @@ investigation
 investor
 irreversible
 irrigate
+irritation
 Islam
 iteration
 itinerant
@@ -1200,11 +1218,13 @@ laser
 lather
 Latin
 latte
+launch price
 lava
 lawn
 lawsuit
 layer
 leadership
+leaflets
 League
 leak
 leap
@@ -1222,6 +1242,7 @@ lender
 lens
 lethal
 leukaemia
+leveraging
 levity
 levy
 liberties
@@ -1357,6 +1378,7 @@ moisturizer
 momentum
 monitor
 monolingual
+monologue
 monster
 moral
 morale
@@ -1422,6 +1444,7 @@ nostalgia
 notable
 noun
 novel
+nuance
 nuclear
 nursery
 nutraceutical
@@ -1512,6 +1535,7 @@ partially
 participant
 participation
 particle
+passages
 passion
 passively
 passport
@@ -1603,6 +1627,7 @@ pre-eminent
 preacher
 precious
 precipitation
+precision
 predation
 predator
 predecessor
@@ -1926,6 +1951,7 @@ signature
 significant
 significantly
 silence
+simplify
 sincere
 sink
 situation
@@ -2110,6 +2136,7 @@ tablet
 tackle
 tacky
 tactic
+tailored
 tale
 talent
 talented
@@ -2154,6 +2181,7 @@ thump
 Tibetan
 tidy
 tile
+timetable
 timing
 tiny
 tissue
@@ -2239,6 +2267,7 @@ universal
 unprecedented
 unqualified
 unrealistic
+unshakable
 unwilling
 upcoming
 upheld
