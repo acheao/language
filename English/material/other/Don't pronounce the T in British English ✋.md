@@ -1,0 +1,5 @@
+unmistakably
+crisp
+vowel
+authentically
+genuinely
