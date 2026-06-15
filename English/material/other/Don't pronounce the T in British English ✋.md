@@ -18,3 +18,17 @@ chewy
 thistle
 emblem
 mistletoe
+asthma
+wristband
+obligatory
+depot
+ballet
+gourmet
+crochet
+chalet
+buffet
+valet
+rapport
+incorrectly
+-----
+two left feet

@@ -134,6 +134,7 @@ assignment
 associated
 assumption
 asteroid
+asthma
 astonish
 astonishing
 astonishment
@@ -150,6 +151,7 @@ audience
 audio
 auditor
 authentic
+authentically
 autograph
 automate
 automatic
@@ -254,6 +256,7 @@ brute
 bubble
 Buddhist
 budget
+buffet
 bullet
 bully
 bump
@@ -285,6 +288,7 @@ carpentry
 carpet
 carve
 cast
+castle
 casual
 catalogue
 catastrophically
@@ -298,6 +302,7 @@ celebrated
 celery
 cement
 certificate
+chalet
 champion
 channel
 chapel
@@ -320,6 +325,7 @@ chemist
 cheque
 cherish
 chest
+chewy
 childhood
 childproof
 chlorine
@@ -435,6 +441,7 @@ considerate
 consign
 consist
 consists
+consonant
 constant
 constituency
 constitute
@@ -501,7 +508,9 @@ creativity
 creature
 credible
 crime
+crisp
 criteria
+crochet
 crop
 cross
 crouched
@@ -706,6 +715,7 @@ elitism
 elsewhere
 embark
 embarrassment
+emblem
 embrace
 emergence
 emission
@@ -948,6 +958,7 @@ gnat
 goal
 gorgeous
 gossip
+gourmet
 gradual
 grain
 grand
@@ -966,6 +977,7 @@ grim
 grime
 grip
 gripping
+gristle
 grotesque
 grudge
 guarantee
@@ -1090,6 +1102,7 @@ inclusion
 inclusive
 incompetence
 inconsistent
+incorrectly
 incredibly
 independent
 indicative
@@ -1368,6 +1381,7 @@ mislead
 misleading
 misleadingly
 mist
+mistletoe
 mitigating
 mobility
 moderation
@@ -1456,6 +1470,7 @@ nutraceutical
 oar
 oath
 obesity
+obligatory
 oblivion
 observer
 obsession
@@ -1738,6 +1753,7 @@ raider
 ramp
 rampage
 rampant
+rapport
 rational
 razor
 readymade
@@ -1836,6 +1852,7 @@ revolve
 revolver
 revolving
 reward
+rhyme
 rhythm
 rib
 rife
@@ -2053,6 +2070,7 @@ stewardess
 stewardship
 stick
 sticky
+stiff
 stifle
 stigma
 stimulate
@@ -2176,6 +2194,7 @@ theft
 therefore
 thesis
 thicken
+thistle
 thought
 threshold
 throughout
@@ -2232,6 +2251,8 @@ tropic
 Troy
 truce
 truism
+tsar
+tsunami
 tuition
 tumour
 tuna
@@ -2266,6 +2287,7 @@ unfold
 uninspired
 uniqueness
 universal
+unmistakably
 unprecedented
 unqualified
 unrealistic
@@ -2295,6 +2317,7 @@ vacuum
 vacuuming
 vague
 vaguely
+valet
 van
 variety
 vary
@@ -2324,6 +2347,7 @@ visualize
 vital
 voluntary
 volunteer
+vowel
 vulnerable
 ```
 
@@ -2347,7 +2371,9 @@ wept
 whale
 whaler
 whaling
+whichever
 whisper
+whistle
 widen
 wildlife
 willingness
@@ -2365,4 +2391,5 @@ woven
 wreck
 wrecked
 wrestle
+wristband
 ```
