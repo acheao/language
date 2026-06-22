@@ -91,6 +91,7 @@
 ✓ antics
 ✓ anxiety
 ✓ apartment
+apostle
 ✓ appalling
 ✓ appeal
 ✓ Appendix
@@ -194,6 +195,7 @@
 ✓ belt
 ✓ bench
 ✓ bend
+berry
 ✓ beta
 ✓ betide
 ✓ betray
@@ -263,7 +265,9 @@
 ✓ burden
 ✓ bureaucracy
 ✓ burial
+burrow
 ✓ burst
+bustle
 ✓ butter
 ```
 
@@ -298,6 +302,7 @@ cathedral
 cattle
 cautionary
 ceasefire
+ceiling
 celebrated
 celery
 cement
@@ -313,6 +318,7 @@ charitable
 ✓ charity
 charred
 chase
+chasten
 checkout
 cheek
 cheeky
@@ -325,6 +331,7 @@ chemist
 cheque
 cherish
 chest
+chestnut
 chewy
 childhood
 childproof
@@ -335,6 +342,8 @@ cholesterol
 chopstick
 chord
 chore
+christen
+christened
 Christianity
 chronic
 church
@@ -442,6 +451,7 @@ consign
 consist
 consists
 consonant
+consonants
 ✓ constant
 constituency
 constitute
@@ -845,6 +855,7 @@ fascinating
 fascination
 fascism
 fashionable
+fasten
 fatal
 fate
 fated
@@ -909,6 +920,7 @@ fragment
 fraud
 freak
 freshwater
+fricative
 friction
 frictionless
 frog
@@ -950,6 +962,8 @@ gifted
 gigantic
 glamorous
 glimmer
+glisten
+glistening
 globalization
 gloom
 glowing
@@ -959,6 +973,7 @@ gnat
 gorgeous
 gossip
 gourmet
+gown
 gradual
 grain
 grand
@@ -1009,6 +1024,8 @@ hardliner
 hardly
 hare
 harmony
+hasten
+hastened to
 haunt
 haunting
 hazard
@@ -1067,6 +1084,7 @@ humiliating
 humiliation
 hurl
 hush
+hustle
 hydraulic
 hyperlinking
 hypnosis
@@ -1389,6 +1407,7 @@ modernization
 modest
 modular
 moist
+moisten
 moisture
 moisturizer
 momentum
@@ -1450,6 +1469,8 @@ nephew
 nerve
 nervous
 nest
+nestle
+nestling
 net-zero
 nickname
 niece
@@ -1477,6 +1498,7 @@ obsession
 obstacle
 occasion
 occasional
+occasionally
 occupation
 occur
 Oceanographic
@@ -1584,6 +1606,7 @@ persecution
 personality
 pessimistic
 pesticide
+pestle
 petition
 petroleum
 petty
@@ -1635,6 +1658,7 @@ posion
 positive
 possession
 possibility
+post-war
 posterity
 poverty
 powerful
@@ -1653,6 +1677,7 @@ predominantly
 prefer
 preference
 pregnant
+Prejudice
 preliminary
 premise
 prescribe
@@ -1670,6 +1695,7 @@ prevalent
 prevent
 previous
 prey
+Pride
 priest
 prime
 principle
@@ -1879,6 +1905,7 @@ ruling
 rumour
 rural
 rush
+rustle
 ```
 
 ```
@@ -1927,6 +1954,8 @@ seethe
 seize
 self-reflective
 senate
+Sense
+Sensibility
 sentiment
 sentimental
 sentimentality
@@ -1952,6 +1981,7 @@ shea
 shed
 sheer
 shield
+shiny
 shiver
 shopkeeper
 shore
@@ -1998,6 +2028,7 @@ soak
 soaked
 soap
 soccer
+soften
 soil
 sole
 solo
@@ -2099,6 +2130,7 @@ subjective
 subjunctive
 subordinate
 subsequent
+subsided
 subsidize
 substance
 substantial
@@ -2292,6 +2324,7 @@ unprecedented
 unqualified
 unrealistic
 unshakable
+unvoiced
 unwilling
 upcoming
 upheld
