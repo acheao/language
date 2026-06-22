@@ -1,270 +1,270 @@
 ﻿```
-abdominal
-abhorrent
-abortion
-abrasive
-abroad
-absorb
-abundance
-abundant
-academic
-accent
-access
-accessible
-acclaim
-accommodation
-accompaniment
-accompanist
-accompany
-accomplish
-accordance
-accordingly
-accuracy
-accurate
-aching
-acquire
-acute
-adaptation
-addiction
-adequate
-adjourn
-admiration
-admire
-admission
-adolescent
-adopt
-adopted
-advance
-advanced
-advantage
-adventure
-adversary
-advisory
-aerobics
-affair
-affection
-affluent
-afford
-aftermath
-afterwards
-afterword
-aggressive
-aggressively
-agile
-agriculture
-aide
-aircraft
-airmen
-aisle
-album
-alcohol
-alcoholism
-algae
-all-time
-Allah
-allegation
-allege
-allegiance
-alliance
-allocate
-alongside
-alphabet
-alphabetically
-alternative
-amateur
-amaze
-amazing
-amazingly
-ambiguity
-amid
-ammunition
-amongst
-amuse
-amused
-anecdote
-animate
-ankle
-anniversary
-annual
-anti-malaria
-antibiotic
-antics
-anxiety
-apartment
-appalling
-appeal
-Appendix
-appliance
-applicant
-application
-apprehension
-appropriate
-approval
-approximate
-approximately
-April
-aquaculture
-archaeological
-archaeologist
-archaeology
-archers
-architect
-architecture
-Arctic
-arguable
-arguably
-argue
-aristocracy
-armour
-armpit
-arose
-arrangement
-arrest
-artillery
-aspect
-assassinate
-assassination
-assault
-assemble
-assembly
-assessor
-asset
-assign
-assignment
-associated
-assumption
-asteroid
-asthma
-astonish
-astonishing
-astonishment
-astronaut
-asylum
-athlete
-Atlantic
-atlas
-atmosphere
-atmospheric
-attorney
-auction
-audience
-audio
-auditor
-authentic
-authentically
-autograph
-automate
-automatic
-automatically
-autonomy
-autopilot
-availability
-available
-aware
-awesome
-awful
-awkward
+✓ abdominal
+✓ abhorrent
+✓ abortion
+✓ abrasive
+✓ abroad
+✓ absorb
+✓ abundance
+✓ abundant
+✓ academic
+✓ accent
+✓ access
+✓ accessible
+✓ acclaim
+✓ accommodation
+✓ accompaniment
+✓ accompanist
+✓ accompany
+✓ accomplish
+✓ accordance
+✓ accordingly
+✓ accuracy
+✓ accurate
+✓ aching
+✓ acquire
+✓ acute
+✓ adaptation
+✓ addiction
+✓ adequate
+✓ adjourn
+✓ admiration
+✓ admire
+✓ admission
+✓ adolescent
+✓ adopt
+✓ adopted
+✓ advance
+✓ advanced
+✓ advantage
+✓ adventure
+✓ adversary
+✓ advisory
+✓ aerobics
+✓ affair
+✓ affection
+✓ affluent
+✓ afford
+✓ aftermath
+✓ afterwards
+✓ afterword
+✓ aggressive
+✓ aggressively
+✓ agile
+✓ agriculture
+✓ aide
+✓ aircraft
+✓ airmen
+✓ aisle
+✓ album
+✓ alcohol
+✓ alcoholism
+✓ algae
+✓ all-time
+✓ Allah
+✓ allegation
+✓ allege
+✓ allegiance
+✓ alliance
+✓ allocate
+✓ alongside
+✓ alphabet
+✓ alphabetically
+✓ alternative
+✓ amateur
+✓ amaze
+✓ amazing
+✓ amazingly
+✓ ambiguity
+✓ amid
+✓ ammunition
+✓ amongst
+✓ amuse
+✓ amused
+✓ anecdote
+✓ animate
+✓ ankle
+✓ anniversary
+✓ annual
+✓ anti-malaria
+✓ antibiotic
+✓ antics
+✓ anxiety
+✓ apartment
+✓ appalling
+✓ appeal
+✓ Appendix
+✓ appliance
+✓ applicant
+✓ application
+✓ apprehension
+✓ appropriate
+✓ approval
+✓ approximate
+✓ approximately
+✓ April
+✓ aquaculture
+✓ archaeological
+✓ archaeologist
+✓ archaeology
+✓ archers
+✓ architect
+✓ architecture
+✓ Arctic
+✓ arguable
+✓ arguably
+✓ argue
+✓ aristocracy
+✓ armour
+✓ armpit
+✓ arose
+✓ arrangement
+✓ arrest
+✓ artillery
+✓ aspect
+✓ assassinate
+✓ assassination
+✓ assault
+✓ assemble
+✓ assembly
+✓ assessor
+✓ asset
+✓ assign
+✓ assignment
+✓ associated
+✓ assumption
+✓ asteroid
+✓ asthma
+✓ astonish
+✓ astonishing
+✓ astonishment
+✓ astronaut
+✓ asylum
+✓ athlete
+✓ Atlantic
+✓ atlas
+✓ atmosphere
+✓ atmospheric
+✓ attorney
+✓ auction
+✓ audience
+✓ audio
+✓ auditor
+✓ authentic
+✓ authentically
+✓ autograph
+✓ automate
+✓ automatic
+✓ automatically
+✓ autonomy
+✓ autopilot
+✓ availability
+✓ available
+✓ aware
+✓ awesome
+✓ awful
+✓ awkward
 ```
 
 ```
-backwards
-bacteria
-bacterium
-bakery
-balcony
-ballet
-ballooned
-ballot
-band
-bankruptcy
-banter
-barely
-bargain
-barrier
-basin
-bat
-bathtub
-bead
-bearer
-bedtime
-behalf
-behave
-behaviour
-Belgian
-belt
-bench
-bend
-beta
-betide
-betray
-betrayal
-bibliography
-bicker
-bickering
-bilingual
-bioenergy
-bioengineering
-biography
-biologist
-bioluminescence
-biomass
-bipartisan
-bizarre
-blackened
-bleach
-bleak
-blend
-blessed
-blew
-blind
-blindly
-bloc
-blonde
-blow
-bolster
-bond
-bonus
-boost
-boosting
-bounce
-bound
-bracket
-brand
-brass
-bravery
-Brazilian
-breakthrough
-breathtaking
-breeze
-bribe
-brick
-bricklayer
-brief
-brilliant
-brilliantly
-brink
-bristle
-bristlemouth
-broad
-broadcast
-brooch
-brutalism
-brutalist
-brutalize
-brutally
-brute
-bubble
-Buddhist
-budget
-buffet
-bullet
-bully
-bump
-burden
-bureaucracy
-burial
-burst
-butter
+✓ backwards
+✓ bacteria
+✓ bacterium
+✓ bakery
+✓ balcony
+✓ ballet
+✓ ballooned
+✓ ballot
+✓ band
+✓ bankruptcy
+✓ banter
+✓ barely
+✓ bargain
+✓ barrier
+✓ basin
+✓ bat
+✓ bathtub
+✓ bead
+✓ bearer
+✓ bedtime
+✓ behalf
+✓ behave
+✓ behaviour
+✓ Belgian
+✓ belt
+✓ bench
+✓ bend
+✓ beta
+✓ betide
+✓ betray
+✓ betrayal
+✓ bibliography
+✓ bicker
+✓ bickering
+✓ bilingual
+✓ bioenergy
+✓ bioengineering
+✓ biography
+✓ biologist
+✓ bioluminescence
+✓ biomass
+✓ bipartisan
+✓ bizarre
+✓ blackened
+✓ bleach
+✓ bleak
+✓ blend
+✓ blessed
+✓ blew
+✓ blind
+✓ blindly
+✓ bloc
+✓ blonde
+✓ blow
+✓ bolster
+✓ bond
+✓ bonus
+✓ boost
+✓ boosting
+✓ bounce
+✓ bound
+✓ bracket
+✓ brand
+✓ brass
+✓ bravery
+✓ Brazilian
+✓ breakthrough
+✓ breathtaking
+✓ breeze
+✓ bribe
+✓ brick
+✓ bricklayer
+✓ brief
+✓ brilliant
+✓ brilliantly
+✓ brink
+✓ bristle
+✓ bristlemouth
+✓ broad
+✓ broadcast
+✓ brooch
+✓ brutalism
+✓ brutalist
+✓ brutalize
+✓ brutally
+✓ brute
+✓ bubble
+✓ Buddhist
+✓ budget
+✓ buffet
+✓ bullet
+✓ bully
+✓ bump
+✓ burden
+✓ bureaucracy
+✓ burial
+✓ burst
+✓ butter
 ```
 
 ```
@@ -272,10 +272,10 @@ cable
 cafe
 cage
 calcium
-calm
+✓ calm
 Cambridge
 cameo
-campus
+✓ campus
 canal
 candidate
 candle
@@ -310,7 +310,7 @@ character
 characteristic
 charismatic
 charitable
-charity
+✓ charity
 charred
 chase
 checkout
@@ -414,7 +414,7 @@ concentrated
 concentration
 concerned
 concession
-concrete
+✓ concrete
 condemn
 condemnation
 conditioner
@@ -442,7 +442,7 @@ consign
 consist
 consists
 consonant
-constant
+✓ constant
 constituency
 constitute
 constitution
@@ -482,7 +482,7 @@ coping
 copyright
 coral
 coriander
-corner
+✓ corner
 coroner
 corporate
 corpse
@@ -497,7 +497,7 @@ counter
 countryside
 coup
 coupon
-courage
+✓ courage
 courses
 crab
 crafted
@@ -545,7 +545,7 @@ daydream
 deaf
 dealt
 dean
-debate
+✓ debate
 decade
 decay
 decease
@@ -587,7 +587,7 @@ denial
 dense
 dental
 dentist
-deodorant
+✓ deodorant
 deportation
 depot
 depression
@@ -691,7 +691,7 @@ droplet
 dual
 dug
 dumb
-dusk
+✓ dusk
 dust
 ```
 
@@ -761,7 +761,7 @@ epiphany
 episode
 equip
 erode
-essay
+✓ essay
 essential
 estate
 estimate
@@ -805,7 +805,7 @@ expedition
 expenditure
 expensive
 expert
-explanation
+✓ explanation
 exploit
 exploiting
 exploration
@@ -820,7 +820,7 @@ extensive
 external
 extinction
 extinguisher
-extra
+✓ extra
 ```
 
 ```
@@ -894,7 +894,7 @@ forecast
 forehead
 forensic
 forge
-formal
+✓ formal
 fortnight
 fortunate
 fortune
@@ -955,7 +955,7 @@ gloom
 glowing
 glucose
 gnat
-goal
+✓ goal
 gorgeous
 gossip
 gourmet
@@ -998,7 +998,7 @@ habit
 habitat
 hail
 halffinished
-hall
+✓ hall
 hallucinate
 halt
 hammering
@@ -1198,7 +1198,7 @@ journal
 journalism
 journalist
 Judaism
-judge
+✓ judge
 judging
 judicial
 judo
@@ -1263,7 +1263,7 @@ levy
 liberties
 libertine
 liberty
-library
+✓ library
 lid
 lifelong
 lift
@@ -1280,7 +1280,7 @@ liven
 loan
 locust
 loom
-lot
+✓ lot
 lotion
 loyalty
 luggage
@@ -1332,7 +1332,7 @@ mechanical
 mechanism
 mediation
 medication
-medicine
+✓ medicine
 medium
 melody
 membership
@@ -1420,7 +1420,7 @@ multiscale
 murder
 muscle
 muscular
-museum
+✓ museum
 Muslim
 mutually
 mystery
@@ -1440,11 +1440,11 @@ naval
 navigate
 navy
 neat
-necklace
+✓ necklace
 negatively
 negligence
 negotiation
-neighborhood
+✓ neighborhood
 neighbour
 nephew
 nerve
@@ -1459,7 +1459,7 @@ nominee
 nostalgia
 notable
 noun
-novel
+✓ novel
 nuance
 nuclear
 nursery
@@ -1545,7 +1545,7 @@ paralyse
 paramount
 parcel
 parish
-parliament
+✓ parliament
 parliamentary
 part-way
 partially
@@ -1592,7 +1592,7 @@ phenomenon
 philosopher
 philosophy
 photograph
-photographer
+✓ photographer
 photosynthetic
 phrase
 pile
@@ -1613,14 +1613,14 @@ playfully
 playfulness
 pleasant
 plenty
-plot
+✓ plot
 plunge
 pneumonia
 podium
 pointless
 poison
 poisonous
-policy
+✓ policy
 polite
 politically
 poll
@@ -1661,7 +1661,7 @@ present
 presenter
 preserve
 presidential
-pressure
+✓ pressure
 prestige
 pretend
 prevail
@@ -1688,7 +1688,7 @@ procrastinator
 prodigious
 produce
 producer
-product
+✓ product
 production
 productivity
 profess
@@ -1707,7 +1707,7 @@ prolongation
 promote
 promotion
 prone
-pronunciation
+✓ pronunciation
 propaganda
 propagating
 proposal
@@ -1735,7 +1735,7 @@ quarterback
 quartet
 questionable
 questionnaire
-quiet
+✓ quiet
 quiz
 ```
 
@@ -1774,7 +1774,7 @@ recur
 referee
 referendum
 reflect
-reform
+✓ reform
 refrigerator
 refugee
 regain
@@ -1784,7 +1784,7 @@ regeneration
 regime
 regional
 registration
-regular
+✓ regular
 regulatory
 reinvent
 relegate
@@ -1969,7 +1969,7 @@ signal
 signature
 significant
 significantly
-silence
+✓ silence
 simplify
 sincere
 sink
@@ -1988,7 +1988,7 @@ slump
 slur
 slurp
 slurping
-smooth
+✓ smooth
 smoother
 smuggler
 sneakiest
@@ -2051,7 +2051,7 @@ squib
 stab
 stabbing
 stability
-stage
+✓ stage
 stagnant
 staircase
 stake
@@ -2084,7 +2084,7 @@ stranger
 strategic
 straw
 streamline
-stress
+✓ stress
 stretch
 strict
 string
@@ -2092,7 +2092,7 @@ stringent
 stripe
 stroked
 structure
-studio
+✓ studio
 stumble
 subcommittee
 subjective
@@ -2158,7 +2158,7 @@ tacky
 tactic
 tailored
 tale
-talent
+✓ talent
 talented
 tangible
 tangle
@@ -2382,7 +2382,7 @@ wither
 withering
 witness
 woe
-wood
+✓ wood
 wool
 workload
 workmate
