@@ -1,3 +1,4 @@
+```
 monologue
 multiple choice
 flow-chart
@@ -17,3 +18,4 @@ descriptive
 instructive
 carries more weight in marking
 describe the stages of a process
+```
