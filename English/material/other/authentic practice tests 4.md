@@ -1,21 +1,24 @@
 ```
 monologue
-multiple choice
 flow-chart
 timetable
-labelling a diagram/plan/map
 classification
 passages
-detailed logical argument
-paragraph headings
 leaflets
-instruction manuals
-factual information
 relevant
-more extended texts
 emphasis
 descriptive
 instructive
+```
+
+```
+labelling a diagram/plan/map
+multiple choice
+detailed logical argument
+paragraph headings
+instruction manuals
+factual information
+more extended texts
 carries more weight in marking
 describe the stages of a process
 ```
