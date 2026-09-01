@@ -386,6 +386,7 @@ colleague
 collectively
 collide
 collision
+collocation
 colloquial
 colonial
 colony
@@ -401,6 +402,7 @@ commissioner
 commitment
 communal
 communicator
+comparative
 comparison
 compassion
 compel
@@ -450,6 +452,7 @@ considerate
 consign
 consist
 consists
+consolidate
 consonant
 consonants
 ✓ constant
@@ -467,8 +470,10 @@ contempt
 contender
 content
 continent
+continuous
 continuously
 contour
+contract
 contraction
 contractor
 contrary
@@ -781,6 +786,7 @@ ethnic
 ethnic/racial
 ethnicity
 euro
+Europeans
 evacuate
 evaluate
 evaluation
@@ -961,6 +967,7 @@ giant
 gifted
 gigantic
 glamorous
+glide
 glimmer
 glisten
 glistening
@@ -1120,6 +1127,7 @@ inclusion
 inclusive
 incompetence
 inconsistent
+incorrect
 incorrectly
 incredibly
 independent
@@ -1638,6 +1646,7 @@ pleasant
 plenty
 ✓ plot
 plunge
+plural
 pneumonia
 podium
 pointless
@@ -1680,6 +1689,7 @@ pregnant
 Prejudice
 preliminary
 premise
+preposition
 prescribe
 prescription
 present
@@ -1763,6 +1773,7 @@ questionable
 questionnaire
 ✓ quiet
 quiz
+quizzes
 ```
 
 ```
@@ -1797,6 +1808,7 @@ reconstructive
 recovery
 recruit
 recur
+refer to
 referee
 referendum
 reflect
@@ -2065,6 +2077,7 @@ splash
 sponsor
 spontaneity
 spontaneous
+spot
 spraining
 spreadsheet
 sprint
@@ -2148,6 +2161,7 @@ sunlight
 sunlit
 sunscreen
 superefficient
+superlatives
 supermassive
 supervisor
 supposed
@@ -2157,6 +2171,7 @@ surgery
 surprising
 surprisingly
 surround
+survey
 sushi
 suspicion
 sustain
@@ -2278,6 +2293,7 @@ triad
 trial
 tribal
 trick
+tricky
 trolley
 tropic
 Troy
