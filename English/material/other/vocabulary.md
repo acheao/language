@@ -1,4 +1,5 @@
 ﻿```
+a fair bit (of)
 ✓ abdominal
 ✓ abhorrent
 ✓ abortion
@@ -21,6 +22,7 @@
 ✓ accordingly
 ✓ accuracy
 ✓ accurate
+accusatory
 ✓ aching
 ✓ acquire
 ✓ acute
@@ -53,6 +55,7 @@
 ✓ agile
 ✓ agriculture
 ✓ aide
+air conditioning
 ✓ aircraft
 ✓ airmen
 ✓ aisle
@@ -89,6 +92,7 @@
 ✓ anti-malaria
 ✓ antibiotic
 ✓ antics
+antithetical/contradictory/opposite
 ✓ anxiety
 ✓ apartment
 apostle
@@ -185,6 +189,7 @@ apostle
 ✓ basin
 ✓ bat
 ✓ bathtub
+be topped with
 ✓ bead
 ✓ bearer
 ✓ bedtime
@@ -196,6 +201,7 @@ apostle
 ✓ bench
 ✓ bend
 berry
+berserk
 ✓ beta
 ✓ betide
 ✓ betray
@@ -250,6 +256,7 @@ berry
 ✓ broad
 ✓ broadcast
 ✓ brooch
+browse
 ✓ brutalism
 ✓ brutalist
 ✓ brutalize
@@ -265,6 +272,7 @@ berry
 ✓ burden
 ✓ bureaucracy
 ✓ burial
+buried by work
 burrow
 ✓ burst
 bustle
@@ -515,6 +523,7 @@ coupon
 ✓ courage
 courses
 crab
+crack
 crafted
 cram
 cramming
@@ -655,6 +664,7 @@ disgust
 disgusted
 disgustedly
 disgusting
+dishonesty
 disintegrate
 disintegrated
 disintegrating
@@ -701,6 +711,7 @@ drawer
 dread
 dreary
 drench
+drift
 drill
 droplet
 dual
@@ -872,6 +883,9 @@ favour
 fear
 featured
 federal
+feign
+feign ignorance
+feign surprise
 femininity
 fence
 fetch
@@ -930,6 +944,7 @@ fricative
 friction
 frictionless
 frog
+frothy
 froze
 frustration
 fuel
@@ -976,6 +991,8 @@ gloom
 glowing
 glucose
 gnat
+go absolutely berserk
+go-to phrase
 ✓ goal
 gorgeous
 gossip
@@ -1084,6 +1101,7 @@ hospitality
 hostility
 hotline
 household
+how come/why didn't
 hum
 humanitarian
 humiliate
@@ -1100,6 +1118,7 @@ hypothesis
 ```
 
 ```
+I get accused of
 identical
 idiom
 idiomatically
@@ -1130,6 +1149,7 @@ inconsistent
 incorrect
 incorrectly
 incredibly
+inculcate
 independent
 indicative
 indicator
@@ -1168,6 +1188,7 @@ inspire
 inspiring
 instant
 instantly
+instill
 instinctive
 institute
 institution
@@ -1305,6 +1326,7 @@ litter
 liven
 loan
 locust
+look out for
 loom
 ✓ lot
 lotion
@@ -1398,14 +1420,17 @@ minimally
 minimum
 mining
 minister
+minor
 minority
 miracle
 miraculously
 misconduct
 misery
+mishap
 mislead
 misleading
 misleadingly
+misspelling
 mist
 mistletoe
 mitigating
@@ -1483,6 +1508,7 @@ net-zero
 nickname
 niece
 nimble
+No harm done
 nominate
 nominee
 nostalgia
@@ -1517,6 +1543,8 @@ offensive
 offside
 olive
 onboard
+onomatopoeia
+onomatopoeic
 opaque
 operational
 opinionated
@@ -1553,6 +1581,7 @@ oversaw
 overseas
 oversee
 overshoot
+overstate
 overt
 overwhelm
 overwhelmingly
@@ -1574,6 +1603,7 @@ paradigm
 paralyse
 paramount
 parcel
+parched
 parish
 ✓ parliament
 parliamentary
@@ -1612,6 +1642,7 @@ perplex
 persecute
 persecution
 personality
+peruse/pursue
 pessimistic
 pesticide
 pestle
@@ -1763,6 +1794,7 @@ pump
 pure
 purple
 pursue
+pushy
 ```
 
 ```
@@ -1796,6 +1828,7 @@ razor
 readymade
 realm
 reap
+reassure
 rebel
 recall
 recession
@@ -2012,6 +2045,7 @@ signature
 significant
 significantly
 ✓ silence
+simplicity
 simplify
 sincere
 sink
@@ -2035,6 +2069,8 @@ smoother
 smuggler
 sneakiest
 sneaky
+sniff
+sniffing a lot
 snippet
 soak
 soaked
@@ -2174,6 +2210,7 @@ surround
 survey
 sushi
 suspicion
+suspicious
 sustain
 sustainably
 sustained
@@ -2189,6 +2226,7 @@ swift
 swiftness
 swing
 swirl
+swoosh
 sword
 swordfish
 syllable
@@ -2220,6 +2258,7 @@ teem
 televise
 temper
 temperature
+templates
 temple
 temporary
 tenant
@@ -2236,6 +2275,7 @@ testimonial
 testimony
 Thai
 thalassemia
+the sniffles
 theatre
 theft
 therefore
@@ -2251,8 +2291,10 @@ tidy
 tile
 timetable
 timing
+tinker
 tiny
 tissue
+tissues
 toe
 toll
 toolbox
