@@ -1,5 +1,4 @@
-﻿```
-a fair bit (of)
+```
 ✓ abdominal
 ✓ abhorrent
 ✓ abortion
@@ -55,7 +54,6 @@ accusatory
 ✓ agile
 ✓ agriculture
 ✓ aide
-air conditioning
 ✓ aircraft
 ✓ airmen
 ✓ aisle
@@ -189,7 +187,6 @@ apostle
 ✓ basin
 ✓ bat
 ✓ bathtub
-be topped with
 ✓ bead
 ✓ bearer
 ✓ bedtime
@@ -272,7 +269,6 @@ browse
 ✓ burden
 ✓ bureaucracy
 ✓ burial
-buried by work
 burrow
 ✓ burst
 bustle
@@ -884,8 +880,6 @@ fear
 featured
 federal
 feign
-feign ignorance
-feign surprise
 femininity
 fence
 fetch
@@ -991,8 +985,6 @@ gloom
 glowing
 glucose
 gnat
-go absolutely berserk
-go-to phrase
 ✓ goal
 gorgeous
 gossip
@@ -1101,7 +1093,6 @@ hospitality
 hostility
 hotline
 household
-how come/why didn't
 hum
 humanitarian
 humiliate
@@ -1118,7 +1109,6 @@ hypothesis
 ```
 
 ```
-I get accused of
 identical
 idiom
 idiomatically
@@ -1326,7 +1316,6 @@ litter
 liven
 loan
 locust
-look out for
 loom
 ✓ lot
 lotion
@@ -2070,7 +2059,6 @@ smuggler
 sneakiest
 sneaky
 sniff
-sniffing a lot
 snippet
 soak
 soaked
@@ -2275,7 +2263,6 @@ testimonial
 testimony
 Thai
 thalassemia
-the sniffles
 theatre
 theft
 therefore
