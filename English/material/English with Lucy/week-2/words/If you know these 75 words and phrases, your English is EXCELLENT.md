@@ -1,35 +1,23 @@
 ```
 pushy
 relevant
-a fair bit (of)
-No harm done
 drift
-buried by work
 overstate
-go-to phrase
 reassure
 minor
 mishap
 misspelling
-I get accused of
 accusatory
 frothy
-how come/why didn't
-look out for
-be topped with
 suspicious
 tinker
 feign
-feign surprise
 enthusiasm
-the sniffles
-feign ignorance
 sniff
 onomatopoeic
 onomatopoeia
 swoosh
 crack
-sniffing a lot
 tissues
 peruse/pursue
 browse
@@ -38,13 +26,72 @@ templates
 berserk
 crowd
 antithetical/contradictory/opposite
-go absolutely berserk
 dishonesty
 simplicity
 parched
-air conditioning
 inculcate
 instill
+thorough
+inculcate
+doomscrolling
+compound
+addictively
+scroll hole
+lose track of time
+initialism
+abbreviation
+versatile
+disc
+autonomous
+sensory
+meridian
+sensation
+acronym
+tingling
+tingles
+cringeworthy
+cringe
+horrendously
+embarrassed
+cringey
+silly
+NIMBY
+ultimate
+evident
+setbacks
+relatively
+reckon
+principles
+vowel
+versatile
+deliberate
+intentional
+opposite
+squeeze
+syllables
+unintentional
+heteronyms
+bonus
 ```
 
-
+```
+reach a decision
+a fair bit (of)
+No harm done
+buried by work
+go-to phrase
+I get accused of
+how come/why didn't
+look out for
+be topped with
+feign surprise
+the sniffles
+feign ignorance
+sniffing a lot
+go absolutely berserk
+air conditioning
+refers to
+wind farm
+ring a bell
+get the ball rolling
+```

@@ -1,4 +1,5 @@
-```
+﻿```
+abbreviation
 ✓ abdominal
 ✓ abhorrent
 ✓ abortion
@@ -24,9 +25,11 @@
 accusatory
 ✓ aching
 ✓ acquire
+acronym
 ✓ acute
 ✓ adaptation
 ✓ addiction
+addictively
 ✓ adequate
 ✓ adjourn
 ✓ admiration
@@ -159,6 +162,7 @@ apostle
 ✓ automate
 ✓ automatic
 ✓ automatically
+autonomous
 ✓ autonomy
 ✓ autopilot
 ✓ availability
@@ -420,6 +424,7 @@ compliance
 complicated
 complimentary
 comply
+compound
 comprehend
 comprehensive
 comprise
@@ -528,6 +533,9 @@ creativity
 creature
 credible
 crime
+cringe
+cringeworthy
+cringey
 crisp
 criteria
 crochet
@@ -593,6 +601,7 @@ defuse
 degree
 delay
 delegation
+deliberate
 delicate
 delight
 delighted
@@ -652,6 +661,7 @@ director
 disagreeable
 disagreement
 disappointment
+disc
 discount
 discriminate
 discrimination
@@ -691,6 +701,7 @@ documentary
 domestic
 dominate
 doomed
+doomscrolling
 doorbell
 doorway
 dorm
@@ -736,6 +747,7 @@ eliminate
 elitism
 elsewhere
 embark
+embarrassed
 embarrassment
 emblem
 embrace
@@ -797,6 +809,7 @@ Europeans
 evacuate
 evaluate
 evaluation
+evident
 evolve
 exaggeration
 examination
@@ -1063,6 +1076,7 @@ hepatitis
 heritage
 heroism
 heron
+heteronyms
 hideously
 hierarchical
 highlight
@@ -1165,6 +1179,7 @@ inhabitant
 inherit
 inherited
 initial
+initialism
 injury
 innocence
 innovation
@@ -1197,6 +1212,7 @@ intensify
 intensity
 intent
 intention
+intentional
 intentionally
 interaction
 intermediary
@@ -1317,6 +1333,7 @@ liven
 loan
 locust
 loom
+lose track of time
 ✓ lot
 lotion
 loyalty
@@ -1375,6 +1392,7 @@ melody
 membership
 memorial
 mere
+meridian
 merit
 mess
 messy
@@ -1497,6 +1515,7 @@ net-zero
 nickname
 niece
 nimble
+NIMBY
 No harm done
 nominate
 nominee
@@ -1730,6 +1749,7 @@ priest
 prime
 principle
 principled
+principles
 privacy
 prize
 prized
@@ -1847,6 +1867,7 @@ registration
 ✓ regular
 regulatory
 reinvent
+relatively
 relegate
 relevant
 reliance
@@ -1977,6 +1998,7 @@ scrapheap
 scratch
 scratched
 scroll
+scroll hole
 scrub
 scrunch
 scrutiny
@@ -1988,8 +2010,10 @@ seethe
 seize
 self-reflective
 senate
+sensation
 Sense
 Sensibility
+sensory
 sentiment
 sentimental
 sentimentality
@@ -1997,6 +2021,7 @@ sentimentalize
 sequence
 sermon
 servant
+setbacks
 shadow
 shaft
 shaking
@@ -2034,6 +2059,7 @@ signature
 significant
 significantly
 ✓ silence
+silly
 simplicity
 simplify
 sincere
@@ -2218,6 +2244,7 @@ swoosh
 sword
 swordfish
 syllable
+syllables
 symbol
 sympathy
 symptom
@@ -2269,6 +2296,7 @@ therefore
 thesis
 thicken
 thistle
+thorough
 thought
 threshold
 throughout
@@ -2278,6 +2306,8 @@ tidy
 tile
 timetable
 timing
+tingles
+tingling
 tinker
 tiny
 tissue
@@ -2345,6 +2375,7 @@ tyre
 
 ```
 ubiquitous
+ultimate
 ultimately
 unanimously
 uncharted
@@ -2362,6 +2393,7 @@ unexpected
 unexplored
 unfold
 uninspired
+unintentional
 uniqueness
 universal
 unmistakably
@@ -2405,6 +2437,7 @@ vehicle
 vein
 venom
 verdict
+versatile
 vertebrate
 vicar
 victim

@@ -59,6 +59,7 @@ Freshman
 ```
 gelatin paper
 get stuck
+get the ball rolling
 go absolutely berserk
 go-to phrase
 graduate programs
@@ -101,6 +102,7 @@ multiple choice
 ```
 nail clipper
 nail scissors
+No harm done
 ```
 
 ```
@@ -121,10 +123,13 @@ quick fix
 ```
 
 ```
+reach a decision
 reached out
 reaching out
 realistic situations
+refers to
 retinol serum
+ring a bell
 rummage sale
 running water
 ```
@@ -160,4 +165,5 @@ under one’s belt
 
 ```
 who fared the best
+wind farm
 ```
