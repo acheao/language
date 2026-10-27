@@ -72,6 +72,67 @@ syllables
 unintentional
 heteronyms
 bonus
+lamb
+vegetarian
+garage 
+landlord 
+carpenter 
+rival 
+unveiled 
+finicky 
+fussy 
+ableism 
+Nomophobia 
+invisible 
+medicine
+duty
+intransitive
+cruel
+definition
+keen
+enthusiastic
+sailing
+consonant
+vowel
+manner
+seaside
+thick
+mammals
+sphinx
+article
+tiny
+bakery
+anecdotes
+precise
+chop
+convinced
+axe
+logs
+carrots
+onions
+vivid
+portrayal
+synonym
+construct
+Alarmed
+frightened
+appeal
+attractive
+prospect
+rested
+rental
+characteristics
+phrase
+skiing
+feelgood
+compound
+positive
+hyphen
+cluster
+sock
+push-ups
+feelgood
+hyphen
 ```
 
 ```
@@ -94,29 +155,27 @@ refers to
 wind farm
 ring a bell
 get the ball rolling
-```
-
-```
-lamb
-vegetarian
 be blessed with 
-garage 
-landlord 
 construction site 
 into place 
-carpenter 
-rival 
-unveiled 
 processing power 
 having a picnic 
-finicky 
-fussy 
 disapproving adjective 
-ableism 
-Nomophobia 
 fed up with 
-invisible 
 syllable stress
-medicine
-duty
+to fool
+to trick
+to expand
+in the heat
+sphinx cat
+washed away
+in favor of
+ought to
+first round
+passive structures
+go along
+end of an era
+let somebody down
+phrasal verbs
+show off
 ```

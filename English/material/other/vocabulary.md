@@ -2,6 +2,7 @@
 abbreviation
 ✓ abdominal
 ✓ abhorrent
+ableism
 ✓ abortion
 ✓ abrasive
 ✓ abroad
@@ -60,6 +61,7 @@ addictively
 ✓ aircraft
 ✓ airmen
 ✓ aisle
+Alarmed
 ✓ album
 ✓ alcohol
 ✓ alcoholism
@@ -86,6 +88,7 @@ addictively
 ✓ amuse
 ✓ amused
 ✓ anecdote
+anecdotes
 ✓ animate
 ✓ ankle
 ✓ anniversary
@@ -126,6 +129,7 @@ apostle
 ✓ arose
 ✓ arrangement
 ✓ arrest
+article
 ✓ artillery
 ✓ aspect
 ✓ assassinate
@@ -152,6 +156,7 @@ apostle
 ✓ atmosphere
 ✓ atmospheric
 ✓ attorney
+attractive
 ✓ auction
 ✓ audience
 ✓ audio
@@ -171,6 +176,7 @@ autonomous
 ✓ awesome
 ✓ awful
 ✓ awkward
+axe
 ```
 
 ```
@@ -296,8 +302,10 @@ capacity
 capital
 capsule
 caricature
+carpenter
 carpentry
 carpet
+carrots
 carve
 cast
 castle
@@ -321,6 +329,7 @@ channel
 chapel
 character
 characteristic
+characteristics
 charismatic
 charitable
 ✓ charity
@@ -347,6 +356,7 @@ chlorine
 chloroquine
 cholera
 cholesterol
+chop
 chopstick
 chord
 chore
@@ -372,6 +382,7 @@ clipper
 clips
 clumsy
 clung
+cluster
 clutch
 clutter
 coach
@@ -468,6 +479,7 @@ consonants
 constituency
 constitute
 constitution
+construct
 construction
 consult
 consultant
@@ -545,6 +557,7 @@ crouched
 crowd
 crowded
 crucial
+cruel
 cruise
 cryptic
 crystal
@@ -596,6 +609,7 @@ defendant
 defender
 defiance
 definitely
+definition
 deforestation
 defuse
 degree
@@ -726,6 +740,7 @@ dug
 dumb
 ✓ dusk
 dust
+duty
 ```
 
 ```
@@ -892,6 +907,7 @@ favour
 fear
 featured
 federal
+feelgood
 feign
 femininity
 fence
@@ -902,6 +918,7 @@ fiery
 fighter
 fighting
 figurative
+finicky
 firearm
 firewood
 fiscal
@@ -950,6 +967,7 @@ freshwater
 fricative
 friction
 frictionless
+frightened
 frog
 frothy
 froze
@@ -964,12 +982,14 @@ furious
 furiously
 furniture
 fuss
+fussy
 ```
 
 ```
 gallery
 gallop
 galloping
+garage
 gatekeepers
 gear
 gel
@@ -1117,6 +1137,7 @@ hush
 hustle
 hydraulic
 hyperlinking
+hyphen
 hypnosis
 hypocritical
 hypothesis
@@ -1226,11 +1247,13 @@ intimate
 intimately
 intolerance
 intonation
+intransitive
 intruder
 invasive
 inversely
 investigation
 investor
+invisible
 irrelevant
 irreversible
 irrigate
@@ -1264,6 +1287,7 @@ jury
 
 ```
 kangaroo
+keen
 kick
 kidnapping
 kidney
@@ -1280,6 +1304,8 @@ krill
 labour
 lactose
 ladder
+lamb
+landlord
 landscape
 lantern
 laser
@@ -1332,6 +1358,7 @@ litter
 liven
 loan
 locust
+logs
 loom
 lose track of time
 ✓ lot
@@ -1358,6 +1385,7 @@ majority
 maladaptive
 malicious
 mallet
+mammals
 manageable
 manipulate
 manner
@@ -1519,6 +1547,7 @@ NIMBY
 No harm done
 nominate
 nominee
+Nomophobia
 nostalgia
 notable
 noun
@@ -1551,6 +1580,7 @@ offensive
 offside
 olive
 onboard
+onions
 onomatopoeia
 onomatopoeic
 opaque
@@ -1702,6 +1732,7 @@ portability
 portable
 portion
 portrait
+portrayal
 posion
 positive
 possession
@@ -1716,6 +1747,7 @@ pre-eminent
 preacher
 precious
 precipitation
+precise
 precision
 predation
 predator
@@ -1803,6 +1835,7 @@ pump
 pure
 purple
 pursue
+push-ups
 pushy
 ```
 
@@ -1881,6 +1914,7 @@ removal
 renaissance
 render
 rendezvous
+rental
 reorganization
 repeatedly
 replacement
@@ -1906,6 +1940,7 @@ respectful
 respectfully
 respondent
 responsibility
+rested
 restlessly
 restrict
 restricting
@@ -1967,6 +2002,7 @@ rustle
 sacred
 sail
 sailed
+sailing
 saint
 salesperson
 sampler
@@ -2003,6 +2039,7 @@ scrub
 scrunch
 scrutiny
 sculpture
+seaside
 secretary
 security
 seed
@@ -2067,6 +2104,7 @@ sink
 situation
 sizeable
 skid
+skiing
 skip
 slam
 slander
@@ -2090,6 +2128,7 @@ soak
 soaked
 soap
 soccer
+sock
 soften
 soil
 sole
@@ -2118,6 +2157,7 @@ spectacular
 spectator
 speculation
 spew
+sphinx
 spill
 spilt
 spine
@@ -2294,6 +2334,7 @@ theatre
 theft
 therefore
 thesis
+thick
 thicken
 thistle
 thorough
@@ -2401,6 +2442,7 @@ unprecedented
 unqualified
 unrealistic
 unshakable
+unveiled
 unvoiced
 unwilling
 upcoming
@@ -2433,6 +2475,7 @@ variety
 vary
 VAT
 vault
+vegetarian
 vehicle
 vein
 venom
@@ -2456,6 +2499,7 @@ visibly
 vision
 visualize
 vital
+vivid
 voluntary
 volunteer
 vowel
