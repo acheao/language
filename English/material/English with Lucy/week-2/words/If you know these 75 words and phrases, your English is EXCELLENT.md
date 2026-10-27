@@ -95,3 +95,28 @@ wind farm
 ring a bell
 get the ball rolling
 ```
+
+```
+lamb
+vegetarian
+be blessed with 
+garage 
+landlord 
+construction site 
+into place 
+carpenter 
+rival 
+unveiled 
+processing power 
+having a picnic 
+finicky 
+fussy 
+disapproving adjective 
+ableism 
+Nomophobia 
+fed up with 
+invisible 
+syllable stress
+medicine
+duty
+```
