@@ -14,6 +14,7 @@ at stake
 ```
 
 ```
+badger brush
 be blessed with
 be drawn to something
 be topped with
@@ -21,6 +22,7 @@ bend grammar
 blow your mind
 board of governors
 bound to
+build quality
 buried by work
 ```
 
@@ -40,6 +42,7 @@ critical importance
 ```
 
 ```
+daisy chain
 describe the stages of a process
 detailed logical argument
 disapproving adjective
@@ -76,6 +79,8 @@ graduate programs
 ```
 
 ```
+hammer away at a problem
+hammer out a deal / agreement
 handful of( = several)
 having a picnic
 hit pay dirt
@@ -111,6 +116,7 @@ looms large
 
 ```
 more extended texts
+mug up on sth
 multiple choice
 ```
 
@@ -130,6 +136,8 @@ over a 12-month period
 ```
 paragraph headings
 passive structures
+penalty call
+perfect pitch
 phrasal verbs
 poll tax
 processing power
@@ -157,6 +165,7 @@ running water
 safe to assume/这么认为是比较有把握的
 scratch the surface
 Senior Year
+shaving soap
 show off
 slings and arrows
 sniffing a lot
@@ -173,6 +182,7 @@ syllable stress
 
 ```
 tailored guidance
+take a hammering
 take great exception
 tangle with
 the sniffles
@@ -192,4 +202,5 @@ under one’s belt
 washed away
 who fared the best
 wind farm
+wipe out
 ```

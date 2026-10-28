@@ -191,6 +191,7 @@ axe
 ✓ band
 ✓ bankruptcy
 ✓ banter
+barber
 ✓ barely
 ✓ bargain
 ✓ barrier
@@ -287,6 +288,7 @@ bustle
 
 ```
 cable
+cables
 cafe
 cage
 calcium
@@ -357,6 +359,7 @@ chloroquine
 cholera
 cholesterol
 chop
+chopped
 chopstick
 chord
 chore
@@ -373,6 +376,7 @@ clashed
 classification
 clause
 claw
+cleanser
 cleverly
 clientele
 clinic
@@ -535,6 +539,7 @@ coup
 coupon
 ✓ courage
 courses
+coworker
 crab
 crack
 crafted
@@ -676,6 +681,7 @@ disagreeable
 disagreement
 disappointment
 disc
+discipline/disciplinary
 discount
 discriminate
 discrimination
@@ -1092,6 +1098,7 @@ heighten
 heightened
 helicopter
 hellfire
+helmet
 hepatitis
 heritage
 heroism
@@ -1146,6 +1153,7 @@ hypothesis
 ```
 identical
 idiom
+idiomatic
 idiomatically
 igniter
 illegal
@@ -1745,6 +1753,8 @@ practically
 prayer
 pre-eminent
 preacher
+preamps
+precinct
 precious
 precipitation
 precise
@@ -1974,6 +1984,7 @@ rib
 rife
 rifle
 rinse
+rinsing
 ritual
 rival
 roasting
@@ -2020,6 +2031,7 @@ scalp
 scandal
 scant
 scary
+scatter
 scenario
 scenarios
 scheme
@@ -2056,6 +2068,7 @@ sentimental
 sentimentality
 sentimentalize
 sequence
+sequentially
 sermon
 servant
 setbacks
@@ -2073,6 +2086,7 @@ sharply
 shattering
 shave
 shaver
+shaving
 shea
 shed
 sheer
@@ -2208,6 +2222,7 @@ stiff
 stifle
 stigma
 stimulate
+stir
 stock
 stockbroker
 stoicism
@@ -2263,6 +2278,7 @@ surprisingly
 surround
 survey
 sushi
+suspect
 suspicion
 suspicious
 sustain
@@ -2430,6 +2446,7 @@ undertaken
 unduly
 unemployment
 unethical
+unexamined
 unexpected
 unexplored
 unfold
@@ -2442,6 +2459,7 @@ unprecedented
 unqualified
 unrealistic
 unshakable
+unsolicited
 unveiled
 unvoiced
 unwilling
