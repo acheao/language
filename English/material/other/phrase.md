@@ -1,5 +1,6 @@
 ﻿```
 a fair bit (of)
+A fresh squeeze of lime
 a headline act
 a raft of
 a small handful
@@ -52,6 +53,8 @@ drove off
 ```
 
 ```
+electronics manufacturing plant
+elevator passenger
 end of an era
 ```
 
@@ -85,6 +88,7 @@ handful of( = several)
 having a picnic
 hit pay dirt
 hold back
+Homo sapiens
 hook up
 how come/why didn't
 ```
@@ -106,8 +110,13 @@ Junior Year
 ```
 
 ```
+keep sth solvent
+```
+
+```
 labelling a diagram/plan/map
 lather up
+lead actress
 let somebody down
 like a dose of salts
 look out for
@@ -123,6 +132,7 @@ multiple choice
 ```
 nail clipper
 nail scissors
+native tongue
 No harm done
 ```
 
@@ -141,6 +151,7 @@ perfect pitch
 phrasal verbs
 poll tax
 processing power
+prompt replacement
 pull up
 put together
 ```
@@ -163,6 +174,7 @@ running water
 
 ```
 safe to assume/这么认为是比较有把握的
+sci-fi film
 scratch the surface
 Senior Year
 shaving soap
@@ -172,10 +184,12 @@ sniffing a lot
 Sophomore Year
 sphinx cat
 squeaky clean
+starring role
 stay clear of
 stretch to
 strike over
 studio apartment
+subway conductor
 sweep through
 syllable stress
 ```

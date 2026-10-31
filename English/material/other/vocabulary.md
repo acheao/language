@@ -35,6 +35,7 @@ addictively
 ✓ adjourn
 ✓ admiration
 ✓ admire
+admissible
 ✓ admission
 ✓ adolescent
 ✓ adopt
@@ -199,12 +200,14 @@ barber
 ✓ bat
 ✓ bathtub
 ✓ bead
+beard
 ✓ bearer
 ✓ bedtime
 ✓ behalf
 ✓ behave
 ✓ behaviour
 ✓ Belgian
+believe/belief/believable
 ✓ belt
 ✓ bench
 ✓ bend
@@ -227,6 +230,7 @@ berserk
 ✓ bipartisan
 ✓ bizarre
 ✓ blackened
+blade
 ✓ bleach
 ✓ bleak
 ✓ blend
@@ -256,6 +260,7 @@ berserk
 ✓ brick
 ✓ bricklayer
 ✓ brief
+brightens
 ✓ brilliant
 ✓ brilliantly
 ✓ brink
@@ -279,6 +284,7 @@ browse
 ✓ bump
 ✓ burden
 ✓ bureaucracy
+burglary
 ✓ burial
 burrow
 ✓ burst
@@ -415,6 +421,7 @@ colonial
 colony
 coma
 comb
+combat
 combined
 comedy
 comic
@@ -673,6 +680,7 @@ diamond
 dictatorship
 diet
 diffuse
+dilemma
 dioxide
 direct
 directive
@@ -798,6 +806,7 @@ enormously
 enquiry
 enroll
 enshrine
+entangled
 enterprise
 entertainment
 enthusiasm
@@ -924,6 +933,7 @@ fiery
 fighter
 fighting
 figurative
+figurative/figuratively
 finicky
 firearm
 firewood
@@ -934,6 +944,7 @@ fitness
 fixture
 flame
 flash
+flavor
 flavour
 fled
 fledged
@@ -1009,6 +1020,7 @@ genuinely
 geology
 geothermal
 germinate
+germination
 gesture
 ghostlike
 giant
@@ -1043,6 +1055,7 @@ greeting
 grief
 grieve
 grieving
+grilled
 grim
 grime
 grip
@@ -1237,6 +1250,7 @@ intact
 integrity
 intellectual
 intense
+intensely
 intensify
 intensity
 intent
@@ -1357,6 +1371,8 @@ lift
 lightning
 likelihood
 lime
+limelight
+limestone
 limply
 literally
 literature
@@ -1371,6 +1387,7 @@ loom
 lose track of time
 ✓ lot
 lotion
+loyal
 loyalty
 luggage
 luminous
@@ -1434,6 +1451,8 @@ mess
 messy
 metabolism
 metal
+metaphorical/metaphorically
+metaphorically
 metaverse
 methane
 methodical
@@ -1496,6 +1515,7 @@ morale
 morality
 Mormon
 mortality
+mortar
 mortgage
 Moslem
 mosque
@@ -1638,6 +1658,7 @@ oxford
 
 ```
 Pacific
+padded
 paddle
 painkiller
 pale
@@ -1699,6 +1720,7 @@ pharmacy
 phenomenon
 philosopher
 philosophy
+philosophy/philosopher/philosophical
 photograph
 ✓ photographer
 photosynthetic
@@ -1729,6 +1751,7 @@ podium
 pointless
 poison
 poisonous
+pole
 ✓ policy
 polite
 politically
@@ -1831,8 +1854,11 @@ propagating
 proposal
 propose
 prosecute
+prosecute/persecute
+prosecutor
 prospect
 prosperity
+protagonist
 protective
 psychiatrist
 psychological
@@ -1855,6 +1881,7 @@ quarterback
 quartet
 questionable
 questionnaire
+quicklime
 ✓ quiet
 quiz
 quizzes
@@ -1874,6 +1901,7 @@ raider
 ramp
 rampage
 rampant
+ranger
 rapport
 rational
 razor
@@ -1916,6 +1944,7 @@ relevant
 reliance
 relief
 relieve
+relieve/relief/relieved
 religious
 remarkably
 reminder
@@ -2007,6 +2036,7 @@ rumour
 rural
 rush
 rustle
+rusty
 ```
 
 ```
@@ -2037,6 +2067,7 @@ scenarios
 scheme
 schizophrenia
 scholarly
+scientific
 scissors
 scoop
 scope
@@ -2148,6 +2179,8 @@ soil
 sole
 solo
 solution
+solvent
+solvent/insolvent/insolvency
 somewhat
 sonar
 sophisticated
@@ -2356,6 +2389,7 @@ thistle
 thorough
 thought
 threshold
+thrilled
 throughout
 thump
 Tibetan
@@ -2550,6 +2584,7 @@ whistle
 widen
 wildlife
 willingness
+wire
 wisdom
 wither
 withering
